@@ -27,6 +27,6 @@ comments:
   date_gmt: '2006-10-22 22:16:05 +0200'
   content: Phucking phlash :P
 ---
-<p>Kiedy następnym razem przyjdzie wam ogolić swoje [...] [...] i [...] pod [...], sięgnijcie po nową maszynkę Philipsa &mdash; Bodygroom. Reklama powaliła mnie na [...] [...] i [...].</p>
+<p>Kiedy następnym razem przyjdzie wam ogolić swoje \[...\] \[...\] i \[...\] pod \[...\], sięgnijcie po nową maszynkę Philipsa &mdash; Bodygroom. Reklama powaliła mnie na \[...\] \[...\] i \[...\].</p>
 
 <p>O ile najbardziej jestem potencjalnie zainteresowany samym produktem, to polecam obejrzeć <a href="http://www.shaveeverywhere.com/">ShaveEverywhere &mdash; oficjalną stronę Philips Bodygroom</a>.</p>

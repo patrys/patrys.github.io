@@ -23,7 +23,7 @@ Pierwszy skończył SynPrezesa&trade;. Z ciekawości z MoimWspółpracownikiem&t
 - dzień 3: moduł 2<br />
 - dzień 5: moduł 3<br />
 - dzień 7: moduł 4<br />
-[...]<br />
+\[...\]<br />
 <br />
 Czytamy zatem plan SynaPrezesa&trade;:<br />
 <br />
@@ -31,6 +31,6 @@ Czytamy zatem plan SynaPrezesa&trade;:<br />
 - dzień 3: część 2 modułu 1<br />
 - dzień 5: część 3 modułu 1<br />
 - dzień 7: część 1 modułu 2<br />
-[...]<br />
+\[...\]<br />
 <br />
 Morał: nie wiem, może "lepiej być SynemPrezesa&trade; niż programistą"?

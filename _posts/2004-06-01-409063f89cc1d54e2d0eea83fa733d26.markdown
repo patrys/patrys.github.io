@@ -34,7 +34,7 @@ Dzwoni komórka. Oczywiście SynPrezesa&trade;:<br />
 - No, co jest?<br />
 - Słuchaj potrzebuje żebyś coś zrobił.<br />
 - No, słucham.<br />
-- Ściągnij mi z sieci pirata nowego nero, pirata [...] i pirata [...] i [...] i...<br />
+- Ściągnij mi z sieci pirata nowego nero, pirata \[...\] i pirata \[...\] i \[...\] i...<br />
 - To jest firma, nie ściągam piratów.<br />
 - No, weź, nie bądź taki.<br />
 - Nawet gdybym bardzo chciał, to i tak nie mam Kazaa, to jest linuks.<br />

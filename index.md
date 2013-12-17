@@ -5,10 +5,22 @@ tagline: Bug to the Feature
 ---
 {% include JB/setup %}
 
-Dotychczas opublikowane:
+<h2>Ostatnio opublikowane</h2>
 
-<ul class="posts">
-	{% for post in site.posts %}
-		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-	{% endfor %}
-</ul>
+<div class="row">
+	<div class="col-sm-12">
+		{% assign post = site.posts | first %}
+		<h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+		<p><span class="label label-default">{{ post.date | date_to_string }}</span></p>
+		{{ post.excerpt }}
+	</div>
+</div>
+
+<div class="row">
+{% for post in site.posts limit:20 offset:1 %}
+<div class="col-sm-6">
+	<h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+	<p><span class="label label-default">{{ post.date | date_to_string }}</span></p>
+</div>
+{% endfor %}
+</div>

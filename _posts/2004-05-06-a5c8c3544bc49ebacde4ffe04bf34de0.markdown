@@ -43,7 +43,7 @@ Jakieś dwa tygodnie temu SynPrezesa&trade; postanowił zatrudnić się w konkur
 - Hmm... "Szanowni Państwo, jestem studentem aktywnie poszukująm pracy"?<br />
 - No już lepiej.<br />
 <br />
-[...]<br />
+\[...\]<br />
 <br />
 - "Pracowałen wcześniej na stanowiskach takich jak \[tu lista dyrektorów, specjalistów, itp.\], gdzie do moich obowiązków należało między innymi...". Co należało do moich obowiązków?<br />
 <br />

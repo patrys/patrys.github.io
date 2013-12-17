@@ -208,13 +208,15 @@ comments:
     Jezuch:
     <br/>Aye, ja z fizyki jestem. I najchetniej bym tego programu nie pisal bo tez chce kiedys pracowac w sektorze IT (a taki czlowiek moze ze mna konkurowac o miejsce pracy) ale coz.. zostalem poproszony o splacenie dlugu wdziecznosci :)
 ---
-<p>Dzisiejszą nagrodę otrzymuje ode mnie autor poniższego kodu:</p>
+Dzisiejszą nagrodę otrzymuje ode mnie autor poniższego kodu:
 
-<blockquote><pre>if (sizeof($tab) > 0 ? true : false)
+```
+if (sizeof($tab) > 0 ? true : false)
 {
 	// [...] - tutaj kod
-}</pre></blockquote>
+}
+```
 
-<p>Autora i źródła nie podam z podziwu dla tak zaawansowanych konstrukcji.</p>
+Autora i źródła nie podam z podziwu dla tak zaawansowanych konstrukcji.
 
-<p>PS: Podobno dzisiaj Windows 95 (Windows Chicago) obchodzi swoje 10. urodziny.</p>
+PS: Podobno dzisiaj Windows 95 (Windows Chicago) obchodzi swoje 10. urodziny.

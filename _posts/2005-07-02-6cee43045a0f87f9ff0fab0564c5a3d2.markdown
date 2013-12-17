@@ -208,11 +208,12 @@ comments:
 
 <p>Pozostało jeszcze zatroszczyć się o obsługę tego po stronie kodu:</p>
 
-<blockquote><pre>// sprawdzamy, o jaki dokument jest zapytanie
+```
+// sprawdzamy, o jaki dokument jest zapytanie
 $request = $_SERVER['REDIRECT_URL'];
 
 // sprawdzamy, czy zapytanie dotyczy nieistniejacego pliku
-if (($request) &amp;&amp; ($request != '/'))
+if (($request) && ($request != '/'))
 {
 	$request = explode('/', $request);
 	$section = $request[1];
@@ -237,7 +238,8 @@ case 'shop':
 default:
 	// [...] wyswietl blad 404
 	break;
-}</pre></blockquote>
+}
+```
 
 <p>Zalety - rozwiązanie jest nieinwazyjne względem serwera i pozwala strukturę dokumentów kontrolować na poziomie kodu. Dzięki temu łatwo utrzymywać strukturę, którą ciężko byłoby zarządzać na poziomie <code>mod_rewrite</code> (np. tłumaczone nazwy kategorii).</p>
 

@@ -159,7 +159,8 @@ comments:
 
 <p>Automatyczna rejestracja oznacza tyle, że plik z wtyczką zawiera klasę o nazwie takiej samej, jak plik i nie musi właściwie robić nic więcej:</p>
 
-<pre><code>&lt;?
+```php
+<?php
 
 /* $Id: foo.module.php 1 2007-04-27 12:00:00Z patrys $ */
 
@@ -174,7 +175,7 @@ class fooModule extends genericModule
 	public function __construct(&amp; $modSys)
 	{
 		parent::__construct($modSys);
-		$this-&gt;module = 'foo';
+		$this->module = 'foo';
 	}
 
 	/**
@@ -182,7 +183,7 @@ class fooModule extends genericModule
 	 */
 	protected function __public_init($data)
 	{
-		return array('success' =&gt; true);
+		return array('success' => true);
 	}
 
 	/**
@@ -192,20 +193,22 @@ class fooModule extends genericModule
 	{
 		return array
 		(
-			'title' =&gt; _('Foo'),
-			'author' =&gt; 'patrys [ patrys at icenter pl ]',
-			'version' =&gt; '1.0',
-			'description' =&gt; _('Hello world example'),
-			'modified' =&gt; filemtime(__FILE__)
+			'title' => _('Foo'),
+			'author' => 'patrys [ patrys at icenter pl ]',
+			'version' => '1.0',
+			'description' => _('Hello world example'),
+			'modified' => filemtime(__FILE__)
 		);
 	}
 }
 
-?&gt;</code></pre>
+?>
+```
 
 <p>Do tego dochodzi klasa dla panelu administracyjnego (dla oszczędzenia pamięci, ładowana tylko w przypadku, gdy jest to aktywny moduł w panelu):</p>
 
-<pre><code>&lt;?
+```php
+<?php
 
 /* $Id: foo.panel.module.php 1 2007-04-27 12:00:00Z patrys $ */
 
@@ -217,7 +220,8 @@ class fooPanelModule extends fooModule
 	}
 }
 
-?&gt;</code></pre>
+?>
+```
 
 <p>Jest tu kilka magicznych metod — wszystkie <code>__public_*</code> dostępne są automatycznie z poziomu inych modułów i z poziomu szablonów Smarty; <code>__internal_*</code> za to służą za obsługę ekranów panelu administracyjnego, wymagana jest przynajmniej obsługa metody <code>list</code>, która jest domyślnym widokiem.</p>
 
@@ -225,7 +229,8 @@ class fooPanelModule extends fooModule
 
 <p>W przypadku wtyczek <q>pól dodatkowych</q> i systemów płatności okazało się, że automatyczna rejestracja nie jest najlepszym wyjściem — jedna klasa może realizować kilka funkcji, a sztuczne po niej dziedziczenie wprowadza tylko chaos w plikach. Zdecydowaliśmy się, że moduły te same muszą zgłosić obsługiwane przez siebie funkcje:</p>
 
-<pre><code>&lt;?
+```php
+<?php
 
 /* $Id: platnosciPayment.class.php 7234 2007-04-25 10:55:39Z patrys $ */
 
@@ -233,21 +238,21 @@ class platnosciPaymentType extends genericPaymentType
 {
 	public static $paymentList = array
 	(
-		'platnosci_test' =&gt; array
+		'platnosci_test' => array
 		(
-			'code' =&gt; 't',
-			'name' =&gt; 'Platnosci.pl (płatność testowa)',
+			'code' => 't',
+			'name' => 'Platnosci.pl (płatność testowa)',
 		),
-		'platnosci_mtransfer' =&gt; array
+		'platnosci_mtransfer' => array
 		(
-			'code' =&gt; 'm',
-			'name' =&gt; 'Platnosci.pl - mBank mTransfer',
+			'code' => 'm',
+			'name' => 'Platnosci.pl - mBank mTransfer',
 		),
 		// [...]
-		'platnosci_credit' =&gt; array
+		'platnosci_credit' => array
 		(
-			'code' =&gt; 'c',
-			'name' =&gt; 'Platnosci.pl - Karta kredytowa',
+			'code' => 'c',
+			'name' => 'Platnosci.pl - Karta kredytowa',
 		),
 	);
 
@@ -263,11 +268,12 @@ class platnosciPaymentType extends genericPaymentType
 }
 
 $parent = paymentSystem::getInstance();
-foreach (platnosciPaymentType::$paymentList as $key =&gt; $val)
-	$parent-&gt;register($key, 'platnosciPaymentType', $val['name']);
-$parent-&gt;registerSettings('platnosci', 'platnosciPaymentType', _('Platnosci.pl'));
+foreach (platnosciPaymentType::$paymentList as $key => $val)
+	$parent->register($key, 'platnosciPaymentType', $val['name']);
+$parent->registerSettings('platnosci', 'platnosciPaymentType', _('Platnosci.pl'));
 
-?&gt;</code></pre>
+?>
+```
 
 <p>Dzięki temu możliwa jest obsługa wszystkich sposobów zapłaty za pomocą jednej klasy (konstruktor klasy <code>genericPaymentType</code> otrzymuje i zapisuje wybraną formę zapłaty).</p>
 
@@ -275,11 +281,12 @@ $parent-&gt;registerSettings('platnosci', 'platnosciPaymentType', _('Platnosci.p
 
 <p>Tutaj poszliśmy na łatwiznę:</p>
 
-<pre><code>public function loadPlugins()
+```php
+public function loadPlugins()
 {
 	$modDir = dir(THE_ROOT . '/payment/');
 
-	while (($file = $modDir-&gt;read()) !== false)
+	while (($file = $modDir->read()) !== false)
 	{
 		$fullPath = THE_ROOT . '/payment/' . $file;
 
@@ -288,7 +295,8 @@ $parent-&gt;registerSettings('platnosci', 'platnosciPaymentType', _('Platnosci.p
 			include($fullPath);
 		}
 	}
-}</code></pre>
+}
+```
 
 <p>Ładowanie wtyczek z automatyczną rejestracją wymaga nieco więcej zachodu (po załadowaniu pliku, trzeba jeszcze sprawdzić, czy istnieje klasa o odpowiedniej nazwie i czy dziedziczy po odpowiedniej klasie bazowej), ale samodzielna implementacja nie powinna zająć więcej niż 5 minut.</p>
 

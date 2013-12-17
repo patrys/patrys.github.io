@@ -46,7 +46,7 @@ Godzina 19:00, ponownie spotykam SynaPrezesa&trade;.<br />
 - I co napisałeś?<br />
 - "man iptables"<br />
 <br />
-[...]<br />
+\[...\]<br />
 <br />
 - A w ogóle to jak ty chcesz pracować w Warszawie?<br />
 - Noo, dostanę jakieś 2000 na rękę na start i się jakoś utrzymam...<br />
