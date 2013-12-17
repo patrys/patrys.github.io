@@ -1,0 +1,246 @@
+---
+layout: post
+status: publish
+published: true
+title: All your page are belong to us
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 121
+date: 2005-07-02 16:52:43.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 1538
+  author: Jajcus
+  author_url: ''
+  date: '2005-07-02 16:56:56 +0200'
+  date_gmt: '2005-07-02 16:56:56 +0200'
+  content: IMHO paskudne rozwiązanie. To samo można zrobić w inny sposób (nawet przy
+    użyciu mod_rewrite nie musisz URLa przemieniać na &quot;skrypt.php?param1=xxx&amp;param2=yyy&quot;).
+    Jesteś miłośnikiem semantyki, więc dziwię ci się, że ta sztuczka ci się podoba...
+    W końcu używasz dyrektywy ErrorDocument wbrew jej przeznaczeniu.
+- id: 1539
+  author: Jezuch
+  author_url: ''
+  date: '2005-07-02 16:57:31 +0200'
+  date_gmt: '2005-07-02 16:57:31 +0200'
+  content: Phi, servlety takie coś dają za darmo :&gt; Rok temu napisałem, że tak
+    powiem, silnik, który to stosuje. Serwis jest duży, prawie cały znajduje się w
+    bazie danych, ale z zewnątrz wygląda jak stos plików .html ;)
+- id: 1540
+  author: ehh
+  author_url: ''
+  date: '2005-07-02 16:57:51 +0200'
+  date_gmt: '2005-07-02 16:57:51 +0200'
+  content: "Brakowało mi kiedyś GET i POST dlatego wole mod_rewrite i jedna linijka:
+    \n<br/>RewriteRule ^(.*)\\.html /index.php?id=$1"
+- id: 1541
+  author: Patrys
+  author_url: ''
+  date: '2005-07-02 17:00:31 +0200'
+  date_gmt: '2005-07-02 17:00:31 +0200'
+  content: |-
+    Jajcuś:
+    <br/>
+    <br/>Nie zgodzę się z faktem, że stosuję ją wbrew przeznaczeniu. Wysyłam prawidłowy nagłówek HTTP 200 OK.
+    <br/>
+    <br/>Dyrektywa konfiguracji Apache służy właśnie do przejęcia informacji o nieistniejącym pliku.
+    <br/>
+    <br/>ErrorDocument nie jest najszczęśliwszą nazwą dla zmiennej, ale żadnego RFC nie złamałem.
+- id: 1542
+  author: Puck
+  author_url: ''
+  date: '2005-07-02 17:12:40 +0200'
+  date_gmt: '2005-07-02 17:12:40 +0200'
+  content: "I ja przytaknę Patrysiowi. \n<br/>Ale dodam, że można to osiągnąć inaczej,
+    chyba wygodniej. Tworzymy skrypt shop.php i w nim analizujemy zawartość $_SERVER[&#039;PATH_INFO&#039;].
+    W tym momencie adresy mają postać http://.../shop.php/xxx/yyy. Żeby pozbyć się
+    rozszerzenia włączamy MulstiViews w Apache`u."
+- id: 1543
+  author: Patrys
+  author_url: ''
+  date: '2005-07-02 17:15:05 +0200'
+  date_gmt: '2005-07-02 17:15:05 +0200'
+  content: '&quot;Patrysowi&quot; - prooooszęęęęę...'
+- id: 1544
+  author: jachacy
+  author_url: ''
+  date: '2005-07-02 17:17:22 +0200'
+  date_gmt: '2005-07-02 17:17:22 +0200'
+  content: Fajne, i praktyczne. Przyda się na serwerach z wyłączoną obsługą mod_rewrite
+    (np. http://boo.pl). Dzięki.
+- id: 1545
+  author: Patrys
+  author_url: ''
+  date: '2005-07-02 17:26:38 +0200'
+  date_gmt: '2005-07-02 17:26:38 +0200'
+  content: |-
+    Zapomniałem dopisać, że zanim zaserwujemy dokument, należy ustawić stosowny nagłówek odpowiedzi:
+    <br/>
+    <br/>header(&#039;HTTP/1.1 200 OK&#039;, true);
+- id: 1546
+  author: Jajcus
+  author_url: ''
+  date: '2005-07-02 17:30:17 +0200'
+  date_gmt: '2005-07-02 17:30:17 +0200'
+  content: |-
+    &quot;Oczywiście, to samo można zrobić za pomocą mod_rewrite, ale wada rozwiązania jest taka, że dodanie nowej sekcji do serwisu wymaga ingerencji w pliki serwera WWW.&quot;
+    <br/>
+    <br/>Bzdura. Właśnie sprawdziłem.
+    <br/>
+    <br/>RewriteEngine On
+    <br/>RewriteRule &quot;.*&quot; &quot;/test.php&quot;
+    <br/>
+    <br/>RewriteRule może być też użyte w &lt;Directory&gt; i w .htaccess, więc jest naprawdę bardzo elastyczne.
+    <br/>
+    <br/>I wszystkie URLe lądują do test.php, gdzie oryginalna ścieżka jest dostępna w $_SERVER[&#039;REQUEST_URI&#039;]. IMHO jest to dużo bardziej eleganckie rozwiązanie niż użycie ErrorDocument. A nawet bezpieczniejsze -- na tak skonfigurowanym serwerze nie ma szans, żeby user dobrał się do jakiegoś pliku w DocumentRoot, do którego nie powinien zaglądać. Używając ErrorDocument, to do końca nie wiadomo do czeog user się odwołuje, bo to zależy od tego, czy jakiś plik istnieje, czy nie. A jak w jakimś serwisie część URLi jest obsługiwana tak, a reszta siak... to chyba nie jest najlepiej ten serwis zaprojektowany.
+- id: 1547
+  author: Patrys
+  author_url: ''
+  date: '2005-07-02 17:32:48 +0200'
+  date_gmt: '2005-07-02 17:32:48 +0200'
+  content: |-
+    Jajcuś:
+    <br/>
+    <br/>Część URI zależy od tego, co user wpisze w swoim CMS, reszta jest sztywna (obsługa głosowania w ankiecie czy formularz kontaktowy).
+    <br/>
+    <br/>Dlatego nie mogę przekierować gwiazdki.
+    <br/>
+    <br/>Dokumenty, do których ktoś nie ma mieć dostępu trzyma się poza DocumentRoot.
+- id: 1548
+  author: Jajcus
+  author_url: ''
+  date: '2005-07-02 17:35:07 +0200'
+  date_gmt: '2005-07-02 17:35:07 +0200'
+  content: "&quot;Dokumenty, do których ktoś nie ma mieć dostępu trzyma się poza DocumentRoot.&quot;
+    \n<br/>To ja wiem... ale widziałem już takie rzeczy, że wolę założyć że ktoś tam
+    może coś głupiego trzymać."
+- id: 1549
+  author: Patrys
+  author_url: ''
+  date: '2005-07-02 17:37:00 +0200'
+  date_gmt: '2005-07-02 17:37:00 +0200'
+  content: No w każdym razie nie zmienia to faktu, że nie mogę przekierować gwiazdki
+    na żaden plik, bo część ma być fizycznymi plikami na serwerze :]
+- id: 1550
+  author: Yano
+  author_url: ''
+  date: '2005-07-02 18:11:55 +0200'
+  date_gmt: '2005-07-02 18:11:55 +0200'
+  content: A mnie się to podoba - nie raz miałem taki problem, że mod_rewrite był
+    niedostępny. A tak wystarczy tylko obsługa PHP :)
+- id: 1551
+  author: zdzichuBG
+  author_url: ''
+  date: '2005-07-03 18:43:12 +0200'
+  date_gmt: '2005-07-03 18:43:12 +0200'
+  content: Brzydkie. U Jarka Zgody jakiś czas temu było podane rozwiązanie poprawne,
+    nie nadużywające 404. http://zgoda.jogger.pl/comment.php?eid=99976
+- id: 1552
+  author: Patrys
+  author_url: ''
+  date: '2005-07-03 18:47:54 +0200'
+  date_gmt: '2005-07-03 18:47:54 +0200'
+  content: |-
+    zdzichuBG:
+    <br/>
+    <br/>To nie nadużywa 404, bo do klienta leci 200, nadużywa tylko wewnętrznej struktury Apache, tak samo zresztą jak rozwiązanie Zgody.
+    <br/>
+    <br/>W przeciwieństwie do tamtego, moje rozwiązanie pozwala na przepisywanie dowolnych URL, nie wymusza wspólnego prefiksu, a poza tym pozwala na serwowanie /lorem/ipsum/dolor z przepisywaniem, a /lorem/ipsum/sit jako fizyczny plik, co mi jest potrzebne.
+- id: 1553
+  author: zdzichuBG
+  author_url: ''
+  date: '2005-07-03 19:39:42 +0200'
+  date_gmt: '2005-07-03 19:39:42 +0200'
+  content: Do klienta leci, i co z tego? W logach serwera co masz? Burdel.
+- id: 1554
+  author: Patrys
+  author_url: ''
+  date: '2005-07-03 19:40:25 +0200'
+  date_gmt: '2005-07-03 19:40:25 +0200'
+  content: W logach serwera mam 200 OK, pokazać statystyki? To zostało sprawdzone
+    i działa, dlatego w ogóle o tym pisałem.
+- id: 1555
+  author: Puck
+  author_url: ''
+  date: '2005-07-03 22:35:29 +0200'
+  date_gmt: '2005-07-03 22:35:29 +0200'
+  content: Yep, moja strona domowa jest tak zbudowana i logi wyglądają normalnie.
+    Jedyny problem to brak np. $_POST.
+- id: 1556
+  author: zdzichuBG
+  author_url: ''
+  date: '2005-07-03 22:42:33 +0200'
+  date_gmt: '2005-07-03 22:42:33 +0200'
+  content: |-
+    No właśnie, a zgodowe rozwiązanie nie eliminuje POSTów. Przykładowo -&gt; http://mamma.eti.pg.gda.pl/~zdzichu/DNS/domena/edytuj/mci.com.pl (login/pass rwuser/rwuser) - wszystko na POSTach.
+    <br/>
+    <br/>Patrys, w Twoim rozwiązaniu Apache serwuje 404 i nie odnotowuje tego w error_log? Dziwne.
+- id: 1557
+  author: Elsindel
+  author_url: ''
+  date: '2005-07-05 11:16:48 +0200'
+  date_gmt: '2005-07-05 11:16:48 +0200'
+  content: 'Trudno mi powiedziec, co sadze o tym rozwiazaniu. Rozumiem, ze pewne czynniki
+    zewnetrzne moga uniemozliwiac wykorzystanie &quot;Bozych&quot; sposobow, jak czysty
+    mod_rewrite... moze tak: mam nadzieje, ze nigdy nie bede zmuszony korzystac z
+    Twojego hacka, Patrys ;)'
+- id: 1558
+  author: adasi
+  author_url: ''
+  date: '2005-07-09 12:30:58 +0200'
+  date_gmt: '2005-07-09 12:30:58 +0200'
+  content: A skryptu PHP nie mozna dac jako DirectoryHandler? To tez definiowalne
+    w .htaccess, a duzo zgrabniej...
+---
+<p>Niewielka sztuczka, którą od zeszłego roku stosuję w <abbr title="PHP Hypertext Preprocessor">PHP</abbr>, pozwala na łatwe budowanie czytelnych linków. Dzięki temu twój odnośnik zamiast <code>http://example.com/index.php?cat=shop&amp;id=25</code>, może wygląć tak: <code>http://example.com/shop/25</code>, albo nawet tak: <code>http://example.com/shop/25/swieze_jaja_wiejskie</code>.</p>
+
+<p>Oczywiście, to samo można zrobić za pomocą <code>mod_rewrite</code>, ale wada rozwiązania jest taka, że dodanie nowej sekcji do serwisu wymaga ingerencji w pliki serwera <abbr title="World Wide Web">WWW</abbr>.</p>
+
+<p>Mój niewielki hack polega na dodaniu do konfiguracji Apache'a jednej jedynej linijki (dla ułatwienia umieszczamy ją w pliku <code>.htaccess</code>):</p>
+
+<blockquote><pre>ErrorDocument	404	/index.php</pre></blockquote>
+
+<p>Jak można się domyślić, plik <code>index.php</code> jest jedynym plikiem w całym drzewie dokumentów danej domeny i od tego momentu odpowiada on na wszelkie zapytania o nieistniejące dokumenty.</p>
+
+<p>Pozostało jeszcze zatroszczyć się o obsługę tego po stronie kodu:</p>
+
+<blockquote><pre>// sprawdzamy, o jaki dokument jest zapytanie
+$request = $_SERVER['REDIRECT_URL'];
+
+// sprawdzamy, czy zapytanie dotyczy nieistniejacego pliku
+if (($request) &amp;&amp; ($request != '/'))
+{
+	$request = explode('/', $request);
+	$section = $request[1];
+	$request = array_splice($request, 2);
+	$subsection = implode('/', $request);
+}
+else // jesli nie, to przekierowujemy na index
+{
+	header('Location: /index');
+	die();
+}
+
+// obslugujemy zadanie
+switch($section)
+{
+case 'index':
+	// [...]
+	break;
+case 'shop':
+	// [...]
+	break;
+default:
+	// [...] wyswietl blad 404
+	break;
+}</pre></blockquote>
+
+<p>Zalety - rozwiązanie jest nieinwazyjne względem serwera i pozwala strukturę dokumentów kontrolować na poziomie kodu. Dzięki temu łatwo utrzymywać strukturę, którą ciężko byłoby zarządzać na poziomie <code>mod_rewrite</code> (np. tłumaczone nazwy kategorii).</p>
+
+<p>Wady - nieistniejące strony nie mogą otrzymywać danych przez zlecenia <code>GET</code> i <code>POST</code>, więc wszystkie parametry muszą być częścią <abbr title="Uniform Resource Identifier">URI</abbr>.</p>
+
+<p>Najciekawsze efekty uzyskuje się przez połączenie tak serwowanych dokumentów ze strukturą statyczną (istniejące pliki nie są przekierowywane). Można zachować wtedy elastyczność rozwiązania z możliwością przekazywania danych z przeglądarki. Dzięki temu możliwa jest obsługa formularzy na stronach.</p>

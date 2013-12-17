@@ -1,0 +1,372 @@
+---
+layout: post
+status: publish
+published: true
+title: Smarty
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 142
+date: 2005-08-19 14:53:32.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 1945
+  author: sebas86
+  author_url: ''
+  date: '2005-08-19 15:28:10 +0200'
+  date_gmt: '2005-08-19 15:28:10 +0200'
+  content: Hm to brzmi jak skarcenie mojej ostatniej pracy ;-). Ale co tam dopiero
+    zaczynam, a że przydają się nowe pomysły do samo kształcenia więc teraz postaramy
+    się coś z tym zrobić. Tak więc system szablonów, ale wykonany samodzielnie...
+- id: 1946
+  author: Patrys
+  author_url: ''
+  date: '2005-08-19 15:31:19 +0200'
+  date_gmt: '2005-08-19 15:31:19 +0200'
+  content: Nie warto pisać nowego systemu szablonów. Pracodawca przy zatrudnianiu
+    będzie wymagał znajomości tego, czego się używa na świecie, a nie osiągnięć sportowych.
+- id: 1947
+  author: Tomash
+  author_url: ''
+  date: '2005-08-19 15:31:55 +0200'
+  date_gmt: '2005-08-19 15:31:55 +0200'
+  content: |-
+    From TFA:
+    <br/>&quot;Równie kiepskim pomysłem, jak wypluwanie kodu HTML bezpośrednio przez kontroler, jest pisanie własnego silnika szablonowego.&quot;
+    <br/>;-P
+- id: 1948
+  author: sebas86
+  author_url: ''
+  date: '2005-08-19 15:34:08 +0200'
+  date_gmt: '2005-08-19 15:34:08 +0200'
+  content: Bredzicie :-P. Poza tym nie mam na razie nawet w planach pracować w tej
+    branże :-/, PHP to raczej sposób na ożywienie mojej strony domowej i pasja przeplatana
+    z zabawą. Na razie nie mam zamiaru tego zmieniać. Może uda mi się nawet zrobić
+    coś lepszego :-P. Zróbmy rewolucje. Po cholere programować skoro inni już się
+    tym zajeli...
+- id: 1949
+  author: vrok
+  author_url: ''
+  date: '2005-08-19 15:35:58 +0200'
+  date_gmt: '2005-08-19 15:35:58 +0200'
+  content: Żeby jeszcze dizajnerzy się Smarty&#039;ego nauczyć chcieli. :)
+- id: 1950
+  author: Patrys
+  author_url: ''
+  date: '2005-08-19 15:36:05 +0200'
+  date_gmt: '2005-08-19 15:36:05 +0200'
+  content: Programowanie polega nie na wynajdywaniu koła wciąż od nowa, tylko na użyciu
+    istniejących technologii do stworzenia czegoś ciekawego. Zanim zaczniesz pisać
+    coś nowego, zapoznaj się z konkurencją i znajdź jej wady.
+- id: 1951
+  author: sebas86
+  author_url: ''
+  date: '2005-08-19 15:39:45 +0200'
+  date_gmt: '2005-08-19 15:39:45 +0200'
+  content: No widzisz ale nie mam nawet zamiaru się z tym męczyć. Jest chociaż do
+    tego polska dokumentacja? Czasami lepiej zrobić coś samemu bo wtedy wiesz czego
+    użyłeś w jakim celu. Pozatym nie potrzebny mi kolejny kolos, którego wykorzystanie
+    ograniczy się do mojej strony domowej na której jest raptem kilka wpisów...
+- id: 1952
+  author: Paweł Ciupak
+  author_url: ''
+  date: '2005-08-19 15:39:57 +0200'
+  date_gmt: '2005-08-19 15:39:57 +0200'
+  content: A mi się marzy takie coś, co implementuje W3C Document Object Model i na
+    jego podstawie wypluwa kod.
+- id: 1953
+  author: sebas86
+  author_url: ''
+  date: '2005-08-19 16:09:32 +0200'
+  date_gmt: '2005-08-19 16:09:32 +0200'
+  content: Co do wynajdowania koła... to np. gre też można wykorzystać gotowe biblioteki
+    tylko potem biorą się ludzie nie mający zielonego pojęcia jak to wszystko działa,
+    nie potrafiący optymalizować, dla nich stworzenie grafiki kończy się na wywołaniu
+    kilku funkcji, załadowaniu tekstury...
+- id: 1954
+  author: Tomash
+  author_url: ''
+  date: '2005-08-19 16:11:15 +0200'
+  date_gmt: '2005-08-19 16:11:15 +0200'
+  content: To dlaczego piszesz w PHP, a nie Assembler CGI albo chociaż C CGI? ;&gt;
+- id: 1955
+  author: sebas86
+  author_url: ''
+  date: '2005-08-19 16:14:46 +0200'
+  date_gmt: '2005-08-19 16:14:46 +0200'
+  content: A czemu łapiesz mnie za słówka zamiast używam konkretynych arumentów? :&gt;
+    Wypowiedź miała charakter ideowy :-P. PHP wykorzystuje aby tworzyć aplikacje sieciowe,
+    na codzień korzystam z C, kiedyś urozmaicony o niewielkie wstawki w Assemblerze
+    (zresztą nie pisane samemu)... ale wiem co nie co...
+- id: 1956
+  author: Tomash
+  author_url: ''
+  date: '2005-08-19 16:18:03 +0200'
+  date_gmt: '2005-08-19 16:18:03 +0200'
+  content: |-
+    Ponieważ zawsze mi się wydawało, że coraz bardziej &quot;programmer-friendly&quot; (czyli coraz wyższego poziomu) języki i biblioteki powstawały właśnie po to, żeby programista mógł skupić się na istocie swojej roboty, a nie szukaniu w którym miejscu wskaźnik wyskoczył o jeden adres za daleko i program się wykrzacza z segmentation fault.
+    <br/>
+    <br/>Eckel to ładnie ujął: &quot;dziś czas procesora jest bardzo tani - czas programisty wprost przeciwnie&quot;.
+    <br/>
+    <br/>Zresztą, Patrys użył argumentu, który jest kompletnie &quot;obok&quot; kwestii łatwość pisania czy optymalizacja - otóż kod napisany w Smarty jest o wiele łatwiejszy do zarządzania i przenoszenia.
+- id: 1957
+  author: sebas86
+  author_url: ''
+  date: '2005-08-19 16:25:33 +0200'
+  date_gmt: '2005-08-19 16:25:33 +0200'
+  content: |-
+    Dobra to wyjaśnie się dosadniej, pełno jest głąbów którzy umieją za pomocą Delphi, tudzież innego środowiska Rad stworzyć zegarek i uważają, że umieją programować...
+    <br/>
+    <br/>Nie przeczę nie jestem profesjonalistą, dopiero raczkuje ale uważam także, że uczenie się od początku pozwala lepiej poznać istote rzeczy i oto mi chodziło właśnie :-). Nie mówie o wynajdowaniu koła od początku, ktoś mnie może to już pokazać, ale nie chcę czegoś takiego jak telefon do firmy zajmującej się ich produkcją :-).
+    <br/>
+    <br/>Co do czasu procesora to jest kwestia sporna, nie lubię takiego podejścia, ale nie przecze skłonny jestem na ustępstwa. Nie będę przecież męczyć się ze zgłębianiem wiedzy o każdym chipie graficznym skoro mam np. OpenGL.
+- id: 1958
+  author: Tomash
+  author_url: ''
+  date: '2005-08-19 16:30:28 +0200'
+  date_gmt: '2005-08-19 16:30:28 +0200'
+  content: |-
+    Ale notka Patrysa - jak większość zresztą - przeznaczona jest dla programistów &quot;poważnych&quot;, albo jak wolisz - &quot;pracujących&quot;. Ci nie mogą sobie pozwolić na robienie czegoś &quot;dla sztuki&quot; czy &quot;bo chcę się nauczyć&quot;, bo ich czas (i kiepski kod) kosztuje pracodawcę wymierne kwoty.
+    <br/>
+    <br/>Delphi nie używam, ale kilka świetnych rzeczy zrobiono w tym języku/środowisku (kurde, kocham wspólne nazwy dla języków, IDE czy bibliotek). Np. Dev-C++.
+- id: 1959
+  author: Patrys
+  author_url: ''
+  date: '2005-08-19 16:30:37 +0200'
+  date_gmt: '2005-08-19 16:30:37 +0200'
+  content: |-
+    To ja powiem tak: lata temu napisałem sobie bibliotekę graficzną w Assemblerze do Pascala. Od początku do końca sam. Umożliwiała stotowanie niewyobrażalnych jak na tamte czasy trybów, z high-colorem i true-colorem włącznie. Dziś, pisząc grę, sięgam po gotowe biblioteki - są sprawdzone, nie poświęcam czasu na ich pisanie i przede wszystkim są przenośne.
+    <br/>
+    <br/>Moja uwaga o wynajdywaniu koła: pisz sobie nawet 100 alternatywnych silników szablonowych, ale najpierw poznaj te istniejące. Ewolucja w oprogramowaniu polega na krzyżowaniu i rozwijaniu istniejących rozwiązań i koncepcji, a nie stukaniu w klawiaturę na oślep i tworzeniu drugiego, &quot;własnego&quot; świata od zera.
+- id: 1960
+  author: Tomash
+  author_url: ''
+  date: '2005-08-19 16:33:32 +0200'
+  date_gmt: '2005-08-19 16:33:32 +0200'
+  content: 'Patrys: z wyjątkiem oczywiście programów zaliczeniowych i innych edukacyjnych
+    &quot;Hello World!&quot;, które są wtórne do bólu ;). Sebas ma rację w jednym
+    - pewne podstawy trzeba poznać, kilka rzeczy trzeba napisać samemu, a dopiero
+    później sięgać po gotowce. Ale potem się zaczynają poważne projekty :].'
+- id: 1961
+  author: Jajcus
+  author_url: ''
+  date: '2005-08-19 17:05:22 +0200'
+  date_gmt: '2005-08-19 17:05:22 +0200'
+  content: |-
+    &quot;Hello World!&quot; wtórne? Przecież stały jest tylko cel, ale implementacje &quot;Hello World!&quot; powstają ciągle nowe, rozwijają się wraz z nowymi technologiami. Przecięż Hello World w BASICu to było:
+    <br/>
+    <br/>10 PRINT &quot;Hello World!&quot;
+    <br/>
+    <br/>A zrobione przy użyciu nowoczesnych technologii itd. itp. to już jest kilka plików, w kilku językach, z których część trzeba sobie wyklikać, a nie wystarczy z klawiatury wpisać. ;-)
+    <br/>
+    <br/>Później początkujący programista PHP widzi takie Hello World, stwierdza, że on umie to znacznie prościej napisać i dalej tworzy po swojemu... Dopiero gdy się przejedzie na jakimś większym projekcie robionym prostackimi metodami, to doceni nowsze technologie, w których Hello World to 20kB kodu, a poważna aplikacja — 30kB. ;-)
+- id: 1962
+  author: Jajcus
+  author_url: ''
+  date: '2005-08-19 17:06:40 +0200'
+  date_gmt: '2005-08-19 17:06:40 +0200'
+  content: No i oczywiście należy stosować narzędzie odpowiednio dobrane to tego co
+    się chce robić. W wielu wypadkach nie ma sensu wysilać się na cokolwiek ambitniejszego
+    niż &quot;print&quot; czy &quot;echo&quot;.
+- id: 1963
+  author: marcink
+  author_url: ''
+  date: '2005-08-19 17:25:28 +0200'
+  date_gmt: '2005-08-19 17:25:28 +0200'
+  content: |-
+    A najzabawniejsze w tym wszystkim jest to, że PHP powstało właśnie jako prosty system szablonujący (stąd nazwa), rozrosło się w mocno chaotyczny sposób, po czym -- podobnie jak w przypadku JSP, ASP i masy innych narzędzi -- okazało się że manie warstwy przetwarzającej HTML najbardziej na zewnątrz to poważny błąd prowadzący do kompletnie zabagnionego, trudnego w utrzymaniu kodu.  I teraz jedyna słuszna metoda to pisanie w PHP z całkowitym pominięciem pomysłu, od którego PHP się zaczęło -- zewnętrzny procesor HTML jedynie uruchamia kod który najpierw załatwia logikę aplikacji, a później odpala kolejny język szablonujący :)
+    <br/>
+    <br/>Rezultat jest taki, że skreśla się jedną z niewielu przewag jakie PHP ma nad innymi językami (szablony na zewnątrz, łatwo pisze się zabawkowe aplikacyjki, ale większość doświadczenia zdobytego przy ich tworzeniu nie pomaga później, bo większe rzeczy i tak trzeba pisać zupełnie inaczej).
+- id: 1964
+  author: Medyk
+  author_url: ''
+  date: '2005-08-21 03:49:17 +0200'
+  date_gmt: '2005-08-21 03:49:17 +0200'
+  content: |-
+    hmm.. myślę, że to rozwiązanie ma sens jedyni wtedy jak dwie różne osoby pracują nad php i html.
+    <br/>Pisanie smartowego szablonu tylko dla kliku linii kodu wydaje mi się stratą czasu.. a w przypadku gdy kod ma się powtarzać, napisanie oddzielnej funkcji w php nie zajmie więcej czasu niż napisanie szablonu pod smarta.. proszę o rozjaśnienie jeśli się mylę.
+- id: 1965
+  author: Tomash
+  author_url: ''
+  date: '2005-08-21 10:16:07 +0200'
+  date_gmt: '2005-08-21 10:16:07 +0200'
+  content: |-
+    Medyk, piszę w Smartym od niedawna (tak, Patrys mnie wprowadził w temat:)) i zauważyłem, że w Smartym łatwiej i szybciej pisze się wszystkie projekty bardziej skomplikowane od &lt;?php echo &#039;Hello World!&#039; ?&gt; :).
+    <br/>Chociażby z tej prostej przyczyny, że pisząc w Smartym &lt;a href=&quot;qwerty&quot;&gt; wchodzi zupełnie naturalnie, natomiast już w &quot;czystym&quot; php trzeba się chrzanić z doborem cudzysłowiów (gdzie pojedynczy, gdzie podwójny), tudzież sekwencjami ucieczki - które już same z siebie czynią kod niezbyt czytelnym.
+    <br/>Brzmi przekonywująco, co? :)
+    <br/>
+    <br/>Co do &quot;dwóch osób&quot; - patrz wyżej na post Vroka. Dezajnerzy o Smartym pojęcia nie mają. Nie mam do nich o to pretensji, iteracja pętli czy inne tablice asocjacyjne to już kwestie programistyczne, a nie naszkicowania layoutu w Dreamweaverze :).
+- id: 1966
+  author: Medyk
+  author_url: ''
+  date: '2005-08-21 12:48:52 +0200'
+  date_gmt: '2005-08-21 12:48:52 +0200'
+  content: Nie jest to dla mnie bardzo przekonujący argument.  W php mamy &lt;?= $x
+    ?&gt; a w smartach {$x}. Taka zmiana nie wygląda mi na rewolucję. Jeszcze tworzenie
+    tych wszystkich plików/szablonów.. w php możemy zrobić zamiast tego funkcje i
+    trzymać je wszystkie w jednym pliku czy całą klasę w razie potrzeby. Wciąż nie
+    jestem przekonany :)
+- id: 1967
+  author: Medyk
+  author_url: ''
+  date: '2005-08-21 12:55:49 +0200'
+  date_gmt: '2005-08-21 12:55:49 +0200'
+  content: Choć przyznam szczerze, że nie raz nawet to &lt;?= $x ?&gt; jest trochę
+    uciążliwe i fajnie by było zastąpić to czymś prostym (jak w smartach na przykład).
+    Nie mniej przenoszenie zawartości do osobnych plików/szablonów wywoływanie dodatkowych
+    funkcji.. już burzy całą ideę (uczytelnienia - uproszczenia) jak dla mnie. Może
+    istnieje jakaś nakładka na php pozwalająca mieszać kod php i smarty&#039;owy w
+    jednym pliku.. ?
+- id: 1968
+  author: str()
+  author_url: ''
+  date: '2005-08-22 08:23:50 +0200'
+  date_gmt: '2005-08-22 08:23:50 +0200'
+  content: Na postawie obieranych przez dyskutantów podejść dość łatwo rozgraniczyć
+    dla których z nich PHP i inżynieria oprogramowania to niezobowiązująca zabawa
+    a dla których chleb i okrasa :-)
+- id: 1969
+  author: Jajcus
+  author_url: ''
+  date: '2005-08-22 08:28:41 +0200'
+  date_gmt: '2005-08-22 08:28:41 +0200'
+  content: 'str(): ciekawe do których się załapałem... ;-)'
+- id: 1970
+  author: str()
+  author_url: ''
+  date: '2005-08-22 08:40:45 +0200'
+  date_gmt: '2005-08-22 08:40:45 +0200'
+  content: 'Jajcus: Z radością informujemy Pana, że stanowi Pan chlubny przykład części
+    wspólej obu zbiorów. Nagrodę przyślemy pocztą, proszę nie telefować ;-D '
+- id: 1971
+  author: mroq
+  author_url: ''
+  date: '2005-08-22 16:50:36 +0200'
+  date_gmt: '2005-08-22 16:50:36 +0200'
+  content: 'Patrys: wszystko fajnie, ale czy nie lepiej nie byc uzaleznionym od czyjegos
+    rozwiazania (vide: smarty)? Dlaczego nie byc wlasnym pracodawca? Nauka smartow
+    owszem, ale korzystanie z tego na codzien - a fe ;) Wyobraz sobie, ze w wyniku
+    jakiegos strasznie nieprzewidzianego zdarzenia smarty staja sie platne. Wedlug
+    mnie Twoje rozwiazanie to dobre wyjscie dla dewelopera, ktory chce sie zatrudnic
+    i nie ma ambicji ponad to (pewnie sie myle). Kolejna rzecz to taka, ze programowanie
+    nie polega na wynajdywaniu kola, ale samo slowo &#039;developer&#039; oznacza
+    kogos kto rozwija, rowniez narzedzia, ktore sluza do rozwijania (pogmatwalem)
+    ;] Wiec czy dobrym wyjsciem jest ganienie ludzi za to, ze nie widzac sensu uzywania/rozwijania
+    smartow chca pisac swoj system szablonow od zera? '
+- id: 1972
+  author: Patrys
+  author_url: ''
+  date: '2005-08-22 16:56:40 +0200'
+  date_gmt: '2005-08-22 16:56:40 +0200'
+  content: |-
+    mroq: zanim się coś nowego napisze, to trzeba wiedzieć jak działa to stare, żeby nie powtarzać błędów. Podejście &quot;ja i tak wiem lepiej&quot; to kiepskie podejście.
+    <br/>
+    <br/>Smarty nie może stać się płatne bo jest na GPL i publicznie dostępne, więc jeśli autor postanowi brać pieniądze, to ktoś inny będzie rozwijał za darmo.
+    <br/>
+    <br/>Smarty ma architekturę opartą na pluginach i dopisuję własne bardzo regularnie. Mimo wszystko, jeśli ktoś przejmie po mnie projekt to będzie w stanie go kontynuować nie musząc pisać systemu szablonów od zera, bo poprzedniego nie rozumie. &quot;Własne&quot; rozwiązania wiążą się z takim właśnie ryzykiem.
+- id: 1973
+  author: marcink
+  author_url: ''
+  date: '2005-08-22 17:14:54 +0200'
+  date_gmt: '2005-08-22 17:14:54 +0200'
+  content: |-
+    mroq: kwestia kosztów.  I pytania -- na co chcesz poświęcać swój czas: na tworzenie kodu czy tworzenie aplikacji.  To wbrew pozorom nie to samo.
+    <br/>
+    <br/>Korzystając z kodu napisanego przez kogoś innego masz mniej do zaprojektowania, napisania, utrzymywania, testowania, odpluskwiania i rozwijania samemu.  Zwłaszcza, jeśli jest to coś, czego używa na co dzień duża grupa ludzi -- projekty takie jak smarty, z pewną historią i większą społecznością są zwykle dość dobrze dopracowane, a przynajmniej wyklepane do używalności.  Jeśli nie z innych powodów, to przynajmniej dlatego że poświęcono na nie olbrzymie ilości czasu i pracy.
+    <br/>
+    <br/>A na koniec mądrość ludowa: łatwiej jest napisać nowy marny program niż poznać i zrozumieć istniejący, porządny ;)
+    <br/>
+    <br/>A, żeby nie było -- Smarty nie używam, PHP staram się unikać, ale też mam na koncie kilka systemów szablonujących.  Trochę się nauczyłem od tego czasu :)
+- id: 1974
+  author: mroq
+  author_url: ''
+  date: '2005-08-22 18:40:18 +0200'
+  date_gmt: '2005-08-22 18:40:18 +0200'
+  content: |-
+    patrys: Twój pierwszy argument: nie rozumiem dlaczego powtarzasz wciaz te same frazesy, ktore przeciez w odpowiedzi na moje watpliwosci nie maja racji bytu:
+    <br/>
+    <br/>&gt;&gt;Nauka smartow owszem, ale korzystanie z tego na codzien - a fe ;)
+    <br/>
+    <br/>Twój drugi argument odnosi się do mojego hipotetycznego wywodu i również nie ma tu znaczenia, bo ja wybiegam hipotezy, a Ty sprowadzasz wszystko do rzeczywistosci, ktora przeciez nie bedzie wieczna.
+    <br/>
+    <br/>Twój trzeci argument może być łatwo odparty. Spójrz na IE, przerób ten program tak, zeby byl kompatybilny wstecz, a jednoczesnie mogl konkurowac z FF czy O. Wtedy uwierze, ze tworzenie wlasnych rozwiazan od zera nie ma sensu.
+    <br/>
+    <br/>marcink: masz racje, chociaz Twoja madrosc ludowa to chyba wolanie w przestrzen (patrz wyzej odpowiedz na pierwszy argument patrysa).
+- id: 1975
+  author: Patrys
+  author_url: ''
+  date: '2005-08-22 18:58:40 +0200'
+  date_gmt: '2005-08-22 18:58:40 +0200'
+  content: Z dalszymi komentarzami zapraszam do nowej notki.
+- id: 1976
+  author: normanos
+  author_url: ''
+  date: '2005-08-24 22:33:38 +0200'
+  date_gmt: '2005-08-24 22:33:38 +0200'
+  content: 'smarty za duża kobyła -&gt; polecam smarty-light http://www.paullockaby.com/projects/smarty-light/ '
+---
+<p>Coraz częściej spotykam się z kodem pisanym <q>na szybko</q> przez ludzi mających nikłe pojęcie o swoim podstawowym narzędziu pracy - języku <abbr title="PHP Hypertext Preprocessor">PHP</abbr>. Kawałki kodu wyglądają tak:</p>
+
+<blockquote><pre>while($row = mysql_fetch_array($result))
+{
+	print &quot;&lt;tr&gt;&lt;td&gt;&quot; . $row['imie'] .
+	&quot;&lt;/td&gt;&lt;td&gt;&quot; . $row['nazwisko'] .
+	&quot;&lt;/td&gt;&lt;td&gt;&quot; . date(&quot;d.m.Y&quot;, $row['data_urodzenia']) .
+	&quot;&lt;/td&gt;&lt;/tr&gt;\n&quot;;
+}</pre></blockquote>
+
+<p>Kod paskudny i na ogół wyświetlanie wyników zajmuje przynajmniej 3/4 pliku, który odpowiada za ich pobieranie z bazy. Znacznie wygodniej byłoby oddzielić widok od kontrolera i pozwolić temu pierwszemu troszczyć się o formatowanie danych (<code>date(...);</code>), a temu drugiemu zająć się tylko wydobywaniem niezbędnych danych.</p>
+
+<p>Tutaj pojawiają się szablony. Równie kiepskim pomysłem, jak wypluwanie kodu <abbr title="HyperText Markup Language">HTML</abbr> bezpośrednio przez kontroler, jest pisanie własnego silnika szablonowego. Znacznie lepiej stosować powszechnie uznane narzędzia, jak <a href="http://smarty.php.net/">Smarty</a> - system inteligentnych szablonów.</p>
+
+<p>Powyższy przykład przepisany za pomocą Smarty składałby się z dwóch plików. Pierwszy plik, z kontrolerem wyglądałby tak:</p>
+
+<blockquote><pre>$smarty = &amp; new Smarty();
+$dataset = array();
+
+while($row = mysql_fetch_assoc($result))
+{
+	array_push($dataset, $row);
+}
+
+$smarty-&gt;assign('dataset', $dataset);
+$smarty-&gt;display('data-template.html');</pre></blockquote>
+
+<p>Drugi zaś, zawierający sam szablon:</p>
+
+<blockquote><pre>&lt;table&gt;
+{section name=&quot;row&quot; loop=$dataset}
+	&lt;tr&gt;
+		&lt;td&gt;{$dataset[row].imie}&lt;/td&gt;
+		&lt;td&gt;{$dataset[row].nazwisko}&lt;/td&gt;
+		&lt;td&gt;{$dataset[row].data_urodzenia|
+		date_format:&quot;%d.%m.%Y&quot;}&lt;/td&gt;
+	&lt;/tr&gt;
+{/section}
+&lt;/table&gt;</pre></blockquote>
+
+<p>Największa zaleta tego podejścia - czytelność i uniezależnienie silnika strony od jej wyglądu.</p>
+
+<p>Druga zaleta - reużywalność raz wykonanych szablonów, załóżmy bowiem, że strona zawiera formularz, który należy wypełnić i który jest następnie walidowany po stronie serwera pod kątem poprawności pól. Co jeśli pola nie są wypełnione poprawnie? Niektóre serwisy wyświetlają błąd i przycisk <q>wstecz</q> - niezbyt elegancka metoda, biorąc pod uwagę, że <abbr title="Internet Explorer">IE</abbr> skrupulatnie czyści pola formularza przy wracaniu do strony z historii. Można jednak przygotować jeden formularz:</p>
+
+<blockquote><pre>&lt;form action=&quot;/&quot; method=&quot;post&quot;&gt;
+	&lt;fieldset&gt;
+		&lt;legend&gt;Dane osobowe&lt;/legend&gt;
+		&lt;p&gt;Imię:
+		&lt;input type=&quot;text&quot; name=&quot;imie&quot;
+		value=&quot;{$smarty.post.imie}&quot;&gt;&lt;/p&gt;
+		&lt;p&gt;Nazwisko:
+		&lt;input type=&quot;text&quot; name=&quot;nazwisko&quot;
+		value=&quot;{$smarty.post.nazwisko}&quot;&gt;&lt;/p&gt;
+		&lt;p&gt;Email:
+		&lt;input type=&quot;text&quot; name=&quot;email&quot;
+		value=&quot;{$smarty.post.email}&quot;&gt;&lt;/p&gt;
+	&lt;/fieldset&gt;
+&lt;/form&gt;</pre></blockquote>
+
+<p>Następnie wywołać go dwukrotnie - raz przy konieczności jego wypełnienia, drugi raz w funkcji sprawdzającej jego poprawność, jeśli zaistnieje taka potrzeba. Pola pozostaną wypełnione, a użytkownik ograniczy się do poprawienia tylko tych danych, które wprowadzone zostały błędnie.</p>
+
+<p>Trzecia zaleta - system taki pozwala na jednoczesną pracę programistów i webmasterów, szablony można rozwijać równolegle z kodem, co znacznie przyspiesza rozwój serwisu, a czas realizacji jest często kluczowym kryterium przy negocjacjach z klientami.</p>

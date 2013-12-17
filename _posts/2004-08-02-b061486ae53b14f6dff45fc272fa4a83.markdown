@@ -1,0 +1,78 @@
+---
+layout: post
+status: publish
+published: true
+title: Nowość! Firmowe koszulki!
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 36
+date: 2004-08-02 17:27:54.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 164
+  author: Greybrow
+  author_url: ''
+  date: '2004-08-02 17:33:01 +0200'
+  date_gmt: '2004-08-02 17:33:01 +0200'
+  content: |-
+    SynPrezesa™ się jutro wysyła do Patrysa już, &quot;Córkę&quot; właśnie przygotowuję.
+    <br/>Jeśli ktoś ma ochotę, to proszę najpóźniej do środy, bo w piątek wyjeżdżam na wakacje :)
+- id: 165
+  author: shoo
+  author_url: ''
+  date: '2004-08-03 11:20:26 +0200'
+  date_gmt: '2004-08-03 11:20:26 +0200'
+  content: '&quot;córka prezesa&quot;?! IMHO pomysł nietrafiony, a przynajmniej nie
+    mający nic wspólnego z rzeczywistością. czysty marketing...'
+- id: 166
+  author: Patrys
+  author_url: ''
+  date: '2004-08-03 11:21:30 +0200'
+  date_gmt: '2004-08-03 11:21:30 +0200'
+  content: Byłoby dziwnym, gdyby kobieta miała koszulkę z napisem SynPrezesa.
+- id: 167
+  author: Kasik
+  author_url: ''
+  date: '2004-08-03 12:16:15 +0200'
+  date_gmt: '2004-08-03 12:16:15 +0200'
+  content: No właśnie .. co najmniej dziwne a moim odwiecznym marzeniem było promować
+    mojego kochanego tatę. Tak w ogóle to chętnie zamówię ale może jak już wrócisz
+    z wakacji.
+- id: 168
+  author: andy
+  author_url: ''
+  date: '2005-02-03 11:43:44 +0100'
+  date_gmt: '2005-02-03 11:43:44 +0100'
+  content: '&quot;Córka prezesa&quot; powinna mieć nieco oszczędniejszą wersję. Mowa
+    o oszczędności na materiale :)'
+---
+						</p>
+						<p align="center">
+							<img src="custom/patrys/files/koszulka.png" alt="Koszulka" /> <img src="custom/patrys/files/koszulka2.png" alt="Koszulka" />
+						</p>
+						<p>
+							W związku z dużą popularnością strony przygotowaliśmy niespodziankę. Liga Liero zgodziła się przygotować
+							specjalne koszulki z najbardziej kultową postacią w historii informatyki. Nadruki są wykonane na bardzo
+							dobrych jakościowo koszulkach firmy PromoStar. Na koszulkach nie zarabiamy, nie jest to też sprzedaż towaru.
+							Aby otrzymać koszulke wystarczy zasponsorować Ligę Liero.
+						</p>
+						<p>
+							Aby otrzymać koszulkę męską białą, należy wpłacić przynajmniej 35 PLN, Wpłacając przynajmniej 45 PLN, otrzymasz
+							koszulkę w wybranym przez ciebie kolorze.
+						</p>
+						<p>
+							Aby otrzymać koszulkę damską białą, należy wpłacić przynajmniej 40 PLN, Wpłacając przynajmniej 45 PLN, otrzymasz
+							koszulkę w wybranym przez ciebie kolorze.
+						</p>
+						<p>
+							Liga pokrywa koszty wysyłki. Zamówienia na więcej sztuk są, oczywiście, tańsze.
+						</p>
+						<p>
+							Pamiętajcie, że nie robimy tego dla zysku, pomaga nam to utrzymać serwer. Koszulka to forma podziękowania.
+						</p>
+						<p>
+							Kontakt i zamawianie koszulek za pośrednictwem e-maila: <a href="http://www.liero.org.pl/email.php?em=greybrow">Greybrow</a>.

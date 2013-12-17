@@ -1,0 +1,103 @@
+---
+layout: post
+status: publish
+published: true
+title: Green Marinée
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 122
+date: 2005-07-02 21:58:21.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1559
+  author: riddle
+  author_url: ''
+  date: '2005-07-02 22:01:10 +0200'
+  date_gmt: '2005-07-02 22:01:10 +0200'
+  content: Podoba mi się. Tylko sportowałbyś coś, co nie jest oklepanym 768px ;D ;)
+- id: 1560
+  author: Gregor
+  author_url: ''
+  date: '2005-07-02 22:07:30 +0200'
+  date_gmt: '2005-07-02 22:07:30 +0200'
+  content: |-
+    Co jeden to ładniejszy.. :)
+    <br/>
+    <br/>Ten jest świetny.. :)
+- id: 1561
+  author: Paool
+  author_url: ''
+  date: '2005-07-02 22:11:45 +0200'
+  date_gmt: '2005-07-02 22:11:45 +0200'
+  content: No, niezły jest. :D
+- id: 1562
+  author: m
+  author_url: ''
+  date: '2005-07-03 16:03:45 +0200'
+  date_gmt: '2005-07-03 16:03:45 +0200'
+  content: |-
+    http://patrys-dev.jogger.pl/comment.php?eid=115996&amp;startid=0
+    <br/>
+    <br/>div z treścią komentarza rozjechany - pewnie to feature, ale moze bug?
+- id: 1563
+  author: Przemo
+  author_url: ''
+  date: '2005-07-03 18:22:26 +0200'
+  date_gmt: '2005-07-03 18:22:26 +0200'
+  content: Skoro tak dobrze ci idzie portowanie szablonów z Wordpressa to weż się
+    za Black-Letterhead ;)
+- id: 1564
+  author: mpw
+  author_url: ''
+  date: '2005-07-05 01:36:52 +0200'
+  date_gmt: '2005-07-05 01:36:52 +0200'
+  content: Nawiasem mówiąc, czy mógłbyś dodać do patrys-dev.jogger.pl więcej, niż
+    jedną definicję CSS-a, tak aby mozna było bezproblemowo przeglądać wszystkie dotychczasowe
+    porty?
+- id: 1565
+  author: Patrys
+  author_url: ''
+  date: '2005-07-05 01:38:32 +0200'
+  date_gmt: '2005-07-05 01:38:32 +0200'
+  content: Nie, bo one są niekompatybilne na poziomie szablonów.
+- id: 1566
+  author: Patrys
+  author_url: ''
+  date: '2005-07-05 01:45:41 +0200'
+  date_gmt: '2005-07-05 01:45:41 +0200'
+  content: 'BTW: porty mają screenshoty załączone ;]'
+- id: 1567
+  author: mpw
+  author_url: ''
+  date: '2005-07-05 18:19:35 +0200'
+  date_gmt: '2005-07-05 18:19:35 +0200'
+  content: |-
+    Nie sądzisz, że byłoby fajnie wykonać uniszablon, z którym działałyby wszystkie szablony?
+    <br/>
+    <br/>Pomijając karkołomność tego zadania to byłoby to wtedy prawdziwe oddzielenie warstw, a nie dostosowywanie jednej do drugiej. ;)
+    <br/>
+    <br/>Nie wspominając już o wygodzie przy przeglądaniu wielu CSS-ów.
+- id: 1568
+  author: mpw
+  author_url: ''
+  date: '2005-07-05 18:19:55 +0200'
+  date_gmt: '2005-07-05 18:19:55 +0200'
+  content: 'BTW: a porty mają szablony załączone? ;]'
+- id: 1569
+  author: mpw
+  author_url: ''
+  date: '2005-07-05 19:27:05 +0200'
+  date_gmt: '2005-07-05 19:27:05 +0200'
+  content: s/wszystkie szablony/wszystkie style/
+---
+<p>Mania konwertowania szablonów WordPress na Joggera nie ustała. Dziś moją ofiarą padł kolejny, tym razem jest to Green Marinée autorstwa <a href="http://e-lusion.com/">Iana Maina</a>.</p>
+
+<p>Wersja pobieralna znajduje się <a href="http://wirusy.room-303.com/Jogger/GreenMarinee/">na moim serwerze</a>.</p>
+
+<p>Do tego obowiązkowy <a href="http://wirusy.room-303.com/Jogger/GreenMarinee/GreenMarinee.png">zrzut ekranu</a>, choć poklikać można też na żywo <a href="http://patrys-dev.jogger.pl/">w mojej piaskownicy</a>.</p>
+
+<p>Jak zwykle, szablon jest objęty GPL.</p>

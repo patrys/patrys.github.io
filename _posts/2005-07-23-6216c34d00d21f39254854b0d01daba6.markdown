@@ -1,0 +1,42 @@
+---
+layout: post
+status: publish
+published: true
+title: BugTracking
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 134
+date: 2005-07-23 14:59:50.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1847
+  author: Rafał
+  author_url: ''
+  date: '2005-07-23 15:34:49 +0200'
+  date_gmt: '2005-07-23 15:34:49 +0200'
+  content: 'Tu: http://rtfm.killfile.pl/ jest pl wersja :)'
+- id: 1848
+  author: Fuzzy
+  author_url: ''
+  date: '2005-07-24 23:42:28 +0200'
+  date_gmt: '2005-07-24 23:42:28 +0200'
+  content: Ja zupelnie nie w temacie itd., ale ostatnio czytalem caly ten blog i ciagle
+    jestm pod wrazeniem dyskusji o jellonkach i hapi.pl. No wiec chcialem zaprezetowac
+    tworczosc patrysa w nieco innym swietle http://smaczek.pac.pl/jubi/?q=patrys.jogger.pl
+- id: 1849
+  author: Patrys
+  author_url: ''
+  date: '2005-07-24 23:43:54 +0200'
+  date_gmt: '2005-07-24 23:43:54 +0200'
+  content: |-
+    Fuzzy:
+    <br/>
+    <br/>Już było kiedyś :]
+---
+<p>Przy okazji jednego z dzisiejszych postów na <a href="http://lists.pld-linux.org/mailman/listinfo">pld-devel-pl</a>, przypomniał mi się bardzo fajny tekst tyczący się zgłaszania problemów. Większość ludzi jest albo na tyle leniwa, żeby wcale nic nie zgłosić (i szkodzą sami sobie, bo deweloperzy nie mają szklanych kul i nie czytają w myślach), albo jest odrobinę mniej leniwa i zgłaszają problem w postaci zupełnie bezużytecznej (coś jak telefon do warsztatu samochodowego: <q>zepsuł się samochód, objaw jest taki, że nie działa</q>).</p>
+
+<p>Biorąc pod uwagę, że nie jesteś autorem produktu, z którym masz problem, musisz dostarczyć odpowiednim ludziom odpowiednie informacje. Dlatego zanim zaczniesz na coś narzekać, przeczytaj najpierw biblię zgłaszających problemy: <a href="http://www.catb.org/~esr/faqs/smart-questions.html">How to ask questions the smart way</a> Erica S. Raymonda.</p>

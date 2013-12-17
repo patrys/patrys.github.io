@@ -1,0 +1,288 @@
+---
+layout: post
+status: publish
+published: true
+title: Standards versus reality
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 98
+date: 2005-06-04 23:11:35.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 1225
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2005-06-04 23:17:33 +0200'
+  date_gmt: '2005-06-04 23:17:33 +0200'
+  content: |-
+    To było tak &quot;rekapitulując, ...&quot;. Ale zawsze się przydaje.
+    <br/>Dzięki. Nie-webmasterom to się na pewno przyda (szczególnie tym, co się brzydzą psiego języka i wszystko chcą po polsku).
+- id: 1226
+  author: Ktoś... | ...tam
+  author_url: ''
+  date: '2005-06-04 23:17:46 +0200'
+  date_gmt: '2005-06-04 23:17:46 +0200'
+  content: |-
+    Rewelacyjny artykuł.
+    <br/>O wielu problemach (nie wspominając o ich rozwiązaniach) dowiedziałem się dopiero z tego tekstu - dzięki wielkie, to szalenie przydatne :)
+- id: 1227
+  author: Patrys
+  author_url: ''
+  date: '2005-06-04 23:17:59 +0200'
+  date_gmt: '2005-06-04 23:17:59 +0200'
+  content: |-
+    A najlepiej wsparcie CSS w IE obrazuje arkusz styli Kevina Cornella z bearskinrug.co.uk:
+    <br/>
+    <br/>http://bearskinrug.co.uk/_css/styles.css
+- id: 1228
+  author: Jezuch
+  author_url: ''
+  date: '2005-06-04 23:21:15 +0200'
+  date_gmt: '2005-06-04 23:21:15 +0200'
+  content: Jakiś czas temu jakimś cudem udało mi się bez podejrzanych sztuczek zrobić
+    menu z zagnieżdżonych ul/li, które wygląda jak należy pod IE i Mozillą :) Oczywiście
+    wkrótce potem dowiedziałem się, że moje arkusze stylów są bardzo nieczytelne,
+    ale podejrzewam że to zawiść ;)
+- id: 1229
+  author: Tomash
+  author_url: ''
+  date: '2005-06-04 23:33:04 +0200'
+  date_gmt: '2005-06-04 23:33:04 +0200'
+  content: W pytkę. Notki takie jak ta powinny tworzyć odcinek cykliczny, jak najszybciej
+    wydany drukiem :)
+- id: 1230
+  author: Tomash
+  author_url: ''
+  date: '2005-06-05 00:29:09 +0200'
+  date_gmt: '2005-06-05 00:29:09 +0200'
+  content: A tak swoją drogą, im częściej czytam o standardach, które tak naprawdę
+    nie są standardami (bo &quot;standardowa&quot; przeglądarka ma je w dupie) i kodowych
+    akrobacjach, które mają zapewnić taki sam wygląd strony pod Operą, Mozillami i
+    IE, zastanawiam się, czy by nie pieprznąć w cholerę tego divowego trendu i robić
+    wszystko jak kiedyś, &lt;table&gt;.
+- id: 1231
+  author: ehh
+  author_url: ''
+  date: '2005-06-05 01:00:43 +0200'
+  date_gmt: '2005-06-05 01:00:43 +0200'
+  content: |-
+    Przeananlizuje to jak będę w lepszym stanie;p
+    <br/>Wygląda ciekawie, może rozwiąże u mnie kilka problemów...
+- id: 1232
+  author: MySZ
+  author_url: ''
+  date: '2005-06-05 01:43:26 +0200'
+  date_gmt: '2005-06-05 01:43:26 +0200'
+  content: |-
+    odnosnie zagadnien zwiazanych z clear: {both,lef,right}:
+    <br/>
+    <br/>czesto wyjsciem jest tez (w zaleznosci od tego, jak zbudowana jest i ma byc strona) nadanie float&#039;a rodzicowi:
+    <br/>#rodzic { float: left}
+    <br/>#rodzic #dziecko {float: left}
+    <br/>
+    <br/>wtedy rodzic, bez dodatkowego taga (np br z clear: both) rowniez sie rozciagnie :)
+    <br/>przyklad: http://urzenia.net/testy/float.html
+- id: 1233
+  author: bellois
+  author_url: ''
+  date: '2005-06-05 19:32:51 +0200'
+  date_gmt: '2005-06-05 19:32:51 +0200'
+  content: |-
+    wiecej, wiecej, wiecej
+    <br/>
+- id: 1234
+  author: marmez
+  author_url: ''
+  date: '2005-06-05 20:34:11 +0200'
+  date_gmt: '2005-06-05 20:34:11 +0200'
+  content: "mi się bardo podobał, a dopiero zacząłem w tym grzebać.\n<br/>\n<br/>co
+    do pierwszego przykładu, to neistety w FF sie żle wyświetnił (menu bylo nad trescią)
+    w Operze bylo OK, po dorobieniu tego króczka opisanego juz nie nachodziły na siebie.
+    Możliwe ze ja coś pokręciłem. Zresztą nie ważne.\n<br/>\n<br/>zgadzam się z przedmówcą.
+    \n<br/>więcej wiecej wiecej."
+- id: 1235
+  author: Reinmar
+  author_url: ''
+  date: '2005-06-06 23:36:15 +0200'
+  date_gmt: '2005-06-06 23:36:15 +0200'
+  content: |-
+    Genialny artykuł... Który chyba (bo nie mam czasu sprawdzać) rozwiązuje wreszcie mój problem z floatem, na który od kilku miesięcy nie moge znaleść odpowiedzi :)
+    <br/>
+    <br/>Czekam na więcej artykułów!!!!
+- id: 1236
+  author: Elsindel
+  author_url: ''
+  date: '2005-06-10 23:03:24 +0200'
+  date_gmt: '2005-06-10 23:03:24 +0200'
+  content: |-
+    Widzisz, Patrys, CSS jest fajne i w ogóle, ale do wersji 2 W3C zapomina w swoim box model o podstawowej prawdziew projektowania graficznego (w tym projektowania stron WWW): potrzebujemy prostokatow w prostokatach, w prostokatach... w dowolnej konfiguracji. Dlatego tabelkami latwiej zrobic pozadany uklad strony niz DIV-ami, chocby nie wiem, jak sie starac. Wystarczyloby, aby W3C dodalo jeden malutki zbior regul CSS pozwalajacy na podzielenie danego kontenera (block-level) na k (k dowolne!) kolumn o dowolnych proporcjach szerokosci. Gdyby to bylo, wszystko byloby cacy... nie czytalem o CSS3, ale podejrzewam, ze nie pojda w te strone, moze znajda jakies inne rozwiazanie...
+    <br/>
+    <br/>Dowod nie wprost, ze uklady kolumnowe (bardziej skomplikowane niz [X|X]) w CSS sa trudne lub nawet bardzo trudne - liczba tutoriali, pokazujacych rozne przemyslne techniki, jak cos osiagnac. I czesto tylko w Firefoksie czy Operze sie da, przyczyna powstania http://glish.com/css/ nie jest slabe wsparcie CSS przez IE.
+    <br/>
+    <br/>Przyczyna jest zle zaprojektowany box model.
+    <br/>
+    <br/>Poza tym jednak kocham CSS i odkad sie pojawilo, pierwsza mysla, gdy chce pisac jakis maly program z jakimkolwiek interfejsem, jest moj firefoks, html, php i css, + ew. javascript. Odechcialo mi sie uczyc Javy lub C# na tyle, by pisac w nich cos z interfejsem. Vivat aplikacje webowe!
+    <br/>
+    <br/>Swoja droga, zastanawiam sie takze, czemu w CSS nie mozna opisywacdlugosci za pomoca kilku jednostek jednoczesnie i (co najmniej) prostych wyrazen arytmetycznych, np.: xxx { width: 10px + 50%}. Byloby to czasami spore ulatwienie, gdy chcemy miec np. marginesy w em/% i tresc w em/%, zas ramki w pikselach (bo border o szerokosci 0.3em na przyklad to dosc niebezpieczna zabawka ;).
+- id: 1237
+  author: Patrys
+  author_url: ''
+  date: '2005-06-10 23:07:02 +0200'
+  date_gmt: '2005-06-10 23:07:02 +0200'
+  content: |-
+    Elsindel:
+    <br/>
+    <br/>Tak się składa, że CSS3 ma układ kolumnowy ;].
+    <br/>
+    <br/>Podział na boksy w boksach w boksach to na ogół przyzwyczajenie do myślenia o zamkniętym układzie ze sztywnym podziałem. W CSS masz coś, czego nie dała ci żadna tabelka: pozycjonowanie absolutne i relatywne.
+---
+<p>Przy obecnej popularności webdesignu (a raczej bycia trendy i walidacji, o czym <a href="http://patrys.jogger.pl/comment.php?eid=119454&amp;startid=200505">pisałem w zeszłym miesiącu</a>), co drugi użytkownik sieci cytuje z pamięci regułki <abbr title="Cascading Style Sheets">CSS</abbr>, sypie kodem <abbr title="(Extensible) HyperText Markup Language">(X)HTML</abbr>, chwali się beztabelkowymi osiągnięciami. Często te <q>beztabelkowce</q> zajmują pięć razy więcej miejsca (ale przecież <q>bandwidth is cheap</q>) i w środku korzystają z <code>display: table;</code>, ale nie o tym chciałem pisać. Zajmijmy się problemami, w rozwiązaniu których standardy niewiele pomagają.</p>
+
+<p>Jedną z rzeczy, którą można bardzo łatwo zaimplementować za pomocą semantycznego HTML + CSS jest układ kolumnowy. Używa się do tego dwóch elementów <code>&lt;div/&gt;</code>, z czego jeden jest floatowany do krawędzi.</p>
+
+<blockquote><pre>&lt;div id="navbar"&gt;
+	&lt;p&gt;To jest menu&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id="content"&gt;
+	&lt;p&gt;To jest treść strony&lt;/p&gt;
+&lt;/div&gt;</pre></blockquote>
+
+<blockquote><pre>#navbar
+{ 
+	margin: 0 10px;
+	background-color: #69f;
+	float: left;
+	width: 180px;
+	height: 400px;
+	border: 1px solid #ccc;
+}
+#content 
+{ 
+	width: 475px;
+	border: 1px solid #ccc;
+	background-color: #fff;
+}</pre></blockquote>
+
+<p>Problemy zaczynają się pod <abbr title="Internet Explorer">IE</abbr>, który raz, że nie radzi sobie z precyzyjnym pozycjonowaniem floatów (jeśli floatowany element jest dokładnie szerokości dostępnego miejsca, to następuje złamanie wiersza, wymagany jest dwupikselowy zapas), a dwa, z nieznanych nikomu przyczyn magicznie podwaja marginesy wszystkich pływających elementów, jeśli tylko są typu <code>block</code>.</p>
+
+<p>O ile jedynym rozwiązaniem na precyzyjne umiejscowienie dwóch kolumn jest zastąpienie obu bloków dwukolumnową tabelką, o tyle drugi problem rozwiązuje się trywialnie. Tyle, że nikt przy zdrowych zmysłach by na takie rozwiązanie nie wpadł. Należy mianowicie wymusić na przeglądarce traktowanie elementów floatowanych jako elementy typu <code>inline</code>. Wyjście takie wydaje się mocno abstrakcyjne i pozbawione sensu, ale działa, wobec tego ograniczymy jego skutki do jedynej słusznej przeglądarki, która obejść takich wymaga.</p>
+
+<blockquote><pre>#navbar
+{ 
+	margin: 0 10px 0 0;
+	background-color: #69f;
+	float: left;
+	width: 180px;
+	height: 400px;
+	border: 1px solid #ccc;
+}
+* html #navbar
+{
+	display: inline;
+}</pre></blockquote>
+
+<p>Trik polega na tym, że w IE nie działa właściwie nic, a przede wszystkim nie działają tam selektory CSS, z selektorem gwiazdki na czele. Powyższa konstrukcja mówi tyle, że <code>display: inline;</code> powinno odnosić się do wszystkich elementów o <code>id</code> równym <q>navbar</q>, zawierających się w elemencie <code>&lt;html/&gt;</code>, który ma dowolnego rodzica. Standard HTML wyraźnie precyzuje, że element główny, <code>&lt;html/&gt;</code> nie może mieć żadnego rodzica w ramach jednego dokumentu (nie dotyczy to drzewa <abbr title="Document Object Model">DOM</abbr> stron opartych na ramkach, ale tam CSS przypisywany jest do każdego węzła głównego i nie jest dziedziczony przez subdokumenty). IE uważa, że jest inaczej, co pozwala (przynajmniej do wersji 6.0) łatwo ukrywać workaroundy przed innymi przeglądarkami.</p>
+
+<p>Oczywiście, bardziej eleganckim rozwiązaniem byłoby dodanie marginesu (równego szerokości lewej kolumny + pożądanemu odstępowi) do prawej kolumny:</p>
+
+<blockquote><pre>#navbar
+{ 
+	background-color: #69f;
+	float: left;
+	width: 180px;
+	height: 400px;
+	border: 1px solid #ccc;
+}
+#content 
+{ 
+	margin: 0 0 0 190px;
+	width: 475px;
+	border: 1px solid #ccc;
+	background-color: #fff;
+}</pre></blockquote>
+
+<p>Nie rozwiązuje to jednak problemu układów bardziej skomplikowanych (gdzie stosujemy więcej niż dwie kolumny z floatem).</p>
+
+<p>Drugi z częstych problemów, to zmuszenie elementów pływających do rozciągania rodzica. Weźmy pod uwagę prosty układ:</p>
+
+<blockquote><pre>&lt;div id="parent"&gt;
+	&lt;div id="child"&gt;
+		&lt;p&gt;Lorem ipsum dolor sit amet
+		consectetuer adipiscing elit.&lt;/p&gt;
+	&lt;/div&gt;
+	&lt;p&gt;Lorem ipsum, baby!&lt;/p&gt;
+&lt;/div&gt;</pre></blockquote>
+
+<blockquote><pre>#parent
+{
+	background: #fff;
+	border: 1px solid #ccc;
+	color: #000;
+	padding: 5px;
+}
+#child
+{
+	background: #eee;
+	border: 1px solid #ccc;
+	color: #000;
+	float: right;
+	width: 100px;
+}</pre></blockquote>
+
+<p>Ze względu na stosunkowo długi tekst w pływającym boksie (w porównaniu do krótkiego tekstu głównego), istnieje ryzyko, że boks dziecka będzie dłuższy od boksa rodzica, co (zgodnie ze standardem) spowoduje jego wystawanie poza obiekt rodzica (nie zostanie od przedłużony). Nie jest to na ogół działanie, jakiego oczekujemy, pojawiło się więc kilka rozwiązań tej niedogodności.</p>
+
+<p>Najpopularniejsze polega na wstawieniu, tuż przed tagiem zamykającym rodzica, następującego zapisu:</p>
+
+<blockquote><pre>&lt;br style="clear: both;"&gt;</pre></blockquote>
+
+<p>Metoda ta ma jednak dwie wady: niepotrzebnie zaśmieca kod strony (co jest dla wielu do pominięcia) i powoduje pojawienie się zbędnego znaku złamania wiersza (co w zależności od pogody i populacji muflona, jest przez IE ignorowanie bądź nie).</p>
+
+<p>Najczystsza metoda nie wymaga ingerencji w kod HTML i sprowadza się do dodania w arkuszu CSS (dla elementu rodzica) jednej linijki:</p>
+
+<blockquote><pre>overflow: auto;</pre></blockquote>
+
+<p>Przeglądarka od tego momentu zaczyna się interesować wystającymi elementami i elegancko przedłuży nam obiekt rodzica do wymaganego rozmiaru. Należy jednak uważać, bo gdy rodzic ma zadeklarowaną stałą wysokość, to w jego boksie pojawią się paski przewijania (uzyskamy efekt taki, jak przy elemencie <code>&lt;iframe/&gt;</code>.</p>
+
+<p>Kolejny problem to wymuszenie minimalnej wysokości elementu. Najprościej byłoby napisać:</p>
+
+<blockquote><pre>#element
+{
+	min-height: 300px;
+}</pre></blockquote>
+
+<p>Jest jednak przeglądarka, która w dziedzinie wspierania standardów nigdy nas nie zawiedzie. IE skrupulatnie ignoruje wszelkie zapisy tego typu. Co więcej, nieprawidłowo implementuje też atrybut <code>height</code>, który w IE zachowuje się właśnie jak <code>min-height</code>. Z pomocą przychodzi nam wspomniany wcześniej hack:</p>
+
+<blockquote><pre>#element
+{
+	min-height: 300px;
+}
+* html #element
+{
+	height: 300px;
+}</pre></blockquote>
+
+<p>I kolejny problem: model boksa w IE prawidłowo został zaimplementowany dopiero w IE 6.0 i to tylko w trybie <em>strict</em> (w przeciwieństwie do domyślnego <em>quirks mode</em>). Powoduje to, że w przeglądarkach z Redmont padding nie wpływa na finalny rozmiar boksa. Innymi słowy, jeśli nasz obiekt ma szerokość zadeklarowaną na 100px i 20px paddingu z obu stron, to w IE zajmie dokładnie 100px, a na treść pozostanie 60px (po odjęciu 2x 20px), podczas gdy we wszystkich pozostałych przeglądarkach element zajmie 140px, rezerwując na treść całe (zadeklarowane w CSS) 100px.</p>
+
+<p>Jeśli nie jest wymagana zgodność ze starszymi przeglądarkami (np. IE 5.5), to problem dla ciebie nie istnieje. Wystarczy zadeklarować prawidłowy <code>DOCTYPE</code> i wymusić przejście przeglądarki w <em>strict mode</em>. W biznesie webdesignowym rzadko można sobie pozwolić na tego typu uproszczenia, bo ważny jest każdy klient serwisu, niezależnie od tego, jak starej przeglądarki używa. Jedynym sensownym rozwiązaniem pozostaje symulowanie paddingu za pomocą zagnieżdżonych elementów i marginesów.</p>
+
+<blockquote><pre>&lt;div id="outer"&gt;
+	&lt;div id="inner"&gt;
+		&lt;p&gt;Treść.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</pre></blockquote>
+
+<blockquote><pre>#outer
+{
+	/* padding: 5px */
+}
+#inner
+{
+	height: 100%;
+	margin: 5px;
+}</pre></blockquote>
+
+<p>W zależności od popularności tego tekstu, postaram się opisać więcej błędów i problemów, póki co - czekam na komentarze.</p>

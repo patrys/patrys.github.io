@@ -1,0 +1,111 @@
+---
+layout: post
+status: publish
+published: true
+title: Nie każcie mi czytać bzdur
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 173
+date: 2005-11-05 19:40:36.000000000 +01:00
+categories:
+- usability
+- software
+tags: []
+comments:
+- id: 2386
+  author: Kelner
+  author_url: ''
+  date: '2005-11-05 19:54:13 +0100'
+  date_gmt: '2005-11-05 19:54:13 +0100'
+  content: |-
+    Trudno się bardziej zgodzić. Rzadko spotyka się aplikacje, które przekazują tylko tyle informacji  ile potrzeba i w taki sposób, który nie przeszkadza użytkownikowi.
+    <br/>M.in. za to ubóstwiam GNOME.
+- id: 2387
+  author: sprae
+  author_url: ''
+  date: '2005-11-05 20:10:26 +0100'
+  date_gmt: '2005-11-05 20:10:26 +0100'
+  content: Poniewaz geniusz nie polega na gadaniu, a robieniu, wiec zasiadzmy do edytorow.
+- id: 2388
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-11-05 21:30:55 +0100'
+  date_gmt: '2005-11-05 21:30:55 +0100'
+  content: |-
+    Na studiach raczej nie uczą usability. Zamiast tego wolą tłuc Pascala i przerwania DOS-a :P Żeby napisać jakiś mało wku?wiający program trzeba się niestety trochę namęczyć.
+    <br/>
+    <br/>Zawsze można dodać do programu opcję &quot;Block unwanted popup message boxes&quot; ;)
+    <br/>
+    <br/>&gt; Czy jesteś pewien, że nie chcesz zapisać zmian? Ok; Anuluj
+    <br/>
+    <br/>Co byś kliknął? ;)
+- id: 2389
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-11-05 22:54:58 +0100'
+  date_gmt: '2005-11-05 22:54:58 +0100'
+  content: |-
+    &quot;Komunikaty o wykrytych błędach powinny zawierać, zamiast tajemniczych kodów, opis zrozumiały dla przeciętnego użytkownika.&quot;
+    <br/>
+    <br/>Powyższy tekst pochodzi z roku 1986 A.D. :)
+    <br/>http://www.uzytecznosc.pl/pogodzinach/historia/archiwalia/bezstresow
+- id: 2390
+  author: jpc
+  author_url: ''
+  date: '2005-11-06 15:44:18 +0100'
+  date_gmt: '2005-11-06 15:44:18 +0100'
+  content: |-
+    Może to cię zainteresuje? http://www.student.livjm.ac.uk/cmsphend/gnome/scoop.html
+    <br/>
+    <br/>Co prawda przedpotopowe i nie rozwijane, ale pomysł mi się bardzo podoba.
+    <br/>
+    <br/>Ogólnie rzecz biorąc --- święta racja.
+- id: 2391
+  author: Patrys
+  author_url: ''
+  date: '2005-11-06 16:04:46 +0100'
+  date_gmt: '2005-11-06 16:04:46 +0100'
+  content: |-
+    JPC:
+    <br/>
+    <br/>Znam scoopa, ale mi chodzi nie tylko o wyświetlanie nieinwazyjnych okienek. Problem w tym, że spora część aplikacji zadaje pytania, niczym Hubert Urbański - &quot;czy jesteś pewien?&quot; &quot;Masz jeszcze chwilę na zastanowienie,&quot; &quot;zaznaczamy A?&quot; &quot;Pamiętaj, że jeśli zaznaczysz A, to nie będzie już odwrotu.&quot;
+    <br/>
+    <br/>Dobrze napisany program powinien pytać tylko o to, co powoduje nieodwracalną utratę informacji (niestety, nie do wszystkiego da się zaimplementować sensowny mechanizm Undo).
+- id: 2392
+  author: jpc
+  author_url: ''
+  date: '2005-11-06 16:06:54 +0100'
+  date_gmt: '2005-11-06 16:06:54 +0100'
+  content: Oczywiście. JEst więcej takich --- np. wszystkie programy powinny mieć
+    mechanizm obsługi plików dyskowych taki jak Vim. Niestety w rzeczywistości większość
+    programistów nawet nie wie, że takie cuda ktoś wymyślił. W końcu na studiach nie
+    uczą...
+- id: 2393
+  author: smk
+  author_url: ''
+  date: '2005-11-06 16:45:55 +0100'
+  date_gmt: '2005-11-06 16:45:55 +0100'
+  content: A jaki to mechanizm?
+- id: 2394
+  author: jpc
+  author_url: ''
+  date: '2005-11-06 16:52:05 +0100'
+  date_gmt: '2005-11-06 16:52:05 +0100'
+  content: |-
+    Vim zawsze trzyma plik swap, który zawiera aktualny stan aplikacji (głównie chodzi o pozycję kursora i aktualną zawartość edytowanego pliku) i gdy otwierając plik, znajdzie swap, pozwala odtworzyć się z bufora.
+    <br/>
+    <br/>Ile razy uratowało mi to tyłek --- nie jestem w stanie policzyć. Nigdy nie straciłem dzięki temu ani jednej literki z powodu błędu komputera, a używałem tego nawet na losowo wieszającym, uszkodzonym Athlonie.
+---
+<p>Różne programy mają masę problemów z interfejsem, ale te bolesne i podstawowe powtarzają się nader często. To samo tyczy się też po części serwisów <abbr title="World Wide Web">WWW</abbr> i aplikacji internetowych.</p>
+
+<p>Przede wszystkim, nikt nie chce być informowany o wszystkim. Jasne, nie mam nic przeciwko komunikatom lecącym na konsolę - są bardzo pomocne, kiedy coś przestaje działać, ale - do jasnej cholery - nie chcę widzieć okna dialogowego z informacją, że program chce pisać pod adresem <code>0xDEADBEEF</code> i przyciskiem <q>Ok, mam to gdzieś</q>. Jest tylko jedna rzecz, która mogłaby mi bardziej zepsuć przyjemność z używania aplikacji - pytanie mnie o zgodę przy każdej takiej czynności. Jeśli programu mają używać ludzie, to niech autor przyjmie sensowne wartości domyślne. Zwykłego użytkownika nie obchodzi, jak program działa i do czego próbuje uzyskać dostęp, nie bawi go zabawa z certyfikatami <abbr title="Secure Socket Layer">SSL</abbr> i ma generalnie w dużym poważaniu wszystko, co nie jest <em>oczekiwanym</em> efektem końcowym.</p>
+
+<p>Jeśli nagrywam płytę, to nie chcę wiedzieć, że jakiś bufor się napełnił. Jeśli słucham muzyki, to nie interesuje mnie pomyślne odnalezienie tagów z danymi autora i tytułem piosenki. Podobnie, jak jadąc samochodem nie chcę być informowany o pomyślnej zmianie biegów. Jasne, powiadom mnie o czymś, co trwa niesamowicie długo (dla typowego użytkownika <q>niesamowicie</q> oznacza wszystko powyżej kilku sekund), ale zrób to w tym samym oknie, które pokazuje pasek postępu operacji (albo throbber, ale o tym napiszę kiedy indziej).</p>
+
+<p>Jeżeli masz jednak bardzo dobry powód, by pokazać mi wyskakujące okienko, to - u licha - nie czyń go modalnym. Wyobraź sobie, że jedziesz sobie właśnie rowerem, kiedy to na środku ulicy wyskakuje ci okienko z informacją o tym, że przejechany dystans sugeruje wizytę w przeglądzie. Zasłania kierownicę i blokuje hamulce. Nadjeżdżająca z naprzeciwka ciężarówka z pewnością mobilizuje cię do dokładnego zapoznania się z komunikatem przed jego zamknięciem.</p>
+
+<p>Tu pojawia się inna kwestia - skoro pokazujesz mi tyle wyskakujących komunikatów, że na ich zamykaniu spędzam niemal tyle czasu, co na właściwej pracy, to jak u licha wyłowię spośród nich te ważne? Czytanie wszystkich nie wchodzi w grę, a autorzy uwielbiają wręcz nadawać przyciskom wiele mówiące etykiety: <q>OK</q> i <q>Anuluj</q>. Widać umieszczenie tam napisów <q>Zapisz</q> i <q>Porzuć zmiany</q> wymaga nieprzebranych lat studiów w dziedzinie <abbr title="Human-Computer Interaction">HCI</abbr>.</p>
+
+<p><strong>Update:</strong> zapomniałbym o moim ulubieńcu. Pochodzenia już sobie nie przypomnę, ale któryś program obdarzył mnie takim oto komunikatem: <q>Czy jesteś pewien, że nie chcesz zapisać zmian? Ok; Anuluj.</q></p>

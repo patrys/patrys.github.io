@@ -1,0 +1,66 @@
+---
+layout: post
+status: publish
+published: true
+title: Kolejny awans
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 28
+date: 2004-06-14 10:25:18.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 87
+  author: Cachotterie
+  author_url: ''
+  date: '2004-06-14 11:01:18 +0200'
+  date_gmt: '2004-06-14 11:01:18 +0200'
+  content: A gdzie SynPrezesa? ;)
+- id: 88
+  author: Patrys
+  author_url: ''
+  date: '2004-06-14 11:02:02 +0200'
+  date_gmt: '2004-06-14 11:02:02 +0200'
+  content: Pewnie na dniach powróci z jeszcze większym impetem. Szykują się wdrożenia
+    z jego udziałem ;]
+- id: 89
+  author: Express
+  author_url: ''
+  date: '2004-06-14 14:38:06 +0200'
+  date_gmt: '2004-06-14 14:38:06 +0200'
+  content: |-
+    Ja myślę, że to SynPrezesa stoi za twoim awansem. W końcu, jak wszyscy wiemy, bardzo cię lubi.
+    <br/>
+- id: 90
+  author: qwiat
+  author_url: ''
+  date: '2004-06-16 17:31:15 +0200'
+  date_gmt: '2004-06-16 17:31:15 +0200'
+  content: 'Tak jak kiedyś powiedział Sierp na liscie dyskusyjnej do pewnego człowieka:
+    &quot;Jeśli robisz coś dostatecznie długo z własnej, nie przymuszonej woli, wszystcy
+    gotowi pomysleć że to twój pierdolony obowiązek&quot;. Tak ja ci powiadam chodźmy
+    dziś wczesniej do domu™. ;]'
+- id: 91
+  author: Czarna
+  author_url: ''
+  date: '2004-06-18 00:02:18 +0200'
+  date_gmt: '2004-06-18 00:02:18 +0200'
+  content: witamy w siecie &quot;doroslych&quot; gdzie praca nie hanbi, a przyslowie
+    &quot;co za duzo, to nie zdrowo&quot; nie obowiazuje.... pozdrawiam :)
+- id: 92
+  author: smoku
+  author_url: ''
+  date: '2004-07-01 15:27:02 +0200'
+  date_gmt: '2004-07-01 15:27:02 +0200'
+  content: '&quot;Jeśli zrobisz coś _raz_ w drodze wyjątku, potem będzie to traktowane
+    jak Twój obowiązek.&quot; - been there, seen that'
+---
+Cóż, zaczynałem pracę w firmie jako programista. Moje obowiązki były wyraźnie rozpisane, rozliczano mnie z terminów, wszystko było ok. Później firma zaproponowała mi pracę na jakże zaszczytnym stanowisku administratora. "Prawa ręka Boga" - pomyślałem, jako fan dość popularnej w internecie serii BOFH. Zgodziłem się, od tego czasu mam napisane w umowie "administrator/programista". Jak widać, celem ułatwienia mi asymilacji w nowym środowisku i wśród nowych obowiązków, firma wykazała się gestem i chojnie obsypała mnie nowymi obowiązkami, nie usuwając starych, z którymi zdążyłem się już tak dalece zaprzyjaźnić. Od tego pamiętnego dnia miast ciągnąć jeden wózek, pcham dwa. Terminy realizacji atomowych zadań nie uległy wydłużeniu, nadgodzin jak nie było, tak nie ma (przynajmniej w mniemaniu firmy, bo wychodzenie z pracy po 23 nie należy do rzadkości, w przeciwieństwie do wychodzenia przed 22). Podwójne życie, niczym superbohaterowie komiksowych serii z lat dzieciństwa. Za dnia programista, nocami administrator. Dr. Jackyl &amp; Mr. Hyde.<br />
+<br />
+Dziś wspaniałomyślność firmy kolejna raz była rozwarła przede mną swe wrota. Kopnął mnie kolejny zaszczyt, niczym ochotnicza służba wojskowa uznanego światowej sławy stratega, generała Koniecznego. W jednym z naszych sklepów internetowych mianowano mnie webadminem. Order gdzieś zaginął, dyplomik pewnie przyjdzie pocztą. Do moich nowych obowiązków należy między innymi "obróbka zdjęć produktów, wygląd korespondencji". "Toż to nudne" - mógłby ktoś rzec. Uprzedzając jednak zbędną retorykę, zarząd postanowił urozmaicić mi pracę. W natłoku wolnego czasu aż trudno się zrelaksować. Od teraz bowiem odpowiadam też za wprowadzanie zawartości plików .doc na stronę jednego z naszych klientów, magazynu sportowego. A strona ta mroczna oparta jest na wiedzy tajemnej i mistycznym PHP-Nuke, postrachu wszelakiej maści dwu- i czterokopytnych, którzy mają jakiekolwiek pojęcie o HTML.<br />
+<br />
+Amen.

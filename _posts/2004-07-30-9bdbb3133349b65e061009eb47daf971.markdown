@@ -1,0 +1,53 @@
+---
+layout: post
+status: publish
+published: true
+title: Zgubiony poemat Dr. Seuss'a
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 35
+date: 2004-07-30 11:55:45.000000000 +02:00
+categories:
+- varia
+tags: []
+comments: []
+---
+Postanowiłem zamieścić tekst podesłany mi przez Havnera. Myślę, że świetnie pasuje do klimatu strony. Wielkie dzięki, Havner. Zapraszam do lektury. Poza tym w ofercie pojawiły się <del>kultowe koszulki</del>! :)<br />
+
+> Ja Kocham Swoją Pracę!
+>
+> Ja kocham swoją robotę, zarobek kocham też!  
+> Ja kocham je coraz mocniej, czy słońce jest, czy deszcz.  
+> Ja kocham mego szefa, on przecież jest wspaniały.  
+> Kocham też jego szefów - i wszystkich pozostałych.
+>
+> Ja kocham swoje biuro i jego pochodzenie,  
+> Na urlopowy wyjazd go nigdy nie zamienię.  
+> Kocham biurowych mebli ponury szary kolor  
+> I sterty dokumentów rosnące wciąż na nowo.
+>
+> Wydajność mojej pracy wzrasta wręcz nadzwyczajnie  
+> I nie znam innych przyczyn by było mi tak fajnie.  
+> Ja kocham też obecność moich współpracowników,  
+> Pełną złośliwych uwag, uśmiechów, wykrzykników.
+>
+> Ja kocham mój komputer, kocham jego programy.  
+> Przytulam je do siebie, chociaż nie bez obawy.  
+> Ja kocham każdy program i wszystkie jego pliki  
+> Zwłaszcza jeśli ich praca przynosi mi wyniki.
+>
+> Szczęśliwy jestem tutaj! Tu źródło mej radości,  
+> Niewolnik swojej Firmy - to pełnia szczęśliwości!  
+> Ja kocham tę robotę. Ja kocham swe zadania.  
+> I kocham tych nudziarzy co ględzą na zebraniach.
+>
+> Ja kocham swoją pracę, być może was to nudzi.  
+> I również bardzo kocham przybyłych właśnie ludzi.  
+> Tych dwu przyjaznych ludzi, wcale nie żadnych głupków.  
+> Co w śnieżnobiałym kitlu wywiozą mnie do "czubków".
+
+Wolny przekład z angielskiego: Andrzej S.
+
+Niestety, źródło i dokładny autor nie są nam znane.

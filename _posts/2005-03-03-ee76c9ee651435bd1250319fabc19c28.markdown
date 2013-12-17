@@ -1,0 +1,105 @@
+---
+layout: post
+status: publish
+published: true
+title: Szukam pomysłów
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 63
+date: 2005-03-03 20:37:33.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 695
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2005-03-03 21:47:07 +0100'
+  date_gmt: '2005-03-03 21:47:07 +0100'
+  content: |-
+    Też miałem taki pomysł jakiś czas temu. W ramach ćwiczeń wprowadzających do Struts. ;)
+    <br/>
+    <br/>A jeżeli chodzi o &quot;pracę grupową zespołów programistycznych&quot;, to jeszcze bym chciał integrację z systemami budowania (co najmniej z Ant) i z systemami kontroli wersji (komentarze do ViewCVS?).
+- id: 696
+  author: ehh
+  author_url: ''
+  date: '2005-03-03 22:03:22 +0100'
+  date_gmt: '2005-03-03 22:03:22 +0100'
+  content: Brzmi ciekawie, powodzenia:)
+- id: 697
+  author: nbw
+  author_url: ''
+  date: '2005-03-03 22:16:33 +0100'
+  date_gmt: '2005-03-03 22:16:33 +0100'
+  content: |-
+    Jakbym siebie czytał sprzed roku-dwóch. Przy czym ja tworzyłem narzędzie nakierowane na developerkę gier i pogramów komputerowych.
+    <br/>
+    <br/>Wkurzało mnie, że wszystkie systemy do zarządzania programami mają masę ficzersów, które dla zwykłego zjadacza chleba są całkiem zbędne. W dodatku ich intuicyjność zostawała daleko w tyle, przez co developer spędzał 3/4 czasu próbując dodać coś do systemu. Miałem nadzieję stworzyć coś co będzie wymagało jak najmniej obsługi.
+    <br/>
+    <br/>Miał to być intuicyjny system ze stopniowaną złożonością (założenie, że np userowi: klient, nie jest potrzebne 90% opcji - wystarczy, że będzie widział w jakim miejscu stoi projekt), zintegrowanym CVS/SVN, bugtrackiem oraz panelem zarządzania jako .exe (dla &quot;góry&quot;). W dodatku oparty o XHTML+CSS i template&#039;y zatem łatwy do dostosowania dla danego projektu/firmy. W dodatku integracja z tasklistami i wyświetlanie stron w intranecie.
+    <br/>
+    <br/>Zaprzestałem rozwoju jak skończyło się finansowanie (miał być OS i free, ale ktoś moje rachunki płacić musi ;)
+    <br/>Teraz czeka na lepsze czasy.
+- id: 698
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2005-03-03 23:08:21 +0100'
+  date_gmt: '2005-03-03 23:08:21 +0100'
+  content: Może spróbuj FogBugz http://try4.fogbugz.com/ -- Joel Spolsky (http://www.joelonsoftware.com/)
+    to ikona w pewnych środowiskach, może pisze równie dobry soft, jak artykuły?
+- id: 699
+  author: jarv
+  author_url: ''
+  date: '2005-03-03 23:52:15 +0100'
+  date_gmt: '2005-03-03 23:52:15 +0100'
+  content: "patrys - zapomniales napisac cos baaardzo istotnego, co imho wynika z
+    naszych dialogow dzisiejszych - KISS - totalny. co mnie najbardziej wkurza w tego
+    typu narzedziach ? dwiescie pol do wypelnienia, sto opcji do zaznaczenia... i
+    sam nie wiem o co chodzi. w efekcie - spedzam wiecej czasu na opisywaniu tego
+    co robie niz na samym robieniu...\n<br/>\n<br/>minimalizm formy - to moje zalozenie
+    do tego projektu - czytelnosci przestrzen, dzieki ktorej bede wiedzial do czego
+    sluzy dany panel... \n<br/>\n<br/>am I right ?"
+- id: 700
+  author: m
+  author_url: ''
+  date: '2005-03-04 00:28:34 +0100'
+  date_gmt: '2005-03-04 00:28:34 +0100'
+  content: |-
+    www.xplanner.org
+    <br/>nie tylko do ikspe...
+- id: 701
+  author: str()
+  author_url: ''
+  date: '2005-03-04 08:30:46 +0100'
+  date_gmt: '2005-03-04 08:30:46 +0100'
+  content: |-
+    Przez szereg miesięcy miałem podobną potrzebę - zorganizować projekt. W miarę upływu czasu dochodzę jednak do wniosku, że aplikacje webowe to nie jest zawsze najlepszy pomysł. W firmie wykorzystujemy pmtoola, tzn. ktoś go pewnie wykorzystuje, bo sam jest tak obleśny i antynawigacyjny, że mało kto tam zagląda - w efekcie ukończone dawno zadania wiszą w nim całymi tygodniami. To jest moim zdaniem bolączka i wada większości webowych aplikacji - ich używanie jest 1. za trudne, 2. jeśli nie 1. to zbyt czasochłonne (te całe logowania, czekanie na wyświetlenie strony, słaba nawigacja klawiaturowa, itp. ograniczenia).
+    <br/>Co do Spolskiego - wziąwszy sobie do serca jego tekst o harmonogramowaniu zauważyłem, że praca idzie mi łatwiej, gdy potrafię ją zaplanować, oszacować, wiem też by poprosić o pomoc, gdy przekroczyłem dwukrotnie czas (po co dreptać w kółko samemu próbując naprawić misfeature).
+    <br/>I tu zaczynał się mój ChytryPlan(trejdmark): user-programista widzi w panelu (n)aplet. Aplet po kliknięciu przedstawia prosty harmonogram oraz umożliwia proste czynności: aktualizację harmonogramu, przełączenie się do innego zadania, odesłanie harmonogramu do kierownika/zespołu, zgłoszenie showstopera. Cała komunikacja jest przenoszona przez jabbera, który przypomina o czasie, informuje o nowych zadaniach, rozgłasza komentarze, zmywa, pierze, krawaty wiąże i rozwiązuje niechciane ciąże. Druga strona księżyca to sprzęg do Evolution, w którym kierownik zespołu planuje, szkicuje i kombinuje, a gdy kliknie Ok, zadanie zostaje zatwierdzone i rozesłane do wyznaczonych osób.
+    <br/>Jednym słowem całkowicie niewidoczny groupware, w tym sensie, że nie ma jakiejś kontrolnej webowej tablicy dla całego projektu, a w efekcie informacja jest bliżej każdego z jej odbiorców (subiektywne odczucie, że www jest &quot;dalej&quot; niż aplikacje lokalne).
+    <br/>Plan skończył się tam gdzie zaczął bo stwierdziłem, że 1. sam nie dam rady, 2. trzeba się zdecydować co do platformy, 3. jedyne sensowne języki/biblioteki clientside jakie znam to C# i Gtk# a i to słabo.
+    <br/>Więc odłożyłem pomysł do teczki &quot;Fajne, może kiedyś&quot;. Chętnie się jeszcze raz zmierzę z tym problemem, gdyby zaistniało jakieś zainteresowanie.
+- id: 702
+  author: Jajcus
+  author_url: ''
+  date: '2005-03-04 12:04:34 +0100'
+  date_gmt: '2005-03-04 12:04:34 +0100'
+  content: |-
+    A to już widzieliście?
+    <br/>http://projects.edgewall.com/trac/
+    <br/>
+    <br/>Dla mnie integracja z systemem kontroli wersji, to feature #1 w takich systemie. A wbudowane Wiki wydaje się dobrym sposobem na prowadzenie notatek.
+---
+<p>Od kilku lat szukam dobrego narzędzia do organizacji pracy grupowej. Jest sobie <a href="http://www.php-collab.org/">phpCollab</a> - od początku mój faworyt i ulubione narzędzie pracy, są i inne systemy. Wszystkie robią praktycznie to samo - umożliwiają zarządzanie projektem. Problem w tym, że żaden nie pozwala robić tego efektywnie. Reklamują się różnymi ficzerami, mają piękne zestawienia, wykresy, tabelki, fukcje liczące efektywność zespołu i poszczególnych członków, integrację z bugtrackerami, przypominacze, kalendarze osobiste, książki adresowe, rozliczenia z klientami itp. Wszystko byłoby dobrze, gdyby ktoś tego potrzebował. W każdej firmie szef jest jeden, pracowników wielu. W grupach zrzeszających freelancerów szefa nie ma wcale. Dlaczego więc nie istnieje żaden system, który przede wszystkim jest wygodny, a dopiero później przynosi szefowi gazetę w zębach? Ano istnieje, płatny. Nazywa się <a href="http://basecamphq.com/">Basecamp</a> i nim też interesuję się od dłuższego czasu. Wczoraj, po kolejnym przejrzeniu wszystkich screenów i listy zalet, a także lekturze kilku poważnych artykułów na temat jego użyteczności, postanowiłem zbudować taki system na własne potrzeby.</p>
+
+<p>Idea jest prosta: zbudować system, który pomoże w wygodnym zarządzaniu projektem w webdevelopingu. Czysty, przejrzysty, wygodny. Bez zbędnych tabelek i wykresów generowanych przez paskudne skrypty GD na potrzeby High Council w megakorporacjach. Potrzebne jest narzędzie, którego używanie będzie tak proste jak prowadzenie bloga. Oparte na liście zadań przypisanych do pracownika i projektu, z systemem weblogowej wymiany informacji tekstowych (notek) i weblogowymi komentarzami. Do tego możliwość załączania plików do notek, podpinania linków do tasklisty, kalendarz (który służy tylko i wyłącznie do wyświetlania zaległych i przyszłych terminów) i prosty podział na fazy projektu (zwykłe kategorie  postów, ewentualnie możliwość ustawienia któregoś z tasków jako milestone, a innym nadania statusu blokującego dany milestone).</p>
+
+<p>Dla projektów zewnętrznych powinna być możliwość przypisania klienta, a jego pracownikom umożliwienie śledzenia postępu nad pracami za pomocą jakiegoś prostego interfejsu (z możliwością dodawania notek).</p>
+
+<p>Z dodatkowych umilaczy: obowiązkowa obsługa RSS (jeśli się da, to wszystkiego - projektów, notek, komentarzy, todo), miło byłoby też wspierać iCal/vCal (do podpięcia tasklisty pod Evolution lub Sunbirda chociażby). Zastanawiam się też nad integracją z botem powiadamiającym na jabbera, bo to często szybsze i wygodniejsze niż poczta.</p>
+
+<p>Interfejsem zajmę się z Jarvisem, który przygotuje niedługo projekt graficzny (tutaj chciałbym iść w kierunku Basecamp). Problem zaś tyczy się funkcjonalności, bo zanim zaczniemy wdrażanie pomysłu, dobrze mieć zamkniętą listę oczekiwań. Może ktoś z was ma jeszcze jakiś pomysł? Coś, co widzieliście w jednym systemie, ale brakuje tego w drugim? Coś ułatwiającego pracę? Całość ma być nastawiona przede wszystkim na zespół. Nie chcę kolejnego napakowanego statystykami systemu, który dla zwykłych pracowników wygląda jak plik Worda po imporcie do notatnika lub jak widok źródła strony wykonanej we FrontPage'u.</p>
+
+<p>Miło byłoby, gdybym mógł efekt udostępnić za darmo (przynajmniej do użytku prywatnego), ale obiecać nic nie mogę. Może się nagle okazać, że firma będzie zainteresowana przejęciem projektu (co byłoby mi na rękę finansowo i ze względu na czas, jaki będę mógł poświęcić na rozwijanie pomysłu).</p>

@@ -1,0 +1,60 @@
+---
+layout: post
+status: publish
+published: true
+title: Bezczelność nie zna granic
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 8
+date: 2004-05-04 18:12:34.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 10
+  author: pik-pok
+  author_url: ''
+  date: '2004-05-04 19:24:23 +0200'
+  date_gmt: '2004-05-04 19:24:23 +0200'
+  content: |-
+    Ja mam wdrożyć system przejęty od pewnej firmy. Praktycznie nie ma żadnej dokumentacji, &quot;specyfikacja&quot; powstała jak się wkurzyłem i powiedziałem co o tym g?wnie myślę. Sam kod jest, delikatnie mówiąc, kiepskiej jakości, projekt bazy danych robił chyba szympans. Wszystko oczywiście ma działać o obsługiwać o dwa rzędy wielkości klientów więcej niż przewidywali &#039;tfurcy&#039;. Co gorsza, człowiek który zgodził się na to po &#039;mojej&#039; stronie nie wiedział na co dokładnie się zgadza i nie można się teraz wycofać. To jest kanał.
+    <br/>Jak na razie udało mi się wywalczyć pominięcie wprowadzanie jakichkolwiek zmian do tego bajzlu, boję się tylko że to wszystko się wychrzani jak zostanie udostępnione klientom i oczywiście ja będę musiał to ratować.
+    <br/>
+    <br/>Kto da więcej? ;)
+- id: 11
+  author: Patrys
+  author_url: ''
+  date: '2004-05-04 20:04:52 +0200'
+  date_gmt: '2004-05-04 20:04:52 +0200'
+  content: Ja kiedyś musiałem dla dość popularnego portalu noclegowego przepisać cały
+    system, który dość znany provider usług internetowych napisał w perlu. Panowie
+    chyba akurat raczyli się maryśką podczas tworzenia tego cudeńka. W bazie danych
+    wszystkie pola miały dwuliterowe nazwy. Do tego okazało się, że trzeba znacznie
+    powiększyć funkcjonalność tego wynalazku (dodać nowe ficzery), a całość i tak
+    ledwo zipała, głównie ze względu na leniwy projekt bazy. Ale co im się dziwić,
+    zrobili to w ramach wykupionego pakietu usług (czyli niejako &quot;lecieli po
+    kosztach&quot;). Na koniec ten miły pan (właściciel bazy noclegowej) zalegał nam
+    (ekipa obejmowała też grafika, specjalistę od designu, itp.) w sumie około 5 000
+    PLN.
+- id: 12
+  author: aaaaaaa
+  author_url: ''
+  date: '2005-11-24 15:46:06 +0100'
+  date_gmt: '2005-11-24 15:46:06 +0100'
+  content: ale jazda
+- id: 13
+  author: aaaaaaa
+  author_url: ''
+  date: '2005-11-24 15:46:52 +0100'
+  date_gmt: '2005-11-24 15:46:52 +0100'
+  content: podejść do gościa i mu napluć w tważ
+- id: 14
+  author: aaaaaaa
+  author_url: ''
+  date: '2005-11-24 15:47:13 +0100'
+  date_gmt: '2005-11-24 15:47:13 +0100'
+  content: 'dewgabbfjjjjjjkj, c   dttr r  r tttttzwyhz '
+---
+W okolicach lutego w firmie spalił się serwer. Poszła płyta główna. Komputer miał iść do naprawy, miał się tym zająć syn prezesa. Zabrał serwer do serwisu, po czym zadzwonił do firmy z informacją, że nowe części będą kosztować ponad półtora tysiąca. Wierutna bzdura, bo wszystko na gwarancji i nie miało nawet pół roku. Prezes się na taki wydatek nie zgodził, a serwer zniknął z firmy całkiem (!). Dzisiaj pojawia się syn prezesa i mówi, żebym mu przydzielił IPka z wyjściem na świad na DHCP. Chciałem zobaczyć, co to za nowy wynalazek przytaszczył do firmy, a tu niespodzianka... mój serwerek, z tym, że teraz nazywa się już komputerem sąsiada-syna-prezesa. Ktoś pracuje w gorszych warunkach?

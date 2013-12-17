@@ -1,0 +1,112 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #005: Dlaczego informatycy chodzą niewyspani'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 65
+date: 2005-03-17 21:33:32.000000000 +01:00
+categories:
+- comic
+tags: []
+comments:
+- id: 704
+  author: owocowy
+  author_url: ''
+  date: '2005-03-17 21:35:10 +0100'
+  date_gmt: '2005-03-17 21:35:10 +0100'
+  content: Wiesz... ta funkcja jest raczej odwrotnieproporcjonalna ;]
+- id: 705
+  author: Smoothguy
+  author_url: ''
+  date: '2005-03-17 21:35:59 +0100'
+  date_gmt: '2005-03-17 21:35:59 +0100'
+  content: A wiesz co? Coś w tym jest... :)
+- id: 706
+  author: Jajcus
+  author_url: ''
+  date: '2005-03-17 21:36:29 +0100'
+  date_gmt: '2005-03-17 21:36:29 +0100'
+  content: |-
+    ... i czemu dajesz takie krótkie wpisy na Joggera?...
+    <br/>(zdaje się, że miał być obrazek, ale go nie widać)
+- id: 707
+  author: Patrys
+  author_url: ''
+  date: '2005-03-17 21:37:30 +0100'
+  date_gmt: '2005-03-17 21:37:30 +0100'
+  content: Hmm, obrazek leży na firmowym koncie i dotąd nie było problemów z łącznością
+    tamtejszą...
+- id: 708
+  author: Smoothguy
+  author_url: ''
+  date: '2005-03-17 21:38:38 +0100'
+  date_gmt: '2005-03-17 21:38:38 +0100'
+  content: No i jest, a przynajmniej ja go widzę. Może czas na zmianę okularów? Wiesz...
+    teraz są takie zniżki, np. dla Ciebie 66,6%. :D
+- id: 709
+  author: torero
+  author_url: ''
+  date: '2005-03-17 21:38:52 +0100'
+  date_gmt: '2005-03-17 21:38:52 +0100'
+  content: True, true... pokazałem Żonie :)
+- id: 710
+  author: Jajcus
+  author_url: ''
+  date: '2005-03-17 21:41:39 +0100'
+  date_gmt: '2005-03-17 21:41:39 +0100'
+  content: |-
+    &quot;patrys.icenter.pl could not be found&quot;
+    <br/>A alt możnaby jednak dać niepuste, żeby nie trzeba było do źródeł zaglądać, żeby sprawdzić, że tam jakiś obrazek ma być. Czasem ktoś może nie mieć pojęcia o co we wpisie chodzi, bo bez żadnej podpowiedzi nie wpadnie na to, żeby się na graficzną przeglądarkę przełączyć...
+- id: 711
+  author: amag
+  author_url: ''
+  date: '2005-03-17 22:56:56 +0100'
+  date_gmt: '2005-03-17 22:56:56 +0100'
+  content: lol
+- id: 712
+  author: Kate
+  author_url: ''
+  date: '2005-03-17 23:39:57 +0100'
+  date_gmt: '2005-03-17 23:39:57 +0100'
+  content: dzieki wielkie, już wiem dlaczego Mój wygląda jak wygląda;-)
+- id: 713
+  author: buzuki
+  author_url: ''
+  date: '2005-03-17 23:51:48 +0100'
+  date_gmt: '2005-03-17 23:51:48 +0100'
+  content: sam/a narysowala(e)s??
+- id: 714
+  author: Patrys
+  author_url: ''
+  date: '2005-03-18 19:52:15 +0100'
+  date_gmt: '2005-03-18 19:52:15 +0100'
+  content: |-
+    buzuki: tak, do pracy używam:
+    <br/>
+    <br/>- Gnome 2.10.0
+    <br/>- GIMP 2.2.3
+    <br/>- Swoich rąk
+    <br/>
+    <br/>Jakość jest, jaka jest. Ja nie jestem rysownikiem, tylko programistą/administratorem.
+- id: 715
+  author: Cachotterie
+  author_url: ''
+  date: '2005-03-19 13:08:22 +0100'
+  date_gmt: '2005-03-19 13:08:22 +0100'
+  content: 'Z innej beczki: obiecałeś mi inną bluzeczkę na następny komiks, i co?
+    ;]'
+- id: 716
+  author: Bogas
+  author_url: ''
+  date: '2005-04-19 00:22:36 +0200'
+  date_gmt: '2005-04-19 00:22:36 +0200'
+  content: No kurczę, Patrys naprawdę to jest świetne :) Mało się naleśnikiem nie
+    zaksztusiłem :D
+---
+<p>Gdyby ktoś się zastanawiał, czemu chodzę z podkrążonymi oczami zamiast spać 8 godzin, jak człowiek...</p>
+
+<p class="strip"><img src="http://patrys.icenter.pl/comic/005-sleep.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>

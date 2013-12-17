@@ -1,0 +1,415 @@
+---
+layout: post
+status: publish
+published: true
+title: O dobrych intencjach i kiepskim designie
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 93
+date: 2005-05-25 23:34:23.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 1110
+  author: Nivertius
+  author_url: ''
+  date: '2005-05-25 23:58:43 +0200'
+  date_gmt: '2005-05-25 23:58:43 +0200'
+  content: Wiesz... pierwszy raz się z Tobą w stu procentach zgadzam ;-)
+- id: 1111
+  author: Patrys
+  author_url: ''
+  date: '2005-05-26 00:11:29 +0200'
+  date_gmt: '2005-05-26 00:11:29 +0200'
+  content: To czemu nigdy nic nie piszesz? ;]
+- id: 1112
+  author: Nivertius
+  author_url: ''
+  date: '2005-05-26 00:12:01 +0200'
+  date_gmt: '2005-05-26 00:12:01 +0200'
+  content: Bo niestety, bardzo źle reagujesz na krytyke.
+- id: 1113
+  author: Patrys
+  author_url: ''
+  date: '2005-05-26 00:13:03 +0200'
+  date_gmt: '2005-05-26 00:13:03 +0200'
+  content: A można przykład jakiś konkretniej? Cokolwiek niezwiązanego z pewnym komunikatorem...
+- id: 1114
+  author: Nivertius
+  author_url: ''
+  date: '2005-05-26 00:14:34 +0200'
+  date_gmt: '2005-05-26 00:14:34 +0200'
+  content: |-
+    Niestety. Właśnie to o czym myślisz wpłynęło najbardziej na moją ocene, ze względu na skale tego &#039;wydarzenia&#039;.
+    <br/>A SW3 mi się podobało ;-P
+- id: 1115
+  author: Patrys
+  author_url: ''
+  date: '2005-05-26 00:17:17 +0200'
+  date_gmt: '2005-05-26 00:17:17 +0200'
+  content: Tylko że tam większość krytyki dotyczyła mojego przyrodzenia, a połowa
+    ludzi nawet nie przeczytała tego, o co chodzi. Ja krytykę przyjmuję bardzo chętnie,
+    bo nie uważam się za JedynegoNieomylnego[tm].
+- id: 1116
+  author: Nivertius
+  author_url: ''
+  date: '2005-05-26 00:24:11 +0200'
+  date_gmt: '2005-05-26 00:24:11 +0200'
+  content: |-
+    Dobra, może masz racje [niestety, to, że kiepsko reagujesz na krytyke się potwierdza ;-)].
+    <br/>Ale podsumowując Twój wpis, to powiem tak:
+    <br/>Najpierw się powinno robić treść dokumentu, oznaczająć odpowiednie części odpowiednimi tagami, z wykluczeniem div&#039;a, zakładając, że ta strona, to będzie zwykły czarnobiały dokument. Potem nakładać style grupując merytorycznie jednolite części div-ami, ale najlepiej jak najmniej. I strona powinna być dobra.
+- id: 1117
+  author: Patrys
+  author_url: ''
+  date: '2005-05-26 00:27:20 +0200'
+  date_gmt: '2005-05-26 00:27:20 +0200'
+  content: Dokładnie, dokument powinien opierać się na treści, która następnie ubierana
+    jest w wygląd zgodny z projektem grafika, a nie projektem grafika, w który próbuje
+    się poupychać treść.
+- id: 1118
+  author: Nivertius
+  author_url: ''
+  date: '2005-05-26 00:31:36 +0200'
+  date_gmt: '2005-05-26 00:31:36 +0200'
+  content: |-
+    No to powiedziałem to samo ;-)
+    <br/>BTW: trzeba reklamować: http://olejie.uaznia.net/ ;-)
+- id: 1119
+  author: Patrys
+  author_url: ''
+  date: '2005-05-26 00:34:25 +0200'
+  date_gmt: '2005-05-26 00:34:25 +0200'
+  content: Heh, mój jogger przez prawie rok był całkowicie nieosiągalny w IE ze względu
+    na to, że złośliwie zaopatrzyłem go w czarne litery na czarnym tle i pseudoklasy
+    :hover, których IE nie rozumie ;]
+- id: 1120
+  author: janek
+  author_url: ''
+  date: '2005-05-26 00:39:51 +0200'
+  date_gmt: '2005-05-26 00:39:51 +0200'
+  content: http://www.wydawnictwoamber.pl/ - podręcznikowy przykład divitis. W &lt;body/&gt;
+    nie ma żadnego taga oprócz &lt;div/&gt;, &lt;img/&gt; i &lt;a/&gt;.
+- id: 1121
+  author: Patrys
+  author_url: ''
+  date: '2005-05-26 00:44:55 +0200'
+  date_gmt: '2005-05-26 00:44:55 +0200'
+  content: |-
+    OMG! Padłem, to ja nieświadomie całkiem opisałem ich sajt tutaj właśnie. Też nie słyszeli wcale o kaskadzie, a najbardziej widocznym elementem u dołu strony są linki do walidacji, jakby któremukolwiek klientowi były do czegoś potrzebne. Ci, których to interesuje, nie potrzebują linka na stronie, żeby sprawdzić jej poprawność.
+    <br/>
+    <br/>Menu jest boskie. Ile pan Bartłomiej Urban musiał się natrudzić, żeby z pomocą DIVów zasymulować idealnie wygląd typowego UL...
+    <br/>
+    <br/>
+    <br/>Nie można im odmówić tylko jednego, sensownie używają niełamliwych spacji.
+- id: 1122
+  author: jpc
+  author_url: ''
+  date: '2005-05-26 00:53:14 +0200'
+  date_gmt: '2005-05-26 00:53:14 +0200'
+  content: |-
+    Hmm... Ktoś powie mi, czemu nie można w CSSie tworzyć layoutów tabelkowatych? Czemu do robienia layoutu trzeba abusować floaty i kombinować jak koń pod górę, żeby ułożyło się tak jak my chcemy, zamiast semantyczne divy włożyć w prezentacyjną tabelkę?
+    <br/>No i czemu nie ma atrybutu, który tworzył by minipage z pudełka? Aby np. float zrobiony wewnątrz takowego nie oddziaływał z niczym będącym poza nim?
+- id: 1123
+  author: Patrys
+  author_url: ''
+  date: '2005-05-26 01:00:54 +0200'
+  date_gmt: '2005-05-26 01:00:54 +0200'
+  content: "Prezentacyjna tabelka zabija ideę sematycznego kodu, gdzie oryginalny
+    dokument jest drzewem o jawnym podziale na nagłówki i treść. Nie daje się też
+    czytać przez screen readery. Poza tym jest koszmarem, jeśli chodzi o przygotowanie
+    stylów dla wydruku.\n<br/>\n<br/>&quot;display: block&quot; jest samowystarczalny,
+    floatowane w nim elementy nie mają prawa oddziaływać z resztą strony. Wyjątkiem
+    są te, które wystają poza box, ale zaradzić temu można nadając mu atrybut &quot;overflow:
+    auto&quot; - wtedy box rozciąga się tak, aby pomieścić wszystkie floaty. "
+- id: 1124
+  author: jpc
+  author_url: ''
+  date: '2005-05-26 01:10:04 +0200'
+  date_gmt: '2005-05-26 01:10:04 +0200'
+  content: |-
+    Nie zrozumiałeś mojego pierwszego pytania. Dlaczego nie można semantycznej strony poukładać według najbardziej naturalnej dla człowieka metody składu --- podziału na kawałki o zadanych proporcjach?
+    <br/>Dokument jest nadal drzewem z nagłówkami i treścią, ale jest też miejsce na część prezentacyjną, menu itp.
+    <br/>
+    <br/>Nie jest tak do końca... Nie można robić position: absolute względem nadrzędnego pudełka, niektóre inne pomyśły tez nie działają... Nie jestem Ci chyba w stanie podać w tej chwili konkretnego przykładu, ale wiem, że często musiałem niesamowicie kombinować, żeby to obejść (głównie wiązało się to z centrowaniem zawartości strony --- tak jak u Ciebie na joggu).
+- id: 1125
+  author: Patrys
+  author_url: ''
+  date: '2005-05-26 01:12:59 +0200'
+  date_gmt: '2005-05-26 01:12:59 +0200'
+  content: |-
+    jpc:
+    <br/>
+    <br/>http://patrys.icenter.pl/test/2005-01-10-absolute-positioning/
+    <br/>
+    <br/>http://liderkredyty.pl/pl/index
+    <br/>
+    <br/>Bez problemu używam absolutnego pozycjonowania względem nadrzędnego boksa. Od tego jest &quot;position: relative&quot; między innymi - wszystkie dzieci danego elementu są wtedy pozycjonowane względem niego.
+- id: 1126
+  author: jpc
+  author_url: ''
+  date: '2005-05-26 01:17:45 +0200'
+  date_gmt: '2005-05-26 01:17:45 +0200'
+  content: |-
+    Tym mnie zaskoczyłeś --- nie miałem pojęcia o takim ubocznym skutku position: relative. :)
+    <br/>
+    <br/>Nadal odpowiedź na pytanie pierwsze pozostaje tajemnicą. ;]
+- id: 1127
+  author: Drillah
+  author_url: ''
+  date: '2005-05-26 01:18:25 +0200'
+  date_gmt: '2005-05-26 01:18:25 +0200'
+  content: Dziękuje ci za tą notke, wiele mi ona wyjaśniła. Będe tu częściej wpadał
+    bo widzę, że mądrze piszesz ;)
+- id: 1128
+  author: Patrys
+  author_url: ''
+  date: '2005-05-26 01:21:30 +0200'
+  date_gmt: '2005-05-26 01:21:30 +0200'
+  content: |-
+    jpc:
+    <br/>
+    <br/>Ale ja przecież napisałem, że tam gdzie przejście robi się bez korzyści dla kodu ze względu na semantykę, tam robienie oceanu DIVów jest sportem.
+    <br/>
+    <br/>Tak długo, jak dokument ma sens po wyłączeniu CSS, możesz używać tabelek do woli. Są rzeczy, których najlepiej zbudowanymi DIVami nie zrobisz - choćby dwukolumnowy układ z równaniem do dołu.
+- id: 1129
+  author: janek
+  author_url: ''
+  date: '2005-05-26 01:23:45 +0200'
+  date_gmt: '2005-05-26 01:23:45 +0200'
+  content: "jpc: \n<br/>ad 1: to jest do zrobienia; należy wykorzystać display: table;
+    tylko, że to nie działa w IE, więc nikt tego nie używa. Kiedyś zrobiłem coś takiego:
+    http://tnij.org/demo - same divy: niektóre jako table, niektóre jako table-row,
+    i niektóre jako table-cell."
+- id: 1130
+  author: Patrys
+  author_url: ''
+  date: '2005-05-26 01:25:24 +0200'
+  date_gmt: '2005-05-26 01:25:24 +0200'
+  content: A w czym to jest lepsze od zwykłej tabeli, jeśli zajmuje 10 razy tyle kodu?
+    Fakt, że może lepiej pasuje do wyświetlaczy komórek, ale wolałbym już użyć JS
+    do tego celu i zachować czysty kod.
+- id: 1131
+  author: jpc
+  author_url: ''
+  date: '2005-05-26 01:32:12 +0200'
+  date_gmt: '2005-05-26 01:32:12 +0200'
+  content: |-
+    Myślałem o tym, zeby divy wcisnąc w wygenerowaną JSem tabelkę. Strona zachowałaby semantykę, ale wyświetlałaby się tak, jak chciałbym, by to robiła. :)
+    <br/>
+    <br/>Chodzi mi właśnie nie o tabelki semantyczne, ale o tabelki mające na celu tylko i wyłącznie pozycjonowanie. Dlatego nieobecne w kodzie XHTMLowym, a jedynie w CSSie (lub innym pliku).
+- id: 1132
+  author: Patrys
+  author_url: ''
+  date: '2005-05-26 01:37:59 +0200'
+  date_gmt: '2005-05-26 01:37:59 +0200'
+  content: |-
+    jpc:
+    <br/>
+    <br/>http://www.hotdesign.com/seybold/everything.html
+    <br/>
+    <br/>http://www.sitepoint.com/print/rounded-corners-css-javascript
+- id: 1133
+  author: jarv
+  author_url: ''
+  date: '2005-05-26 01:50:38 +0200'
+  date_gmt: '2005-05-26 01:50:38 +0200'
+  content: |-
+    @Nivertius: dobrze mowisz ;) SW3 jest swietne - dalej podtrzymuje moje zdanie, ze film mi sie podobal.
+    <br/>
+    <br/>a co do posta - patrys - wiecej takich wynurzen - moze wreszcie zaczne lepiej jarzyc xhtml+css ;)
+- id: 1134
+  author: jpc
+  author_url: ''
+  date: '2005-05-26 02:10:04 +0200'
+  date_gmt: '2005-05-26 02:10:04 +0200'
+  content: |-
+    To pierwsze to chyba nie o tym: piszą czemu tabelki HTMLowe są złym narzędziem do pozycjonowania, ale nie piszą, czemu sama *idea* tabelki (albo raczej siatki) użytej do ustawiania wszystkiego gdzie trzeba jest zła...
+    <br/>
+    <br/>To drugie całkiem fikuśne, ale takie rozwiązanie JSowe jakoś nie wydaje mi się dużo lepsze od 4 divów wrzuconych jak leci...
+- id: 1135
+  author: Jajcus
+  author_url: ''
+  date: '2005-05-26 10:39:10 +0200'
+  date_gmt: '2005-05-26 10:39:10 +0200'
+  content: 'jpc: No właśnie. Jakiś &quot;grid&quot; (żeby nie mylic z HTMLowym &lt;table/&gt;)
+    w CSS by się przydał.'
+- id: 1136
+  author: Nivertius
+  author_url: ''
+  date: '2005-05-26 11:05:33 +0200'
+  date_gmt: '2005-05-26 11:05:33 +0200'
+  content: |-
+    jarv: Ja nie powiedziałem, że jest świetny, tylko, że mi się podobał ;-), tu raczej nie ma wiele więcej do powiedzenia.
+    <br/>Chociaż może jest:
+    <br/>Tagi są po to, aby ich używać. Ja nie wiem, ale chyba tylko zapaleńcy używają tagu &lt;blockquote/&gt;, bo przecież &#039;na prawdziwej stronie to jest niepotrzebne&#039;. Nikt nie zabrania oznaczać tekstu przez &lt;code/&gt; &lt;cite/&gt; &lt;dfn/&gt;, &lt;abbr/&gt; itp. a jednak dużo twórców stron nie zna w ogóle takich tagów. A to jest wartosciowa sprawa, bo przeglądarki tekstowe, które może mogłyby rozumieć CSS, ale po co ;-), zaznaczą sobie tekst w odpowiedni sposób, np. zamiast tekstu grey będzie white.
+    <br/>Zastanawia mnie tylko jedno: dlaczego z XHTML1.1 wyrzucili &lt;u/&gt; a zostawili &lt;i/&gt; i &lt;b/&gt;. Owe tagi przecież ewidentnie oznaczają prezentacyjnie treść, nie logicznie, jak powinny. Jeden &lt;b/&gt; zamieniony na &lt;em/&gt; jest krokiem do przodu.
+    <br/>I jeszcze jedna rzecz do powiedzenia: menu po zawartości strony. Szczególnie dobrze napisane menu na ul-ach, które niestety niebotycznie się rozciągają na wysokość, gdy nie są stylowane. Pod przeglądarkami tekstowymi wygląda to tak, że treść dokumentu można dopiero zacząć czytać po przewinięciu dwóch &#039;ekranów&#039;, i tak co każdą strone. A problem to nie jest, bo w dobrze napisanej stronie przerzucenie menu pod treść to jest dosłowne przeniesienie kawałka kodu.
+    <br/>Z tego samego powodu właśnie tabelki są be, bo jak się chce mieć menu po lewej stronie, to ono musi być przed treścią strony...
+- id: 1137
+  author: Patrys
+  author_url: ''
+  date: '2005-05-26 12:24:33 +0200'
+  date_gmt: '2005-05-26 12:24:33 +0200'
+  content: |-
+    XHTML1.1 to hybryda, podobnie jak CSS2.1 - coś pośredniego pomiędzy XHTML1.0 Transitional, a obecnym wsparciem przeglądarek.
+    <br/>
+    <br/>Krótkie menu powinno być nad kodem strony. Tam też wyświetlają się odnośniki zdefiniowane przez &lt;link/&gt;.
+    <br/>
+    <br/>Przy bardzo rozbudowanym menu lepszym rozwiązaniem jest &quot;skip to content&quot; niż kazanie komuś przewijać całej marketingowej papki długości książki w dół.
+- id: 1138
+  author: Nivertius
+  author_url: ''
+  date: '2005-05-26 12:35:52 +0200'
+  date_gmt: '2005-05-26 12:35:52 +0200'
+  content: |-
+    Wybacz: ale co ma Twoje pierwsze zdanie do nieusunięcia &lt;b/&gt;?
+    <br/>
+    <br/>Bardzo krótkie menu dotyczące aktualnej strony owszem, ale nie cały linkowany konspekt portalu...
+    <br/>Zresztą tak naprawdę, to cała nawigacja, oprócz linków &#039;inline&#039; powinna znajdować się w nagłówku strony, a przeglądarka powinna ją tworzyć jako zewnętrzne menu. Niestety, obecne rozwiązanie jakim jest &lt;link/&gt; jest do tego nie przystosowane...
+- id: 1139
+  author: Patrys
+  author_url: ''
+  date: '2005-05-26 13:06:05 +0200'
+  date_gmt: '2005-05-26 13:06:05 +0200'
+  content: Dla mnie XHTML1.1 nie nadaje się do zastosowania. Zawiera kupę śmiecia
+    w postaci elementów, których tam być nie powinno, brakuje mu za to kilki rzeczy
+    w drzewie DOM (np. opcjonalnym tagom nie można nadawać ID).
+- id: 1140
+  author: Nivertius
+  author_url: ''
+  date: '2005-05-26 13:35:48 +0200'
+  date_gmt: '2005-05-26 13:35:48 +0200'
+  content: |-
+    Ja tam jakoś nie narzekam, nigdy nie sprawił mi jakichś dziwnych problemów, robię strony tak jak chce i często &#039;od kopa&#039; się validują.
+    <br/>Czekam na XHTML2.0, gdzie będzie [miejmy nadzieje] &lt;section/&gt; i &lt;header/&gt;, nie będzie problemu &#039;który nagłowek teraz&#039;...
+    <br/>Ale bardziej czekam na CSS3 ;-)
+- id: 1141
+  author: Patrys
+  author_url: ''
+  date: '2005-05-26 15:29:10 +0200'
+  date_gmt: '2005-05-26 15:29:10 +0200'
+  content: A ja czekam, aż IE zacznie wspierać choć połowę z już obowiązujących standardów.
+    Tworzenie setki nowych nic nie zmieni w świecie, gdzie 70% ludzi nie zobaczy efektów
+    twojej pracy.
+- id: 1142
+  author: jpc
+  author_url: ''
+  date: '2005-05-26 17:27:05 +0200'
+  date_gmt: '2005-05-26 17:27:05 +0200'
+  content: |-
+    Patrys: to się zmienia, a jak będą standardy i zaczną się pojawiać fikuśne strony korzystające z nowych ficzerów, to i ludzie będą się chętniej przesiadać na Firefoxa/Operę/KHTML. :)
+    <br/>
+    <br/>W każdym razie nadal brak GRIDa mnie frapuje... ;]
+- id: 1143
+  author: Nivertius
+  author_url: ''
+  date: '2005-05-26 17:28:25 +0200'
+  date_gmt: '2005-05-26 17:28:25 +0200'
+  content: Tutaj jest troche błąd w takim podejściu, bo zatrzymamy się w 2001 roku
+    z wyglądem i możliwościami stron. Jak dla mnie, to trzeba przyspieszyć migracje
+    ludzi na inne przeglądarki. Gdy wejdzie CSS3, np. FF będzie już go obsługiwał
+    [już obsługuje to co weszło z trzeciej wersji - nieoficjalnie i trzeba robić dodatkowe
+    własności], IE dalej będzie zatrzymane na 1.5 a będzie więcej stron wykorzystujących
+    standarty, to ludzie będą szybciej migrować...
+- id: 1144
+  author: Nivertius
+  author_url: ''
+  date: '2005-05-26 17:29:03 +0200'
+  date_gmt: '2005-05-26 17:29:03 +0200'
+  content: No, jpc mnie o 80 sekund wyprzedził w tym co chciałem powiedzieć ;-)
+- id: 1145
+  author: mroq
+  author_url: ''
+  date: '2005-05-26 19:27:28 +0200'
+  date_gmt: '2005-05-26 19:27:28 +0200'
+  content: "Nadal będę używał tabel tam, gdzie css zawiedzie, bo trzeba to sobie przyznać,
+    że zawodzi w wielu sprawach. Czasem też tygodniowa męka tworzenia css-designu
+    jest nieopłacalna, bo kod istotnie się zwiększa. Mówią to nawet sami guru tego
+    sposobu projektowania. \n<br/>Według mnie ewangeliści css-design zamiast propagować
+    ideę czystego i dostępnego kodu zrobili nagonkę na tabelki podając przy tym mętne
+    powody, dla których należy rzucić owe tabele na korzyść nowego, jedynie słusznego
+    stylu projektowania stron.    \n<br/>\n<br/>Cieszę się, że trafiłem na tego posta,
+    bo to mi daje nadzieję, że są jeszcze ludzie, którzy krytycznie podchodzą do wszelkiego
+    rodzaju &quot;nowinek&quot;."
+- id: 1146
+  author: buc rorio
+  author_url: ''
+  date: '2005-05-31 07:53:18 +0200'
+  date_gmt: '2005-05-31 07:53:18 +0200'
+  content: "Problem z css jest jeden: Microsoft IE. Bardzo trudno zaprojektować coś
+    co dobrze wygląda w FF(z.b) i jakoś działa w IE. \n<br/>A co do nazw: czy white_11
+    nie jest funkcjonalne? A kogo to obchodzi!"
+- id: 1147
+  author: darkspirit
+  author_url: ''
+  date: '2005-10-17 23:21:10 +0200'
+  date_gmt: '2005-10-17 23:21:10 +0200'
+  content: |-
+    Amen.
+    <br/>
+    <br/>@mroq, wszystko jest dla ludzi ;] ale nagonka na tabelki, a raczej na tych, którzy stosowali je niezgodnie z ich przeznaczeniem jest całkowicie słuszna, założeniem xhtml i css jest przecież oddzielenie warstwy prezentacji od struktury strony, a tabelki w funkcji pozycjonowania łamią tą granicę, że już nie wspomnę, jak genialnie musi wyglądać odczytywanie takich stron przez przeglądarki odczytujące zawartość strony. Pomyśl o utopijnym świecie, w którym całkowicie odzielona struktura służy zarówno przeglądarkom, czytnikom RSS itp. Także tabelkom mówi nie!
+---
+<p>Wielu ludziom wydaje się, że jeśli potrafią narysować <q>fajny</q> splash albo zbudować dynamiczne menu w <abbr title="JavaScript">JS</abbr>, to są guru webdesignu. Błąd. Design to także projektowanie struktury dokumentu, semantyczne opisywanie danych, bo to właśnie dane stanowią podstawową część serwisu, a nie grafika i layout, przynajmniej w teorii.</p>
+
+<p><abbr title="Extensible HyperText Markup Language">XHTML</abbr> rozpoczął wielką rewolucję w dziedzinie aplikacji i serwisów webowych. Z jednej strony wniósł wiele dobrego, bo ludzie zaczęli interesować się składnią, a nie tylko wyglądem stron. Z drugiej zaś strony zmienił stare złe nawyki w jeszcze gorsze nowe. Dla sporej liczby osób <q>poprawna</q> konstrukcja serwisu to ikonka <a href="http://validator.w3.org/">walidatora</a> u dołu strony. Jest to wierutną bzdurą, bo walidacja z założenia jest narzędziem, a nie celem samym w sobie. Ma pomóc w odnajdywaniu błędów składniowych w serwisie, a nie definiować składnię jako taką. Jeśli zamianę tabeli na setkę absolutnie pozycjonowanych bądź precyzyjnie floatowanych <code>div</code>ów można nazwać celem samym w sobie, to dla mnie to jest sport, a nie webdevelopment. <code>div</code>, podobnie jak <code>span</code> jest elementem przezroczystym z punktu widzenia semantycznego. Syntaktycznie jest jak najbardziej poprawny i walidator nie powie o nim złego słowa, ale z punktu widzenia struktury dokumentu nie niesie ze sobą absolutnie żadnego znaczenia.</p>
+
+<p><q>I co z tego?</q> - ktoś zapyta. Choćby to, że strona nadaje się do oglądania tylko tak długo, jak długo skojarzony jest z nią arkusz <abbr title="Cascading Style Sheet">CSS</abbr>. Proponuję obejrzeć wynik swojej pracy w przeglądarce tekstowej. <q>Nikt nie używa przeglądarek tekstowych!</q> Używa. Najlepszym przykładem jest wyszukiwarka <a href="http://google.pl/">Google</a>. Roboty sieciowe i ich automatyka nie mają oczu, nie docenią wspaniale rozplanowanych boksów, idealnie wykadrowanego zdjęcia w tle, nie zwrócą uwagi na wyróżnienie tytułów za pomocą zgrabnych ikonek. Zobaczą długi listing tekstu, który po obraniu z wszelakiej maści <code>div</code>ów posiada tyle informacji o strukturze, co dokument z notatnika.</p>
+
+<p>Skutki? Niska pozycja w wyszukiwarkach, a na tym chyba wszystkim zależy najbardziej. Żyjemy w czasach, kiedy komputer stał się dla wielu ludzi podstawowym narzędziem pracy. Potrafią efektywnie wyszukiwać interesujące ich informacje w sieci. Pod jednym warunkiem, że informacje te chcą dać się znaleźć. Nie oszukujmy się, możesz wydrukować setki ulotek, rozesłać ogłoszenia, wywiesić plakaty. Większość odwiedzających trafi na twoje strony za pośrednictwem wyszukiwarek i odnośników z innych serwisów. Stąd potrzeba semantycznego opisu dokumentu, stosowania różnych poziomów nagłówków, opisywania paragrafów tekstu, walidacji kodu.</p>
+
+<p>Druga po <em>divitis</em> ciężka choroba współczesnego internetu to <em>classitis</em>, jak żartobliwie określa się prewencyjne <q>uklasowienie</q> każdego możliwego elementu na stronie. Klasy z definicji są kaskadowe, co oznacza dziedziczenie i propagację. Trzeba o tym pamiętać, żeby więcej nie tworzyć kwiatków w stylu:</p>
+
+<blockquote><pre>&lt;img class="img_no_frame" src="..." alt="" /&gt;</pre></blockquote>
+
+<p>A zapewniam, że jest to przykład z życia wzięty. Jeśli większość elementów danego typu ma na stronie te same cechy, to należy je zdefiniować jako podstawowe cechy danego elementu, a klasami opisywać jedynie wyjątki:</p>
+
+<blockquote><pre>img
+{
+	border: 0;
+}
+.miniaturka
+{
+	border: 1px solid #f00;
+}</pre></blockquote>
+
+<p>Klasy posiadają też selektory, które służą do kontekstowego wybierania elementów, do których odnoszą się reguły CSS. Stąd zamiast pisać:</p>
+
+<blockquote><pre>&lt;div id="menu"&gt;
+	&lt;a class="menu_link" href="..."&gt;strona 1&lt;/a&gt; |
+	&lt;a class="menu_link" href="..."&gt;strona 2&lt;/a&gt; |
+	&lt;a class="menu_link" href="..."&gt;strona 3&lt;/a&gt;
+&lt;/div&gt;</pre></blockquote>
+
+<blockquote><pre>#menu
+{
+	...
+}
+.menu_link
+{
+	color: #00f;
+}</pre></blockquote>
+
+<p>Lepiej napisać:</p>
+
+<blockquote><pre>&lt;div id="menu"&gt;
+	&lt;a href="..."&gt;strona 1&lt;/a&gt; |
+	&lt;a href="..."&gt;strona 2&lt;/a&gt; |
+	&lt;a href="..."&gt;strona 3&lt;/a&gt;
+&lt;/div&gt;</pre></blockquote>
+
+<blockquote><pre>#menu
+{
+	...
+}
+#menu a
+{
+	color: #00f;
+}</pre></blockquote>
+
+<p>Od razu robi się prościej i przejrzyściej. Należy tylko pamiętać o tym, że w kodzie jednego dokumentu nie mają prawa znaleźć się dwa elementy o takiej samej wartości atrybutu <code>id</code>.</p>
+
+<p>Kolejna sprawa odnosi się do nazewnictwa klas. Grzechem powszednim jest nazywanie klas <q>white_11</q>, <q>td_top_red</q>, czy <q>red_underline</q>. Wiąże się to z podejściem do kodu z perspektywy programów <abbr title="What You See Is What You Get">WYSIWYG</abbr>, gdzie część prezentacyjna (wygląd) wymusza część strukturalną (kod). Powinno być dokładnie na odwrót, wygląd powinien być tylko dodatkiem do struktury, a klasy styli powinny mieć nazwy funkcjonalne. Jeśli postanowisz zmienić layout strony, klasa <q>godzina_wyslania_posta</q> pozostanie godziną wysłania posta, natomiast <q>white_11</q> może wyglądać nieco głupio, kiedy w rzeczywistości napisy będą miały czcionkę rozmiaru 25px i staną się czerwone.</p>

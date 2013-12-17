@@ -1,0 +1,103 @@
+---
+layout: post
+status: publish
+published: true
+title: Potrzebny tuning, ale interfejsu
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 48
+date: 2004-11-17 10:10:24.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 346
+  author: cr
+  author_url: ''
+  date: '2004-11-17 10:17:56 +0100'
+  date_gmt: '2004-11-17 10:17:56 +0100'
+  content: "&gt; Z tym, że nie wszystko, bo nie można uszkodzić \n<br/>&gt; wcześniejszych
+    dwudziestu siedmiu tysięcy.\n<br/>Robiłeś to na żywej bazie?"
+- id: 347
+  author: Patrys
+  author_url: ''
+  date: '2004-11-17 10:21:35 +0100'
+  date_gmt: '2004-11-17 10:21:35 +0100'
+  content: Backup bazy + import danych. Procedura nie przewiduje zakładania bazy tymczasowej,
+    poza tym muszą zostać zachowane unikatowe identyfikatory w polach auto_increment.
+    Klienci nie mają dostępu do tej części bazy, która jest importowana, a skrypty
+    są tak przygotowane, żeby niczego nie uszkodzić nawet w przypadku wyrwania kabla
+    zasilającego z serwera SQL.
+- id: 348
+  author: PeTe
+  author_url: ''
+  date: '2004-11-17 10:22:28 +0100'
+  date_gmt: '2004-11-17 10:22:28 +0100'
+  content: |-
+    Joł ... excel to przecież standardowe narzędzie bazdoanowe, tak jak word jest narzędziem do zapisywania zrzutów ekranu...
+    <br/>Swoją drogą użytkownik sklepu powinien się cieszyć, że ma podział na strony, a nie listę rozwijaną z kilkoma tysiącami pozycji (takie rozwiązanie miałem &#039;przyjemność&#039;) poprawiać ...
+- id: 349
+  author: da.killa
+  author_url: ''
+  date: '2004-11-17 10:33:36 +0100'
+  date_gmt: '2004-11-17 10:33:36 +0100'
+  content: Matkoboska... piekne...
+- id: 350
+  author: Cachotterie
+  author_url: ''
+  date: '2004-11-17 15:02:32 +0100'
+  date_gmt: '2004-11-17 15:02:32 +0100'
+  content: "&quot;Jedynym sposobem na prezentację tego, jakki przychodzi mi do głowy,
+    byłaby...&quot;\n<br/>Oj Patryś, gdzie Twoja wyobraźnia... ;) Kolega PeTe podał
+    jeszcze co najmniej jedno genialne w swej prostocie rozwiązanie :P\n<br/>\n<br/>A
+    tak poza tym - &quot;czy leci z nami pilot?&quot; :O \n<br/>Czy Ty masz jakiś
+    dar do przyciągania historii których Paranoya Pictures by się nie powstydziła,
+    czy to jest norma? Zaczynam się zastanawiać nad zmianą zawodu :]"
+- id: 351
+  author: DeeJay1
+  author_url: ''
+  date: '2004-11-18 17:36:43 +0100'
+  date_gmt: '2004-11-18 17:36:43 +0100'
+  content: |-
+    Cachotterie: to norma, przynajmniej do pewnego poziomu stawki za usluge, a jesli chodzi o &quot;polskie&quot; duże firmy to norma bez względu na stawkę :|
+    <br/>Lecz cóż - trzeba zacisnąć zęby, powiedzieć &quot;aha, nie ma sprawy&quot; i robić co trzeba, bo jak się nie podoba to wiadomo co się stanie...
+- id: 352
+  author: Jezuch
+  author_url: ''
+  date: '2004-11-19 17:46:29 +0100'
+  date_gmt: '2004-11-19 17:46:29 +0100'
+  content: Pomysł z selectem też mi przyszedł do głowy jako pierwszy... A potem coś
+    mi się nie zgadzało z tymi stronami :)
+- id: 353
+  author: zwierzak
+  author_url: ''
+  date: '2004-12-01 18:42:38 +0100'
+  date_gmt: '2004-12-01 18:42:38 +0100'
+  content: |-
+    a ja bym sobie z chęcią pooglądał starą wersje tej strony ;)
+    <br/>Lubie się czasem pośmiać :P
+- id: 354
+  author: bmalkow
+  author_url: ''
+  date: '2004-12-06 07:25:26 +0100'
+  date_gmt: '2004-12-06 07:25:26 +0100'
+  content: 'Cachotterie: ja też mam w firmie dość wesoło. Niestety -- podczas ostatniego
+    pobytu w szpitalu amputowali mi talent pisarski,,,'
+---
+Pozwolę sobie pójść śladami mojego ostatniego wpisu z jednego z moich pozostałych blogów. Chodzi mianowicie o jednego z naszych klientów, a ściślej o jego serwis internetowy.<br />
+<br />
+Kiedy przyszło mi wprowadzać tam pierwsze poprawki, urzekła mnie swoboda, z jaką w kodzie html zostały porozrzucane różne, bardziej lub mniej poprawne, tagi. Swoista lekkość kodowania może jeszcze znaleźć uzasadnienie w niedoświadczeniu zespołu, który serwis ów budował x lat temu, nic natomiast nie przychodzi mi na myśl, kiedy szukam jakiejś wiarygodnej wymówki odnośnie interfejsu.<br />
+<br />
+Pal licho stronę główną, na której nic nie ma poza stertą animacji we flashu. Pal licho strony z informacjami, które działąją tylko pod JedynąSłuszną&trade; przeglądarką. Pal licho niespójność graficzną kolejnych podstron i intro flashowe, które działa tylko sporadycznie. To jest nic, prawdziwa radość przepełnia człowieka w momencie, kiedy zorientuje się, że strona ta zawiera sklepik internetowy.<br />
+<br />
+A sklep jest nie lada wynalazkiem. Na wstępie powiem, że zajmuje się sprzedażą tylko i wyłącznie części i akcesoriów tuningowych do wszystkich możliwych samochodów. Właśnie te "wszystkie samochody" są największym problemem. Proszę sobie bowiem wyobrazić, że oferta do niedawna przekraczała grubo dwadzieścia siedem tysięcy produktów. Do niedawna, bo trochę się tutaj zmieniło, ale o tym za chwilę. Teraz jednak proponuję, aby każdy zastanowił się, czy przez całe życie widział dwadzieścia siedem tysięcy różnych przedmiotów? Cały trik polega na tym, że większość części jest dostępna w wersjach dla różnych marek i modeli pojazdów. Jedynym sposobem na prezentację tego, jaki przychodzi mi do głowy, byłaby lista rozwijalna w szczegółach każdego produktu, umożliwiająca przy zamawianiu zaznaczenie, do czegóż dany artykuł mamy zamiar wykorzystać. Klient w swym geniuszu poszedł jednak dalej, postanowił bowiem za jednym zamachem obniżyć koszty wykonania serwisu, jednocześnie upraszczając interfejs. Może wielu z was domyśla się już, jakiż to przesprytny zabieg został zastosowany? Mimo wszystko powiem to, tak, każdy produkt jest dodany do bazy sto kilkanaście razy, za każdym razem do jego nazwy zostały doklejone marka i model pojazdu docelowego. Czyż to nie przewspaniała idea? Pozazdrościć pomysłowości, przecież jak dotąd żaden klient sklepu nie skarży się, że po wybraniu konkretnej części, jego samochód jest gdzieś w okolicach czternastej strony. Kupił volvo, miał świadomość, że wcześniej alfabetycznie jest po 10 modeli alfa romeo, audi, bmw, citroena, mini-coopera, ... czy też w końcu toyoty. Tak oto powstał najbardziej przejrzysty sklep internetowy, jaki kiedykolwiek matka magistrala nosiła.<br />
+<br />
+Napisałem wcześniej, że dwadzieścia siedem tysięcy produktów było do niedawna. To prawda, przez ostatnich kilka dni roboczych moim głównym zadaniem było zaimportowanie do wspomnianego sklepu kolejnych czterech tysięcy artykułów. Zaimportowanie to takie proste słowo, przy okazji pozwolę sobie zatem powiedzieć, że właściciel zleca nam aktualizację sklepu, przesyłając w załączniku... arkusz excela wyeksportowany do formatu CSV. Teraz grzecznie podnieście szczęki i kontynuujemy o wspomnianym imporcie. Tym razem okazało się, że import mamy wykonać z... konkurencyjnego sklepu. "Oczywiście, wszystko zostało załatwione i otrzymamy wszystkie dane i zrzuty z bazy". Oczywiście.<br />
+<br />
+Faktycznie, otrzymaliśmy kilka plików w formacie SQL, zawierających dziwaczne struktury, jakiegokolwiek opisu brak. W końcu pola typu "prod", "mode", "mode2" i kilkanaście innych są całkowicie intuicyjne. Po kilku godzinach mieliśmy już o strukturze wyeksportowanej tabeli pojęcie rodem z kraju kwitnącej wiśni, czyli jako-takie. Zaintrygowała mnie tylko jedna rzecz... Gdzie się podział eksport tabeli z drzewem kategorii? Przecież nie wrzucę czterech tysięcy produktów do jednej. Gdybym wiedział, co mnie czeka, bez chwili zastanowienia umieściłbym nowoprzyjęte towary jeden pod drugim.<br />
+<br />
+Sześć godzin później miałem już przepisane wszystkie 554 kategorie ze strony klienta, który to proces został przeprowadzony przy wdrożeniu najnowszych dostępnych na rynku technologii automatyzacji - a dokładniej przy użyciu jednego okna przeglądarki z dwoma zakładkami, w jednej otwarty sklep klienta, w drugiej konkurencja. Jestem rewelacyjną maszynistką. Oprócz tego w ciągu wspomnianych 6 godzin udało mi się rozgryźć, jakich kosmicznych metod konkurencja używa do przypisania produktu do kategorii (do dyspozycji miałem adresy url ze strony i eksport z bazy, który nie zawierał słowa na temat kategorii), przypisałem zatemstosowne identyfikatory i zabrałem się za pisanie skryptu importującego zrzut do odpowiedniego formatu bazy ("odpowiedni" nie jest tu najlepszym słowem, chodzi mi o format stosowany w sklepie klienta, bo z odpowiednim ów ma niewiele wspólnego).<br />
+<br />
+Wszystko szło pięknie i dane zostały zaimportowane. Dzień później okazało się, że import musi obejmować również zdjęcia towarów. Tylko skąd wziąć zdjęcia? Okazało się to prostsze niż przypuszczaliśmy, przynajmniej w teorii. Jeden z plików sql dostarczonych nam przez klienta okazał się posiadać adresy url do zdjęć... na serwerze jeszcze innego sklepu! Kolejna chwila potrzebna była już tylko na napisanie funkcji zapisującej zdjęcie z podanego urla do postaci dużej i miniaturki, a potem nie pozostało już nic innego, jak przystąpić do ponownego importu. Teoretycznie. W praktyce okazało się, że trzeba jakoś te 554 kategorie wyczyścić. Kolejny skrypt do napisania. Czyszczenie wszystkiego zajęło jakieś 5 minut. Zaczynamy więc import od zera. Idzie dobrze, idzie dobrze, niespodzianka. Przy tysiąc pięćsetnym którymś zdjęciu, czyli po jakiejś godzinie importu wystąpił błąd przy odpytywaniu DNS i wszystko szlag trafił. Wznowić od tego momentu nie da rady, kolejne czyszczenie, ale ale. Tym razem trzeba jeszcze wyczyścić tabelę ze zdjęciami produktów i katalog z powyższymi. Z tym, że nie wszystko, bo nie można uszkodzić wcześniejszych dwudziestu siedmiu tysięcy. Kolejne przeróbki w skrypcie czyszczącym i pół godziny jego działania. Przed kolejnym importem podjąłem kroki prewencyjne, zbudowałem system pagowania importu w paczki po 100 elementów i system cofający ostatnią paczkę w przypadku, gdyby wystąpił błąd. Godzina testowania i debugowania, i oto chwila tryumfu, bestia padła dnia trzeciego, po kolejnym pięciogodzinnym imporcie, tym razem w krokach po 100. Zastanawialiśmy się tylko, kiedy administracja serwera utrzymującego zdjęcia produktów zauważy, że w ciągu trzech dni wygenerowaliśmy im kilkaset megabajtów ruchu?

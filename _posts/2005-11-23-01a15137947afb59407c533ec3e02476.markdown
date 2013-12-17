@@ -1,0 +1,235 @@
+---
+layout: post
+status: publish
+published: true
+title: Oszukać pomocnika
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 186
+date: 2005-11-23 02:04:16.000000000 +01:00
+categories:
+- web
+tags: []
+comments:
+- id: 2637
+  author: MiMaS
+  author_url: ''
+  date: '2005-11-23 07:23:03 +0100'
+  date_gmt: '2005-11-23 07:23:03 +0100'
+  content: |-
+    Po pierwsze do powyższych wniosków trzeba dorosnąć. Po drugie &quot;valid XHTML 1.0 Strict!!!&quot; to moda. A niestety moda i dorosłość niewiele mają ze sobą wspólnego...
+    <br/>
+    <br/>Z drugiej strony to, co mówisz, też ma swoją dosyć mocną reprezentację w Sieci. Istnieje sporo stron/blogów ludzi &quot;bardzo mocno świadomych&quot;, które są specjalnie kodowane w HTML -- np. Anne (http://annevankesteren.nl/) z jego HTML 4.01 i ostetacyjnie wręcz niepozamykanymi paragrafami :-) Obawiam się, że czasami również to nie ma uzasadnienia i po prostu kiełkuje tutaj odwrotna moda - &quot;HTML uber alles&quot;. A moda ... patrz początek ;-)
+    <br/>
+    <br/>Niestety do zrozumienia co to jest X w XHTML i kiedy być powinien, kiedy nie koniecznie, a kiedy jest wręcz szkodliwy, potrzeba trochę inteligencji. A to jak wiadomo towar bardzo deficytowy...
+- id: 2638
+  author: Enleth
+  author_url: ''
+  date: '2005-11-23 10:37:24 +0100'
+  date_gmt: '2005-11-23 10:37:24 +0100'
+  content: |-
+    No cóż, Internet miał być medium &quot;dla wszystkich&quot; :/
+    <br/>I widać efekty.
+- id: 2639
+  author: misia
+  author_url: ''
+  date: '2005-11-23 16:23:58 +0100'
+  date_gmt: '2005-11-23 16:23:58 +0100'
+  content: |-
+    1. &quot;Nikt nie rozumie, czym jest XHTML i czym różni się od swojego starszego kuzyna.&quot; to dość autorytarne stwierdzenie. Co za różnica dla Ciebie, dla przeglądarki, dla usera, czy strona jest w XHTML czy HTML 4.01, jeśli nie używasz gdzieś po drodze XML?
+    <br/>
+    <br/>2. Mało logiczne te Twoje wnioski. Stawiasz tezę, że duszenie kodu do XHTML Strict jest bez sensu... potem dziwisz się, a raczej marudzisz, że ludzie robią misz-masze i ukrywają niewygodne hacki poza widokiem walidatorów. A przecież i walidatory, jak zresztą napisałeś, są funkcjonalnym narzędziem, którego warto używać. I bez sensu byłoby, żeby wyłapywały hacki, które sam znasz. Nie patrzysz na to z tej strony?
+    <br/>
+    <br/>I oczywiście disclaimer: ja się nie znam, nie zajmuję się kodowaniem stron internetowych, jeśli już to bardzo głębokim server-side. Więc pewnie się mylę...?
+- id: 2640
+  author: Enleth
+  author_url: ''
+  date: '2005-11-23 16:28:13 +0100'
+  date_gmt: '2005-11-23 16:28:13 +0100'
+  content: |-
+    misia:
+    <br/>Rzecz w tym, że hacków się używać *nie powinno*.
+- id: 2641
+  author: misia
+  author_url: ''
+  date: '2005-11-23 16:55:51 +0100'
+  date_gmt: '2005-11-23 16:55:51 +0100'
+  content: 'Enleth: i Ty nie stosujesz hacków, tylko wypluwasz pure XHTML Strict ze
+    swojego php, tak?'
+- id: 2642
+  author: Enleth
+  author_url: ''
+  date: '2005-11-23 16:59:03 +0100'
+  date_gmt: '2005-11-23 16:59:03 +0100'
+  content: 'misia: a czemu nie?'
+- id: 2643
+  author: misia
+  author_url: ''
+  date: '2005-11-23 17:09:43 +0100'
+  date_gmt: '2005-11-23 17:09:43 +0100'
+  content: 'Enleth: a po co? nie lepiej z dziewczyną do kina? na co Tobie albo userowi
+    XHTML Strict, jeśli nie masz nigdzie po drodze XML/XSLT? wicie? bo ja nie wim.'
+- id: 2644
+  author: Enleth
+  author_url: ''
+  date: '2005-11-23 17:10:54 +0100'
+  date_gmt: '2005-11-23 17:10:54 +0100'
+  content: |-
+    :D
+    <br/>
+    <br/>(Dla wyjaśnienia: enleth.jogger.pl)
+- id: 2645
+  author: misia
+  author_url: ''
+  date: '2005-11-23 17:16:35 +0100'
+  date_gmt: '2005-11-23 17:16:35 +0100'
+  content: |-
+    Enleth: no i to jest jakiś argument:) Gratulacje, bo dobra robota!
+    <br/>
+    <br/>btw, XSLT jest *silnie* wykorzystywany już od dłuższego czasu w aplikacjach webowych - najbardziej odjechanym przykładem jest Cocoon.
+- id: 2646
+  author: misia
+  author_url: ''
+  date: '2005-11-23 17:20:29 +0100'
+  date_gmt: '2005-11-23 17:20:29 +0100'
+  content: 'I teraz jedno ważne pytanie: stosuje się XML, żeby mieć XHTML Strict,
+    czy raczej XHTML Strict, żeby mieć XML... Bezpodstawna pogoń za XHTML jest przemalowanie
+    samochodu na różowo - rzuca się w oczy, choć brzydkie jak diabli.'
+- id: 2647
+  author: Kelner
+  author_url: ''
+  date: '2005-11-23 17:25:49 +0100'
+  date_gmt: '2005-11-23 17:25:49 +0100'
+  content: |-
+    Quote: Po drugie &quot;valid XHTML 1.0 Strict!!!&quot; to moda.
+    <br/>XHTML 1.0 Strict to bardzo ładna specyfikacja (w ogóle technologie oparte na XMLu wydają się ładne), gdyby wszystkie strony, działające we wszystkich przeglądarkach stosowały się do niej, na wszystkich stronach treść byłaby oddzielona od struktury, et caetera, świat byłby piękny. To o czym Patrys pisze, to stosowanie brzydkich hacków, *tylko* po to żeby strona się walidowała, dążenie do 0 błędów za wszelką cenę, bez patrzenia na założenia przyświecające twórcom standardu.
+    <br/>
+    <br/>Oczywiście możliwe, że napisałem jakieś straszne bzdury, ostatnio robię wszystko byle nie zajmować się technologią.
+- id: 2648
+  author: misia
+  author_url: ''
+  date: '2005-11-23 17:31:12 +0100'
+  date_gmt: '2005-11-23 17:31:12 +0100'
+  content: '@Kelner: XML nie jest łatwy, XML jest wymagający. Pliki XML nie są ładne.
+    Ludzie nie są parserami XML. Moda na pliki konfiguracyjne XML jest zła. A oddzielenie
+    treści od struktury... no nie wiem, czy to takie proste, jak piszą w kolorowych
+    reklamówkach ;)'
+- id: 2649
+  author: Patrys
+  author_url: ''
+  date: '2005-11-23 17:51:49 +0100'
+  date_gmt: '2005-11-23 17:51:49 +0100'
+  content: Oddzielenie wyglądu od treści jest bardzo proste i osiągalne, a jeśli *potrzebujesz*
+    hacków, żeby strona działała we wszystkich przeglądarkach, to - zamiast hacków
+    - powinieneś użyć innego DOCTYPE. Ot i cała sprawa. Proste?
+- id: 2650
+  author: misia
+  author_url: ''
+  date: '2005-11-23 18:01:02 +0100'
+  date_gmt: '2005-11-23 18:01:02 +0100'
+  content: '@Patrys: true z jednym tylko zastrzeżeniem, że ekstrakcja konkretnych
+    treści z XHTML bez kontekstowej schemy (gdzie mam szukać cukierków, a gdzie baloników)
+    jest niemożliwa mimo, że to ładny XHTML ;)'
+- id: 2651
+  author: Enleth
+  author_url: ''
+  date: '2005-11-23 18:03:25 +0100'
+  date_gmt: '2005-11-23 18:03:25 +0100'
+  content: |-
+    misia:
+    <br/>ale wiadomo, że coś jest nagłówkiem, coś cytatem, coś skrótem, coś kolejnym paragrafem i tak dalej. Przeglądarce czytającej tekst niewidomemu to starczy dla poprawnego czytania. font size=&quot;22&quot; nie bardzo.
+- id: 2652
+  author: misia
+  author_url: ''
+  date: '2005-11-23 18:05:46 +0100'
+  date_gmt: '2005-11-23 18:05:46 +0100'
+  content: 'Enleth: oczywiście. Ale odcedzenie treści ze stron takich, jak http://www.wp.pl/,
+    nie stało wiele łatwiejsze ;)'
+- id: 2653
+  author: Enleth
+  author_url: ''
+  date: '2005-11-23 18:08:41 +0100'
+  date_gmt: '2005-11-23 18:08:41 +0100'
+  content: Bo strony WP nie są poprawne. Może i walidator informuje o tym, ale tak
+    nie jest.
+- id: 2654
+  author: misia
+  author_url: ''
+  date: '2005-11-23 18:14:55 +0100'
+  date_gmt: '2005-11-23 18:14:55 +0100'
+  content: 'Enleth: może i nie są, ale nie w tym rzecz - chcę, dla przykładu, pobrać
+    z tej strony listę wiadomości dnia. I za diabła tego bez schemy opisującej treść
+    (której nie ma, bo raczej się jej jeszcze nie robi) nie namierzę.'
+- id: 2655
+  author: Patrys
+  author_url: ''
+  date: '2005-11-23 19:25:16 +0100'
+  date_gmt: '2005-11-23 19:25:16 +0100'
+  content: |-
+    misia:
+    <br/>
+    <br/>Od takich zabaw jest XMLRPC albo SOAP. (X)HTML jest dla agentów. A strona WP jest tragiczną zlepką divitis z hatemelus presentalis.
+- id: 2656
+  author: misia
+  author_url: ''
+  date: '2005-11-23 21:39:45 +0100'
+  date_gmt: '2005-11-23 21:39:45 +0100'
+  content: |-
+    Patrys:
+    <br/>
+    <br/>nie chcę już polemizować, bo temat mocno schodzi na aplikacje rozproszone, a ja mogę się łatwo rozgadać ;) Anyway, chyba jeszcze tego nie mówiłem: odwalasz dobrą robotę. Jakbym miał coś dodać: więcej kreatywności, mniej narzekania ;). No ale taka pora roku, że mi też się nie chce.
+- id: 2657
+  author: Patrys
+  author_url: ''
+  date: '2005-11-24 00:32:17 +0100'
+  date_gmt: '2005-11-24 00:32:17 +0100'
+  content: |-
+    misia:
+    <br/>
+    <br/>Z doświadczenia wiem, że ludzi najłatwiej przekonać przez antyprzykład ;]
+- id: 2658
+  author: Jan Prosiak Tucznikowski
+  author_url: ''
+  date: '2005-11-26 00:58:30 +0100'
+  date_gmt: '2005-11-26 00:58:30 +0100'
+  content: no pff, ponarzekam sobie, Patrys, to juz bylo. Przychodzi Ci walczyc z
+    demencją na stare lata. Weź porusz jakiś nowy temat, bo o &quot;script kiddies
+    html&#039;a&quot; juz pisałeś ;]
+- id: 2659
+  author: nbw
+  author_url: ''
+  date: '2005-11-27 17:38:25 +0100'
+  date_gmt: '2005-11-27 17:38:25 +0100'
+  content: |-
+    &quot;Rzecz w tym, że hacków się używać *nie powinno*.&quot;
+    <br/>
+    <br/>Kompletna bzdura. Już co najmniej kilka osób pisało, i ja się pod tym podpiszę, że &quot;hack&quot; to złe określenie poprawnej techniki. Lepszym słowem jest &quot;obejście&quot; - bo niestety, nie żyjemy w idealnym świecie, w którym wszystkie przeglądarki jak jeden mąż renderują strony zgodnie ze standardem, który w wielu kwestiach pozostawia zbyt szerokie możliwości interpretacji.
+    <br/>
+    <br/>Nie wspominając o tym, że to, co dziś jest hackiem - jutro może być standardem. Przykład pierwszy z brzegu: IFR i sIFR.
+- id: 2660
+  author: helmucik
+  author_url: ''
+  date: '2005-11-27 22:11:47 +0100'
+  date_gmt: '2005-11-27 22:11:47 +0100'
+  content: Najbardziej dobijają mnie ludzie, którzy twierdzą, że XHTML serwowane jako
+    text/html to istne zło, a sami je tak serwują... [o mime-type nie świadczy 1 wiersz
+    kodu] Ehh, odechciało mi się komentować :/
+- id: 2661
+  author: Patrys
+  author_url: ''
+  date: '2005-11-28 00:29:50 +0100'
+  date_gmt: '2005-11-28 00:29:50 +0100'
+  content: A gdzie masz takich ludzi? Póki co, ledwo kilkanaście procent rynku jest
+    w stanie parsować XHTML serwowany jako XML.
+---
+<p>Do tematu jakiś czas temu <a href="http://riddle.jogger.pl/comment.php?eid=164597">nawiązał już Riddle</a>. Nowomodni webmasterzy dostrzegli w logo <q>Valid <abbr title="Extensible HyperText Markup Language">XHTML</abbr></q> wartość samą w sobie. Coś, jak odznaka sprawności harcerskiej, kolejna pozbawiona sensu plakietka do zapchania stopki na stronie. Nikt nie rozumie, czym jest <abbr>XHTML</abbr> i czym różni się od swojego starszego kuzyna.</p>
+
+<p>Najważniesze, żeby <q>strona się walidowała,</q> mniejsza o to, czy walidacja dla samej walidacji ma jakąkolwiek wartość. Niewygodną treść wystarczy zepchnąć do zewnętrznych plików, a te nie podlegają już władzy wszechmocnego narzędzia <a href="http://w3.org"><abbr title="World Wide Web Consortium">W3C</abbr></a>. Można spać spokojnie.</p>
+
+<p>Dziś, za pośrednictwem <a href="http://web-graphics.com/mtarchive/001678.php">pytania Andreasa z Web Graphics</a>, trafiłem na inny wynalazek - <a href="http://blog.deconcept.com/flashobject/">FlashObject</a>. Jak łatwo się domyślić, jest to kolejna <q>uświęcona</q> metoda zagnieżdżania niepoprawnego kodu w <q>poprawnym</q> dokumencie. Jak czytamy na stronie projektu, ma on na celu umożliwienie zagnieżdżenia obiektów Flash widocznych w starych i zepsutych wersjach Safari i Internet Explorera dla MacOS.</p>
+
+<p>Główny problem polega na tym, że przeglądarki te wymagają niepoprawnego kodu, więc całość została zamknięta w niewielki skrypt <abbr title="JavaScript">JS</abbr> i efektywnie ukryta przed walidatorem. Zgodzę się, że często wsparcie dla takich przeglądarek jest wskazane, ba, czasem wręcz nieodzowne. Jednak mówimy o starych przeglądarkach, które nie potrafią wykorzystać najmniejszego nawet kawałka nowych technologii. Nie wspierają też <abbr>XHTML</abbr> serwowanego jako <code>application/xhtml+xml</code>, jaki jest więc sens upierania się przy stosowaniu <abbr>XHTML</abbr>? Dużo prościej byłoby użyć typu dokumentu, który jest zaprojektowany dla wsparcia przestarzałych elementów i atrybutów. Używanie <abbr>XHTML</abbr> 1.0 Strict nie niesie ze sobą żadnych korzyści poza wymuszaniem stosowania brzydkich hacków, które mają naprawiać to, co zepsute jest gdzie indziej - w przeglądarce.</p>
+
+<p>Na koniec podkreślę jeszcze raz, że walidator jest narzędziem dla osoby budującej witrynę, a nie dla odwiedzających. Oszukiwanie go to jak okłamywanie własnego doradcy i pomocnika, a wklejenie żółtego guziczka za wszelką cenę nie ma najmniejszego sensu, ale o tym szerzej w następnym numerze <a href="http://art.webesteem.pl/">webesteem art &amp; design magazine</a>.</p>

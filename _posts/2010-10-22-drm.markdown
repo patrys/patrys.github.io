@@ -1,0 +1,135 @@
+---
+layout: post
+status: publish
+published: true
+title: DRM
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 1112
+wordpress_url: http://room-303.com/blog/?p=1112
+date: 2010-10-22 12:13:44.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 25220
+  author: grizz
+  author_url: http://grizz.pl
+  date: '2010-10-22 13:35:29 +0200'
+  date_gmt: '2010-10-22 11:35:29 +0200'
+  content: Słodkie!
+- id: 25221
+  author: CoSTa
+  author_url: http://costa.kofeina.net
+  date: '2010-10-22 14:07:20 +0200'
+  date_gmt: '2010-10-22 12:07:20 +0200'
+  content: Prorocze
+- id: 25222
+  author: DRM, czyli opowiadanie na weekend | eKsiazki.org
+  author_url: http://www.eksiazki.org/2010/10/22/drm-czyli-opowiadanie-na-weekend/
+  date: '2010-10-22 17:07:47 +0200'
+  date_gmt: '2010-10-22 15:07:47 +0200'
+  content: '[...] krótko - zapraszamy do przeczytania mini-opowiadania Patryka Zawadzkiego,
+    które opublikował na swoim blogu Room 303. Prezentuje tam zapewne dość nieprawdopodobną,
+    ale i tak przerażającą wizję świata, w [...]'
+- id: 25223
+  author: reod
+  author_url: ''
+  date: '2010-10-22 18:12:07 +0200'
+  date_gmt: '2010-10-22 16:12:07 +0200'
+  content: http://www.wykop.pl/link/503939/krotka-bajka-o-drm/
+- id: 25224
+  author: Degename
+  author_url: ''
+  date: '2010-10-22 22:19:00 +0200'
+  date_gmt: '2010-10-22 20:19:00 +0200'
+  content: Zastanawia mnie jedno. Czy jeśli sam nagram utwór i puszczam go u siebie
+    w sklepie/ zakładzie fryzjerskim/ poczekalni gabinetu dentystycznego to ja muszę
+    udowodnić że to mój utwór czy kontrola z Zaik'su musi udowodnić że puszczam nielegalnie
+    muzykę?
+- id: 25226
+  author: Patrys
+  author_url: http://room-303.com/blog/
+  date: '2010-10-22 22:46:17 +0200'
+  date_gmt: '2010-10-22 20:46:17 +0200'
+  content: "reod:\r\n\r\nWidzę, że i \"spam\", i \"nieprawdziwe informacje\" dostało
+    ;)"
+- id: 25227
+  author: jacek
+  author_url: http://www.zwodnik.pl
+  date: '2010-10-23 11:33:38 +0200'
+  date_gmt: '2010-10-23 09:33:38 +0200'
+  content: świetne
+- id: 25228
+  author: Kazan
+  author_url: http://still85.com
+  date: '2010-10-23 12:02:29 +0200'
+  date_gmt: '2010-10-23 10:02:29 +0200'
+  content: Świetnie ujęte! Dobry komentarz do tematu. Pozdrawiam
+- id: 25229
+  author: Aleksander
+  author_url: http://www.aleksanderb.eu/
+  date: '2010-10-23 12:28:14 +0200'
+  date_gmt: '2010-10-23 10:28:14 +0200'
+  content: Dobre, ale aż tak źle to chyba nie będzie...
+- id: 25230
+  author: lovel
+  author_url: ''
+  date: '2010-10-23 12:53:48 +0200'
+  date_gmt: '2010-10-23 10:53:48 +0200'
+  content: Degename, to TY musisz udowadniać, że nie jestes wielbłądem. Co tych z
+    ZAIKSu interesuje co puszczasz - masz mieć licencję. A jak puścisz własne kawałki,
+    to jeszcze gorzej, bo oni z tego kasy nie mają.
+- id: 25232
+  author: Cysiu
+  author_url: ''
+  date: '2010-10-24 04:21:58 +0200'
+  date_gmt: '2010-10-24 02:21:58 +0200'
+  content: 'Dege­name: wyobraz sobie ze swego czasu ZAIKS  kazal nam zaplacic za to
+    ze wykonujemy swoje kawalki na scenie, inaczej nie zostalibysmy dopuszczeni do
+    wykonania koncertu. a uwierz mi chcieli naprawde nie mala sume za to.'
+- id: 27728
+  author: lukasz
+  author_url: http://www.eprogramy.net
+  date: '2011-01-28 00:24:42 +0100'
+  date_gmt: '2011-01-27 23:24:42 +0100'
+  content: Bardzo fajne, podoba mi się :)
+- id: 27780
+  author: Kondotier
+  author_url: http://kondotier.pl/
+  date: '2011-06-06 11:23:49 +0200'
+  date_gmt: '2011-06-06 09:23:49 +0200'
+  content: Szablon Twojego bloga wydaje mi sie prawie idealny - minimalizm w grafice
+    i max treści:)
+- id: 27785
+  author: Siostra
+  author_url: ''
+  date: '2011-06-15 21:53:04 +0200'
+  date_gmt: '2011-06-15 19:53:04 +0200'
+  content: No tak, ja studiuję dziennikarstwo a Ty potrafisz pisać..  Niech mnie ktoś
+    dobije ;]
+---
+<p>—&nbsp;Wszystko ta sama sieczka — mruknął pod nosem, sam do siebie, odkładając kolejną płytę na półkę.</p>
+<p>Dopiero po chwili wyłowił z gąszczu szarych, zastępczych okładek singiel, o który mu chodziło.</p>
+<p>—&nbsp;Dzień dobry, chciałem dziesięć kopii tego — rzucił przyjaźnie w stronę kasjerki.</p>
+<p>—&nbsp;Dziesięć? — Choć nadal uśmiechnięta, dziewczyna zrobiła zdziwioną minę. — Zwykle ludzie biorą trzy — zaczęła wymieniać — na kino domowe, na iPoda i na komputer&hellip;</p>
+<p>—&nbsp;Cóż, mówią na mnie Rock, jestem didżejem — wypowiedział te słowa z dumą, podając dziewczynie plastikową kartę RIAA.</p>
+<p>—&nbsp;Łał, to cudownie! Proszę. — Podała mu papierową torbę z płytami. — Numery seryjne płyt zostały przypisane do twojej karty. Kolejny przegląd licencyjny twojej karty w kwietniu. Czy mogę zainteresować cię czymś z naszej oferty specjalnej?</p>
+<p>—&nbsp;Nie, dzięki.</p>
+<p>Gdy wypowiadał te słowa poczuł wibracje w wewnętrznej kieszeni kurtki. Próbował szybko schować pakiet singli do kieszeni, ale było już za późno. Telefon zaczął dzwonić. Popatrzył jeszcze zrezygnowanym wzrokiem na pulsującą w rogu ekranu liczbę. Pozostało mu siedem odtworzeń dzwonka. Pamiętał kiedy wprowadzono te restrykcje. Jeden ze znanych wokalistów w publicznym wywiadzie przyznał się, że ustawił hit swojej kapeli jako dzwonek, dzięki czemu nie musi sam sobie płacić za jego słuchanie. Senatorzy RIAA byli wściekli, kongres zmienił ustawę w jeden weekend, nie chcąc dopuścić do sytuacji, kiedy młodzież pójdzie w ślady swojego idola. Odebrał rozmowę.</p>
+<p>—&nbsp;Robert, człowieku, doprowadzisz mnie do ruiny. Czemu nie odbierasz zwyczajnie, kiedy to ja do ciebie dzwonię?</p>
+<p>—&nbsp;Cześć Rock, wybacz, ale zdjąłem na chwilę słuchawki, a wiesz przecież, że mój dzwonek nie ma licencji na publiczne odtwarzanie. Jak tam zakupy, gotowy na dzisiejszy show?</p>
+<p>—&nbsp;Taa, wiesz, że nigdy nie zawodzę. Właśnie kupiłem ostatni singiel, to będzie prawdziwa wisienka na torcie. W sumie mam już na wieczór cztery godziny muzyki.</p>
+<p>—&nbsp;Będziesz coś miksował na żywo?</p>
+<p>—&nbsp;Na pewno, ale jeszcze nie wiem, ile. Chcemy przecież jeszcze coś zarobić.</p>
+<p>—&nbsp;Dobra, to nie przeszkadzam, do–zo wieczorem.</p>
+<p>—&nbsp;No to strzałka, tylko się nie spóźnij.</p>
+<p>Minął róg sklepu i wsiadł do samochodu. Zapalił silnik i z trudem powstrzymał chęć wpakowania jednego ze świeżych nabytków w szczelinę odtwarzacza. Zamiast tego włączył radio i w towarzystwie najnowszych informacji z życia gwiazd ruszył w stronę domu. Podekscytowany zbliżającą się imprezą podśpiewywał w rytm muzyki z rzadka pojawiającej się w przerywających audycję reklamach.</p>
+<p style="text-align:center;">– ❧ –</p>
+<p>Wiedział, że jest gotowy. Czuł, jak każdy mięsień drga z podniecenia. Zatrzymał auto pod klubem, na parkingu dla vip–ów i ponownie przejrzał kuferek z płytami, po raz ostatni zamieniając niektóre z nich kolejnością. Pewnym krokiem podszedł do drzwi dla wykonawców. Odruchowo podał plastik karkowi w nieco przyciasnym garniturze.</p>
+<p>—&nbsp;Może pan wejść. Karta ważna do kwietnia.</p>
+<p>Zamienił jeszcze parę słów z menadżerem klubu i udał się do baru po "jednego na rozpęd".</p>
+<p>Pół godziny później wychodził już na scenę. Czuł pulsującą adrenalinę, kiedy oświetleniowiec wskazał go reflektorem. Ujął w rękę mikrofon i słowa popłynęły same.</p>
+<p>—&nbsp;Jak się bawicie, Nowy Yorku? — Poczekał, aż ucichną wrzaski. — Jak pewnie wszyscy wiecie, jestem Rock. — Wzrokiem odnalazł wśród widowni poznaną tego poranka kasjerkę. — Obok mnie stoi pan Miles Welles z komisji RIAA, który będzie czuwał nad dzisiejszą imprezą. Za trzy minuty włączymy systemy przeciwdziałania nagrywaniu, osoby z aparatami słuchowymi prosimy o opuszczenie sali. A teraz przygotujcie się, bo dziś wieczór damy czadu!</p>

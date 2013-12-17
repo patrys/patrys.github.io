@@ -1,0 +1,149 @@
+---
+layout: post
+status: publish
+published: true
+title: A Aleja się nie boi włamywaczy!
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 51
+date: 2005-01-10 23:16:53.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 395
+  author: queer
+  author_url: ''
+  date: '2005-01-10 23:23:42 +0100'
+  date_gmt: '2005-01-10 23:23:42 +0100'
+  content: "LOL, fantastyczne :)\n<br/>\n<br/>Obecnie strona ma takie ładne wstawki:\n<br/>\n<br/>Warning:
+    PostgreSQL query failed: ERROR: parser: parse error at or near &quot;&quot; in
+    /usr/local/share/apache/htdocs/indexm.php on line 206\n<br/>\n<br/>Warning: Supplied
+    argument is not a valid PostgreSQL result resource in /usr/local/share/apache/htdocs/indexm.php
+    on line 207\n<br/>\n<br/>i się trochę rozjeżdża... \n<br/>&quot;Jak dla mnie..
+    bomba!&quot; ( (c) Kurt y Albin)"
+- id: 396
+  author: qwiat
+  author_url: ''
+  date: '2005-01-10 23:51:21 +0100'
+  date_gmt: '2005-01-10 23:51:21 +0100'
+  content: 'Potem w mediach się słyszy o paskudnych (c)hxiorach™ dokonujących włamów
+    na bogu ducha winych ofiarach. A to jest tak jak w starym porzekadle: &quot;okazja
+    czyni złodzieja&quot;'
+- id: 397
+  author: jarv
+  author_url: ''
+  date: '2005-01-11 00:26:40 +0100'
+  date_gmt: '2005-01-11 00:26:40 +0100'
+  content: Resistance is futile. We want all your Globiki. ;)
+- id: 398
+  author: Jezuch
+  author_url: ''
+  date: '2005-01-11 14:10:14 +0100'
+  date_gmt: '2005-01-11 14:10:14 +0100'
+  content: 'Wrażliwość na SQL injection jest tak powszechna, że to aż bolesne. Kiedy
+    zacząłem pracować w swojej obecnej pracy musiałem załatać [dobrowolnie] właściwie
+    wszystko co miałem pod swoją opieką. Jeden z tych serwisów był tak popieprzony,
+    że szefostwo zleciło mi przepisanie go od zera ;) BTW: PreparedStatement rządzi.'
+- id: 399
+  author: mg
+  author_url: ''
+  date: '2005-01-18 10:07:43 +0100'
+  date_gmt: '2005-01-18 10:07:43 +0100'
+  content: Mnie skreca jak widze taka amatorszczyzne. &quot;Informatycy&quot; nie
+    wiedza co to glupie cytowanie! O apostrofach nie slyszeli! Czlowiek musi sie kryc
+    z tym slowem bo jak powie w obecnosci szanownych wspolpracownikow slowo &quot;cytowanie&quot;
+    to wszyscy maslane oczka robia, gubia watek, nie wiedza co sie dzieje, bezczelne
+    &quot;a z polskiego na nasze&quot; potrafia wtracic! A to jest jeb* podstawa!
+    Jak mozna napisac bezpieczny serwis bez cytowania to przeciez niemozliwe! (wiadomo
+    ze parsowac nie beda sztumaki) Czasami czlowiek kladzie na to lache mowi nerwowo
+    co ma powiedziec i kladzie lache ze nikt nic nie zrozumial - ich problem, ze sa
+    glupami.
+- id: 3666
+  author: sit0
+  author_url: ''
+  date: '2006-05-09 10:01:44 +0200'
+  date_gmt: '2006-05-09 09:01:44 +0200'
+  content: dalej niepołatane tak btw :)
+- id: 3710
+  author: Lexci
+  author_url: ''
+  date: '2006-05-17 16:38:13 +0200'
+  date_gmt: '2006-05-17 15:38:13 +0200'
+  content: Genialne! :D ;)
+- id: 3711
+  author: Spini
+  author_url: ''
+  date: '2006-05-17 20:43:13 +0200'
+  date_gmt: '2006-05-17 19:43:13 +0200'
+  content: A gdyby to jakiś bandzior... A gdyby zamówić na konto jakiegoś klienta
+    egzemplarz Talmudu dla Ministra Edukacji, a Koran dla szefa ABW... :) Oj by się
+    działo...
+- id: 3782
+  author: Jarek Szczuplutki
+  author_url: ''
+  date: '2006-05-24 12:14:21 +0200'
+  date_gmt: '2006-05-24 11:14:21 +0200'
+  content: A tam PreparedStatement - trzeba po prostu SQL nie uzywać - rządzi to Prevayler
+    albo przynajmniej Hibernate
+- id: 3788
+  author: lu
+  author_url: ''
+  date: '2006-05-24 14:59:36 +0200'
+  date_gmt: '2006-05-24 13:59:36 +0200'
+  content: '"rzadzi Prevayler" - troche za duzo powiedziane, moze bedzie w przyszlosci
+    rzadzil:) To jest fajna zabawka, ktora trzeba stosowac w zaleznosci od potrzeb
+    np. gdy zalezy nam bardzo na szybkosci aplikacji.'
+- id: 3797
+  author: brechtac_mi _sie_chce
+  author_url: ''
+  date: '2006-05-25 11:32:11 +0200'
+  date_gmt: '2006-05-25 10:32:11 +0200'
+  content: Zajebiscie,nie ma to jak bezposredni dostep do bazy danych z poziomu interfejsu
+    uzytkownika, po prostu zajebiscie.A wystarczyloby tylko wprowadznie wielowarstowowosci
+    z wewnetrzna walidacja danych.Ale coz.... sa rozwiazania i betony
+- id: 3826
+  author: Grooby
+  author_url: ''
+  date: '2006-05-28 14:25:02 +0200'
+  date_gmt: '2006-05-28 13:25:02 +0200'
+  content: mam prozbe chłopkai macie jakies probramy do łamania kodów bo musze zdefragmentowac
+    sobie dysk ale zapomniałem chasła a pozatym sie przyda taki program
+- id: 3850
+  author: Załamany
+  author_url: ''
+  date: '2006-06-01 00:02:07 +0200'
+  date_gmt: '2006-05-31 23:02:07 +0200'
+  content: "Re: Grooby\r\nNie moge czytac takich tekstow... \"...chasła...\" \r\nNic
+    dodac nic ujac."
+- id: 3852
+  author: user lolek
+  author_url: ''
+  date: '2006-06-01 10:05:27 +0200'
+  date_gmt: '2006-06-01 09:05:27 +0200'
+  content: "Fwd. Grooby\r\ntak to jest, jak sie za zadko rodzine odwiedza - wójka
+    googla trzeba poznac i dobrze z nim gadac"
+- id: 23841
+  author: Ku uciesze/przestrodze | hilpers
+  author_url: http://www.hilpers.pl/266671-ku-uciesze-przestrodze
+  date: '2009-01-23 05:08:20 +0100'
+  date_gmt: '2009-01-23 04:08:20 +0100'
+  content: '[...] uciesze/przestrodze     http://www.room-303.com/blog/2005/01...b5f023db34127/  Pozdrawiam,
+    [...]'
+---
+<p>Świąteczny czas to okres szczególny i radosny, toteż i rozrywki okołowigilijne odbiegają nieco od zajęć przyjętych za standardowe. W poprzednim roku (choć było to zaledwie paręnaście dni temu) zebrało mi się na napisanie artykułu na temat poziomu zabezpieczeń w polskim internecie. Artykuł oczywiście do dziś nie powstał, początkowo głównie z braku dostatecznej ilości materiałów. Z pomocą nieoczekiwanie i trochę niechcący przyszedł mi Roy, kiedy na stronie jednego z wrocławskich sklepów wysyłkowych objawił mu się duży i paskudny błąd MySQL zaraz po tym, jak przerobił trochę URL strony z listą produktów.</p>
+
+<p>Kiedy była już motywacja i był już obiekt, wystarczyło przeprowadzić proof of concept, czyli modelowy atak SQL injection. Nie było to specjalnie wymagającym zaangażowania intelektualnego zajęciem, jako że serwer produkcyjny okazał się tak miły i wyświetlił mi całe zapytanie. Wiadomo więc, w jakim kontekście wstawiane są zmienne, wiadomo też, że brakuje jakiegokolwiek sprawdzania, czy zmienne są liczbami. Hulaj dusza, piekła nie ma. Najdłuższą, bo dziesięciominutową chwilę poświęcić trzeba było jeszcze na odgadnięcie nazwy tabeli z listą klientów i już proof of concept był gotowy.</p>
+
+<p>Miast towarów, katalog sklepowy uraczył mnie listą loginów i haseł swoich podopiecznych, nie omieszkał podać też ich adresów email, na wypadek gdybym zapragnął oddać się uciechom korespondencji. Jednak nie zajmuję się zawodowo wysyłaniem niezamówionej poczty o charakterze komercyjnym, toteż pierwszy mój mail trafił był do nikogo innego, jak do samego biura mojej ofiary. Poruszenia wielkiego nie wywołałem, bo odpowiedzi nawet śladu na horyzoncie nie było znać. Odczekałem swoje, moje poirytowanie typowo polskim "olewactwem" sięgnęło zenitu i wykonałem strategiczny w założeniach telefon z zamiarem namierzenia OsobyKompetentnej&trade;. Mój zapał ostudził szybko jeden z wzorcowo wręcz wyszkolonych telemarketerów:</p>
+
+<p>- Dzień dobry, dzwonię w sprawie bezpieczeństwa Państwa danych, czy mój email dotarł?<br />
+- Dzień dobry, dzisiaj akurat nie ma tego pana, który czyta pocztę, proszę spróbować jutro.</p>
+
+<p>Po tych słowy, moje bezgraniczne już zaufanie do rzeczonej firmy urosło jeszcze bardziej. Mógł chociaż zaimprowizować, że im serwer nie działa (co byłoby bliższe prawdy niż mógłby przypuszczać). Doceniłem jednak jego szczerość i odczekałem 24 godziny kwarantanny. Z błogiego stanu oczekiwania niespodziewanie wyrwało mnie... nic. Zadzwoniłem drugi raz. Spłoszona pani telefonistka na dźwięk złowieszczego słowa "serwer" natychmiast zaoferowała przełączenie do szefa. Nie odmówiłem, bo nie miałem okazji, ust nie zdążyłem otworzyć zanim w słuchawce zabrzmiała tandetna melodyjka, ulubione narzędzie tortur w rękach wszelakich posiadaczy infolinii, w tym moich i moich współpracowników. Marsz ów żałobny zakończył się nadspodziewanie szybko, a i głos rozmówcy świadczył, że całkowicie bez odzewu mój email nie przeszedł. Konwersacja specjalnie długo nie trwała, jednak zdołałem się dowiedzieć, że oni dowiedzieć się nie zdołali. Nadal nie wiedzą, co to za błąd.</p>
+
+<p>Kolejny dzień zastał mnie nieco zaskoczonego, bo oto przedmiot moich badań nie działa. Niebiosa runęły, świat legł w gruzach, wyłączyli sklep. Informator pod telefonem udziela jedynie enigmatycznych informacji o tym, że "prace trwają". Na email otrzymałem odpowiedź, która niemal pozbawiła mnie żuchwy. Jak się okazało, brygada informatyków z zapałem instalowała w tym czasie wszelakie technologie kryptograficzne dostępne na rynku, serwer zyskał wsparcie SSL, a ja mogłem czuć się spokojniej... oglądając te same dane klientów, tym razem po szyfrowanym łączu. Najtrafniej skomentował to Roy, powiedział tylko "nie ma to jak wstawianie dodatkowych zamków do drzwi, kiedy mieszkasz na parterze i masz wybite okno do salonu". Serwer powrócił po kilkunastu minutach od mojego telefonu, w całej krasie prezentując... kod źródłowy plików PHP. Widocznie poczuli się tak bezpiecznie z nowymi zabawkami, że nie uznali za konieczne parsowania skryptów. Byłem więc chyba jedynym klientem w historii informatyki, który patrząc na wyczyny dziarskiej grupy do spraw zabezpieczeń, wysłał kolejny email do firmy, tym razem dołączając... poprawiony kod źródłowy ich sklepu. Tego się nie spodziewali, ten fakt nimi wstrząsnął, to wbiło ich w ziemię, to sprawiło, że... postanowili znaleźć swoje rozwiązanie. Znaleźli więc miejsce, które poprawiłem, usunęli dodane przeze mnie apostrofy dookoła wstawianych z kodu zmiennych i napisali sobie funkcję, która wyszukuje kawałki kodu SQL. Gorzej, że nie te, co trzeba. Kolejny mail, w końcu użyli mojego kodu, albo sami zrobili coś identycznego. Spokój. Oczywiście kontakt się urwał.</p>
+
+<p>W międzyczasie przetestowałem pod tym samym kątem około trzydziestu innych serwisów internetowych. Kryterium podstawowe: polski serwis, musi zawierać jakąś bazę klientów. Około jednej trzeciej z nich, bo dokładnie dziesięć serwisów zawierało dziury pozwalające obejrzeć sobie dokładnie listę klientów. Oczywiście ilość przechowywanych danych była różna, część posiadała tylko login i hasło, część adres email, niektóre pełny adres domowy razem z telefonem. Był tylko jeden serwis, strona poświęcona mechanice samochodowej, której nie udało mi się zmusić do wyświetlenia listy, za to bez problemu można było zalogować się na każdego z klientów nie znająć jego hasła. To wszystko na wyciągnięcie ręki, wystarczyło zmienić adres URL w oknie przeglądarki. Zdążyłem już nawet przygotować standardowy mail do administratora, grzecznie informujący o usterce i podający sposób załatania, a jednocześnie zdecydowanie sugerujący, że w razie niezałatania zastrzegam sobie prawo do powiadomienia klientów. Możecie wierzyć lub nie, ale większość z usterek została załatana w ciągu 24 godzin. Jest tylko jeden serwis, który do dziś jest dziurawy jak sito i którego administracja nie była łaskawa do teraz odpowiedzieć na moje emaile. Przykre jest to o tyle, że jego klienci stanowili jedną z najliczniejszych grup pośród moich ofiar. A stroną tą jest <a href="http://alejahandlowa.pl/indexm.php?kup_id=2221569&amp;kid=11500%20or%20--&amp;kd=7B5E8983F7EDED6FD910CDCD89DB499C">Aleja handlowa</a>, site który nie był w stanie zdobyć się na coś tak idiotycznego jak korespondencja ze mną (w końcu jak ufać komuś, kto nie chce w zamian pieniędzy?), przez co do dziś udostępniają dane tych, którzy im zaufali, trzeba tylko wiedzieć, jak o nie spytać...</p>

@@ -1,0 +1,539 @@
+---
+layout: post
+status: publish
+published: true
+title: Coś tu śmierdzi...
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 111
+date: 2005-06-22 21:26:47.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1340
+  author: riddle
+  author_url: ''
+  date: '2005-06-22 21:31:30 +0200'
+  date_gmt: '2005-06-22 21:31:30 +0200'
+  content: |-
+    Kiedyś używałem serwisu http://studia.korba.pl/ ... teraz już nie zamierzam.
+    <br/>
+    <br/>A pomysł beznadziejny... chyba, że ludzie będą pozycjonować strony opisujące
+    <br/>
+    <br/>&lt;span style=&quot;background: url(isnt.gif) right no-repeat; padding-left: 20px;&quot;&gt;msn&lt;/span&gt;better thangoogle.
+    <br/>
+    <br/>:D
+- id: 1341
+  author: Patrys
+  author_url: ''
+  date: '2005-06-22 21:37:07 +0200'
+  date_gmt: '2005-06-22 21:37:07 +0200'
+  content: MSNBetter EmulatesCrappyYahoo ThanGoogle
+- id: 1342
+  author: Patrys
+  author_url: ''
+  date: '2005-06-22 21:55:19 +0200'
+  date_gmt: '2005-06-22 21:55:19 +0200'
+  content: W sumie, może by się tak złożyć i wypozycjonować jakąś stronę zupełnie
+    niezwiązaną z konkursem? Jakąś podstronę BrowseHappy? Oczywiście nie ma mowy o
+    rejestracji na stronie organizatorów ani o umieszczaniu bannera. :&gt;
+- id: 1343
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-06-22 23:01:58 +0200'
+  date_gmt: '2005-06-22 23:01:58 +0200'
+  content: Fajny ten pomysł z BrowseHappy.
+- id: 1344
+  author: rorio
+  author_url: ''
+  date: '2005-06-23 10:20:01 +0200'
+  date_gmt: '2005-06-23 10:20:01 +0200'
+  content: 'Fajny pomysł! Jak to zrobić? Nigdy nie bawiłem się w pozycjonowanie to
+    oszustwo. '
+- id: 1345
+  author: rorio
+  author_url: ''
+  date: '2005-06-23 12:57:37 +0200'
+  date_gmt: '2005-06-23 12:57:37 +0200'
+  content: Cały ten konkurs to jakaś wiocha... Całe to SEO to jakaś wieś...
+- id: 1346
+  author: Patrys
+  author_url: ''
+  date: '2005-06-23 15:03:12 +0200'
+  date_gmt: '2005-06-23 15:03:12 +0200'
+  content: |-
+    Pozycjonowanie to niekoniecznie oszustwo. Czasem to zwykłe naprawienie serwisu, np.:
+    <br/>
+    <br/>- przypisanie znaczącym grafikom (jak nagłówki) atrybutu alt
+    <br/>
+    <br/>- podział na semantyczne sekcje (nagłówki &lt;h1/&gt; - &lt;h6/&gt; i paragrafy)
+    <br/>
+    <br/>- stosowanie czytelnych URI (np. http://site/artykul/lorem_ipsum/ zamiast http://site/index.php?mod=art&amp;artid=666)
+- id: 1347
+  author: bb
+  author_url: ''
+  date: '2005-06-23 22:22:05 +0200'
+  date_gmt: '2005-06-23 22:22:05 +0200'
+  content: "Witaj, tak się składa, że biorę udział w konkursie... Konkurs nie jest
+    głupi, jest fajną zabawą. Pozycjonowanie nie jest sprawą prostą (nikt nie napisał
+    z kapituły konkursu że jest), potrzeba wieluset testów analiz aby wyciągnąć odpowiednie
+    wnioski z wyszukiwarki.\n<br/>\n<br/> To co napisał riddle to o dupe rozbić he
+    he. Proszę nie pisz o czymś o czym nie masz żadnego pojęcia. \n<br/>\n<br/>Nikt
+    nie chce zmiany google jest najlepsze i na razie tak pozostanie, chodzi o ignorancje
+    google w zupełnie innych kwestiach (np kwestia adsense) (jeśli chodzi o Polskę).
+    Chodzi o zwrócenie uwagi google na rynek Polski. Rozumiecie !?. Chyba nie.\n<br/>\n<br/>Trudność
+    pozycjonowania nie zalezy zupelnie od ilości wyników tylko od siły konkurencji,
+    mam frazy co sa w pierwszej 3 na 25 000 000 wyników, i mam frazy co są 1 na 18
+    000 i było równie ciężko...\n<br/>\n<br/>Smutno się was czyta.  \n<br/>pozdrawiam."
+- id: 1348
+  author: Patrys
+  author_url: ''
+  date: '2005-06-23 22:42:08 +0200'
+  date_gmt: '2005-06-23 22:42:08 +0200'
+  content: Smutne to jest pozycjonowanie serwisów. Dobrze zrobiona strona sama się
+    broni. Jak ktoś chce stronę składającą się z jednego flasha i pięciu obrazków
+    oraz siedmiu akapitów tekstu wypozycjonować, to jest to nie fair wobec internautów,
+    którzy używają wyszukiwarek do *POSZUKIWANIA INFORMACJI*. Zajmuję się budowaniem
+    serwisów i wiem, jak to działa i sam pewnie byś nie chciał, żeby na hasło &quot;jak
+    wyprać spodnie&quot; wyjechało ci 600 podstron serwisu Ariela czy Vizira. A tak,
+    niestety, się w Polsce pozycjonuje serwisy - zakłada się subdomenę catchall i
+    generuje losowe linki pomiędzy pseudo-domenami.
+- id: 1349
+  author: riddle
+  author_url: ''
+  date: '2005-06-23 22:44:42 +0200'
+  date_gmt: '2005-06-23 22:44:42 +0200'
+  content: |-
+    A dla mnie jest smutne, bb, że zgadujesz za nas.
+    <br/>
+    <br/>Zresztą naucz się odczytywać znaczki typu :D :) ;) (podpowiedź: obróć głowę o 90st. w lewo)
+- id: 1350
+  author: ere
+  author_url: ''
+  date: '2005-06-24 08:48:32 +0200'
+  date_gmt: '2005-06-24 08:48:32 +0200'
+  content: a mnie sie konkurs podoba :)
+- id: 1351
+  author: '@ja()'
+  author_url: ''
+  date: '2005-06-25 02:46:37 +0200'
+  date_gmt: '2005-06-25 02:46:37 +0200'
+  content: |-
+    widać nie rozumiecie ideii tego konkursu. chodzi o zwrócenie uwagi na polską wersję adsense, bo przecież każdy chciałby zarobić coś na swojej stronie, a płatność za polskie reklamy jest żałosna, bo 1 cent za klika w adsense to całe g...o. wiele serwisów utrzymuje się z tych reklam i gdyby nie one to naprawde wiele dobrych serwisów by nie istniało, bo przecież serwery kosztują... itd.
+    <br/>poza tym nie znam ludzi z SEOPL którzy by mieli oszukiwać przy pozycjonowaniu. nikt tam nie spamuje wyszukiwarek... ci ludzie naprawde muszą się nasiedzieć przy kompie i żmudnie dodawać kolejne linki itp.
+    <br/>a fraza pod którą są pozycjonowane strony w konkursie ma większe znaczenie, nie chodzi przecież jak to zrozumiał autor tego newsa o to że MSN jest lepsze od google. każy wie że wyszukiwarka MSN to syf i wypluwa przy wyszukiwaniu śmieci. chodzi tu o pewną prowokacje, o której już pisałem
+    <br/>pozdrawiam
+- id: 1352
+  author: 'a ja lubie obie wyszukiwarki :'
+  author_url: ''
+  date: '2005-06-25 03:40:48 +0200'
+  date_gmt: '2005-06-25 03:40:48 +0200'
+  content: "Podoba mi się pomysł Patrysa z wypromowaniem strony niekonkursowej na
+    konkursową frazę. Ale takiej strony która nie zawiera nawet frazy konkursowej
+    to chyba się nie da, prawda? \n<br/>\n<br/>Inaczej musiałby zacząć pozycjonować,
+    bo naprawiać nie miałby czego a wówczas zaczęłoby coś mu śmierdzieć... na własnym
+    podwórku, zatem sugeruję zmianę tytułu bo konkurs jest naprawde fajny.\n<br/>\n<br/>\n<br/>Przy
+    okazji Google warto uzupełnić wiedzę: paragrafy traktowane są tak samo jak zwykły
+    tekst, nagłówki także, co więcej, te drugie mogą wpłynąć niekorzystnie używane
+    w pewnych strefach strony. \n<br/>\n<br/>Adresy URL zawierające parametry mają
+    taką samą wartość dla Google jak te stworzone na podobieństwo struktury katalogu
+    czy przepisane za pomocą mod_rewrite do pliku *.html We wszystkich trzech przypadkach
+    zastosowanie lorem_ipsum (lepszy będzie jednak myślnik niż podkreślnik) zamiast
+    666 w URL&#039;u spowoduje, że strona w naturalny sposób ma szansę wyświetlić
+    się wyżej w wynikach wyszukiwania na tą frazę."
+- id: 1353
+  author: ere
+  author_url: ''
+  date: '2005-06-25 09:30:02 +0200'
+  date_gmt: '2005-06-25 09:30:02 +0200'
+  content: a ja lubie obie wyszukiwarki - strone, ktora nie zawiera frazy rowniez
+    mozna z powodzeniem wypozycjonowac - przykladem niech bedzie akcja &#039;kretyn&#039;
+- id: 1354
+  author: 'a ja lubie obie wyszukiwarki :'
+  author_url: ''
+  date: '2005-06-26 14:28:25 +0200'
+  date_gmt: '2005-06-26 14:28:25 +0200'
+  content: ere, owszem ale jest to wówczas &#039;śmierdzace&#039;wg Patrysa pozycjonowanie...
+- id: 1355
+  author: Patrys
+  author_url: ''
+  date: '2005-06-26 14:31:29 +0200'
+  date_gmt: '2005-06-26 14:31:29 +0200'
+  content: |-
+    Czytanie ze zrozumieniem:
+    <br/>
+    <br/>Śmierdzące jest to, że strony konkursowe będą automatycznie pozycjonować sajt SEO PL. Regulamin wymaga linkowania do nich.
+- id: 1356
+  author: adas
+  author_url: ''
+  date: '2005-06-26 19:27:29 +0200'
+  date_gmt: '2005-06-26 19:27:29 +0200'
+  content: A co z tym browsehappy? Linkujemy?
+- id: 1357
+  author: Patrys
+  author_url: ''
+  date: '2005-06-26 19:29:19 +0200'
+  date_gmt: '2005-06-26 19:29:19 +0200'
+  content: |-
+    Można dorzucić link:
+    <br/>
+    <br/>&lt;a href=&quot;http://browsehappy.pl/?msnbetter/thangoogle&quot;&gt;MsnBetter ThanGoogle&lt;/a&gt;
+    <br/>
+    <br/>;]
+- id: 1358
+  author: Draakhan
+  author_url: ''
+  date: '2005-06-27 09:51:33 +0200'
+  date_gmt: '2005-06-27 09:51:33 +0200'
+  content: |-
+    &gt; Śmierdzące jest to, że strony konkursowe będą automatycznie pozycjonować sajt SEO PL.
+    <br/>
+    <br/>I nie tylko to. Jak widać już się pojawił link sponsorowany. Oczywiście do SEO PL... Teraz tylko nagłośnić jeszcze bardziej konkurs i reklama idzie... Bez komentarza wobec organizatorów.
+- id: 1359
+  author: lojezu
+  author_url: ''
+  date: '2005-06-27 12:06:17 +0200'
+  date_gmt: '2005-06-27 12:06:17 +0200'
+  content: |-
+    ty Draakhan to jesteś głupszy niz wyglądasz :D
+    <br/>
+    <br/>widzisz roznice pomiedzy SEOPL a jakas strona polishseo.com ? gimnazjum skonczyłeś? zacznij kojarzyc jakieś fakty
+- id: 1360
+  author: 'a ja lubie obie wyszukiwarki :'
+  author_url: ''
+  date: '2005-06-27 12:49:04 +0200'
+  date_gmt: '2005-06-27 12:49:04 +0200'
+  content: |-
+    Patrys aaaa o linkowanie do stron konkurosowych Ci chodzi. Nie wiem dlaczego to takie złe w Twoim odczuciu. Przeciez po konkursie wszystkie linki się wykruszą więc przestanie Ci śmierdzieć.
+    <br/>
+    <br/>Skoro linkujecie w dużych ilościach do BrowseHappy z konkursowym anchortextem macie szansę wygrać, sugeruję zgłosić tą stronę jako konkursową.
+    <br/>
+    <br/>Ile ludzi wie co to jest pojęcie BrowseHappy? i co zrobić żeby było ich więcej? Może wystarczyłoby skorzystać z pomysłu SEOPL i urządzić jakiś ciekawy konkurs z którego z jednej strony wynikały preferencje Internautów... a z drugiej dowiedzieliby się w czym przeważa FF, czy Opera.
+    <br/>
+    <br/>Jesli uznasz, że jesteś za cienki do takiej akcji i że lepiej czekać aż ktoś &#039;z góry&#039; się tym zajmie to będziesz czekał, czekał, czekał i się nie doczekasz, jeśli sam zorganizujesz konkurs obsmarują Cię na takich blogach jak ten że ściągasz sobie publiczność, że robisz reklamę...
+    <br/>
+    <br/>Darkan, czytaj to w co klikasz, następnym razem klikniesz nieświadomie w reklamę przedłużania penisa i też stwierszisz że to strona Organizatorów konkursu i czerpią na tym dodatkowe korzyści. Zapoznaj się też z zasadami umieszczania reklam w Google.
+- id: 1361
+  author: 'a ja lubie obie wyszukiwarki :'
+  author_url: ''
+  date: '2005-06-27 12:59:57 +0200'
+  date_gmt: '2005-06-27 12:59:57 +0200'
+  content: P.S. Patrys - a może wyszkorzystaj szum związany konkursem SEOPL na korzyśc
+    BrowseHappy. Poproś (jesli to Ci czegoś nie ujmie) Organizatorów o wsparcie -
+    kto jak kto ale Oni nie zapewne NIE KORZYSTAJĄ Z IE.
+- id: 1362
+  author: Draakhan
+  author_url: ''
+  date: '2005-06-27 13:28:12 +0200'
+  date_gmt: '2005-06-27 13:28:12 +0200'
+  content: |-
+    @lojezu: No i luz. Ty to za to zawsze jesteś super spostrzegawczy i nigdy Ci się nie zdarzyło przeoczyć czegoś, co nie? Jeśli czyjeś przeoczenie daje Ci podstawy do nazwania kogoś &quot;głupszym niż...&quot; to gratuluję Ci poziomu kultury. A co do gimnazjum, masz rację, nie skończyłem, za stary jestem :P
+    <br/>Natomiast za Chiny Ludowe nie wmówisz mi, że nie jest prawdą to, że strony konkursowe nie będą pozycjonować SEO PL, a 3 miesiące jakie jeszcze zostały daje naprawdę sporo możliwości. A poza tym, nikt nie ma pewności czy strona, która teraz jest w płatnych linkach nie jest w jakiś sposób powiązana z Organizatorami. Nie chce mi się teraz tego sprawdzać czy tak czy nie, więc nie można powiedzieć na pewno ale też nie można odrzucić takiej możliwości.
+    <br/>
+    <br/>@a ja lubie obie wyszukiwarki: Naucz się pisać poprawnie czyjegoś nicka. Jak masz problem z przepisaniem literka po literce to zawsze możesz skopiować i wkleić...
+- id: 1363
+  author: ere
+  author_url: ''
+  date: '2005-06-27 13:40:04 +0200'
+  date_gmt: '2005-06-27 13:40:04 +0200'
+  content: |-
+    @Draakhan, strony biorace udzial beda pozycjonowac strone konkursu na fraze &#039;konkurs seo&#039;.
+    <br/>nikt tego nie ukrywa - taki jest anchor text wymaganych linkow i alt obrazkow.
+    <br/>
+    <br/>strona polishseo.com nie jest zwiazana z organizatorami konkursu, jest to strona firmy pozycjonerskiej, ktora zreszta bierze udzial w konkursie.
+    <br/>widac z tego, ze potrafia zwrocic na siebie uwage. i to chyba plus dla nich.
+- id: 1364
+  author: Patrys
+  author_url: ''
+  date: '2005-06-27 15:01:38 +0200'
+  date_gmt: '2005-06-27 15:01:38 +0200'
+  content: |-
+    ere:
+    <br/>
+    <br/>Nie do końca, jeśli duże sajty będą linkować do SEO (a na to zapewne liczą, bo po co wymagać linkbacka w innym przypadku), to będą ich podciągać w każdej hierarchii, nie tylko na hasło &quot;konkurs seo&quot;.
+- id: 1365
+  author: lojezu
+  author_url: ''
+  date: '2005-06-27 15:25:01 +0200'
+  date_gmt: '2005-06-27 15:25:01 +0200'
+  content: "Draakhan: ok, pomyliłeś się, sorry, wybacz. niech będzie, ludzka rzecz.
+    Ale dalej brniesz w to bagno. \n<br/>\n<br/>No wypozycjonują stronę konkurs2005.costam.pl
+    i co? Pewnie tamci teraz będa zbijać kasę na takiej super domenie :D A zauwazyłeś,
+    że linki do konkuru to bannery, bez altów i czegokolwiek na co by można to wypozycjonować?
+    \n<br/>\n<br/>Pewnie teraz też coś wymyslisz, w końcu to jakiś spisek masonów
+    i tych od pedałów.. :)"
+- id: 1366
+  author: Draakhan
+  author_url: ''
+  date: '2005-06-27 15:35:03 +0200'
+  date_gmt: '2005-06-27 15:35:03 +0200'
+  content: |-
+    Nie wiem jak Ty ale ja przy każdym banerze widzę alta z frazą &quot;konkurs SEO&quot;. To samo w linku tekstowym - również z ta samą frazą, który pewnie jeszcze najlepiej z tego wszystkiego zadziała.
+    <br/>
+    <br/>Jakby te banery nie miały służyć do jakichś celów to by ich nie było. W końcu po wpisaniu frazy w wyszukiwarce widać od razu kto zwyciężył - żaden baner do tego nie jest potrzebny.
+    <br/>
+    <br/>A co zrobią to nie wiem ale jakoś nie chce mi się wierzyć, że podskoku w pozycji nie wykorzystają. Obym się mylił.
+- id: 1367
+  author: lojezu
+  author_url: ''
+  date: '2005-06-27 16:12:44 +0200'
+  date_gmt: '2005-06-27 16:12:44 +0200'
+  content: |-
+    Będą sprzedawać usługi &quot;przedłużania penisa&quot;, obłowia się i pojadą na majorkę skąd prześlą kartkę adresowaną do Draakhana: &quot;Miałeś rację, ten biznes z konkursem i penisami był świetny. Gratulujemy przenikliwości i czujności. Za rok nowy konkurs, tym razem skupimy się na kolce, wzdęciach i bólach menstruacyjnych&quot;.
+    <br/>
+    <br/>;)
+- id: 1368
+  author: 'a ja lubie obie wyszukiwarki :'
+  author_url: ''
+  date: '2005-06-27 16:16:52 +0200'
+  date_gmt: '2005-06-27 16:16:52 +0200'
+  content: "Draakhan (copy/paste) sam przepisujesz jak małpka SEO PL a poprawnie jest
+    SEOPL więc jesteśmy kwita :)\n<br/>\n<br/>Co do wyszukiwarek - która lepsza? po
+    moim nicku widać że bez wyjątku lubię obie. Obie mi się przydają zarówno w wyszukiwaniu
+    informacji jak i w pozyskiwaniu z nich Odwiedzających.\n<br/>\n<br/>Bannery służą
+    do identyfikacji Uczestników, gdyby nie obowiązkowy banner to Ty byś zgłosił w
+    ostatniej chwili że pozycjonujesz stronę Google.pl i pewnie byś wygrał :D\n<br/>\n<br/>Patrys
+    linki po konkursie przecież znikną, power jakiego mam nieodparte wrażenie po prostu
+    zazdrościsz także zniknie, sama subdomena jest tak stworzona konkurs2005. aby
+    była bezużyteczna już za parę miesięcy. \n<br/>\n<br/>Echh... chyba nie jest tak
+    trudno powiązać tych kilka faktów i spróbować się zmierzyć z innymi przede wszystkim
+    dla zabawy.\n<br/>\n<br/>Swoją drogą gdyby nie konkurs nie poznałbym Was bo nie
+    znalazłbym inaczej Waszej strony... cieszę się z możliwości podyskutowania z Wami,
+    tak czy inaczej będę śledził co poczynacie, może będe mógł się do czegoś przydać
+    ;)\n<br/>\n<br/>Pozdrawiam"
+- id: 1369
+  author: Draakhan
+  author_url: ''
+  date: '2005-06-27 16:24:49 +0200'
+  date_gmt: '2005-06-27 16:24:49 +0200'
+  content: |-
+    &gt; Bannery służą do identyfikacji Uczestników
+    <br/>
+    <br/>Zawsze można zrobić wymóg podania na pozycjonowanej stronie tych samych danych, które podało się przy rejestracji w konkursie. Jakby takie rozwiązanie było wprowadzone to nie byłoby pewnie i podejrzeń o wykorzystywanie linków i fraz do własnych celów. Przemyślcie to przed następnym wydaniem konkursu.
+- id: 1370
+  author: ere
+  author_url: ''
+  date: '2005-06-27 21:13:56 +0200'
+  date_gmt: '2005-06-27 21:13:56 +0200'
+  content: "browsehappy.pl na #3 \n<br/>fajnie Was widziec w wynikach :)"
+- id: 1371
+  author: wariat
+  author_url: ''
+  date: '2005-06-27 23:00:36 +0200'
+  date_gmt: '2005-06-27 23:00:36 +0200'
+  content: Jedna sprawa ... mowi sie tu ze AdSense kiepsko placi ... ja jak mam byc
+    szczery dziwie sie ze wogule placi. Nie wiem jaka jest srednia statystyczna ale
+    w roznych miejscach raz na jakis czas spotyka sie akcje systemu &quot;nasza wspolna
+    strona nie ma kasy na serwer kazdy uzytkownik co najmniej raz dziennie klika w
+    banerek&quot;. Byc moze tak jest na calym swiecie, byc moze nie... jedno jest
+    pewne jesli kiedys bede mial wydac pieniadze na reklame w sieci to ... pojde na
+    piwo za te kase, bo placenie za wyswietlanie banera w ktory sie &quot;Klika dla
+    klikania&quot; jest bez sensu.
+- id: 1372
+  author: graffprv
+  author_url: ''
+  date: '2005-06-28 00:24:30 +0200'
+  date_gmt: '2005-06-28 00:24:30 +0200'
+  content: "Witam. Gratuluję aktualnej pozycji browsehappy.pl i życzę przynajmniej
+    jej utrzymania, jakkolwiek w opinii autora wątku to najgłupsza z możliwych lokalizacji.
+    \n<br/>\n<br/>W zasadzie powinno rozpętać się piekło w związku z próbą wykorzystania
+    konkursu na rzecz popluaryzacji idei, która Wam przyświeca. Równocześnie powinny
+    pojawić się wątpliwości co do ukrytych intencji autorów browsehappy. Ciekawe,
+    co też mogą zyskać na tym i czy posiadają aktualne świadectwa moralności ? Pytania
+    i wątpliwości można mnożyć - tym bardziej, że strona nie jest oficjalnym uczestnikiem
+    konkursu, a to jest jazda na gapę, czyli wykroczenie podlegające sankcjom... oj,
+    zdecydowanie coś tu śmierdzi.\n<br/>\n<br/>Pozdrawiam."
+- id: 1373
+  author: Patrys
+  author_url: ''
+  date: '2005-06-28 00:29:31 +0200'
+  date_gmt: '2005-06-28 00:29:31 +0200'
+  content: Zauważ, że autora BrowseHappy tu nie ma i nie jest w żaden sposób związany
+    z akcją. A naszym celem, a przynajmniej moim, jest popularyzacja alternatywnych
+    przeglądarek. Nie interesuje mnie, kto z biorących udział w konkursie dostanie
+    odtwarzacz, złote pantalony czy cokolwiek innego. Nasza akcja w żaden sposób nie
+    kłóci się z waszymi konkursami, chyba że SEOPL uzna, że regulamin mówił o stricte
+    pierwszym miejscu. Wtedy faktycznie odtwarzacz otrzyma William Gates z Redmond.
+- id: 1374
+  author: graffprv
+  author_url: ''
+  date: '2005-06-28 00:48:25 +0200'
+  date_gmt: '2005-06-28 00:48:25 +0200'
+  content: |-
+    Zauważam, co zasadniczo nie zmienia postaci rzeczy. Nie zmienia jej również brak zainteresowania upominkami. Rozumiem - choć dopuszczam, że jestem w błędzie - iż dzięki temu owa akcja zachować ma dziewiczo-krystaliczną czystość na poziomie intencji.
+    <br/>
+    <br/>Zauważ, ile w tym hipokryzji - jeżeli skonfrontować stawiane seopl zarzuty (choć inne słowo ciśnie się na klawiaturę) z argumentami na rzecz &quot;akcji browsehappy&quot;.
+    <br/>
+- id: 1375
+  author: Patrys
+  author_url: ''
+  date: '2005-06-28 00:52:01 +0200'
+  date_gmt: '2005-06-28 00:52:01 +0200'
+  content: |-
+    Zarzuty? Ja tylko twierdzę, że windują sami siebie (pośrednio, przez stronę konkursu), co jest nie fair.
+    <br/>
+    <br/>A polskim firmom pozycjonującym w znacznej większości zarzucam oficjalnie Keyword Poisoning i fakt stosowania takich technik tajemnicą nie jest. Dlatego też my pozwoliliśmy sobie na taki sam zabieg, tylko na fikcyjne hasło.
+- id: 1376
+  author: graffprv
+  author_url: ''
+  date: '2005-06-28 01:00:20 +0200'
+  date_gmt: '2005-06-28 01:00:20 +0200'
+  content: Patrys, a czy zechciałbyś przybliżyć mi mechanizm tego windowania pośrednio
+    przez stronę ? Jestem osobiście zainteresowany, a nie dostrzegam potencjału w
+    tym tkwiącego. Zatem - dokąd jedzie ta winda ? Sprawiasz wrażenie, że wiesz.
+- id: 1377
+  author: Patrys
+  author_url: ''
+  date: '2005-06-28 01:04:15 +0200'
+  date_gmt: '2005-06-28 01:04:15 +0200'
+  content: |-
+    graffprv:
+    <br/>
+    <br/>Linki ze wszystkich sajtów budują &quot;popularność&quot; strony konkursu (liczba stron linkujących jest dla Google istotna). Z kolei relatywnie bardzo popularna subdomena linkuje do strony matki, ciągnąc ją w statystykach za sobą (czyli zwiększając jej wskaźnik popularności). Z tego, co wiem, działa to tylko do momentu całkowitego zastąpienia algorytmów PageRank. Na podobnej zasadzie działają wszystkie farmy linkowe, choćby WebWWeb.
+- id: 1378
+  author: ere
+  author_url: ''
+  date: '2005-06-28 01:12:34 +0200'
+  date_gmt: '2005-06-28 01:12:34 +0200'
+  content: |-
+    Patrys - webwweb jest katalogiem stron!
+    <br/>W przeważającej części składa się z opisu danej strony, farmy to zbiory linków ze znikomą ilością treści.
+    <br/>To tak, jakbyś nazwał farmą linków ODP :|
+- id: 1379
+  author: Patrys
+  author_url: ''
+  date: '2005-06-28 01:17:35 +0200'
+  date_gmt: '2005-06-28 01:17:35 +0200'
+  content: |-
+    ere:
+    <br/>
+    <br/>No w nazwie ma katalog stron, ale jego zawartość to całkiem sporo śmieci, których opisy to często niegramatyczny zlepek keywordsów. Całość działa jak farma, a system kredytowy raczej przeczy idei rzeczywistego katalogowania stron - wygląda raczej jak &quot;nabij punkty i wpisz się do 666 kategorii&quot;. Całość jest całkiem sprytnie pomyślanym narzędziem marketingowym i gratuluję jego autorowi, ale nikt mnie nie przekona, że to powstało do użytku dla ludzi :)
+- id: 1380
+  author: graffprv
+  author_url: ''
+  date: '2005-06-28 01:21:18 +0200'
+  date_gmt: '2005-06-28 01:21:18 +0200'
+  content: |-
+    I sądzisz, że popularność strony konkursowej - w zamierzeniu organizatorów - może być trampoliną do... kariery ? Gdzie są te guziki z buźkami ? A już przez moment miałem nadzieję na poważniejszy dialog.
+    <br/>
+    <br/>Co do przytoczonego z imienia i nazwiska katalogu - głowy nie dam, ale chyba taki ma związek z farmą linków, jak i z farmą norek.
+- id: 1381
+  author: Patrys
+  author_url: ''
+  date: '2005-06-28 01:29:44 +0200'
+  date_gmt: '2005-06-28 01:29:44 +0200'
+  content: |-
+    graffprv:
+    <br/>
+    <br/>Tłumaczę ci, co napisałem na górze. Nie napisałem tam, że głowę dam sobie uciąć za to. Jeśli się nie zgadzasz to twoja sprawa, bo ja cię do czytania tego nie zmuszam, ale skoro w kółko pytasz o to samo, to ja ci odpowiadam w kółko tym samym. Podejrzewam, że wiesz jak działa PageRank, więc nie wiem do czego pijesz.
+    <br/>
+    <br/>&quot;Guziki z buźkami&quot; to chyba ci się z Gadu-Gadu pomyliły.
+    <br/>
+    <br/>A WebWWeb jest tak zbudowany, że każda kategoria posiada tam osobną subdomenę - całkowicie nieprzypadkowo, bo Google traktuje subdomeny jak niezależne serwisy jeśli tylko treść stron znacząco od siebie odbiega (co w przypadku katalogu jest pewne). Duży plus dla autora za to, że nie promuje wszędobylskich stron pornograficznych, które najchętniej wyskakiwałyby na każde możliwe hasło.
+- id: 1382
+  author: graffprv
+  author_url: ''
+  date: '2005-06-28 01:47:46 +0200'
+  date_gmt: '2005-06-28 01:47:46 +0200'
+  content: Patrys, nie irytuj się. Usiłowałem jedynie ustalić, co oznacza &quot;windowanie
+    siebie pośrednio przez stronę&quot;, ale skoro to nic poważnego - porzucam ten
+    temat, dziękując za wyjaśnienia. Pozdrawiam.
+- id: 1383
+  author: 'a ja lubie obie wyszukiwarki :'
+  author_url: ''
+  date: '2005-06-28 02:07:28 +0200'
+  date_gmt: '2005-06-28 02:07:28 +0200'
+  content: "&gt; nabij punkty i wpisz się do 666 kategorii\n<br/>\n<br/>Patrys, znów
+    widzę u Ciebie jakieś zaległości. Akurat śledzę na bieżąco owy katalog i wiem
+    że systemu zdobywania punktów już dawno nie ma, właśnie ze względu na nabijaczy
+    - być może to przez Ciebie skoro przytaczasz właśnie o nabijaniu :D\n<br/>\n<br/>Pozwolę
+    sobie wyjaśnić temat, przytaczając w skrócie to co napisane jest na Forum Pozycjonowanie
+    i Optymalizacja: \n<br/>\n<br/>Całość działa jak szczegółowy, duży katalog stron
+    www, zawiera wyszukiwarkę i elastyczny system dodawania i aktualizacji własnego
+    wpisu. Nie wiem czy sam próbowałeś, ale dodawanie tam wpisów to czysta przyjemność
+    w porównaniu z dodawaniem w innych katalogach. \n<br/>\n<br/>Owszem, taki katalog
+    jest zagrożeniem ale dla pracy pozycjonera bo sam w sobie oferuje duże możliwości
+    (tak, w tym dziesiątki linków) a dzięki prostocie obsługi taki magik-pozycjoner
+    do dodania wpisu staje się zbędny ;)\n<br/>\n<br/>Subdomeny o których wspominasz
+    to nic innego jak serwisy tematyczne. Większość już zawiera informacje prasowe,
+    wiadomości, teksty, artykuły oraz odpowiedni fragment katalogu (wraz z wpisami)
+    - przyznasz, że dla zwykłego Internauty którego interesuje wyłącznie wybrana gałąź
+    jest to rozwiązanie o wiele korzystniejsze niż przeglądanie molocha na każdy temat.\n<br/>\n<br/>Pierwszym
+    serwisem tematycznym w ramach webwweb był http://budownictwo.webwweb.pl serwis
+    powstał w styczniu tego roku i cieszy się dużą oglądalnością - wystarczy zaglądnąć
+    do http://ranking.stat.pl/index.php?c=3&amp;s=20 Sam przyznasz, że grzechem byłoby
+    zatrzymanie rozwoju wyłącznie na tej jednej branży.\n<br/>\n<br/>Uff, ale się
+    rozpisałem. Prawde mówiąc o pozycjonowaniu, optymalizacji i wszelakich narzędziach
+    mógłbym pisać bez końca... więc nie podpuszczajcie mnie :D Więcej informacji można
+    znaleźć na stronach Forum Pozycjonowanie i Optymalizacja oraz w menu administracyjnym
+    http://user.webwweb.pl\n<br/>\n<br/>No nic, wygląda na to że chyba się nie nadaję
+    do tej dyskusji. Każdy ma własne preferencje ja nie dość że lubie obie wyszukiwarki
+    to do tego wręcz przepadam za katalogiem &quot;Łeb w Łeb!&quot; ;)"
+- id: 1384
+  author: lojezu
+  author_url: ''
+  date: '2005-06-28 10:36:32 +0200'
+  date_gmt: '2005-06-28 10:36:32 +0200'
+  content: |-
+    Nie ma o czym gadać, i tak cała branża leje z Patrysa :) Facet może się nie zgadzać z tymi lub tamtymi faktami, ale mógłby przynajmniej nie pisać tych bzdur :)
+    <br/>
+    <br/>A ten jogger to też farma, same farmy są tutaj... :)
+- id: 1385
+  author: Patrys
+  author_url: ''
+  date: '2005-06-28 11:30:29 +0200'
+  date_gmt: '2005-06-28 11:30:29 +0200'
+  content: |-
+    Ciekawe, która branża, bo póki co, to my się śmiejemy z zaawansowanych technologii pozycjonowania, które coponiektórzy wymyślają na wspomnianym forum.
+    <br/>
+    <br/>Po szczegóły odsyłam na http://nbw.jogger.pl
+- id: 1386
+  author: ere
+  author_url: ''
+  date: '2005-06-28 11:56:09 +0200'
+  date_gmt: '2005-06-28 11:56:09 +0200'
+  content: 'Patrys, prosze nie schodź poniżej pewnego poziomu. '
+- id: 1387
+  author: Patrys
+  author_url: ''
+  date: '2005-06-28 12:34:58 +0200'
+  date_gmt: '2005-06-28 12:34:58 +0200'
+  content: |-
+    ere:
+    <br/>
+    <br/>Ja nie mówię o was, tylko o niektórych &quot;specjalistach z branży&quot;, a jako webdeveloper mam często (nie)przyjemność pracować z takimi oszołomami, którzy wstawiają w nagłówki 15 kilobajtów znaczników meta z nadzieją na nagły wzrost jakości. Jak powiedziałem, dobrze przygotowany sajt broni się w wynikach sam, a jeśli klienta nie stać na wypełnienie serwisu contentem, to jego pozycjonowanie może być tylko dziedziną sportu - klient i tak ucieknie po piętnastu sekundach od wejścia.
+    <br/>
+    <br/>Bawią mnie też wypowiedzi kogoś, kto się nawet podpisać boi (vide lojezu), a kadzi mi tu &quot;całą branżą&quot;. Jak rozumiem jego specjalistyczna strona jest na drugim miejscu, zaraz pod Microsoftem, bo w końcu na Google zna się jak nikt inny i żaden gadający bzdury debil z bloga go nie prześcignie.
+    <br/>
+    <br/>Panowie, to jest żart i akcja promocyjna alternatywnych przeglądarek, a robicie z tego wyprawy krzyżowe. Nie zabiorę wam odtwarzacza, możecie spać spokojnie.
+- id: 1388
+  author: ere
+  author_url: ''
+  date: '2005-06-29 11:35:48 +0200'
+  date_gmt: '2005-06-29 11:35:48 +0200'
+  content: |-
+    Patrys, czy Twoje słowa:
+    <br/>
+    <br/>&gt;&gt; A cała akcja to właśnie między innymi obśmianie tego konkursu
+    <br/>
+    <br/>opisują żart? czy obśmianie to inaczej żartowanie? o ile znam znaczenie słów, to chyba nie. Prawda?
+- id: 1389
+  author: ere
+  author_url: ''
+  date: '2005-06-29 11:48:27 +0200'
+  date_gmt: '2005-06-29 11:48:27 +0200'
+  content: |-
+    dla jasności - dla mnie słowo &#039;obśmiać&#039; ma zdecydowanie charakter pejoratywny.
+    <br/>
+    <br/>i o ile zdecydowanie popieram idee browsehappy i dobre przeglądarki, przykro mi patrzeć, jak szydzicie z czyjegoś pomysłu, równocześnie promując z jego pomocą szczytną idee.
+    <br/>
+    <br/>nie chcąc wcale konfliktów, wszak razem można więcej niż z osobna, życzę powodzenia w konkursie, oczywiście zapraszając do zarejestrowania strony :)
+    <br/>
+    <br/>pozdrawiam
+---
+<p><abbr title="Search Engine Optimization">SEO</abbr> PL szukają sobie darmowej reklamy najwyraźniej. Postanowili zorganizować najgłupszy konkurs w historii internetu, pozycjonowanie własnej strony na hasło <em>msnbetter thangoogle</em>. Przemilczę tutaj swoją opinię o wyszukiwarce <abbr title="Microsoft Szuka Naiwnych">MSN</abbr> jak i o całości usług przez MSN oferowanych. Ważne jest to, że akcja ma, oprócz sprawdzenia czyichś umiejętności (jakich umiejętności, pozycjonowania się wśród 20 wyników?), zachęcić zespół <a href="http://google.pl/">Google</a> do <q>przemyślenia swoich postępków</q> odnośnie pozycjonowania. Jak długo żyję, nie słyszałem żeby ktoś narzekał na to, że ma zbyt prostą robotę. Skoro pozycjonowanie w Google jest tak bajecznie proste ich zdaniem, to czemu chcą jego zmiany? Może konkurencja radzi sobie lepiej? Doprawdy, ciężko pojąć, że z taką łatwością gotowi są oddać te nieprzebrane oceany gotówki. Google może i łatwo oszukać. No cóż, zwykłym ludziom pozostaje smutne wpisywanie zapytań dłuższych niż jedno słowo :&gt;</p>
+
+<p><strong>Update:</strong> all your base are belong to us - <a href="http://browsehappy.pl/#msnbetter/thangoogle">MsnBetter ThanGoogle</a>.</p>

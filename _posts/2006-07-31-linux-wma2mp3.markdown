@@ -1,0 +1,149 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Linux: wma2mp3'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 280
+wordpress_url: http://www.room-303.com/blog/2006/07/31/linux-wma2mp3/
+date: 2006-07-31 22:03:37.000000000 +02:00
+categories:
+- linux
+- software
+- code
+tags: []
+comments:
+- id: 4402
+  author: jachacy
+  author_url: ''
+  date: '2006-08-01 06:25:58 +0200'
+  date_gmt: '2006-08-01 05:25:58 +0200'
+  content: Pewnie się kiedyś przyda :)
+- id: 4404
+  author: serafin
+  author_url: http://serafin.devonstudio.pl
+  date: '2006-08-01 21:31:38 +0200'
+  date_gmt: '2006-08-01 20:31:38 +0200'
+  content: Do bani. A wystarczyloby dodac find . -name "*.wma" | while read file;
+    do ...; done
+- id: 4405
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-08-01 23:20:54 +0200'
+  date_gmt: '2006-08-01 22:20:54 +0200'
+  content: No fakt, do bani, taki dvi2ps też nie znajduje wszystkich plików na dysku.
+    Dziwne. Chyba coś ci się nie tego?
+- id: 4407
+  author: mroczek
+  author_url: http://m.pl/
+  date: '2006-08-02 03:10:16 +0200'
+  date_gmt: '2006-08-02 02:10:16 +0200'
+  content: Robisz się nudny, serafin. Krytykowanie Patrysa było trendy tydzień temu.
+    W tym tygodniu trendy jest chwalenie jego każdej myśli.
+- id: 4409
+  author: sit0
+  author_url: ''
+  date: '2006-08-02 12:50:11 +0200'
+  date_gmt: '2006-08-02 11:50:11 +0200'
+  content: "serafin:\r\nTrzeba było zacząć od słów 'BES SĘSU.' - jasia smietanę z
+    onetu rozpoznam z kilometra.\r\nJeśli faktycznie jest to twoje alter ego, zwracam
+    honor, bo znów mnie rozbawiłeś; jeśli nie - cóż, specu - nie pochylę czoła przed
+    twym rozwiązaniem. Ja tam zawsze myślałem, że dobre narzędzia unixowe dają się
+    łatwo oskryptowywać. Ale niektórzy jak widać wiedzą najlepiej.."
+- id: 4414
+  author: serafin
+  author_url: http://serafin.devonstudio.pl
+  date: '2006-08-02 19:08:53 +0200'
+  date_gmt: '2006-08-02 18:08:53 +0200'
+  content: "Nie wspominajac ze rozwiazanie jest zerzniete z pierwszego wyniku w googlach
+    szukajac \"mp3 to wma linux\": http://www.linuxquestions.org/linux/answers/Applications_GUI_Multimedia/Convert_WMA_to_MP3
+    ??\r\n\r\nNo tak jasne Patrys, jestes wielki, zapale sobie swieczke przed oltarzykiem
+    z twoim zdjeciem ;)"
+- id: 4417
+  author: Nikko
+  author_url: http://www.derkacz.wroclaw.pl
+  date: '2006-08-02 22:48:14 +0200'
+  date_gmt: '2006-08-02 21:48:14 +0200'
+  content: A moze to rozszerzyc na cos lepszego niz mp3? Jakis ogg. ja tam u siebi
+    zawsze robilem :]
+- id: 4418
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-08-03 00:52:05 +0200'
+  date_gmt: '2006-08-02 23:52:05 +0200'
+  content: "serafin:\r\n\r\nNawet za tym nie googlałem, napisałem <code>man mplayer</code>.
+    Wcześniej używałem go do konwersji między innymi formatami, podobnie mencoder.\r\n\r\nJak
+    potrzebujesz wygrepować coś w pliku, to też googlasz za skryptami, które mają
+    raptem 3 linijki?\r\n\r\n<strong>Edit:</strong> kliknąłem ten link, który podałeś
+    i jedyne podobieństwo widzę w konwersji nazwy pliku, ale to z przyczyny prostej
+    -- mplayer jest dość kapryśny pod tym względem. Poza tym tamten skrypt jest \"lepszy\"
+    według twojej miary, bo konwertuje wszystkie pliki i kasuje źródłowe. Ja hołduję
+    zasadzie KISS.\r\n\r\n<strong>Edit 2:</strong> jeśli chcesz mi coś na siłę udowodnić,
+    to polecam to zrobić na żywo. Robienie onetu z komentarzy nic nie da, jestem odporny
+    na trollowanie, wychowałem się na lekturze slashdota. Gdybyś miał ochotę na piwo,
+    to wiesz gdzie znaleźć moje namiary."
+- id: 4421
+  author: 3ED
+  author_url: ''
+  date: '2006-08-04 18:30:29 +0200'
+  date_gmt: '2006-08-04 17:30:29 +0200'
+  content: Jak ta linijka zaczynająca się od mplayer się kończy? Ucina mi ją..
+- id: 4422
+  author: 3ED
+  author_url: ''
+  date: '2006-08-04 18:32:19 +0200'
+  date_gmt: '2006-08-04 17:32:19 +0200'
+  content: Nie trzeba.. Aj już mam! :)
+- id: 4606
+  author: wm
+  author_url: ''
+  date: '2006-09-10 12:27:36 +0200'
+  date_gmt: '2006-09-10 11:27:36 +0200'
+  content: echo "MaN Tr" | tr '[ A-Z]' '[_a-z]'
+- id: 19001
+  author: lethal2
+  author_url: http://lethal2.net
+  date: '2008-04-07 13:24:56 +0200'
+  date_gmt: '2008-04-07 12:24:56 +0200'
+  content: "Co prawda stary wpis ale i tak się przydał :)\r\nPozdrawiam"
+---
+<p>Przyciśnięty potrzebą, napisałem sobie dzisiaj prosty skrypt, który konwertuje zamknięty i niespecjalnie odtwarzalny pod Linuksem format z Redmond na coś bardziej użytecznego w normalnych odtwarzaczach. Może komuś się przyda.</p>
+
+<h4>Wymagania</h4>
+
+<ul>
+<li>lame</li>
+<li>mplayer</li>
+<li>w32codec</li>
+</ul>
+
+<h4>Skrypt</h4>
+
+<blockquote><pre>#!/bin/bash
+
+if [ -z "$1" ]
+then
+        echo "Usage: wma2mp3 &lt;file.wma&gt;"
+        exit 1
+fi
+
+name=`echo $1 | tr ' ' '_' | tr '[A-Z]' '[a-z]'`
+
+name="`basename "$name" .wma`.mp3"
+
+cp "$1" $name
+
+mplayer -vo null -vc dummy -af resample=44100 -ao pcm:waveheader $name &amp;&amp; lame -m s -h --vbr-new audiodump.wav -o $name
+
+rm audiodump.wav</pre></blockquote>
+
+<h4>Instrukcja obsługi</h4>
+
+<p>Zapisać w nowym pliku, nazwać go <code>wma2mp3</code>, dać mu prawo wykonywania (<code>chmod +x wma2mp3</code>) i przenieść do <code>/usr/bin</code>.</p>
+
+<p>Wywoływać z nazwą pliku <abbr title="Windows Media Audio">WMA</abbr>.</p>
+
+Technorati Tags: <a href="http://technorati.com/tag/wma" rel="tag">wma</a>, <a href="http://technorati.com/tag/mp3" rel="tag">mp3</a>, <a href="http://technorati.com/tag/convert" rel="tag">convert</a>, <a href="http://technorati.com/tag/linux" rel="tag">linux</a>

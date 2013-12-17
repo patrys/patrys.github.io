@@ -1,0 +1,47 @@
+---
+layout: post
+status: publish
+published: true
+title: GrillIT 2.0!
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 309
+wordpress_url: http://www.room-303.com/blog/2006/11/16/grillit-20/
+date: 2006-11-16 08:51:21.000000000 +01:00
+categories:
+- web
+tags: []
+comments:
+- id: 5238
+  author: ehh
+  author_url: ''
+  date: '2006-11-16 20:10:42 +0100'
+  date_gmt: '2006-11-16 19:10:42 +0100'
+  content: Jakoś wydaje mi się bardzo oficjalny...
+- id: 5239
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-11-16 20:27:03 +0100'
+  date_gmt: '2006-11-16 19:27:03 +0100'
+  content: Nie będzie bardziej oficjalny niż zebrani ludzie. Stroje oficjalne nie
+    są potrzebne, piwo można kupić. Raczej nie spodziewam się nastroju bankowego bo
+    pierwszej edycji Grilla.
+- id: 5240
+  author: ehh
+  author_url: ''
+  date: '2006-11-16 21:44:59 +0100'
+  date_gmt: '2006-11-16 20:44:59 +0100'
+  content: No to przyjdę ale bez szefa;)
+- id: 5287
+  author: faith
+  author_url: ''
+  date: '2006-11-25 08:14:42 +0100'
+  date_gmt: '2006-11-25 07:14:42 +0100'
+  content: "czesc, mam nadzieje, ze znalazlem ta osobe o ktora mi chodziło :)\r\nczy
+    to Ty zajmowales sie robieniem clona liero Wurmz! ?"
+---
+<p>Skoro mamy Web 2.0 bez najmniejszego uzasadnienia dwójki, to czemu nie mieć Grilla 2.0 bez śladu grilla? ;)</p>
+
+<p>Chętnych do spotkania się i porozmawiania o Sieci zapraszam po <a href="http://www.grillit.pl/?p=5">szczegóły na oficjalny blog GrillIT</a>.</p>

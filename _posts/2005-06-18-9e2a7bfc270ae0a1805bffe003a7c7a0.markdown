@@ -1,0 +1,98 @@
+---
+layout: post
+status: publish
+published: true
+title: Notka na zamówienie Niny
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 107
+date: 2005-06-18 19:28:37.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1307
+  author: Spider
+  author_url: ''
+  date: '2005-06-18 19:30:07 +0200'
+  date_gmt: '2005-06-18 19:30:07 +0200'
+  content: strace kolono :P
+- id: 1308
+  author: Spider
+  author_url: ''
+  date: '2005-06-18 19:31:34 +0200'
+  date_gmt: '2005-06-18 19:31:34 +0200'
+  content: strace w sensie strejs a nie strace :)
+- id: 1309
+  author: riddle
+  author_url: ''
+  date: '2005-06-18 19:31:44 +0200'
+  date_gmt: '2005-06-18 19:31:44 +0200'
+  content: Uf, tą ścieżkę porzuciłem 3 lata temu i jestem z tego powodu zadowolony.
+    :-)
+- id: 1310
+  author: riddle
+  author_url: ''
+  date: '2005-06-18 19:32:11 +0200'
+  date_gmt: '2005-06-18 19:32:11 +0200'
+  content: Btw, czemu na nina.jogger.pl jest HTTP/1.0 404 Not Found ?
+- id: 1311
+  author: Nina
+  author_url: ''
+  date: '2005-06-18 19:33:15 +0200'
+  date_gmt: '2005-06-18 19:33:15 +0200'
+  content: |-
+    A Nina po przeczytaniu ostatniego zdania podrapała się po kolanie ;)
+    <br/>
+    <br/>riddle: długa i w sumie nudna historia.
+- id: 1312
+  author: ike
+  author_url: ''
+  date: '2005-06-18 19:49:53 +0200'
+  date_gmt: '2005-06-18 19:49:53 +0200'
+  content: |-
+    wczoraj odkryłem świetnego bloga. czytałem pół nocy, bo sympatyczny. dziś - HTTP/1.0 404. No kurczę. A tę notkę znalazłem też przypadkiem. Na głównej jogger&#039;a.
+    <br/>
+    <br/>Wnioski:
+    <br/>1) Świat jest mały
+    <br/>2) Czytaj wszystko do końca
+    <br/>3) Fajne rzeczy mogą zniknąć
+    <br/>4) I tak lubię IRC
+    <br/>
+    <br/>Pozdrawiam. ;-)
+- id: 1313
+  author: riddle
+  author_url: ''
+  date: '2005-06-18 19:50:56 +0200'
+  date_gmt: '2005-06-18 19:50:56 +0200'
+  content: Google.com -&gt; Cache :&gt; Nina nie używała noindex, nofollow :P
+- id: 1314
+  author: Nina
+  author_url: ''
+  date: '2005-06-18 19:54:24 +0200'
+  date_gmt: '2005-06-18 19:54:24 +0200'
+  content: Jak bardzo chcecie to ja chyba wyeksportowałam wpisy ;)
+- id: 1315
+  author: Jajcus
+  author_url: ''
+  date: '2005-06-18 20:41:46 +0200'
+  date_gmt: '2005-06-18 20:41:46 +0200'
+  content: "Patrys: ja też wolę kontakty z komputerem, niż z ludźmi. Znaczy się, lepiej
+    sobie radzę z komputerem. System może mnie obrzucić jakimiś oopsami, errorami
+    itp., a mnie to tylko pobudzi do dalszej i efektywniejszej pracy (czasem jak się
+    nic nie spieprzy, to zaczyna być nudno). Człowiek powie mi że jestem głupi, czy
+    że na niczym się nie znam, i już mam doła że hej... \n<br/>Swoją drogą... to ciekawe,
+    że badblocki na twarzy dalej mam, mimo że dawno powinny się wyekspirować (młodzieżą
+    coraz mniej jestem)... może coś w tym jest?\n<br/>Co do kolana, to rozumiem, że
+    strace lub gdb byłyby rozwiązaniem, ale lekarz odpada, bo to człowiek? ;-)\n<br/>\n<br/>Nina:
+    nie rób sobie jaj, tylko wracaj na Joggera!"
+- id: 1316
+  author: kubiku
+  author_url: ''
+  date: '2005-06-23 08:49:35 +0200'
+  date_gmt: '2005-06-23 08:49:35 +0200'
+  content: 'riddle: wygląda na to że to był tylko sen ;)'
+---
+<p>Siedząc przed komputerem, człowiek niejednokrotnie boryka się z tym samym i wciąż powtarzającym się problemem. Nie jest to jeden z tych znanych z <abbr title="Bug Tracking System">BTS</abbr>ów <q>showstopperów</q>, ale nie umniejsza to jego wagi ani o gram. Sprawa jest o tyle mniej przyjemna, że nie tyczy się cyberprzestrzeni, w której nurzamy się zawodowo czy prywatnie, a życia jak najbardziej realnego. W dobie komputerów, gdzie najwartościowszym towarem jest sygnał i ciągi jego bitów, jest to doznanie wręcz niecodzienne. Przyzwyczajeni myśleć o sobie jak o wszechpotężnych jednostkach, które <q>na wyciągnięcie klawisza</q> czy może <q>w zasięgu myszki</q> mają nieograniczoną wręcz siłę stwórczą, współcześni hakerzy przegrywają z kretesem w starciach z własną fizycznością. Niemożliwość prześledzenia zachodzących tam procesów, rozbioru na wątki, czy podejrzenia kodu czyni zmagania ze światem rzeczywistym czymś koszmarnym i odrażającym, czymś czego chcieliby unikać za wszelką cenę. Nic więc dziwnego, że tak zwana <q>młodzież z badblockami na twarzy</q> nierzadko pozbawiona jest jakiegokolwiek życia socjalnego. Są to wyalienowane jednostki, które na kanałach <abbr title="Internet Relay Chat">IRC</abbr> kreują się na guru, jednocześnie mając problemy z załatwieniem najprostszej choćby sprawy, kiedy wymagany jest bezpośredni kontakt z ludźmi. Reasumując, chciałem napisać, że nie wiem, czemu swędzi mnie kolano.</p>

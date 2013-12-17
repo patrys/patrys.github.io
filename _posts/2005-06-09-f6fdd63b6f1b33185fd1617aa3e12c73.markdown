@@ -1,0 +1,73 @@
+---
+layout: post
+status: publish
+published: true
+title: Dating a developer
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 102
+date: 2005-06-09 19:09:28.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1253
+  author: qeek
+  author_url: ''
+  date: '2005-06-09 19:39:57 +0200'
+  date_gmt: '2005-06-09 19:39:57 +0200'
+  content: Niezłe, niezłe... i całkiem prawdziwe :P
+- id: 1254
+  author: rash
+  author_url: ''
+  date: '2005-06-09 20:03:20 +0200'
+  date_gmt: '2005-06-09 20:03:20 +0200'
+  content: Zacne.
+- id: 1255
+  author: riddle
+  author_url: ''
+  date: '2005-06-09 20:05:54 +0200'
+  date_gmt: '2005-06-09 20:05:54 +0200'
+  content: Great.. great! Ja chrzanię, ile w tym prawdy. :D
+- id: 1256
+  author: Jajcus
+  author_url: ''
+  date: '2005-06-09 20:27:55 +0200'
+  date_gmt: '2005-06-09 20:27:55 +0200'
+  content: "Bardzo prawdziwe. Szkoda, że żona nie zna wystarczająco dobrze angielskiego...
+    \n<br/>Z drugiej strony... nie musi czytać, bo ona to wszystko zna, tyle że z
+    pingwinami zamiast jabłek ;-)"
+- id: 1257
+  author: futrzak
+  author_url: ''
+  date: '2005-06-09 21:08:16 +0200'
+  date_gmt: '2005-06-09 21:08:16 +0200'
+  content: What about the little girls who dream of Prince Charming and end up with
+    Steve Ballmer? - To mnie rozwaliło. :D
+- id: 1258
+  author: riddle
+  author_url: ''
+  date: '2005-06-09 21:09:15 +0200'
+  date_gmt: '2005-06-09 21:09:15 +0200'
+  content: Mnie także :D Na sąsiednim balkonie aż rozmowy ucichły jak usłyszeli mój
+    szatański śmiech :D
+- id: 1259
+  author: Draakhan
+  author_url: ''
+  date: '2005-06-26 16:57:10 +0200'
+  date_gmt: '2005-06-26 16:57:10 +0200'
+  content: Bez kitu, ^d i będzie dawane do poczytania potencjalnym kandydatkom :D
+- id: 1260
+  author: buggy
+  author_url: ''
+  date: '2005-07-09 13:06:49 +0200'
+  date_gmt: '2005-07-09 13:06:49 +0200'
+  content: Świetne :D I sprawdza się też, gdy developerem jest dziewczyna :P Szkoda,
+    że wcześniej tego nie znałam - może jeden chłopak nie wyzwałby mnie od &quot;komputerowych
+    wariatek&quot; :P
+---
+<p>Niewątpliwie jeden z najlepszych artykułów blogowych, jakie przeczytałem w ciągu ostatniego miesiąca, jednocześnie jeden z najprawdziwszych. Dodatkowo wszystko podane w przystępnej postaci i okraszone humorem. Nie będę was dłużej trzymał w niepewności, zapraszam do czytania <q><a href="http://www.emilyhambidge.com/blog/emily/66/">Dating an Apple Developer</a></q>.</p>
+
+<p>Link sponsorowany przez <a href="http://monochrome.pl/">Jarvisa</a>.</p>

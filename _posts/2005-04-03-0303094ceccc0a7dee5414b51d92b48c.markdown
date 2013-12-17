@@ -1,0 +1,143 @@
+---
+layout: post
+status: publish
+published: true
+title: Polska prasa tematyczna
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 74
+date: 2005-04-03 23:39:30.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 828
+  author: Igor
+  author_url: ''
+  date: '2005-04-03 23:41:58 +0200'
+  date_gmt: '2005-04-03 23:41:58 +0200'
+  content: I co kupiłes? Ja bym chyba wolał &quot;Polskie Amatorki&quot; od &quot;Komputer
+    Świat&quot;. :-)
+- id: 829
+  author: da.killa
+  author_url: ''
+  date: '2005-04-03 23:42:04 +0200'
+  date_gmt: '2005-04-03 23:42:04 +0200'
+  content: Może to były Polskie Amatorki Linuksa? ;)
+- id: 830
+  author: Cachotterie
+  author_url: ''
+  date: '2005-04-03 23:43:24 +0200'
+  date_gmt: '2005-04-03 23:43:24 +0200'
+  content: Chciałam skromnie przypomnieć że polską amatorkę to on miał po drugiej
+    stronie torów kolejowych :P
+- id: 831
+  author: torero
+  author_url: ''
+  date: '2005-04-03 23:52:48 +0200'
+  date_gmt: '2005-04-03 23:52:48 +0200'
+  content: Ale z CHIPem to widzę powszechne, kiedyś na moją dyspozycję kioskarz zaczął
+    go szukać wśród świerszczyków. A był wtedy środek lata, a nie żaden pierwszy kwietnia.
+- id: 832
+  author: rav
+  author_url: ''
+  date: '2005-04-03 23:57:32 +0200'
+  date_gmt: '2005-04-03 23:57:32 +0200'
+  content: Może gdybyście nie wymawiali tego tytułu &#039;cip&#039;... ;&gt;
+- id: 833
+  author: s
+  author_url: ''
+  date: '2005-04-04 00:53:27 +0200'
+  date_gmt: '2005-04-04 00:53:27 +0200'
+  content: '@Cacho: amatorke to moze i mial, ale mial tez dwie dluuuugie godziny samotnego
+    jechania pociagiem i widocznie mial to wypisane na twarzy, skoro pani tak sie
+    nad nim mile zlitowala :&gt;'
+- id: 834
+  author: zdzichuBG
+  author_url: ''
+  date: '2005-04-04 00:54:10 +0200'
+  date_gmt: '2005-04-04 00:54:10 +0200'
+  content: Co takiego sexy jest w ,,Linux&#039;&#039; ?
+- id: 835
+  author: troll
+  author_url: ''
+  date: '2005-04-04 00:58:57 +0200'
+  date_gmt: '2005-04-04 00:58:57 +0200'
+  content: ej, to były polskie Amatorki Open Source &lt;-;
+- id: 836
+  author: djurban
+  author_url: ''
+  date: '2005-04-04 00:59:30 +0200'
+  date_gmt: '2005-04-04 00:59:30 +0200'
+  content: Poslkie amatorki sa do luftu. Wogole przeciez sie czyta ze polski sa zimne,
+    bez fantazji itd a amatorki to pewnie jeszcze gorzej.
+- id: 837
+  author: djurban
+  author_url: ''
+  date: '2005-04-04 01:03:20 +0200'
+  date_gmt: '2005-04-04 01:03:20 +0200'
+  content: Nie zawuazylem ze cachoterie sie nazwal polska amatorka, oczywiscie do
+    niej nic nie mam :)
+- id: 838
+  author: staszyna
+  author_url: ''
+  date: '2005-04-04 01:08:51 +0200'
+  date_gmt: '2005-04-04 01:08:51 +0200'
+  content: |-
+    zdzichuBG: jak to co? LaTeX, to oczywiste :-)
+    <br/>(tak, wiem, że się czyta jak &quot;ch&quot;. Ale może kioskarka nie wiedziała :P)
+- id: 839
+  author: nbw
+  author_url: ''
+  date: '2005-04-04 02:12:16 +0200'
+  date_gmt: '2005-04-04 02:12:16 +0200'
+  content: Komputerowe porno - patrzenie na gołe chipy. ;)
+- id: 840
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-04-04 15:13:56 +0200'
+  date_gmt: '2005-04-04 15:13:56 +0200'
+  content: 'nbw: albo na rozebrane komputery ;)'
+- id: 841
+  author: mlotek
+  author_url: ''
+  date: '2005-04-05 08:54:30 +0200'
+  date_gmt: '2005-04-05 08:54:30 +0200'
+  content: 'O BOŻE!!! TO TAKIE STRASZNE; NIE MA LINUX PLUSA!!!! PATRYS: PODPAL TEN
+    KIOSK I PODETNIJ SOBIE GARDŁO...'
+- id: 842
+  author: mlotek
+  author_url: ''
+  date: '2005-04-05 09:00:23 +0200'
+  date_gmt: '2005-04-05 09:00:23 +0200'
+  content: 'A tak na serio: prenumerata to dobry pomysł ;D'
+- id: 843
+  author: marcoos
+  author_url: ''
+  date: '2005-04-06 00:07:56 +0200'
+  date_gmt: '2005-04-06 00:07:56 +0200'
+  content: |-
+    Jakieś 10 lat temu spotkałem się z identyczną reakcją kioskarki na prośbę o &#039;Magazyn AMIGA&quot;. :-D
+    <br/>
+- id: 844
+  author: nbw
+  author_url: ''
+  date: '2005-04-06 00:10:25 +0200'
+  date_gmt: '2005-04-06 00:10:25 +0200'
+  content: Amiga to w ogóle bardzo pechowa nazwa. wystarczy rzucić okiem na listę
+    opera.amiga ;)
+---
+<p>Poniższe zdarzenia miejsce miały w ostatni piątek, pierwszego kwietnia. Dzień piękny i ciepły, godziny popołudniowe, ja po pracy zbierałem się właśnie do wycieczki na dworzec celem wyjazdu do Poznania. Świadom konieczności spędzenia przynajmniej dwóch godzin w pociągu, postanowiłem urozmaicić sobie jakoś podróż. W tym celu udałem się do pobliskiego kiosku z zamiarem kupienia jakiegoś czasopisma na drogę.</p>
+
+<p>- Dzień dobry, czy dostanę <q>Linux+</q>? - zagadnąłem pogodnie kioskarkę<br />
+- Nie, nie ma<br />
+- A może dostanę <q>Linux Magazine</q>?<br />
+- Nie, też nie ma<br />
+- A może <q>Chip Special</q>?<br />
+- Nie, ale mam <q>Polskie Amatorki</q><br />
+- Wie pani, to są magazyny komputerowe...<br />
+- A, to nie, mam <q>Click</q> i <q>Komputer Świat</q></p>
+
+<p>Stanąłem tam jako głaz, wryty i zmieszany. Nie wyglądało to na dowcip prima-aprilisowy, a zakupu <q>Linux+</q> dokonywałem tam już wielokrotnie. Całe zajście, dość zabawne, przywróciło moją wiarę w fantazję i kreatywność polskich pracowników. :)</p>

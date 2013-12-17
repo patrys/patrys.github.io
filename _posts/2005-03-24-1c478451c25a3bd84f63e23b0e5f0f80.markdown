@@ -1,0 +1,54 @@
+---
+layout: post
+status: publish
+published: true
+title: Coś dla fanów Firefoksa
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 68
+date: 2005-03-24 23:19:22.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 784
+  author: jpc
+  author_url: ''
+  date: '2005-03-24 23:20:43 +0100'
+  date_gmt: '2005-03-24 23:20:43 +0100'
+  content: A gdzie obowiązkowy skrinszot?
+- id: 785
+  author: da.killa
+  author_url: ''
+  date: '2005-03-24 23:22:51 +0100'
+  date_gmt: '2005-03-24 23:22:51 +0100'
+  content: http://wirusy.room-303.com/Sage/screenshot.png
+- id: 786
+  author: Jezuch
+  author_url: ''
+  date: '2005-03-24 23:27:03 +0100'
+  date_gmt: '2005-03-24 23:27:03 +0100'
+  content: |-
+    Sage? Nah... Thunderbird lepsiejszy do RSS...
+    <br/>A domyślny wygląd Fx jest rzygogenny :&gt;
+- id: 787
+  author: Patrys
+  author_url: ''
+  date: '2005-03-24 23:31:53 +0100'
+  date_gmt: '2005-03-24 23:31:53 +0100'
+  content: Ja pocztę czytam w evolution, a to nie jest post o wyższości X nad Y ;]
+- id: 788
+  author: mmm
+  author_url: ''
+  date: '2005-03-24 23:51:14 +0100'
+  date_gmt: '2005-03-24 23:51:14 +0100'
+  content: Jako pierwszy komentujący sedno sprawy, czyli sam styl, powiem że rzeczywiście
+    jest dużo lepszy niż ten domyślny.
+---
+<p>Pewnie spora część z was używa <a href="http://sage.mozdev.org/">Sage</a> jako czytnika <abbr title="Really Simple Syndication">RSS</abbr>. Dziś zmusiłem się do chwili wysiłku intelektualnego i przygotowałem <a href="http://wirusy.room-303.com/Sage/">własny stylesheet, zgodny z designem strony Mozilli</a> do tegoż programu. Będąc nieskromnym, wygląda wspaniale i czyta mi się to dużo wygodniej niż domyślne Sage'owe niebieskości. Proszę tylko o linkowanie do tej notki, a nie bezpośrednio do pliku/serwera, bo umiejscowienie pliku może się w najbliższej przyszłości zmienić.</p>
+
+<p>Obowiązkowy <a href="http://wirusy.room-303.com/Sage/screenshot.png">screenshot Mozilla theme w użyciu</a>.</p>
+
+<p>Instrukcja instalacji: rozpakować gdzieś na dysk (do jednego katalogu), w opcjach Sage zaznaczyć <q>use custom stylesheet</q> i wybrać plik <code>mozilla.css</code> dostarczony w tarballu.</p>

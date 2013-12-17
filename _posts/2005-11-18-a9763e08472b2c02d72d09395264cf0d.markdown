@@ -1,0 +1,61 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #022: Standardy i outsourcing'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 183
+date: 2005-11-18 22:49:45.000000000 +01:00
+categories:
+- comic
+tags: []
+comments:
+- id: 2559
+  author: Riddle
+  author_url: ''
+  date: '2005-11-18 22:51:38 +0100'
+  date_gmt: '2005-11-18 22:51:38 +0100'
+  content: Świńskie, ale prawdziwe. :D
+- id: 2560
+  author: tas
+  author_url: ''
+  date: '2005-11-19 00:30:56 +0100'
+  date_gmt: '2005-11-19 00:30:56 +0100'
+  content: piękne!
+- id: 2561
+  author: RAFi
+  author_url: ''
+  date: '2005-11-19 03:09:36 +0100'
+  date_gmt: '2005-11-19 03:09:36 +0100'
+  content: dobre
+- id: 2562
+  author: .-.|---|.-.|..|---|
+  author_url: ''
+  date: '2005-11-19 09:11:57 +0100'
+  date_gmt: '2005-11-19 09:11:57 +0100'
+  content: Bardzo poetyckie!
+- id: 2563
+  author: Bad Kitty
+  author_url: ''
+  date: '2005-11-20 16:38:40 +0100'
+  date_gmt: '2005-11-20 16:38:40 +0100'
+  content: buhahahaa :D
+- id: 2564
+  author: Paweł Majczyk
+  author_url: ''
+  date: '2005-11-21 19:36:41 +0100'
+  date_gmt: '2005-11-21 19:36:41 +0100'
+  content: O cholera! :D
+- id: 2565
+  author: djrzulf
+  author_url: ''
+  date: '2005-12-02 14:11:15 +0100'
+  date_gmt: '2005-12-02 14:11:15 +0100'
+  content: rewelka :D
+---
+<p>Strip kolejny, tym razem hostowany u pracodawcy, reszta powróci razem z domeną, o której pisałem przed chwilą.</p>
+
+<p class="strip"><img src="http://comic.room-303.com/strips/022-standards.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>

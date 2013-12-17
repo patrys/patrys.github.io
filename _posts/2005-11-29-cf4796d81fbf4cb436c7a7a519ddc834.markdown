@@ -1,0 +1,160 @@
+---
+layout: post
+status: publish
+published: true
+title: Being geeky
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 188
+date: 2005-11-29 21:13:51.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 2741
+  author: harnir
+  author_url: ''
+  date: '2005-11-29 21:18:14 +0100'
+  date_gmt: '2005-11-29 21:18:14 +0100'
+  content: Ciekawe czy daje się włączać/wyłączać podświetlenie z poziomu Linuksa :-)
+- id: 2742
+  author: jbl
+  author_url: ''
+  date: '2005-11-29 21:23:09 +0100'
+  date_gmt: '2005-11-29 21:23:09 +0100'
+  content: A te klawisze z czego są wykonane?
+- id: 2743
+  author: Wampirek
+  author_url: ''
+  date: '2005-11-29 21:28:41 +0100'
+  date_gmt: '2005-11-29 21:28:41 +0100'
+  content: "Czuję, że miałbym problem z tymi dodatkowymi klawiszami, na prawo od Entera
+    ;)\n<br/>A poza tym to fajna klawka :) \n<br/>Ile kosztowała?"
+- id: 2744
+  author: dxOne
+  author_url: ''
+  date: '2005-11-29 21:39:38 +0100'
+  date_gmt: '2005-11-29 21:39:38 +0100'
+  content: |-
+    a nie lepiej http://www.artlebedev.com/portfolio/optimus/ ?
+    <br/>poza tym to jestes zdrowo geekniety
+- id: 2745
+  author: Patrys
+  author_url: ''
+  date: '2005-11-29 21:49:20 +0100'
+  date_gmt: '2005-11-29 21:49:20 +0100'
+  content: |-
+    Wampirek:
+    <br/>
+    <br/>211 PLN
+- id: 2746
+  author: Nina
+  author_url: ''
+  date: '2005-11-29 21:52:18 +0100'
+  date_gmt: '2005-11-29 21:52:18 +0100'
+  content: Ueee...
+- id: 2747
+  author: Wampirek
+  author_url: ''
+  date: '2005-11-29 22:01:08 +0100'
+  date_gmt: '2005-11-29 22:01:08 +0100'
+  content: "Uch, ja za swoją płaską klawiaturkę dałem 25zł ;) \n<br/>Im mniej udziwnień
+    (czytaj dodatkowych klawiszy) tym lepiej ;)"
+- id: 2748
+  author: Patrys
+  author_url: ''
+  date: '2005-11-29 22:02:12 +0100'
+  date_gmt: '2005-11-29 22:02:12 +0100'
+  content: Klawisze dodatkowe mi zbędne. Ważny układ notebookowy i aluminiowa konstrukcja.
+- id: 2749
+  author: Wampirek
+  author_url: ''
+  date: '2005-11-29 22:06:34 +0100'
+  date_gmt: '2005-11-29 22:06:34 +0100'
+  content: "Moja też ma taki układ - te dodatkowe klawisze na prawo od Entera ;) No
+    i aluminiowa nie jest ;) \n<br/>Co nie zmienia faktu, że i tak Ci jej zazdroszczę
+    ;D"
+- id: 2750
+  author: Patrys
+  author_url: ''
+  date: '2005-11-29 22:19:20 +0100'
+  date_gmt: '2005-11-29 22:19:20 +0100'
+  content: |-
+    dxOne:
+    <br/>
+    <br/>Optimus to stary projekt, tylko dalej nie można go kupić.
+- id: 2751
+  author: citizen
+  author_url: ''
+  date: '2005-11-29 22:46:48 +0100'
+  date_gmt: '2005-11-29 22:46:48 +0100'
+  content: Zrób fotke jak to świeci wieczorem.
+- id: 2752
+  author: Riddle
+  author_url: ''
+  date: '2005-11-29 23:09:58 +0100'
+  date_gmt: '2005-11-29 23:09:58 +0100'
+  content: Paskudztwo. :D
+- id: 2753
+  author: cenebris
+  author_url: ''
+  date: '2005-11-29 23:38:59 +0100'
+  date_gmt: '2005-11-29 23:38:59 +0100'
+  content: Uch, może i ładna, ale pisać się na niej musi chyba nienajlepiej... Nie
+    ma to jak poważna klawiatura z microsoftu :)
+- id: 2754
+  author: Patrys
+  author_url: ''
+  date: '2005-11-29 23:40:07 +0100'
+  date_gmt: '2005-11-29 23:40:07 +0100'
+  content: Problem w tym, że ja pracuję przez 90% czasu na notebooku i nie umiem pisać
+    już na klawiaturze ze zwykłym układem.
+- id: 2755
+  author: cenebris
+  author_url: ''
+  date: '2005-11-29 23:41:10 +0100'
+  date_gmt: '2005-11-29 23:41:10 +0100'
+  content: W tym wypadku to rozumiem. Co nie znaczy że sam bym sobie taką kupił.
+- id: 2756
+  author: mcv
+  author_url: ''
+  date: '2005-11-30 09:18:57 +0100'
+  date_gmt: '2005-11-30 09:18:57 +0100'
+  content: Heh, ja też jakoś już nie umiem. Najgorszy w zwykłych klawiaturach jest
+    ten duży skok :-)
+- id: 2757
+  author: KonMan
+  author_url: ''
+  date: '2005-11-30 20:49:51 +0100'
+  date_gmt: '2005-11-30 20:49:51 +0100'
+  content: Fajna, kurz się nie zbiera miedzy klawiszami. ;)
+- id: 2758
+  author: HoBBit °¸°
+  author_url: ''
+  date: '2005-12-01 20:55:07 +0100'
+  date_gmt: '2005-12-01 20:55:07 +0100'
+  content: |-
+    KonMan: niestety zbiera sie :/
+    <br/>moja tak samo pinknie swieci :D (przydatne w nocy :])
+- id: 2759
+  author: citizen
+  author_url: ''
+  date: '2005-12-01 22:08:21 +0100'
+  date_gmt: '2005-12-01 22:08:21 +0100'
+  content: Dajcie zobaczyć jak to wygląda.
+- id: 2760
+  author: Patrys
+  author_url: ''
+  date: '2005-12-01 22:11:55 +0100'
+  date_gmt: '2005-12-01 22:11:55 +0100'
+  content: Nie mam aparatu pod ręką. Jak będzie okazja, to wrzucę fotkę.
+---
+<p>W piątek świętowaliśmy przenosiny firmy do nowej lokacji. Kilka piw i drinków w <a href="http://www.liverpool.wroclaw.pl/">Liverpoolu</a>. W drodze powrotnej do domu skradziono mi portfel. O 6 nad ranem zablokowałem karty bankowe i zacząłem szacować straty. Pieniędzmi się nie przejąłem, gorzej z dokumentami. Załatwienie wszystkiego i wyrobienie nowych dokumentów wymaga czasu i ponad 200 złotych nakładów finansowych. Na szczęście, portfel odnalazł się w niedzielę. Przypadkowy przechodzień znalazł go przy śmietniku na tyłach kina <a href="http://www.heliosnet.pl/">Helios</a>.</p>
+
+<p>Szczęściu nie było końca. Ucieszyłem się z zaoszczędzenia czasu i kłopotów, pozostało wyrobić nowe karty w banku. Z koniecznością wydania pieniędzy już się pogodziłem, dlatego z łatwością przyszło mi podjęcie innej decyzji. Dziś zamówiłem sobie nową klawiaturę - <a href="http://www.speedlink.de/">SpeedLink</a> SL-6466:</p>
+
+<p class="strip"><a href="http://www.speedlink.de/prod.php?lang=en&amp;sys_id=1&amp;pb_id=5&amp;prod_num=SL-6466"><img src="http://www.gc-plus.de/img/medium/sl-6466_1.jpg" alt="SL-6466" /></a></p>
+
+<p>Powinna przyjechać do poniedziałku. Już nie mogę się doczekać.</p>

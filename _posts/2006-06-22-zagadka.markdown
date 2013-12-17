@@ -1,0 +1,281 @@
+---
+layout: post
+status: publish
+published: true
+title: Zagadka
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 269
+wordpress_url: http://www.room-303.com/blog/2006/06/22/zagadka/
+date: 2006-06-22 10:47:59.000000000 +02:00
+categories:
+- varia
+- web
+tags: []
+comments:
+- id: 3985
+  author: mcv
+  author_url: http://mcv.jogger.pl/
+  date: '2006-06-22 10:53:45 +0200'
+  date_gmt: '2006-06-22 09:53:45 +0200'
+  content: Yyy… może nie ma znaku unicode, który określa złamanie linii? A encje to
+    chyba tak raczej do znaczków unikodowych się przypisały niż do formatowania ;-)
+- id: 3986
+  author: medyk
+  author_url: http://www.medikoo.com
+  date: '2006-06-22 10:56:07 +0200'
+  date_gmt: '2006-06-22 09:56:07 +0200'
+  content: tego akurat nie wiem.. ale wiem, że w XHTML 2.0 będzie taki element jak
+    linia tekstu a 'br' odejdzie do lamusa.. też mi on nigdy nie pasował.
+- id: 3987
+  author: nbw
+  author_url: http://enbewu.net/blog/
+  date: '2006-06-22 10:58:01 +0200'
+  date_gmt: '2006-06-22 09:58:01 +0200'
+  content: 'mcv: niezupełnie. Są np &lrm; &rlm; &nbsp; Przypuszczam, że  to po prostu
+    jeden z pierwszych elementów, które się pojawiły. A dalej poleciało na zasadzie
+    "kompatybilności wstecznej" :)'
+- id: 3988
+  author: nbw
+  author_url: http://enbewu.net/blog/
+  date: '2006-06-22 10:58:44 +0200'
+  date_gmt: '2006-06-22 09:58:44 +0200'
+  content: kurde. miało być &amp;lrm; &amp;rlm; &amp;nbsp;
+- id: 3989
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-06-22 11:05:31 +0200'
+  date_gmt: '2006-06-22 10:05:31 +0200'
+  content: "medyk:\r\n\r\nTo będzie automatyczny element, nie będziesz musiał każdej
+    linii zamykać w tagi.\r\n\r\nnbw:\r\n\r\nWszystkie trzy są znakami Unicode. Podobnie
+    jak &amp;shy; i znak końca linii."
+- id: 3990
+  author: Nivertius
+  author_url: http://nivertius.uaznia.net/
+  date: '2006-06-22 12:20:40 +0200'
+  date_gmt: '2006-06-22 11:20:40 +0200'
+  content: Może dlatego, że 'konstruktorzy' pierwszych HTMLi nie myśleli co robią,
+    albo po prostu nie wiedzieli, że kiedyś to będzie coś więcej niż zupa tagów...
+- id: 3991
+  author: Bellois
+  author_url: http://jabba.pl/bellois
+  date: '2006-06-22 12:56:49 +0200'
+  date_gmt: '2006-06-22 11:56:49 +0200'
+  content: HTML był przecież na początku niezwykle prostym językiem i chyba takim
+    miał pozostać według pierwotnych zamiarów. Ot, taki spadek.
+- id: 3992
+  author: Wojciech Bednarski
+  author_url: http://wojciechbednarski.com
+  date: '2006-06-22 13:27:16 +0200'
+  date_gmt: '2006-06-22 12:27:16 +0200'
+  content: Myślę, że najlepiej będzie zapytać Domela :]
+- id: 3993
+  author: Domel
+  author_url: ''
+  date: '2006-06-22 16:14:13 +0200'
+  date_gmt: '2006-06-22 15:14:13 +0200'
+  content: "Niestety nie posiadam wiedzy, ktora powolila by mi na sto procent stwierdzic
+    dlaczego (bo 12 lat temu jeszcze sie tym nie interesowalem). Chodzi najprawdopodobniej
+    o to, ze wtedy poprostu nikt na to nie wpadl. Zreszta zapewne kierowal sie tym,
+    ze to co jest widoczne powinno byc reprezentowane przez znacznik/atrybut a nie
+    przez encje. Zreszta szczerze watpie zeby w ISO 8879:1986 istniala taka encja
+    (jesli ktos by to sprawdzil to chetnie sie dowiem) wiec jesli jej nie bylo to
+    nie mozna bylo z niej skorzystac ;-) . Do tego dochodzi sprawa, ze to bylo robione
+    przez IETF a nie przez W3C, a to oznacza, ze najpierw ma dzialac a pozniej spisujemy
+    specyfikacje, co z wiadomych powodow zwieksza prawdopodobienstwo glupot. A dalej
+    to bylo tak jak napisal nbw. Czyli w imie \"kompatybilnosci przenosimy wszsytkie
+    bledy\". Dopiero XHTML 2.0 odcina sie od wszystkich bledow nalecialych przez te
+    15 lat. Jesli taki projekt, zeby w XHTML 2.0 zniknely wszystie encje (lacznie
+    ze znakowymi, bo przeciez teraz jest unikod a nie jakies tam 8859-1).\r\nNa marginesie
+    mala uwaga: nie ma co mieszac do tego encji typu &amp; shy ; i unikodu bo przeciez
+    wtedy jeszcze nikt nie wiedzial, ze takie cos jak unikod jest wogole mozliwe :-)\r\n@Patrys:
+    Co oznacza \"automatyczny element\"?"
+- id: 3994
+  author: shrew
+  author_url: http://blog.patrycja.mentis.pl
+  date: '2006-06-22 16:45:17 +0200'
+  date_gmt: '2006-06-22 15:45:17 +0200'
+  content: a co jest do wygrania? ;)
+- id: 3995
+  author: xard4s
+  author_url: htttp://xardas.be/cms/
+  date: '2006-06-22 16:58:58 +0200'
+  date_gmt: '2006-06-22 15:58:58 +0200'
+  content: <strong>@Domel:</strong> automatyczny == automatycznie wstawiany? :)
+- id: 3997
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-06-22 19:34:52 +0200'
+  date_gmt: '2006-06-22 18:34:52 +0200'
+  content: "Domel:\r\n\r\nAFAIK, to linia nie ma być tyle elementem DOM sensu structe
+    (tag otwierający i zamykający), co magicznym pseudoelementem, takim jak ::before
+    i ::after."
+- id: 3998
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-06-22 19:37:18 +0200'
+  date_gmt: '2006-06-22 18:37:18 +0200'
+  content: "xard4s:\r\n\r\nW XHTML nie ma automatycznie wstawianych elementów, tylko
+    HTML pozwalał na pomijanie pewnych części dokumentu, które były automatycznie
+    generowane przez agenta (jak <code>&lt;body/&gt;</code>, <code>&lt;head/&gt;</code>
+    itp.)."
+- id: 4000
+  author: marcoos
+  author_url: http://blog.marcoos.org/
+  date: '2006-06-22 19:50:12 +0200'
+  date_gmt: '2006-06-22 18:50:12 +0200'
+  content: Może wzorowano się na jakimś innym wariancie SGML, w którym "złam linię"
+    było  a nie &amp;encją;? ;-)
+- id: 4001
+  author: marcoos
+  author_url: http://blog.marcoos.org/
+  date: '2006-06-22 19:50:50 +0200'
+  date_gmt: '2006-06-22 18:50:50 +0200'
+  content: "Ups, chciałem sobie fajnie napisać i się schrzaniło...\r\n\r\nMoże wzorowano
+    się na jakimś innym wariancie SGML, w którym „złam linię” było &lt;znacznikiem&gt;
+    a nie &amp;encją;? ;-)"
+- id: 4002
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-06-22 20:24:08 +0200'
+  date_gmt: '2006-06-22 19:24:08 +0200'
+  content: "Marcoos:\r\n\r\nTo samo pytanie można odnieść do dowolnego narzecza SGML
+    :)"
+- id: 4003
+  author: Domel
+  author_url: ''
+  date: '2006-06-22 20:45:24 +0200'
+  date_gmt: '2006-06-22 19:45:24 +0200'
+  content: "Patrys:\r\n\r\nRaczej to nie możliwe. Skąd te informacje?"
+- id: 4004
+  author: Karolaq
+  author_url: ''
+  date: '2006-06-22 21:01:43 +0200'
+  date_gmt: '2006-06-22 20:01:43 +0200'
+  content: Zaleta tagów jest to, że mogą one przyjmować argumenty. znacznik BR przyjmuje
+    kilka takich :)
+- id: 4007
+  author: ziom
+  author_url: ''
+  date: '2006-06-23 04:26:54 +0200'
+  date_gmt: '2006-06-23 03:26:54 +0200'
+  content: 'Karolaq, w sumie racja, czesto ja np uzywam przy tworzeniu layoutow  w
+    polaczeniu ze stylem, w ktorym znajduje sie "clear : both", bardzo przydatna sprawa
+    :) , chyba ze sie da zastapic :P'
+- id: 4008
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-06-23 05:16:56 +0200'
+  date_gmt: '2006-06-23 04:16:56 +0200'
+  content: "Domel:\r\n\r\nTakie propozycje kiedyś padły w dyskusji pomiędzy W3C i
+    HTML WG. Nie śledzę tego na bieżąco teraz, bo nie mam tyle czasu, więc moje dane
+    mogą być mocno nieaktualne. W każdym razie była koncepcja, żeby wiersze były pseudoelementami
+    generowanymi w locie.\r\n\r\nKarolaq, ziom:\r\n\r\nOd tego jest <code>&lt;hr/&gt;</code>
+    i <code>&lt;separator/&gt;</code>."
+- id: 4012
+  author: Domel
+  author_url: ''
+  date: '2006-06-23 10:51:33 +0200'
+  date_gmt: '2006-06-23 09:51:33 +0200'
+  content: "Patrys:\r\n\r\nTo musiałbyć jakiś mały epizot bo nawet nie pamiętam takiego
+    wątku ale napewno to jest nie aktualne. Najbliżej akceptacji jest atrybut layout
+    (nie mylić z xml:space)."
+- id: 4018
+  author: MOldar
+  author_url: http://moldar.ovh.org
+  date: '2006-06-24 16:46:40 +0200'
+  date_gmt: '2006-06-24 15:46:40 +0200'
+  content: W różnych systemach operacyjnych są różne sposoby kodowania znaku nowej
+    linii, br informuje ze ma byc w tym miejscu wstawiony znak nowej linni odpowiedni
+    dla danego systemu, sa/moga byc/byly  przegladarki, ograniczone mozliwosci platformy,
+    ktore moga wyswietlac powiedzmy 127 znakow wiec olewaja encje i wyswietlaja je
+    jak widza, a dostajac znacznik br zastepuja go, wlasciwym dla siebie, znakiem
+    nowej linii.
+- id: 4019
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-06-24 18:27:14 +0200'
+  date_gmt: '2006-06-24 17:27:14 +0200'
+  content: "MOldar:\r\n\r\nPrzeglądarka niczego nie może sobie z założenia olać. Musi
+    rozkodować encję i dopiero wtedy uznać, czy potrafią ją wyświetlić, czy ma ją
+    zastąpić informacją o brakującym znaku.\r\n\r\nA opisana przez ciebie przeglądarka
+    powinna zepsuć każdy poprawnie złożony tekst, zawierający niełamliwe spacje przed
+    spójnikami."
+- id: 4021
+  author: Domel
+  author_url: ''
+  date: '2006-06-24 19:16:25 +0200'
+  date_gmt: '2006-06-24 18:16:25 +0200'
+  content: "Dokładnie tak, zresztą opisana przez Moldara sytuacja nie miała ani nie
+    ma miejsca. Problem zasugerowany przez Patrysa faktycznie istnieje ale w XHTML
+    2.0 będzie rozwiązany, myśle idealnie. Długo był dyskutowany, było wiele podejść
+    ale chyba wypracowaliśmy już końcowe rozwiązanie czyli layout=\"relevant\" i zwykłe
+    znaki końca linii lub znacznik l (przy okazji podział semantyczny się pojawia).
+    \r\nAle prawda jest taka, że tak naprawdę lepsza jest zupa tagów niż zupa encji,
+    więc chyba jednak dobrze się stało :-) ."
+- id: 4022
+  author: MOldar
+  author_url: http://moldar.ovh.org
+  date: '2006-06-24 20:01:37 +0200'
+  date_gmt: '2006-06-24 19:01:37 +0200'
+  content: "Patrys: Gdzie jest napisane że nie może olać?\r\nNa poczatku w HTML nie
+    bylo encji 'nbsp'... pozatym jesli tekst dojdzie do brzegu ekranu i tak bedzie
+    zlamany, a coś takiego jak znak nowej linii musi sie wyróżniac w kodzie chociazby
+    dla parsera ktory przy pierwszym przejsciu ze wzgledu na wydajnosc ignorowalby
+    encje ...od tamtego czasu minelo kilkanascie lat.\r\n\r\nDomel: Nigdy nie możesz
+    być pewien co gdzie nie ma miejsca.\r\n\r\nPatrys... dlaczego po prostu nie wyślesz
+    majla, z tym pytaniem, do w3c?"
+- id: 4023
+  author: Domel
+  author_url: ''
+  date: '2006-06-24 21:50:43 +0200'
+  date_gmt: '2006-06-24 20:50:43 +0200'
+  content: "MOldar:\r\n1. Napisane jest w specyfikacji.\r\n2. Nie, własnie o to chodzi,
+    że w nbsp nie bedzie złąmany\r\n3. Nie musi, parsery działają nie tylko na znacznikach
+    muszą również, przykładem jest BOM w pareserze XML\r\n4. Mogę być pewny, bo widziałem
+    wszystkie powszechne przeglądarki jakie były do tej pory wyprodukowane. Bo przecież
+    nie mówimy o wyjątkach typu pan kazio napisał przeglądarkę w 100 liniach kodu
+    (ktora oczywiście nie jest zgodna ze specyfikacją)\r\n5. Może dlatego, że to wymyślała
+    IETF a nie W3C?"
+- id: 4024
+  author: Domel
+  author_url: ''
+  date: '2006-06-24 21:57:11 +0200'
+  date_gmt: '2006-06-24 20:57:11 +0200'
+  content: 'ad. 4 Zjadło mi kilka wyrazów więc wyjaśniam: "...muszą również być brane
+    pod uwagę inne czynniki, np. znaki, przykładem jest BOM w parserze XML. Jeszcze
+    dodam, przy okazji, że jakoś w white-space (CSS) / znacznik pre to działa, to
+    samo będzie z layout=”relevant” i pokrewnie jest z xml:space w XML-u.'
+- id: 4030
+  author: '{o}'
+  author_url: http://www.roswell.pl
+  date: '2006-06-26 23:29:09 +0200'
+  date_gmt: '2006-06-26 22:29:09 +0200'
+  content: "Ja bym tylko chciał zwrócić uwagę, że encje nie służą tylko do kodowania
+    pojedynczych znaków. Encje mogą być czymkolwiek. Nawet elementami.\r\n\r\nEksperyment
+    do przemyślenia (działa w Operze):\r\n\r\n\r\n\"&gt;\r\n]&gt;\r\n\r\n\r\nWilk
+    syty i owca cała\r\n\r\n\r\n\r\nblah&br;blah&br;&br;cone\r\n\r\n\r\n"
+- id: 4031
+  author: '{o}'
+  author_url: http://www.roswell.pl
+  date: '2006-06-26 23:32:43 +0200'
+  date_gmt: '2006-06-26 22:32:43 +0200'
+  content: "Ja bym tylko chciał zwrócić uwagę, że encje nie służą tylko do kodowania
+    pojedynczych znaków. Encje mogą być czymkolwiek. Nawet elementami.\r\n\r\nEksperyment
+    do przemyślenia (działa w Operze):\r\n\r\n&lt;?xml version=\"1.0\"?&gt;\r\n&lt;!DOCTYPE
+    html PUBLIC \"-//W3C//DTD XHTML 1.1//EN\" \"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd\"\r\n[&lt;!ENTITY
+    br \"&lt;br/&gt;\"&gt;]&gt;\r\n&lt;html&gt;\r\n&lt;head&gt;\r\n&lt;/head&gt;\r\n&lt;body&gt;\r\n\r\n&lt;p&gt;blah&br;blah&br;&br;cone&lt;/p&gt;\r\n\r\n&lt;/body&gt;\r\n&lt;/html&gt;"
+- id: 4032
+  author: Domel
+  author_url: ''
+  date: '2006-06-27 09:17:46 +0200'
+  date_gmt: '2006-06-27 08:17:46 +0200'
+  content: '{o}: Zgadza się ale Patrys mówił (tylko) o encjach _znakowych_.'
+---
+<p>Nikt ze znajomych nie jest mi w stanie odpowiedzieć, a od paru lat problem mnie co jakiś czas zastanawia. Stąd zagadka:</p>
+
+<p>Dlaczego wymuszone złamanie linii w <abbr title="HyperText Markup Language">HTML</abbr> jest elementem, a nie encją?</p>
+
+<p>Odpowiedzi można nadsyłać w komentarzach, redakcja zastrzega sobie prawo do nie zwracania nadesłanych materiałów.</p>

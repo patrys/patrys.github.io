@@ -1,0 +1,223 @@
+---
+layout: post
+status: publish
+published: true
+title: Dlaczego hidentity.org jest złe
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 114
+date: 2005-06-26 20:35:46.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 1401
+  author: riddle
+  author_url: ''
+  date: '2005-06-26 20:41:14 +0200'
+  date_gmt: '2005-06-26 20:41:14 +0200'
+  content: |-
+    Pomyślałeś, żeby zamiast znaczka @ dać obrazek, wpisać mu atrybut alt=&quot;@&quot; i dzięki temu spokojnie można zaznaczać takie coś i kopiować do programu pocztowego? :)
+    <br/>
+    <br/>Fakt faktem... GMail ma świetny antyspam. Zresztą Google naprawdę są niezłą firmą jeśli chodzi o rozwiązania internetowe.
+- id: 1402
+  author: Patrys
+  author_url: ''
+  date: '2005-06-26 20:42:34 +0200'
+  date_gmt: '2005-06-26 20:42:34 +0200'
+  content: |-
+    Ja wcale swojego adresu nie ukrywam.
+    <br/>
+    <br/>A tekst nie jest o metodach ukrywania tylko o tym, że Hidentity psuje sieć i przeszkadza użytkownikom.
+- id: 1403
+  author: Jajcus
+  author_url: ''
+  date: '2005-06-26 20:52:16 +0200'
+  date_gmt: '2005-06-26 20:52:16 +0200'
+  content: |-
+    Ja też nie ukrywam swojego adresu. To nie ma większego sensu, bo jeżeli adresu się używa, to on i tak do baz spamowych trafi. Wystarczy, że jedna z osób z którą korespondujesz (prywatnie czy służbowo) ma wirusa przetwarzającego odebrane majle i/lub książkę adresową, albo wyśle Tobie oraz setce innych osób w polu &quot;To:&quot; któregoś z głupich łańcuszków. A jak adres raz wypłynie, to wiele zrobić się nie da.
+    <br/>Oczywiście ryzyko można minimalizować... ale po co ja mam się ograniczać i utrudniac innym życie z powodu jakichś p..onych spamerów? Kim oni są, żeby wpływać na to jak ja mam korzystać z sieci?
+- id: 1404
+  author: ks. Vrok
+  author_url: ''
+  date: '2005-06-26 21:08:24 +0200'
+  date_gmt: '2005-06-26 21:08:24 +0200'
+  content: Problem w tym, że kiedy SpamAssasin pracuje, to nie możne tego robić reszta
+    systemu (przynajmniej na tak przyziemnym sprzęcie jak mój).
+- id: 1405
+  author: Patrys
+  author_url: ''
+  date: '2005-06-26 21:09:06 +0200'
+  date_gmt: '2005-06-26 21:09:06 +0200'
+  content: To odpal go na serwerze SMTP.
+- id: 1406
+  author: zdzichuBG
+  author_url: ''
+  date: '2005-06-26 21:47:41 +0200'
+  date_gmt: '2005-06-26 21:47:41 +0200'
+  content: |-
+    Mója workstacja to mój serwer SMTP :-)
+    <br/>Mam semprona 2500+ i czasam SA potrafi miala przetwarzać ponad minute - co kończy się często timoutami po drugiej stronie połączenia SMTP.
+- id: 1407
+  author: Patrys
+  author_url: ''
+  date: '2005-06-26 21:51:57 +0200'
+  date_gmt: '2005-06-26 21:51:57 +0200'
+  content: A korzystasz ze spamd? Ponad minuta to raczej średni wynik, ja przetwarzam
+    pocztę po przyjęciu już do kolejki.
+- id: 1408
+  author: zdzichuBG
+  author_url: ''
+  date: '2005-06-26 21:58:21 +0200'
+  date_gmt: '2005-06-26 21:58:21 +0200'
+  content: |-
+    Korzystam, nawet ma nice -2; PostgreSQL z którym współpracuje ma nice -5 i wg. top&#039;a to on najbardziej szarpie proca. Ponad minuta to wynik ekstremalny.
+    <br/>grep scantime all_logs | cut -d= -f 2 | cut -d, -f1 | awk &#039;{suma+=$1; ile++} END{print suma/ile}&#039;
+    <br/>16,96
+    <br/>
+    <br/>Średnio 17s ;)
+    <br/>
+- id: 1409
+  author: ks. Vrok
+  author_url: ''
+  date: '2005-06-26 22:02:19 +0200'
+  date_gmt: '2005-06-26 22:02:19 +0200'
+  content: |-
+    Patrys: Ale ten serwer jest odpadek, służący do wszystkiego (jabber, email, ftp do wymiany legalnych plików) napędziany jakimś Pentium 133 z 32 RAMu (przynajmniej tak Gausus twierdzi, bo to jego).
+    <br/>Chociaż generalnie ostatnio GMaila wszędzie używam i jest fajowo. :)
+- id: 1410
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-06-26 22:08:47 +0200'
+  date_gmt: '2005-06-26 22:08:47 +0200'
+  content: |-
+    U mnie SpamAssasin (na localhost + KMail) nie wykrywa upierdliwego spamu z Japonii. Spam ten jest na tyle specyficzny, że wygląda jak zwykły mail. Zawiera trochę japońskich znaków i adres jakiejś strony www :(
+    <br/>
+    <br/>A ukrywanie adresów email poprzez &quot;AT&quot; to też głupota. Spamerzy zarabiają tyle, że mają na tyle zdolnych programistów, którzy zrobią poprostu s/AT/@/g i tyle :)
+- id: 1411
+  author: Patrys
+  author_url: ''
+  date: '2005-06-26 22:09:59 +0200'
+  date_gmt: '2005-06-26 22:09:59 +0200'
+  content: |-
+    Łasica:
+    <br/>
+    <br/>Nie, bo nie stawiasz kropek, więc nie wiadomo w którym momencie email się zaczyna i kończy i czy to w ogóle email, bo słowo &quot;at&quot; jest dość popularne w języku angielskim :)
+- id: 1412
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-06-26 22:37:46 +0200'
+  date_gmt: '2005-06-26 22:37:46 +0200'
+  content: No, ale przecież wiecie co miałem na myśli :)
+- id: 1413
+  author: cenebris
+  author_url: ''
+  date: '2005-06-26 23:18:12 +0200'
+  date_gmt: '2005-06-26 23:18:12 +0200'
+  content: Przecież hidentity nikogo nie zmusza do korzystania z niego - ja sam używam
+    i nie narzekam, ponadto chyba się czepiasz - przepisać gg czy icq potrafi nawet
+    moja mama...
+- id: 1414
+  author: Patrys
+  author_url: ''
+  date: '2005-06-26 23:19:42 +0200'
+  date_gmt: '2005-06-26 23:19:42 +0200'
+  content: Ja tylko napisałem, że używając robisz krzywdę swoim gościom, a spam i
+    tak dostawać będziesz.
+- id: 1415
+  author: cenebris
+  author_url: ''
+  date: '2005-06-26 23:31:28 +0200'
+  date_gmt: '2005-06-26 23:31:28 +0200'
+  content: Właśnie dzięki hidentity i nie podawaniu swojego majla nigdzie praktycznie
+    nie dostaję żadnego spamu (2 tygodniowo?)... A może to po prostu kwestia gustu?
+    :)
+- id: 1416
+  author: Patrys
+  author_url: ''
+  date: '2005-06-26 23:34:42 +0200'
+  date_gmt: '2005-06-26 23:34:42 +0200'
+  content: |-
+    Możesz nigdzie nie podać, ale mail każdego programisty można znaleźć choćby w archiwach list dyskusyjnych czy w repozytoriach CVS.
+    <br/>
+    <br/>Co do hodentity, zapewniam cię, że większość użytkowników prędzej przeklika pół sajtu drżąc z frustracji niż spojrzy na ten animowany obrazek akurat w takim momencie, kiedy będzie on zawierał adres email.
+- id: 1417
+  author: cenebris
+  author_url: ''
+  date: '2005-06-26 23:39:28 +0200'
+  date_gmt: '2005-06-26 23:39:28 +0200'
+  content: "Jeśli będzie napis &quot;adres email&quot; lub &quot;kontakt&quot; i podasz
+    hidentity nastawione wyłącznie do pokazywania adresu email, to chyba też spełni
+    swoje zadanie... \n<br/>\n<br/>Kwestia wyboru - na strony firmowe/komercyjne chyba
+    bym nie dał hidentity, ale na prywatne jak najbardziej. Zresztą nie jedna firma
+    podaje adres w formie gifa..."
+- id: 1418
+  author: Patrys
+  author_url: ''
+  date: '2005-06-26 23:41:32 +0200'
+  date_gmt: '2005-06-26 23:41:32 +0200'
+  content: No to wyobraź sobie, że pada ci jakaś mega ważna i bardzo pilna usługa,
+    a na stronie dostawcy w dziale &quot;kontakt&quot; jest tylko przekreślony krzyżyk,
+    bo wystąpiły problemy z pobieraniem obrazka.
+- id: 1419
+  author: cenebris
+  author_url: ''
+  date: '2005-06-26 23:44:24 +0200'
+  date_gmt: '2005-06-26 23:44:24 +0200'
+  content: A spamboty zbierają info także z wartości alt w obrazkach?
+- id: 1420
+  author: Patrys
+  author_url: ''
+  date: '2005-06-26 23:45:39 +0200'
+  date_gmt: '2005-06-26 23:45:39 +0200'
+  content: Spamboty nie analizują drzewa DOM dokumentu tylko chamsko lecą wyrażeniami
+    regularnymi po całym pliku, w tym po kodzie JS, zagnieżdżonych stylach i komentarzach.
+- id: 1421
+  author: cenebris
+  author_url: ''
+  date: '2005-06-26 23:50:43 +0200'
+  date_gmt: '2005-06-26 23:50:43 +0200'
+  content: "Więc w tym wypadku jakiś znajomy dopiero po chwili (przywróceniu hidentity)
+    mógłby się ze mną skontaktować :) \n<br/>\n<br/>A tak na poważnie - widziałem
+    raz padnięte hidentity, które po paru minutach wróciło. Ale jak już pisałem -
+    na strony komercyjne to chyba nienajlepszy pomysł (liczy się wygoda i dostępność
+    klienta/odwiedzającego), jednak na zwykłe prywatne, blogi - imho nie widzę problemu."
+- id: 1422
+  author: Patrys
+  author_url: ''
+  date: '2005-06-26 23:52:25 +0200'
+  date_gmt: '2005-06-26 23:52:25 +0200'
+  content: |-
+    Mówię tylko, że to mniej-więcej tak wygodne jak umieszczenie numeru konta w niezaznaczalnym elemencie &lt;blink/&gt;.
+    <br/>
+    <br/>Na szczęście element &lt;blink/&gt; nie istnieje i nigdy nie istniał w specyfikacji.
+- id: 1423
+  author: qwiat
+  author_url: ''
+  date: '2005-06-27 09:32:07 +0200'
+  date_gmt: '2005-06-27 09:32:07 +0200'
+  content: "Na ukrywanie adresu email nie mogą sobie pozwolić instytucje, firmy i
+    odoby publiczne. Zwykli ludzie niech robią co im się żywnie podoba. Kiedyś w internecie
+    nie było reklam, okienek wyskakujących i spamu, sieć się zmienia, więc powstają
+    metody ich elminowania. \n<br/>Jeśli ktoś nie potrafi poradzić sobie  z &#039;AT&#039;
+    to lepiej niech do mnie nie pisze, takich mam w dupie, a pretensje niech ma do
+    spamerów a nie do mnie."
+- id: 1424
+  author: rzyjontko
+  author_url: ''
+  date: '2005-06-28 16:35:38 +0200'
+  date_gmt: '2005-06-28 16:35:38 +0200'
+  content: A nie pomyśleliście o tym, że to całe hidentity zbiera po prostu informacje
+    o swoich użytkownikach, a potem pewnego pięknego dnia właściciel sprzeda bazę
+    danych spamerom?  Będą mieli ładnie pokategoryzowane informacje o ludziach - email,
+    gg, jabber,...
+---
+<p>Internet ewoluował znacznie od stanu, kiedy FrontPage firmy z Redmond był topowym edytorem <abbr title="HyperText Markup Language">HTML</abbr>. Coraz większy nacisk kładzie się obecnie nie tylko na wygląd, ale na samą strukturę dokumentu. Powracają stare, dobre czasy, kiedy to naturalną rzeczą było dzielenie pliku na sekcję (choćby dosowy edytor Tag tego wymagał) - w HTML służą do tego różnego poziomu nagłówki, coraz mniej pojawia się grafik czysto dekoracyjnych (takich, które nie niosą ze sobą informacji, np. bullety przy wypunktowaniu) - tutaj pomaga <abbr title="Cascading Style Sheets">CSS</abbr>. Grafiki informacyjne, jak nagłówki czy zdjęcia coraz częściej posiadają poprawnie wypełniony atrybut <code>alt</code>, a nierzadko i tytuł w atrybucie <code>title</code>. Powoli, małymi krokami znikają też serwisy wymagające przepisywania dziwnych kodów z obrazków o pstrokatym tle - zabezpieczenie to można w prosty sposób zastąpić odpowiednim skryptem po stronie serwera. Zwiększa się użyteczność serwisów, także względem użytkowników o specyficznych potrzebach, jak korzystający z przeglądarek tekstowych czy z lektorów w <q>aural browsers</q>. Sieć coraz bardziej skupia się na informacji, popularną formą czytania o nowościach jest subskrypcja blogów i ich strumieni <abbr title="Really Simple Syndication">RSS</abbr>.</p>
+
+<p>Z drugiej strony coraz bardziej uciążliwym problemem jest spam i niektórzy cierpią wręcz na paranoiczny <em>zespół ochrony prywatności</em>. Adresy email na stronach wstawiane są na przeróżne dziwne sposoby, począwszy od najprostszych i najbardziej eleganckich - usunięcie kropek i zastąpienie małpy napisem <q>AT</q>, przez stosowanie dziwnych zabiegów w CSS, JavaScript, a kończąc na zastępowaniu części lub całości grafiką. Pierwsza z metod ma tę przewagę, że jest skuteczna, prosta i jedyne, czego wymaga to przepisanie kilku znaków, działa też w każdej przeglądarce na każdym systemie operacyjnym, jaki sobie wymyślimy - od telefonu komórkowego do mikrofalówki. Pozostałe obarczone są mniejszym lub większym uszczerbkiem na użyteczności - CSS zależy mocno od możliwości przeglądarki, a na tym polu dominujący nam <abbr title="Internet Explorer">IE</abbr> nie jest mocny, JavaScript może zostać wyłączony lub w ogóle może nie być zaimplementowany (choćby w urządzeniach przenośnych). Grafika generuje problemów najwięcej - przede wszystkim nie daje się zaznaczyć i skopiować, poza tym jej semantyczne umieszczenie na stronie wymagałoby wpisania w zawartość atrybutu <code>alt</code> adresu email, co stoi w konflikcie z naszymi intencjami.</p>
+
+<p>W niektórych przypadkach <em>zespół ochrony prywatności</em> posuwa się jeszcze dalej - powstają serwisy typu <a href="http://hidentity.org/"><abbr title="Hide Identity">Hidentity</abbr></a>, gdzie zupełnie bezpłatnie można obfuskować za pomocą grafiki nie tylko swój adres poczty elektronicznej, ale tak poufne informacje jak numer <abbr title="Gadu-Gadu">GG</abbr> czy login Skype. Oczywiście, żaden bot spamowy nie jest w stanie odróżnić ich na stronie (dla GG to zwykła liczba, dla Skype dowolny ciąg znaków), ale skoro da się je ukryć w obrazku, to czemu by nie. Wkrótce pojawią się zapewne serwisy informacyjne, publikujące całe artykuły w formacie wielowarstwowego pliku Adobe Photoshopa. Autorzy Hidentity poszli nawet o krok dalej - w celu zaoszczędzenia miejsca na stronie, dane prezentowane są w postaci animowanego pliku GIF z cykliczną rotacją. Nie przeszkadza im zapewne fakt, że próbując przepisać czyjś adres bądź numerek trzeba uciekać się do intuicyjnych rozwiązań z gatunku <q>zrób screenshot, wklej do Painta</q>. Na koniec wiele do życzenia pozostawia też sama graficzna forma tak przygotowanej informacji - wygląda jak typowy button reklamowy, co powoduje odruchowe pomijanie takich grafik - w identyczny sposób oko automatycznie pomija bannery reklamowe. Dla ciekawskich proponuję pochodzić po dużym portalu i po przejściu na kolejną stronę spróbować przypomnieć sobie, co reklamował banner na poprzedniej.</p>
+
+<p>Ja ze swojej strony do walki ze spamem polecam automatykę. Spam Assassin i filtry Bayesa sprawują się bardzo sprawnie. Otrzymuję dziennie około 600 wiadomości pocztowych, z których około 100 to spam, do dziś tylko jedna wiadomość prześliznęła się przez regułki. Inną alternatywą jest konto na <a href="http://gmail.com/">GMail</a>, gdzie filtry spamowe działają niemal całkowicie bezbłędnie.</p>

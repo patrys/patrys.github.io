@@ -1,0 +1,234 @@
+---
+layout: post
+status: publish
+published: true
+title: Inżynieria nieprogramowania
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 145
+date: 2005-08-22 18:50:20.000000000 +02:00
+categories:
+- web
+- code
+tags: []
+comments:
+- id: 1989
+  author: mmazur
+  author_url: ''
+  date: '2005-08-22 19:36:34 +0200'
+  date_gmt: '2005-08-22 19:36:34 +0200'
+  content: |-
+    Inna sprawa, że trzeba zainwestować sporo czasu w poznanie obecnie &#039;obowiązujących&#039; technologii. Tzn. jeśli chodzi o wuwę, to warto mieć już jakieś doświadczenia z np. mambą, drupalem i wordpressem. A bawienie się tym trochę trwa.
+    <br/>
+    <br/>Poza tym mam wrażenie, że poruszając tego typu tematy piszesz (ja zresztą też) strasznie oczywiste rzeczy.
+- id: 1990
+  author: Miedziany kulek
+  author_url: ''
+  date: '2005-08-22 19:57:59 +0200'
+  date_gmt: '2005-08-22 19:57:59 +0200'
+  content: |-
+    Taka luźno związana uwaga, mój przełożony rzucił swego czasu tekstem: &quot;nie ma znaczenia, czy to będzie działać, ważne żeby się dało wdrożyć&quot; ;)
+    <br/>
+    <br/>A tak na serio, z obserwacji w moim aktualnym miejscu pracy: dokumentowanie kodu, a przez to jego reużywalność jest fikcją. Właśnie z powodu terminów, o których piszesz, mnóstwo poprawek jest robionych ad-hoc, bez tworzenia jakiejkolwiek dokumentacji developerskiej, pisana jest jedynie dokumentacja &quot;biznesowa&quot; niezbędna do zatwierdzenia zmian przez klienta. I nie mam tu na myśli komentowania każdej linijki kodu, ale brakuje nawet ogólnego zarysu zależności pomiędzy poszczególnymi modułami.
+    <br/>
+    <br/>Wszystko ładnie wygłąda w teorii (lub hobbistycznym pisaniu Open Source) natomiast praktyka jest już niestety zupełnie inna.
+- id: 1991
+  author: mmazur
+  author_url: ''
+  date: '2005-08-22 20:01:22 +0200'
+  date_gmt: '2005-08-22 20:01:22 +0200'
+  content: Co jest dla mnie o tyle dziwne, że imho projekt, który ma przynajmniej
+    założenia dobrze udokumentowane, powinien być w stanie się rozwijać szybciej,
+    niż taki, gdzie tylko dodaje się hacki.
+- id: 1992
+  author: Patrys
+  author_url: ''
+  date: '2005-08-22 20:04:43 +0200'
+  date_gmt: '2005-08-22 20:04:43 +0200'
+  content: A ja potwierdzam, bo jakiś czas temu wyrzuciliśmy właśnie poprzedni system
+    CMS i zaczęliśmy pisanie nowego od zera. W porównaniu z tamtym, nanoszenie poprawek
+    to marzenie.
+- id: 1993
+  author: Jajcus
+  author_url: ''
+  date: '2005-08-22 20:05:04 +0200'
+  date_gmt: '2005-08-22 20:05:04 +0200'
+  content: Problem w tym, że dokumentowanie kodu (szczególnie takie z myślą o reużywalności)
+    zajmuje niewiele mniej, lub czasem nawet więcej, czasu niż samo kodowanie. Jeśli
+    płacą ci za kod, to po prostu dokumentacji pisać się nie opłaca. Tak samo jak
+    pisania &quot;reusable code&quot;.
+- id: 1994
+  author: Patrys
+  author_url: ''
+  date: '2005-08-22 20:08:47 +0200'
+  date_gmt: '2005-08-22 20:08:47 +0200'
+  content: Mi płacą za pracę, bo jestem na stałym zatrudnieniu. A do komentowania
+    kodu używamy PHPdoc, co jest dla nasz wystarczające. Komentowanie każdej linijki
+    kodu to przesada. Najważniejsze jest udokumentowanie architektury kodu, czyli
+    wszystkich klas, metod i zależności.
+- id: 1995
+  author: mmazur
+  author_url: ''
+  date: '2005-08-22 20:09:41 +0200'
+  date_gmt: '2005-08-22 20:09:41 +0200'
+  content: My już nie tyle mówimy o dokumentacji samego kodu, bo ten, o ile nie jest
+    w jakiś masakryczny sposób napisany, powinien być w miarę zjadliwy. Imho najważniejsze
+    jest utrzymywanie dokumentacji dotyczących miejsc w kodzie, gdzie on musi się
+    dogadywać z jakimiś innymi podsystemami. W drugiej kolejności zapewne przydałaby
+    się dokumentacja tabelek w bazie danych, bo wtedy znacznie szybciej można załapać
+    gdzie coś poprawić, jeśli chce się to poprawić.
+- id: 1996
+  author: Miedziany kulek
+  author_url: ''
+  date: '2005-08-22 20:11:00 +0200'
+  date_gmt: '2005-08-22 20:11:00 +0200'
+  content: Jajcuś, wydaje mi się że nie do końca nie ma sensu. Nawet jeśli jesteś
+    płacony za kod, lepszym rozwiązaniem jest wklejenie reużywalnego kodu np. z poprzedniego
+    projektu niż pisanie od zera, dlatego że wychodzi wtedy wyższy współczynnik ilość
+    kodu do czasu pracy, co jest opłacalne dla firmy softwareowej.
+- id: 1997
+  author: Patrys
+  author_url: ''
+  date: '2005-08-22 20:11:43 +0200'
+  date_gmt: '2005-08-22 20:11:43 +0200'
+  content: Dlatego mówię o PHPdoc, tam komentarze mówią też o strukturze całego projektu,
+    podziale na moduły i zależnościach. Wiadomo też, kogo winić za dany kawałek kodu.
+- id: 1998
+  author: Jajcus
+  author_url: ''
+  date: '2005-08-22 20:13:39 +0200'
+  date_gmt: '2005-08-22 20:13:39 +0200'
+  content: Jeśli masz ten reużywalny kod z poprzedniego projektu. Ale robiąc tamten
+    projekt nie wiedziałeś co będzie w następnym. Chcąc robić kod uniwersalny ryzykujesz,
+    że się napracujesz (koszty), a nie masz gwarancji że to wykorzystasz. Oczywiście
+    często warto -- ale z umiarem i jak już to tylko to, czego ktoś inny nie zrobił
+    (większość rzeczy, których się używa wielokrotnie, już została zrobiona).
+- id: 1999
+  author: mmazur
+  author_url: ''
+  date: '2005-08-22 20:17:05 +0200'
+  date_gmt: '2005-08-22 20:17:05 +0200'
+  content: Żeby zrobić rzeczywiście reużywalny kod, to trzeba się namęczyć. Dlatego
+    tak długo trwa przygotowanie porządnej, komercyjnej biblioteki do czegośtam (choćby
+    takie qt do gui i innych rzeczy). Dlatego lepiej się nie napalać zbytnio na tworzenie
+    super kodu, tylko tworzyć na tyle, żeby był ok. I później w następnym projekcie
+    *ewentualnie* rozważyć użycie starego kodu.
+- id: 2000
+  author: Patrys
+  author_url: ''
+  date: '2005-08-22 20:20:14 +0200'
+  date_gmt: '2005-08-22 20:20:14 +0200'
+  content: Chyba że pracuje się dla firmy, która robi wiele specyficznych wdrożeń
+    opartych na jednym rozwiązaniu. Stąd właśnie nasz modularny kombajn do CMS, który
+    do zbudowania serwisu docelowo wymagać będzie tylko szablonów HTML.
+- id: 2001
+  author: Jajcus
+  author_url: ''
+  date: '2005-08-22 20:20:21 +0200'
+  date_gmt: '2005-08-22 20:20:21 +0200'
+  content: 'mmazur: dokładnie! Właśnie dlatego nie chcę być komercyjnym programistą,
+    bo taki musi czasem odwalić fuszerkę (czyt. nie robić tego najlepiej jakby umiał,
+    a tylko tak jak oczekuje klient). Programując hobbistycznie mogę projekt dopieszczać
+    latami. ;-) Ale też zaczynam iść na skruty, bo jak typowy klient, nie mam cierpliwości
+    czekać na idealne rozwiązanie. ;-)'
+- id: 2002
+  author: Patrys
+  author_url: ''
+  date: '2005-08-22 20:20:50 +0200'
+  date_gmt: '2005-08-22 20:20:50 +0200'
+  content: '&quot;skruty&quot; argh! :D'
+- id: 2003
+  author: Jajcus
+  author_url: ''
+  date: '2005-08-22 20:21:01 +0200'
+  date_gmt: '2005-08-22 20:21:01 +0200'
+  content: uuups... s/skruty/skróty/
+- id: 2004
+  author: mmazur
+  author_url: ''
+  date: '2005-08-22 20:33:47 +0200'
+  date_gmt: '2005-08-22 20:33:47 +0200'
+  content: |-
+    Jajcuś, nasze kody też przeważnie nie są idealne, bo jak coś zaczynamy pisać to dlatego, że jest nam potrzebne, a nie dlatego, że nagle zapałaliśmy nieodpartą chęcią stworzenia idealnego rozwiązania dla jakiegoś problemu :)
+    <br/>
+    <br/>To jest raczej kwestia tego, na jakim poziomie nasz kod jest paskudny. Choćbym nie wiem jak szybkiego hacka pisał, to raczej nie wpadłbym na pomysł włożenia w kod odwołania do mysql_connect (z ręcznym podaniem usera i hasła) w pięciu miejscach. Albo ręcznego hardocowania jakiejś ścieżki w dziesięciu. A właśnie na taki kod patrzę.
+- id: 2005
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2005-08-22 20:40:49 +0200'
+  date_gmt: '2005-08-22 20:40:49 +0200'
+  content: |-
+    Zdanie o &quot;tych, co będą później ten kod utrzymywać&quot; brzmi co najmniej znajomo...
+    <br/>http://www.hacknot.info/hacknot/action/showEntry?eid=52
+- id: 2006
+  author: Jajcus
+  author_url: ''
+  date: '2005-08-22 20:41:10 +0200'
+  date_gmt: '2005-08-22 20:41:10 +0200'
+  content: Nie twierdzę, że tworzę ideały. Tylko, że mogę sobie pozwolić na dopieszczanie
+    (łącznie z przepisaniem od zera) fragmentów, których dopieszczanie musiałbym sobie
+    odpuścić robiąc to komercyjnie (bo brzydki kod spełniający wymagania klienta mogę
+    zrobić w terminie, a kodu spełniającego moje ambicje nie dam rady).
+- id: 2007
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2005-08-22 20:49:08 +0200'
+  date_gmt: '2005-08-22 20:49:08 +0200'
+  content: |-
+    Chodzi mi oczywiście jedynie o ideę (broń Boże nie zarzucam plagiaryzmu czy czegoś w ten deseń).
+    <br/>Jestem właśnie jednym z tych wielu &quot;next guys&quot;, którzy dziedziczą kod po swoich poprzednikach, najczęściej po koleżkach, co to popracowali w firmie rok-półtora i sobie poszli. A ich &quot;dzieła&quot; zostały dla mnie. A także kod po jakichś amatorach z różnych działów, co to &quot;się pochwalili szefowi, że umią w Delphi&quot; i teraz się okazało, że jednak za mało &quot;umią&quot; i zawodowy programista jednak musi to poprawić. Jedno wszyscy oni mają wspólne -- żaden nie myślał o swoim następcy, stąd czytanie takiego kodu to ciągłe drapanie się po łysinie z myślą &quot;WTF?!&quot;, albo po naszemu &quot;CTKJ?!&quot;. I jak podliczyłem, to głównie za to firma mi ostatnio płaci, za grzebanie się w gównie po jakichś amatorach. Frustrujące.
+    <br/>Dobrze, Patrys, że o tym piszesz. Takiego przypominania nigdy za wiele.
+- id: 2008
+  author: Jajcus
+  author_url: ''
+  date: '2005-08-22 21:12:40 +0200'
+  date_gmt: '2005-08-22 21:12:40 +0200'
+  content: |-
+    zgoda: dziwi mnie Twoje podejście. Jako zwolennik  twardych regół wolnego rynku powienieneś sytuację dobrze rozumieć. Ci amatorzy zrobili to za co im ktoś zapłacił. Teraz zarabia ten kto to poprawia. Jeśli klient chciał zapłacić za chłam, to zapłacił, a dla amatora, który to zrobił to uczciwie zarobione pieniądze. Przekonaj potencjalnego klienta, żeby od razu zamawiał kod u profesjonalisty (u Ciebie). Nie da się? Znaczy się nie ma popytu na takie usługi, a Ty nie jesteś konkurencją dla taniego studenta, czy syna szefa, albo nie umiesz się sprzedać. Możliwe, że nawet dokładasz się do tego stanu rzeczy, pokazując, że wszystko da się naprawić. Przykre, ale prawdziwe.
+    <br/>
+    <br/>Aby nie zniżać się do poziomu &quot;syna szefa&quot; ja staram się robić swoją robotę tak, żeby klient nigdy nie żałował, że akurat mnie to zlecił — dzięki temu nawet gdy kiedyś do podobnej roboty zatrudni amatora, to przy kolejnej znowu mam szansę. Poprawiania po innych raczej nie lubię, tak samo jak robienia czegoś, co kto inny ma dalej ciągnąć (tego drugiego jednak trudno uniknąć). Jednak wyleczyłem się już z robienia wszystkiego „idealnie” — ambicje ambicjami, ale  nie wszędzie jest dla nich miejsce.
+- id: 2009
+  author: paczor
+  author_url: ''
+  date: '2005-08-23 11:01:41 +0200'
+  date_gmt: '2005-08-23 11:01:41 +0200'
+  content: |-
+    To ja jeszcze a&#039;propos silnika szablonów:
+    <br/>już widzę jak rzesze początkujących PHP-owców rzucają się uczyć Smarty! ROTFL! Przecież nie będę używał silnika szablonów do małych rzeczy, to raz. Poza tym wciąż spotykam się z ludźmi, którzy piszą mimo wszystko własne wersje z czterech conajmniej powodów: 1. nauka, bo nie ma to jak samemu coś napisać, 2. security by obscurity, 3. szycie na miarę i 4. kwestie licencyjne.
+- id: 2010
+  author: mroq
+  author_url: ''
+  date: '2005-08-23 19:17:12 +0200'
+  date_gmt: '2005-08-23 19:17:12 +0200'
+  content: "Jest jeszcze kwestia tego, ze kiedy poczatkujacy PHP-owiec zabiera się
+    za smarty to wyrasta Smarciarz. Co jeśli mu się te smarty zabierze?\n<br/>\n<br/>Dobre
+    rozwiązania  - tak. Rozwiązania w celu przyspieszenia pracy - owszem. Za wszelka
+    cenę - błąd. Nuda, a człowiek się czuje jak warzywo. \n<br/>\n<br/>Panowie rozumiem
+    uczenie się smartów tak jak rozumiem naukę ogl&#039;a czy directx&#039;a, ale
+    nie róbcie z programisty rzemieślnika ;)"
+- id: 2011
+  author: Tomash
+  author_url: ''
+  date: '2005-08-24 02:41:53 +0200'
+  date_gmt: '2005-08-24 02:41:53 +0200'
+  content: "&gt;Jest jeszcze kwestia tego, ze kiedy poczatkujacy PHP-owiec zabiera
+    się za smarty to wyrasta Smarciarz. Co jeśli mu się te smarty zabierze? \n<br/>\n<br/>Pisze
+    obleśny kod z przemieszaniem warstwy prezentacyjnej z logiczną. Żadna to sztuka.
+    Ewentualnie w tęsknocie za Smartym może ów kod podzielić na funkcje od logiki
+    i funkcje od prezentacji, ale wtedy na pewno napieprzy się bardziej niż smartując.\n<br/>\n<br/>Z
+    programistów rzemieślników zrobił już Dijkstra, chociażby tekstem &quot;GOTO statement
+    considered harmful&quot;. ;P"
+---
+<p>Studenci i hobbyści lubią pisać kod dla samej zabawy pisania kodu. Stąd różnorodność rozwiązań w każdej niemal kategorii oprogramowania. Dzięki temu klony Uniksa są dziś najbardziej elastycznymi systemami. Sytuacja wygląda jednak nieco inaczej w przypadku oprogramowania komercyjnego.</p>
+
+<p>Każdy chce się pochwalić swoimi umiejętnościami i chętnie napisałby wszystko od zera, ale w odróżnieniu od oprogramowania OpenSource, w komercyjnych rozwiązaniach obowiązują terminy, a głównym czynnikiem napędzającym całą zabawę są pieniądze. Ważne nie jest popisanie się, ale efektywne zgospodarowanie czasu, stąd pisanie własnych rzeczy często jest niepożądane.</p>
+
+<p>Zanim zabierzesz się za pisanie własnego modułu, silnika czy jakiegokolwiek elementu oprogramowania, rozejrzyj się po rynku. Sprawdź czy istnieją gotowe rozwiązania, z których mógłbyś skorzystać i zaoszczędzić czas. Jeśli nie uda ci się znaleźć nic, co pasowałoby do twojego projektu, zainteresuj się tymi, które nie pasują. Sprawdź, jaką mają bazę użytkowników, czy znane są jakieś błędy, z jakimi problemami borykają się ci, którzy im zaufali i czy nie żałują swojej decyzji. Zobacz, czy nie da się ich zaadaptować za pomocą minimalnych zmian.</p>
+
+<p>Pisanie własnego systemu powinno być ostatnim podejmowanym krokiem. Jeśli nie znajdziesz nic, co mogłoby ci zaoszczędzić czasu, to zaoszczędź go sobie sam - przeznacz czas na zaplanowanie swoich działań zanim napiszesz choćby linijkę. Zastanów się nad architekturą, porównaj ją z istniejącymi i skorzystaj z poznanej wcześniej listy problemów. Pisanie oprogramowania, które nie będzie się nadawało do wdrożenia mija się z celem, tak samo jak napisanie od zera kolejnego pakietu o identycznej funkcjonalności.</p>
+
+<p>Pamiętaj, że prawdopodobnie nie będziesz jedyną osobą dbającą o ów kod - zaplanuj go rozwojowo i tak, żeby wprowadzanie zmian nie wymagało przepisywania dużych fragmentów kodu. Przygotuj choćby krótką dokumentację - twoi współpracownicy nie będą mieli czasu na czytanie całości kodu za każdym razem, kiedy potrzebują z niego skorzystać. To jest właśnie największa zaleta korzystania z szeroko stosowanych rozwiązań - problemy za ciebie rozwiązują inni. Ty możesz skupić się kodzie funkcjonalnym, a nie na poprawianiu używanych narzędzi i bibliotek.</p>
+
+<p>Reasumując: w pracy codziennej pisze się masę nowego kodu, ale staramy się ograniczać do tego, którego napisanie jest nieodwołalne. Cała reszta to koszty, które dla pracodawcy nie przynoszą żadnego zysku (poza kodem, o który trzeba dbać, co pochłania dalsze ilości czasu, a w efekcie przekłada się znów na pieniądze).</p>

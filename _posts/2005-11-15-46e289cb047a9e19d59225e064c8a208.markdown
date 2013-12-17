@@ -1,0 +1,312 @@
+---
+layout: post
+status: publish
+published: true
+title: Frankenstein polskiego Internetu
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 181
+date: 2005-11-15 20:33:18.000000000 +01:00
+categories:
+- web
+tags: []
+comments:
+- id: 2511
+  author: Sky Ace
+  author_url: ''
+  date: '2005-11-15 20:41:17 +0100'
+  date_gmt: '2005-11-15 20:41:17 +0100'
+  content: |-
+    Przecież działa (teraz właśnie)?
+    <br/>
+    <br/>Zresztą, ja nawet przestałem korzystać z powiadomień o urodzinach, zniechęciło mnie to, że ktoś zamienił &#039;nick&#039; na &#039;id&#039; w ORDER BY w liście znajomych.
+    <br/>
+    <br/>A nowy wygląd pozostawię bez komentarza, bo to istne przegięcie. I jeszcze reklama jakiejś karty miejskiej, która by mi się raz na pół roku przydała, tfu.
+- id: 2512
+  author: Riddle
+  author_url: ''
+  date: '2005-11-15 20:42:08 +0100'
+  date_gmt: '2005-11-15 20:42:08 +0100'
+  content: Jeśli ktoś tam jest to albo dla lansu (trendi stajl, wypas ałtfit) albo
+    dla pogrupowania sobie znajomych. Taki Orkut dla ubogich (wszystko co polskie
+    i dla mas jest dla ubogich ... gg choćby)
+- id: 2513
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2005-11-15 20:43:35 +0100'
+  date_gmt: '2005-11-15 20:43:35 +0100'
+  content: Gwoli ścisłości, dwuosobowa.
+- id: 2514
+  author: Patrys
+  author_url: ''
+  date: '2005-11-15 20:44:04 +0100'
+  date_gmt: '2005-11-15 20:44:04 +0100'
+  content: Nie wspomnę o tym, że w Gronie od dawna nie działa część funkcji, nie da
+    się szukać tras do ludzi i nie dochodzi połowa emaili z powiadomieniami.
+- id: 2515
+  author: Sky Ace
+  author_url: ''
+  date: '2005-11-15 20:44:14 +0100'
+  date_gmt: '2005-11-15 20:44:14 +0100'
+  content: Mnie na początku nawet bawiło. Teraz nie mam czasu ani patrzeć tam na jakieś
+    fora, ani nic. No i te ORDER BY nieszczęsne, przez które nawet nikogo znaleźć
+    nie mogę.
+- id: 2516
+  author: Patrys
+  author_url: ''
+  date: '2005-11-15 20:47:04 +0100'
+  date_gmt: '2005-11-15 20:47:04 +0100'
+  content: |-
+    zgoda:
+    <br/>
+    <br/>Ja znam tylko pana Sobczuka, ciężko ustalić więcej informacji, bo wbrew ustawie o działalności i świadczeniu usług drogą elektroniczną, na stronie nie znajduje się nie tylko REGON, ale brak jakichkolwiek informacji (można też sugerować się wpisami WHOIS, ale brandlay.com ma pusty, a grono.net podaje adres w innym mieście, niż znajduje się firma).
+- id: 2517
+  author: Puck
+  author_url: ''
+  date: '2005-11-15 21:29:06 +0100'
+  date_gmt: '2005-11-15 21:29:06 +0100'
+  content: "Cytując:\n<br/>\n<br/>&quot;ZTCW autor grono.net kończy pracę nad drugą
+    odsłoną serwisu, w której mają pojawić się zasadnicze zmiany, czyli:\n<br/>1.
+    przejście z fatalnej technologii Java/JSP, przez którą przy obecnej skali serwisu
+    (ponad 400 tys. zarejestrowanych kont) serwery przestały wyrabiać i często zwracają
+    błąd, na Pythona \n<br/>2. poprawa usability &quot;"
+- id: 2518
+  author: Patrys
+  author_url: ''
+  date: '2005-11-15 21:36:47 +0100'
+  date_gmt: '2005-11-15 21:36:47 +0100'
+  content: |-
+    &quot;Fatalna technologia Java&quot; zasila dużo większe portale.
+    <br/>
+    <br/>O usability nie może być mowy, jeśli samo menu ma 150 linków.
+    <br/>
+    <br/>Brandlay to niepoważna firma.
+- id: 2519
+  author: misia
+  author_url: ''
+  date: '2005-11-15 21:38:34 +0100'
+  date_gmt: '2005-11-15 21:38:34 +0100'
+  content: Lol... ciekawe, jak się wyrabia gazeta.pl i ebay ;)
+- id: 2520
+  author: Enleth
+  author_url: ''
+  date: '2005-11-15 21:39:23 +0100'
+  date_gmt: '2005-11-15 21:39:23 +0100'
+  content: Cóż, na wymianę fatalnego programisty &quot;ich&quot; raczej nie stać...
+- id: 2521
+  author: Puck
+  author_url: ''
+  date: '2005-11-15 21:45:18 +0100'
+  date_gmt: '2005-11-15 21:45:18 +0100'
+  content: Po co w ogóle z tego grona korzystać? Poza komerchą tam nic nie ma. :P
+- id: 2522
+  author: Patrys
+  author_url: ''
+  date: '2005-11-15 21:46:29 +0100'
+  date_gmt: '2005-11-15 21:46:29 +0100'
+  content: |-
+    Nadal przypomina o urodzinach.
+    <br/>
+    <br/>Po co korzystać z GaduGadu, przecież jest masa lepszych alternatyw? ;)
+- id: 2523
+  author: kameowy
+  author_url: ''
+  date: '2005-11-15 22:01:22 +0100'
+  date_gmt: '2005-11-15 22:01:22 +0100'
+  content: Rememberthemilk.com też może powiadamiać o urodzinach... I to także o urodzinach
+    osób niezarejestrowanych na gronie :p
+- id: 2524
+  author: Patrys
+  author_url: ''
+  date: '2005-11-15 22:02:29 +0100'
+  date_gmt: '2005-11-15 22:02:29 +0100'
+  content: Gnome Evolution też może, tylko że jestem zbyt leniwy, żeby urodziny 60
+    osób przeklejać z paskudnego interfejsu Grona.
+- id: 2525
+  author: froger3
+  author_url: ''
+  date: '2005-11-15 22:06:18 +0100'
+  date_gmt: '2005-11-15 22:06:18 +0100'
+  content: 'fora na gronie sie czasem przydaja. mowie serio:) i powiadomienia o urodzinach. '
+- id: 2526
+  author: kameowy
+  author_url: ''
+  date: '2005-11-15 22:06:39 +0100'
+  date_gmt: '2005-11-15 22:06:39 +0100'
+  content: kwestia motywacji... jedna osoba napisze skrypt a reszta będzie korzystać...
+    Swoją drogą jak znajdę kiedyś czas to zrobię to bo mój remember świeci tylko powiadomieniami
+    o bierzących rzeczach ;)
+- id: 2527
+  author: chojnac
+  author_url: ''
+  date: '2005-11-15 22:39:05 +0100'
+  date_gmt: '2005-11-15 22:39:05 +0100'
+  content: "to polecam się przesiąść na www.spinacz.pl -\n<br/>serwis, ktory jest
+    efektem wkurzenia się na grono :) \n<br/>\n<br/>"
+- id: 2528
+  author: Riddle
+  author_url: ''
+  date: '2005-11-15 22:42:36 +0100'
+  date_gmt: '2005-11-15 22:42:36 +0100'
+  content: |-
+    Ja wiem, że Wy w 90% linuksiarze, ale:
+    <br/>http://pz16.alternatywa.info/?id=25
+- id: 2529
+  author: Riddle
+  author_url: ''
+  date: '2005-11-15 22:42:56 +0100'
+  date_gmt: '2005-11-15 22:42:56 +0100'
+  content: (Do Konnekta to jest.)
+- id: 2530
+  author: YamroZ
+  author_url: ''
+  date: '2005-11-16 09:29:39 +0100'
+  date_gmt: '2005-11-16 09:29:39 +0100'
+  content: Uh-Oh a ja właśnie postanowiłem WRESZCIE zobaczyć co to to grono, bo od
+    pół roku leżą mi w skrzynkach zaproszenia. A tu okazuje się że to już nie jest
+    trędi. Co za czasy.
+- id: 2531
+  author: mhulboj
+  author_url: ''
+  date: '2005-11-16 14:49:30 +0100'
+  date_gmt: '2005-11-16 14:49:30 +0100'
+  content: |-
+    Ja ostatnio sprobowalem orkut&#039;a uzywac, ale jakos nie widze by grono/orkut byly dla mnie przydatne.
+    <br/>Jedyny jak na razie przydatny i od dawna intensywnie wykorzystywany jest LinkedIn.
+- id: 2532
+  author: krymzon
+  author_url: ''
+  date: '2005-11-16 22:12:02 +0100'
+  date_gmt: '2005-11-16 22:12:02 +0100'
+  content: |-
+    Parę razy się przydało, by odzyskać kontakt z kimś, do kogo się wszelkie adresy potraciło.
+    <br/>Można też się czegoś dowiedzieć o ludziach... ale zaawansowanie wyszukiwarki bardzo wydatnie to utrudnia (&quot;pokaż wszystkie posty osoby&quot; to już zbyt skomplikowane, żeby zaprogramować)
+- id: 2533
+  author: zdzichu
+  author_url: ''
+  date: '2005-11-16 23:28:29 +0100'
+  date_gmt: '2005-11-16 23:28:29 +0100'
+  content: Fajny ten Brandzluj.pl - &quot;skokntaktuj&quot; na pierwszej stronie,
+    w wyróżnionym linku. I wg. stopki tak od 2003 roku.
+- id: 2534
+  author: Nina
+  author_url: ''
+  date: '2005-11-17 14:48:51 +0100'
+  date_gmt: '2005-11-17 14:48:51 +0100'
+  content: Ołmajgad. Zalogowałam się na grono.net (po przeczytaniu tego wpisu i komentarzy),
+    a że dawno mnie tam nie było - doznałam szoku - na widok tego pomarańczowego czegoś
+    :/ i ta rakieta. Trzeba stamtąd wiać, jak najszybciej :/
+- id: 2535
+  author: Puck
+  author_url: ''
+  date: '2005-11-17 14:53:22 +0100'
+  date_gmt: '2005-11-17 14:53:22 +0100'
+  content: "Orkut, in affiliation with Google. \n<br/>:)"
+- id: 2536
+  author: mhulboj
+  author_url: ''
+  date: '2005-11-17 15:00:37 +0100'
+  date_gmt: '2005-11-17 15:00:37 +0100'
+  content: "Orkut mnie nie urzekl, ale moze dlatego, iz nie potrzebuje social-networkingu
+    &quot;niezawodowego&quot;. \n<br/>\n<br/>Ale w porownaniu z gronem to niebo a
+    ziemia."
+- id: 2537
+  author: eustachy
+  author_url: ''
+  date: '2005-11-18 14:05:22 +0100'
+  date_gmt: '2005-11-18 14:05:22 +0100'
+  content: misia, mogę prosić Twojego e-maila?
+- id: 2538
+  author: kameowy
+  author_url: ''
+  date: '2005-11-18 18:22:22 +0100'
+  date_gmt: '2005-11-18 18:22:22 +0100'
+  content: ciekawe o co on chce prosić Jej konto pocztowe...
+- id: 2539
+  author: nbw
+  author_url: ''
+  date: '2005-11-19 03:56:47 +0100'
+  date_gmt: '2005-11-19 03:56:47 +0100'
+  content: |-
+    Jako, że byłem w &quot;siedzibie&quot; grono.net to stwierdzam, że jest to _trzy_ osobowa firma (as in trójca-święta).
+    <br/>
+    <br/>Patrys, nie wiem czemu narzekasz. Pojawiła się przecież nowa funkcjonalność - można wyłączyć reklamy. Wystarczy zostać gronożadnym, y.. władnym ;)
+    <br/>
+    <br/>Choć lepszą opcją byłoby podpięcie wyłączania reklam pod usunięcie konta.
+- id: 2540
+  author: XXX
+  author_url: ''
+  date: '2005-11-22 18:48:41 +0100'
+  date_gmt: '2005-11-22 18:48:41 +0100'
+  content: a jak złamać hasło do tego cuda???
+- id: 2541
+  author: XXX
+  author_url: ''
+  date: '2005-11-22 18:49:34 +0100'
+  date_gmt: '2005-11-22 18:49:34 +0100'
+  content: to chyba jednak nie mozliwe... nawet posiadajac login danego delikwenta...
+    hmmm let c...
+- id: 2542
+  author: Patrys
+  author_url: ''
+  date: '2005-11-22 20:10:03 +0100'
+  date_gmt: '2005-11-22 20:10:03 +0100'
+  content: |-
+    kameowy:
+    <br/>
+    <br/>Misia to facet.
+    <br/>
+    <br/>XXX:
+    <br/>
+    <br/>Chyba źle trafiłeś. Hacker != cracker.
+- id: 2543
+  author: XXX
+  author_url: ''
+  date: '2005-11-23 10:26:27 +0100'
+  date_gmt: '2005-11-23 10:26:27 +0100'
+  content: |-
+    Patrys:
+    <br/>
+    <br/>to prawa ale czasem nad czyms pracujesz i rozne strony zagadnienia Cię interesuja...
+- id: 2544
+  author: kameowy
+  author_url: ''
+  date: '2005-11-23 18:09:46 +0100'
+  date_gmt: '2005-11-23 18:09:46 +0100'
+  content: |-
+    XXX: lepiej uważaj z takimi pytaniami...
+    <br/>pewna osoba na mailową prośbę włania się na cudze (tu login;) konto włamała się, ale na adres, z którego przyszedł mail ;)
+- id: 2545
+  author: Pedau Roman
+  author_url: ''
+  date: '2005-11-24 22:10:44 +0100'
+  date_gmt: '2005-11-24 22:10:44 +0100'
+  content: Wychujali Cię i dlatego wolę GMaila :)
+- id: 2546
+  author: kameowy
+  author_url: ''
+  date: '2005-11-24 22:14:21 +0100'
+  date_gmt: '2005-11-24 22:14:21 +0100'
+  content: kto kogo wy***? sam gmail&#039;a używam i niebardzo wiem o co Ci chodzi...
+- id: 3400
+  author: Lol
+  author_url: ''
+  date: '2006-02-21 16:22:55 +0100'
+  date_gmt: '2006-02-21 15:22:55 +0100'
+  content: Mozna zaproszonko na bialypl@gmail.com
+- id: 3589
+  author: Maciek
+  author_url: ''
+  date: '2006-04-27 09:19:53 +0200'
+  date_gmt: '2006-04-27 08:19:53 +0200'
+  content: "Można prosić o zaproszenie na maciek2k3@gazeta.pl ?\r\nZ góry dziekuję\r\nMajki"
+---
+<p>Znany wszem i wobec, jedyny w swoim rodzaju serwis typu <q>six degrees</q> doczekał się kolejnych rewolucyjnych zmian.</p>
+
+<p>O <a href="http://grono.net/">Grono.net</a>, bo o nim mowa, krążą już dowcipy, że jest jedynym miejscem, gdzie trzeba się zalogować, żeby obejrzeć stronę z wewnętrznym błędem serwera. Dziś, przy kolejnej próbie logowania (serwis z nieznanych mi przyczyn nie umie wysłać treści otrzymanej wiadomości i podrzuca tylko link do skrzynki odbiorczej, co jest ogólnie świetnym pomysłem, kiedy sama strona działa lub nie - w zależności od okresu pylenia motyli w Australii) doznałem szoku.</p>
+
+<p>Co prawda, właściciel Grona (<del>jedno</del><ins>dwu</ins>osobowa firma <a href="http://brandlay.com/">Brandlay</a>, która przypadkiem mieści się w tym samym mieszkaniu, co inny znamienity koncern mediów elektronicznych - <a href="http://nemo.pl/">NEMO Labs</a>) już dawno szukał pracowników do przygotowania redesignu (i negocjował nawet ze mną, z <a href="http://nbw.jogger.pl/">nbw</a> i z <a href="http://riddle.jogger.pl">Riddlem</a> - co ciekawe, negocjował jednocześnie i za pomocą komunikatora, nie wpadł na to, że się znamy), jednak to, co zobaczyłem przeszło moje najśmnielsze oczekiwania. Komercjalizacja osiągnęła punkt kulminacyjny.</p>
+
+<p>Skoro serwer i tak nie działa, a Grono służy mi głównie do otrzymywania powiadomień o urodzinach, to może wprowadzą jeszcze opłaty za oglądanie reklam? Wszystkie inne usługi można już tam znaleźć.</p>

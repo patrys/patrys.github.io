@@ -1,0 +1,45 @@
+---
+layout: post
+status: publish
+published: true
+title: Flattr
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 946
+wordpress_url: http://room-303.com/blog/?p=946
+date: 2010-06-01 20:59:23.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 25057
+  author: Michał Bachowski
+  author_url: http://bachowski.pl
+  date: '2010-06-01 21:40:06 +0200'
+  date_gmt: '2010-06-01 19:40:06 +0200'
+  content: "Zgłaszam się :-)\r\n\r\nPozdrawiam"
+- id: 25058
+  author: tm
+  author_url: http://projecthamster.wordpress.com
+  date: '2010-06-01 21:56:03 +0200'
+  date_gmt: '2010-06-01 19:56:03 +0200'
+  content: want!
+- id: 25059
+  author: maniel
+  author_url: ''
+  date: '2010-06-01 22:00:59 +0200'
+  date_gmt: '2010-06-01 20:00:59 +0200'
+  content: can has flattr? me wants!;-)
+- id: 25183
+  author: radekg
+  author_url: http://izbieractwo.pl
+  date: '2010-09-15 12:23:51 +0200'
+  date_gmt: '2010-09-15 10:23:51 +0200'
+  content: Bardzo ciekawe, ale czy ktoś z tego korzysta? Chyba jeszcze serwis nie
+    przekroczyła masy krytycznej.
+---
+<p><a href="http://flattr.com/">Flattr</a> rozprzestrzenia się wirusowo. Ja swoje zaproszenie dostałem <a href="http://princefool.blogspot.com/2010/05/flattr.html">od Deejay'a</a>. Jeszcze dwa można zdobyć u niego, trzy kolejne tutaj.</p>
+
+<p>Jeśli zatem lubicie dzielić się pieniędzmi (i wierzycie, że Flattr nie zniknie razem z nimi), przyłączcie się do tej jedynej w swoim rodzaju sieci wymiany napiwków. Po trzy zaproszenia zgłoście się w komentarzach — wyślę je na adres podany w formularzu.</p>

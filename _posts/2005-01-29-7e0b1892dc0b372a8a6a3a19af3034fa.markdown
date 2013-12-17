@@ -1,0 +1,738 @@
+---
+layout: post
+status: publish
+published: true
+title: Czymże zasłużyliśmy?
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 52
+date: 2005-01-29 23:06:29.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 400
+  author: Igor
+  author_url: ''
+  date: '2005-01-29 23:14:48 +0100'
+  date_gmt: '2005-01-29 23:14:48 +0100'
+  content: |-
+    Na pOcZoNtEk pOsTroOfFkA.
+    <br/>
+    <br/>Nie napisze, ze sie zgadzam, bo to oczywiste ;-) Ale bede z zainteresowaniem monitorowal odpowiedzi na tego posta na forum, jest juz jedna &#039;polemika&#039;. ;-)
+- id: 401
+  author: bazyl
+  author_url: ''
+  date: '2005-01-29 23:18:47 +0100'
+  date_gmt: '2005-01-29 23:18:47 +0100'
+  content: I tak sądzę że to nic nie da :P
+- id: 402
+  author: Patrys
+  author_url: ''
+  date: '2005-01-29 23:23:47 +0100'
+  date_gmt: '2005-01-29 23:23:47 +0100'
+  content: Da albo nie da, jeśli się nie uda nic z tym zrobić (choćby blokowanie JID
+    po domenie), to niedługo moje komunikatory przejmie bot. Przychodzące rozmowy
+    będzie obsługiwać A.L.I.C.E i tyle.
+- id: 403
+  author: Cachotterie
+  author_url: ''
+  date: '2005-01-29 23:24:33 +0100'
+  date_gmt: '2005-01-29 23:24:33 +0100'
+  content: Ja też sądzę że nie da bo twórcy są &quot;kul&quot; a hapi jest &quot;trendi&quot;
+    ale przynajmniej można zrzucić swoje żale ;)
+- id: 404
+  author: wariat
+  author_url: ''
+  date: '2005-01-29 23:26:00 +0100'
+  date_gmt: '2005-01-29 23:26:00 +0100'
+  content: |-
+    Sadze ze nie da? Na pewno nic nie da ... ALE! nie zapominajmy ze lokalna spolecznosc skupiona wokol jabberpl planuje za jakies dwa miesiace wielka kampanie promujaca jabbera, a majaca na celu zciagniecie rzesz uzyszkodnikow na niczego nie spodziewajace sie jabberowe serwery ... nie ma wiec co obgadywac happie ... juz niedlugo wszelkie jabberowe serwery zapelnia sie jellonkami wszelkiej masci.
+    <br/>No i last but not least ... jakos nie wierze ze w tej chwili te kilkadziesiat tysiecy kont jabberowych w PL to same geeki (geecy, sami geekowie... ech :D
+    <br/>
+- id: 405
+  author: jpc
+  author_url: ''
+  date: '2005-01-29 23:29:05 +0100'
+  date_gmt: '2005-01-29 23:29:05 +0100'
+  content: |-
+    Jest w tym coś, ale racją bym tego tak do końca nie nazwał.
+    <br/>Rozwiązanie jest - własny serwer (serwery) i silna filtracja. Ew. po prostu privacy-lists.
+- id: 406
+  author: Cachotterie
+  author_url: ''
+  date: '2005-01-29 23:29:28 +0100'
+  date_gmt: '2005-01-29 23:29:28 +0100'
+  content: |-
+    Magistralo przenajsłodsza... miej nas w opiece ;] Komu przeszkadza słodki spokój jabbera, no komu? :(
+    <br/>Czy jabberowe serwery już teraz działają za dobrze, że tak spytam? A jak przylezie tabun padupadowców z buciorami, popodpina się do transportów GG, to jaka będzie stabilność serwerów? :/ Ja nie chcę... Ja chcę zamknięty serwer jabbera. Odcięty od całej reszty :P
+    <br/>
+    <br/>A wiecie co jest najgorsze? Nie kojarzę w RFC takiej opcji jak &quot;blokuj&quot;. Nawet jak bronić sie nie będzie :(
+- id: 407
+  author: mmm
+  author_url: ''
+  date: '2005-01-29 23:33:06 +0100'
+  date_gmt: '2005-01-29 23:33:06 +0100'
+  content: |-
+    &quot; ... Szanowna TPSA,
+    <br/>My stali bywalcy Internetu zabraniamy dołączania kolejnych komputerów do sieci. ...&quot;
+    <br/>
+    <br/>nieźle, nieźle - szkoda że Hapiego zamkną ;]]]
+- id: 408
+  author: znik
+  author_url: ''
+  date: '2005-01-29 23:34:28 +0100'
+  date_gmt: '2005-01-29 23:34:28 +0100'
+  content: 'wariat: kampanie przelożyliśmy na za rok przecież. Ot tak, aby odwlec
+    ten moment.'
+- id: 409
+  author: wariat
+  author_url: ''
+  date: '2005-01-29 23:44:29 +0100'
+  date_gmt: '2005-01-29 23:44:29 +0100'
+  content: przelozenie przeoczylem ... fakt jednak pozostaje faktem ... jest plan
+    i cisnienie &#039;wewnatrz&#039; aby zciagnac tu rzesze. Ja nie mowie ze to z
+    gruntu zly plan ... tylko biedny kg moze nie zdazyc odpowiadac na pytania na forum
+    :D
+- id: 410
+  author: mmm
+  author_url: ''
+  date: '2005-01-29 23:45:20 +0100'
+  date_gmt: '2005-01-29 23:45:20 +0100'
+  content: |-
+    Dopiszę się jeszcze raz bo jak czytam na forum post Cachotterie to zastanawiam się czy nie zapomnieliście zupełnie co to jest Jabber. Do tego jeszcze coś tam jest &quot;nasze&quot;? Ma powstać uniwersalny protokół, a wy dzielicie na &quot;nasze&quot; i &quot;wasze&quot; - przecież to jest zupełnie bezsensu. Jak dla mnie takie posty na forum Hapiego ośmieszają nas w pewien sposób. Teraz to wyglądamy jak zadufani w sobie półbogowie.
+    <br/>
+    <br/>A co do dzieciarni - oni też kiedyś dorosną. Pewnie każdy kto dorwał się do sieci zrobił jakieś głupstwo.
+- id: 411
+  author: Siergiej
+  author_url: ''
+  date: '2005-01-29 23:48:10 +0100'
+  date_gmt: '2005-01-29 23:48:10 +0100'
+  content: A wiecie co to oznacza? Następny będzie Jogger!
+- id: 412
+  author: Cachotterie
+  author_url: ''
+  date: '2005-01-29 23:50:52 +0100'
+  date_gmt: '2005-01-29 23:50:52 +0100'
+  content: |-
+    Jabber to nie jest KOMUNIKATOR. A jako coś takiego tam go promują i nikt tamtejszych użytkowników nie poprawia. Uniwersalność protokołu a podsuwanie go pod nos idiotom to dwie różne rzeczy. I w dużej mierze to nie kwestia dorostania czy nie, tylko pewnego poziomu intelektualnego lub jego braku, więc to nie jest to że &quot;oni kiedyś dorosną&quot;, niestety,
+    <br/>Z mojej strony EOT, bo uważam że jedną z potęg jabbera było to że byle idiota się na niego nie wpakował i różne opinie mogę zmieniać, ale raczje nie tę. :&gt; Teraz istnieje poważne ryzyko, że wrócę do punktu wyjścia w jakim startowałam swoją emigrację z GG, czyli dziesiątek jellonkowatych zaczepek codziennie. W związku z tym znów zacznę uciekać gdzie indziej bo głupoty nie trawię... i tak do skończenia świata i o jeden dzień dłużej?
+- id: 413
+  author: Cachotterie
+  author_url: ''
+  date: '2005-01-29 23:52:07 +0100'
+  date_gmt: '2005-01-29 23:52:07 +0100'
+  content: |-
+    PiEs. A jakbyś MMM chciał wyrazić poparcie dla hapi to przykro mi ale możesz mieć problem, bo się już ocenzurowali - widać kiepsko trawią krytykę.
+    <br/>Siergiej: Jakie &quot;następny jogger&quot;, to już od dawna się dzieje....
+- id: 414
+  author: wariat
+  author_url: ''
+  date: '2005-01-29 23:56:40 +0100'
+  date_gmt: '2005-01-29 23:56:40 +0100'
+  content: "Cachotterie: Bez przesady ... przeciez ten caly happi to nic innego jak
+    drugi wpkontakt a jakos zalewu jellonkow z wpkontaktu nie ma ... choc userow wpk
+    jest znacznei wiecej niz userow na pozostalych serwerach ajbberowych w PL ...
+    nie demonizujmy wiec ... \n<br/>Tak na prawde przeciez jednak chodzi o to zeby
+    ludziom pomagac ... podtkac im pod nos firefoxy, thunderbirdy, jabbera... \n<br/>tak
+    juz jest ... internet przez modem via zalatwiany dostep na uczelni juz nie wroci
+    ... i to chyba dobrze jednak.\n<br/>Jakos sie przyzwyczailem juz dostawac e-maile
+    w ktorych mowi sie do mnie prosze pana choc na poczatku wywaly u mnie one odroch
+    rotflujaco dobijajacy :D"
+- id: 415
+  author: mmm
+  author_url: ''
+  date: '2005-01-29 23:59:37 +0100'
+  date_gmt: '2005-01-29 23:59:37 +0100'
+  content: 'Cachotterie: Ja nie popieram Hapi. Dla mnie jest on lekko tandetny. Nie
+    popieram jelonków. Tylko śmieszy mnie robienie z siebie nie wiadomo kogo. To dowartościowuje?
+    Zgrywanie ważniaka? Pozamykają jabber.wp.pl i hapi.pl i zostanie jeden serwer
+    Jabbera z czterema userami - chyba nie o to chodzi. No a jeżeli szukasz komunikatora
+    tylko dla garstki osób to najatwiej napisać sobie samemu. Wtedy zostaniesz sama,
+    nie narażona na zaczepki bo nikt nie będzie wiedział o jego istnieniu - to raczej
+    zły kierunek w komunikacji.'
+- id: 416
+  author: Cachotterie
+  author_url: ''
+  date: '2005-01-29 23:59:58 +0100'
+  date_gmt: '2005-01-29 23:59:58 +0100'
+  content: Tak, tylko ze wpkontakt nigdy nie byl realnym zagrożeniem dla GG - w sensie
+    nie był bardziej... koffano-nastkowy ;)) Hapi jest, w związku z tym obawiam się
+    że może na niego trafić sporo jak najgorszej części użytkowników GG - bo ci normalni
+    zostaną pewnie przy klasycznym kliencie, a na hapi (=&gt; jabbera) trafią słodkie
+    trzynastki i kulziomale...
+- id: 417
+  author: Cachotterie
+  author_url: ''
+  date: '2005-01-30 00:06:07 +0100'
+  date_gmt: '2005-01-30 00:06:07 +0100'
+  content: |-
+    Słuchaj, jeśli ktoś Ci włazi z buciorami do domu i wnosi błocko - denerwuje Cię to? Czy jest to robienie z siebie ważniaka czy po prostu masz ochotę mieć czysto, tym bardziej że właśnie posprzątałeś (przenosząc swoją listę kontaktów, namawiając co bliższych znajomych itp.).
+    <br/>Mnie naprawdę irytują jellonkowate zaczepki po naście razy dziennie, a najgorsze są takie które nie dają się spławić i przez 20 minut potrafią nagabywać a ja naprawdę mam ciekawsze rzeczy do roboty niż co chwila zamykać okienka w psi.
+    <br/>
+    <br/>Rozumiem ich prawo do istnienia. Niech sobie będą, niech robią co lubią, niech się zaczepiają i wysyłają tony emotek, animowanych i dźwiękowych - tylko błagam niech to robią Z DALA ODE MNIE :&gt; Naprawdę tak wiele wymagam?
+    <br/>
+    <br/>A własny klient byłby najbardziej perfect rozwiązaniem gdybym nie była tak leniwa. No i lubię Psi... :]
+- id: 418
+  author: Patrys
+  author_url: ''
+  date: '2005-01-30 00:08:14 +0100'
+  date_gmt: '2005-01-30 00:08:14 +0100'
+  content: |-
+    Hapi pipol już dotarli i tutaj. Pojawiło się już pierwszych kilka(naście?) joggów o treści &quot;test&quot;, &quot;hapi&quot; i &quot;halo&quot;.
+    <br/>
+    <br/>Ja nie mam nic przeciwko promocji jakiegokolwiek komunikatora. Ale nie na zasadzie &quot;ładujcie się, najpierw się pobawcie, a instrukcję dopiszemy za dwa lata&quot;. Używanie Jabbera może być bardzo niebezpieczne dla reszy sieci, zwłaszcza, jeśli nie zdajemy sobie sprawy z tego, że nie jest to pojedyncza podsieć (jak w przypadku Tlenu czy GG), a uniwersalny protokół. I że osoba przez nas zaczepiana może mieć równie dobrze 5, co 50 lat (a średnia wieku na jabberze jest dużo wyższa od tej na GG). I że może równie dobrze wcale nie mówić po polsku, nawet jeśli ma JID w polskiej domenie, że może nie życzyć sobie nagabywania (dla userów GG to nie do pomyślenia - po co mieć GG, jeśli nie chce się poklikać?), że może być botem (a to największa zaleta jabbera)...
+    <br/>
+    <br/>Moja wizja tego jest taka, że jeszcze przed końcem roku będę miał bota jako sekretarkę przyjmującą rozmowy (a bot już działa), domyślnie odrzucane prośby o AUTH, a o autoryzację trzeba będzie prosić przez email, albo jeszcze bezpieczniej, snailem.
+- id: 419
+  author: staszyna
+  author_url: ''
+  date: '2005-01-30 01:41:00 +0100'
+  date_gmt: '2005-01-30 01:41:00 +0100'
+  content: "MSZ nie ma w tym nic złego. Jabber ma być uniwersalnym protokołem, nie
+    da się z takim założeniem bronić go przed masami. Masy można edukować, ale to
+    z reguły nie działa, więc trzeba czekać aż dorosną, ale wtedy przyjdą nowi młodzi.
+    Im więcej ludzi używa jabbera, tym lepiej. Nikt nie powinien miec prawa dzielić
+    użytkowników na lepszych i gorszych, nawet jesli ten podział jest zauważalny.
+    Owszem, każdy ma prawo oceniac ludzi wg swojego gustu towarzyskiego, ale niech
+    stosuje je tylko w swoim rosterze. Kto miałby oceniać globalnie -- a więc obiektywnie
+    -- czy ktoś się nadaje czy nie na użytkownika jabbera? Uważam, że jest to złe
+    podejście.\n<br/>\n<br/>Cachotterie:\n<br/>&quot;A wiecie co jest najgorsze? Nie
+    kojarzę w RFC takiej opcji jak &quot;blokuj&quot;. Nawet jak bronić sie nie będzie
+    :( &quot;\n<br/>Tu faktycznie jest problem, ale może trzeba liczyć na to, że ZU
+    nie będzie się chciało za każdym razem prosić o autoryzację? \n<br/>Moje Psi ma
+    taką opcję &quot;Ignore events from contacts not already in my roster&quot;, ale
+    stwierdzam zawiedziony, że nie działa :/"
+- id: 420
+  author: buzuki
+  author_url: ''
+  date: '2005-01-30 01:42:04 +0100'
+  date_gmt: '2005-01-30 01:42:04 +0100'
+  content: "A czytac Was wolno, czy najpierw trzeba sie wykazac \n<br/>odpowienim
+    &quot;poziomem&quot; ?"
+- id: 421
+  author: Cachotterie
+  author_url: ''
+  date: '2005-01-30 01:45:21 +0100'
+  date_gmt: '2005-01-30 01:45:21 +0100'
+  content: |-
+    -&gt;Staszyna: Jest, jak ostatecznei gdzieś wyszło w dyskusjach (jeden pozytyw tej &#039;wojny&#039; ;)  ) tyle że trzeba z konsoli wklepać bo na razie co najmniej w psi nie ma takiej opcji jak privacy lists. Natomiast drugi problem, że nie wiem czy to chroni też przed prośbami o autoryzacje - ale to jest do sprawdzenia.
+    <br/>
+    <br/>-&gt;Buzuki: Czytać tak, komentować nie :PP
+    <br/>MSPANC... ;)
+- id: 422
+  author: szzzzzz...ej?
+  author_url: ''
+  date: '2005-01-30 02:08:28 +0100'
+  date_gmt: '2005-01-30 02:08:28 +0100'
+  content: Nie kumam o co chodzi. Nie widze w tym nic nadzwyczajnego.
+- id: 423
+  author: buzuki
+  author_url: ''
+  date: '2005-01-30 02:24:18 +0100'
+  date_gmt: '2005-01-30 02:24:18 +0100'
+  content: |-
+    -&gt;Cachotterie : zalosne :/
+    <br/>-&gt;szzzzzz...ej? : no, wlasciwie racja; typowe dla niektorych
+- id: 424
+  author: kg
+  author_url: ''
+  date: '2005-01-30 03:24:48 +0100'
+  date_gmt: '2005-01-30 03:24:48 +0100'
+  content: "Luźne myśli (zresztą jest po 3 - to się może kupy nie trzymać; po przeczytaniu
+    forum, joggera tego i smokowego zdecydowałem tu się trochę.. zapomniałem słowa
+    ;) ):\n<br/>Jabber (lub jeśli ktoś woli XMPP) jest protokołem; protokołem uniwersalnym,
+    bezpiecznym i elastycznym. Uniwersalnym.... nadaje się do wielu zastosowań (nie
+    tylko IM). Bezpiecznym - SSL i inne skróty których o tej porze nie pamiętam lub
+    nie potrafię rozwinąć, potwierdzenia. Elastycznym - m.in. filtrowanie po stronie
+    serwera pozwala nam decydować od kogo chcemy dostawać wiadomości, powiadomienia
+    o obecności, inne zapytania &lt;iq/&gt;. Naprawdę nie rozumiem jaki problem widzicie
+    w tym, by zwykłym użytkownikom pokazać to, co Wy znacie od tygodni/miesięcy/lat.
+    WP zrobiła to już dawno temu i w moim odczuciu bardziej należy im za to dziękować,
+    niż mieć im to za złe. Osobiście nie uważam się za geeka, a na Jabbera wpadłem
+    zupełnie przypadkiem. Ale.. nie każdy ma takiego farta, jak ja... Rozumiem, że
+    nie każdy musi chcieć to (znalezienie Jabbera i &quot;przejście&quot;) jellonkom
+    (nawiasem - pierwszy raz takie słowo widzę) ułatwiać, ale dlaczego się oburzać
+    na takowe próby podejmowane przez kogoś innego? Mało tego. Przecież firma PAWAL
+    zapewnia klienta, wsparcie i serwer (ba! domyślnie nie można się przy pomocy tego
+    klienta rejestrować na innym serwerze). A argument, że oni mogą mieć niższe IQ
+    (może trochę przeinnaczam, ale chyba o to Wam chodzi)? Bzdura. Bzdura totalna.
+    Może nawet... ksenofobia w wydaniu człowieka siedzącego przed komputerem w XXI
+    wieku. Równie dobrze można by sądzić ludzi po kolorze... włosów. \n<br/>\n<br/>Cachotterie:
+    &quot;Czy jabberowe serwery już teraz działają za dobrze&quot;\n<br/>A mają się
+    źle? Jeśli tak to tylko i wyłącznie przez wykorzystywanie na nich transportów.
+    Procesy serwerów Jabbera na serwerach Jabbera naprawdę nie są problemem.\n<br/>\n<br/>staszyna:
+    &quot;Nikt nie powinien miec prawa dzielić użytkowników na lepszych i gorszych,
+    nawet jesli ten podział jest zauważalny.&quot;\n<br/>I pod tym się podpisuje wszystkimi
+    kończynami."
+- id: 425
+  author: jpc
+  author_url: ''
+  date: '2005-01-30 10:00:40 +0100'
+  date_gmt: '2005-01-30 10:00:40 +0100'
+  content: |-
+    Cachotterie: słabo czytałaś to RFC. Jest privacy-lists - dużo bardziej powerne niż blokowanie.
+    <br/>
+    <br/>WPK nie jest koffano-nastolatkowy? Eeeee.... jest bardziej koffano-nastolatkowy od GG! (;
+- id: 426
+  author: Ktos
+  author_url: ''
+  date: '2005-01-30 10:26:16 +0100'
+  date_gmt: '2005-01-30 10:26:16 +0100'
+  content: Moment moment! A czy my nie o to walczyliśmy? Nie chcieliśmy, aby Jabber
+    stał się jednym standardem IM? Po co ewangelizowaliśmy ludzi? To musi swoją drogą
+    sprowadzić tutaj osoby, które dotychczas trzymały się czego innego (w domyśle
+    - GG). Ja wiem, że dopóki privacy-lists nie wejdą do powszechnego użytku i będą
+    łatwiejsze w użyciu to to będzie uciążliwe. Czyli może ta walka, ewangelizacja
+    nie była dobra? Jabber powinien zostać geekowskim narzędziem?
+- id: 427
+  author: ups
+  author_url: ''
+  date: '2005-01-30 10:36:33 +0100'
+  date_gmt: '2005-01-30 10:36:33 +0100'
+  content: Tym się różni Jabber od GG, że posiada mechanizmy pozwalające zabezpieczyć
+    się jellonkami, więc zamiast zachowywać się jak duże jellonki lepiej wykorzystajmy
+    to, co oferuje Jabber.
+- id: 428
+  author: ups
+  author_url: ''
+  date: '2005-01-30 10:39:10 +0100'
+  date_gmt: '2005-01-30 10:39:10 +0100'
+  content: |-
+    &quot;Moment moment! A czy my nie o to walczyliśmy?&quot;
+    <br/>
+    <br/>Właśnie, a teraz przyjdzie kilku nowo modnych jabberowców i będzie marudzić, że ktoś im włazi z butami. Co zrobiliście dla niego, że uważacie go za swoją własność?
+    <br/>
+    <br/>&quot;Jabber powinien zostać geekowskim narzędziem?&quot;
+    <br/>
+    <br/>Jabber nigdy nie był tak projektowany, jak komuś się wydaje inaczej w błędzie i ma rozwiązanie, istnieje coś takiego jak IRC, tam znajdzie oazę geekowskiego spokoju.
+- id: 429
+  author: Patrys
+  author_url: ''
+  date: '2005-01-30 12:44:12 +0100'
+  date_gmt: '2005-01-30 12:44:12 +0100'
+  content: |-
+    Wypraszam sobie nowo modnego jabberowca. Jeśli masz problem z moim używaniem jabbera, to i joggera czytać nie musisz.
+    <br/>
+    <br/>Ja nie mam nic do używania jabbera przez innych. Ale nie ściągajcie mi ich na głowę (bo pretensję mam tylko o to, że wy się świetnie bawicie, a mnie ludzie napastują - jak wy zaczniecie dostawać po kilka &quot;pOklikAshuFF&quot; dziennie, to może będziecie umieli spojrzeć na to trochę inaczej. Protokół jabbera nie jest w pełni gotowy na orzyjęcie jellonków, a już na pewno nie są na to gotowe kulejące implementacje tego protokołu w klientach i serwerach. Wytrzymam jeszcze parę dni, jeśli będę dalej napastowany, to *@hapi.pl trafi do listy odrzucanych.
+- id: 430
+  author: Cachotterie-&gt;kg
+  author_url: ''
+  date: '2005-01-30 12:53:30 +0100'
+  date_gmt: '2005-01-30 12:53:30 +0100'
+  content: |-
+    Jako że już mi się dłużej bronić nie chce z tego, że nie lubię zmian na niekorzyść i mam czelność straszną to powiedzieć (a chyba za to właśnie niektórzy się za mnie wstydzą - naprawdę nie trzeba, jak trzeba to wstydzę się sama za siebie), więc tylko do kg: ależ o tym mówię - własnie dlatego się martwię, że wiem że największym obciążeniem dla serwerów są transporty. Jak sądzisz, czy horda nowych, którzy przelezą z gg będzie chciała mieć dalej kontakt ze starymi znajomymi z gg? I co za tym idzie - czy aktualnym serwerom jabbera dodatkowe obciążenie tego transportu zrobi
+    <br/>a) lepiej
+    <br/>b) gorzej
+    <br/>c) bez różnicy?
+    <br/>O ile użytkownicy hapi będą się trzymać hapi - ok, na nas to nie wpływa (akurat pod tym względem, bo jellonkowanie to inna bajka), jakoś jednak średnio chce mi się wierzyć, że jak ichni transport z serwerem zacznie padać, to nie zaczną szukać rozwiązań gdzie indziej...
+- id: 431
+  author: kg
+  author_url: ''
+  date: '2005-01-30 15:42:41 +0100'
+  date_gmt: '2005-01-30 15:42:41 +0100'
+  content: |-
+    Cachotterie: jeśli ważne są dla Ciebie te transporty - gorzej, jeśli nie - bez różnicy. Jeśli &quot;jellonki&quot; są tak &quot;jellonkowate&quot; jak sądzicie, to po tym jak padnie gg na ich serwerze - zrezygnują; o ile kontakt z tą siecią będzie dla nich (jeszcze) ważny. Hapi jest (a zwłaszcza jego wtyczka PowerGG) robiony pod serwer hapi.pl, i nie tak łatwo (nawet w Pandionie na którym opiera się Hapi) skorzystać z usług innego serwera. Jeśli w Twoim mniemaniu popularyzacja Jabbera wśród mas jest zła - to wszystko co staram się robić od trochę ponad roku chyba też jest złe.
+    <br/>
+    <br/>Patrys: &quot;Ale nie ściągajcie mi ich na głowę&quot;
+    <br/>Ale kto Ci ich ściąga na głowe? Przecież nikt nie dostaje Twojego kontaktu w szablonie rostera. Nigdzie nie piszę, że jesteś osobą z którą można pOklikAshaFF&#039;ać. W taki sam sposób jak hapi.pl ściąga Ci ich na głowe - w taki sam sposób o2.pl, wp.pl, interia.pl, gazeta.pl etc. ściągają Ci na głowe użytkowników ich poczty. A jakoś nigdy nie widziałem prostestów związanych z otwieraniem nowego serwisu oferującego takowe usługi.
+    <br/>
+    <br/>Patrys: &quot;Protokół jabbera nie jest w pełni gotowy na orzyjęcie jellonków, a już na pewno nie są na to gotowe kulejące implementacje tego protokołu w klientach i serwerach.&quot;
+    <br/>Najpopularniejsze klienty mają nieograniczone możliwości dzięki konsoli XML. Jeśli potrzebne Ci coś czego nie można wykonać z poziomu GUI - wystarczy odrobinę poczytać i skorzystać z niej. Fakt, że wymaga to odrobinę czasu i wysiłku, ale &quot;nadjellonków&quot; to nie powinien być problem. Co do serwera - czy jeśli Ty używasz kulawej implementacji serwera - muszą na tym cierpieć &quot;jellonki&quot;?! To trochę aroganckie i samolubne.
+    <br/>
+    <br/>Dla mnie zakładanie z góry, że użytkownik danego klienta czy domeny jest intelektualnie ograniczony jest chore. Podobnie oburzanie się na inicjatywę wspieraną przez PAWAL Dystrybucja jest nie na miejscu. Jabber nie jest i nie powinien być zabawką niszowej grupy internautów... chyba że ja żyję we własnym świecie - może to i lepiej. Mam tylko nadzieje, że nie jestem sam.
+- id: 432
+  author: Chomik
+  author_url: ''
+  date: '2005-01-31 09:05:31 +0100'
+  date_gmt: '2005-01-31 09:05:31 +0100'
+  content: Wszystkim niezadowolonym proponuję napisanie własnego, zamkniętego komunikatora!
+    Jabber, jogger i internet NIE JEST TYLKO dla was - jest dla wszystkich, nawet
+    jeśli chcecie inaczej. Co do Cachotterie - twoje myślenie przypomina mi myślenie
+    sprzed 60 lat - &quot;my - lepsza rasa&quot;. Wiesz co oznacza napis &quot;Nur
+    fur Deutsche&quot;? Wstyd mi za was...
+- id: 433
+  author: Chomik
+  author_url: ''
+  date: '2005-01-31 10:56:38 +0100'
+  date_gmt: '2005-01-31 10:56:38 +0100'
+  content: Patrys -&gt; co do twojej wypowiedzi otwierającej na forum hapi, to po
+    prostu obrażasz ludzi! Mam nadzieję, że kiedyś będziesz czegoś potrzebował od
+    tych, jak ich nazwałeś &quot;zbyt skąpo obdarownaych przez życie intelektem dzieci&quot;,
+    a wtedy... Jeśli ci się nie podoba, że jabber i jogger jest dla wszystkich to
+    odpowiedź masz w moim komentarzu powyżej...
+- id: 434
+  author: Express
+  author_url: ''
+  date: '2005-01-31 13:39:00 +0100'
+  date_gmt: '2005-01-31 13:39:00 +0100'
+  content: |-
+    Trochę w tym prawdy - promowanie otwartych standardów właśnie po to było i jest, że by ludzie ich używali. Ale z drugiej strony od dwóch lat chyba  raz zdjąłem &quot;niewidocznego&quot; z gg* ( a na ogół używam ciągle mirandy z gg, choć planuję zupełnie przejść na jabbera, ale ma go ledwie dwóch moich znajmoych :( ) - i to przy okazji testowania jabbera na innym systemie (Syllable bodajże). I raczej nadal nie będę się specjalnie ujawniał.
+    <br/>
+    <br/>---
+    <br/>* - proste- chciałem mieć kontrolę nad statusem w gg, a transporty różnie sobie z tym radzą, mi w każdym arzie nie działało. Ponieważ jednak i tak stale jestem niewidoczny, to właściwie nie ma powodu trwać przy gg.
+- id: 435
+  author: remiq
+  author_url: ''
+  date: '2005-01-31 16:56:41 +0100'
+  date_gmt: '2005-01-31 16:56:41 +0100'
+  content: |-
+    Zakażmy używania wszystkich klientów Jabbera poza jednym: działającego tylko pod linuksem, przy uruchomieniu niech każe rozwiązywać test na inteligencje, a jak się napisze przez przypadek zdanie niepoprawne - odłączenie od serwera na jeden dzień.
+    <br/>
+    <br/>Ludzie, bez przesady. Rozumiem, że można się uważać za elitę (z uwagi na to, że się używa tego programu, a nie innego / że się kibicuje Pogoni, a nie Lechowi / etc ), ale żeby zakazywać innym możliwości komunikacji?
+    <br/>
+    <br/>Elita z joggami kontra chołota z blogami.
+- id: 436
+  author: Greybrow
+  author_url: ''
+  date: '2005-01-31 21:17:59 +0100'
+  date_gmt: '2005-01-31 21:17:59 +0100'
+  content: |-
+    jestem starożynym już użytkownikiem gg z numerkiem poniżej 50tys. Przypadków jelonków miałem może z 5, może z 10 w ciągu tych lat wszystkich. A nawet mam wpisane swoje dane do katalogu.
+    <br/>Z tego wszystkiego zacząłem testować klienty jabbera. Syf najogólniej. Wszystko ładne proste i kolorowe zajmujące po kilkanaście MB ramu, albo tak ascetyczne, że nic się nie da zrobić, bo opcji za dużo. I też ramu żre.
+    <br/>Psi mi jakoś przypadł do gustu, choć nie ma kilku porządnych rzeczy, a konferencji dla kolegów jest raczej męczące, bo nie ma takiej opcji.
+    <br/>W sumie po co tworzyć. Można założyć sobie kanał na ircu, jelonki i tak tam nie wejdą, bo nie będą umiały, a i upilnować takie coś jest łatwiej niż swoje kanały jakieś.
+    <br/>A, że to niby nie komunikator? Można tam przecież siedzieć non stop, i rozmawiać tylko z jakąś jedną osobą przecież...
+    <br/>Ach, jest takie coś co się zwie waste. Można na sf net znaleźć. Służy do tworzenia zamkniętych sieci, więc jakby co to pisać już nie trzeba.
+    <br/>
+    <br/>Przed głupotą nie da się uciec, ignorować też jej nie można.
+    <br/>Można się tylko próbować zabezpieczyć, póki się jaki lepszy idiota nie trafi.
+- id: 437
+  author: nbw
+  author_url: ''
+  date: '2005-02-01 01:41:11 +0100'
+  date_gmt: '2005-02-01 01:41:11 +0100'
+  content: Beczka śmiechu.
+- id: 438
+  author: Jezuch
+  author_url: ''
+  date: '2005-02-01 13:26:44 +0100'
+  date_gmt: '2005-02-01 13:26:44 +0100'
+  content: |-
+    Myśl: hapi zrobi w Polsce &quot;test drive&quot; &quot;Jabbera dla mas&quot; - czyż to nie jest wspaniała kontrybucja dla całej społczeności? ;)
+    <br/>
+    <br/>Cachotterie: pisałem Ci już kiedyś - nie wpisuj swoich danych do publicznego rostera, bo Twoje imię przyciąga jelonki :&gt; Mnie nie zaczepiają, choć też się upubliczniłem, jestem jakiś niemedialny ;)
+- id: 439
+  author: rorio
+  author_url: ''
+  date: '2005-02-01 16:27:15 +0100'
+  date_gmt: '2005-02-01 16:27:15 +0100'
+  content: Patryk Zawadzki nie pisze w imieniu polskich jabberowców. Pisze w imieniu
+    ludzi którzy nie rozumieją ideei jabbera i otwartego programowania. Nie mam siły...
+    Dno! Dno! Dno!
+- id: 440
+  author: rorio
+  author_url: ''
+  date: '2005-02-01 16:34:02 +0100'
+  date_gmt: '2005-02-01 16:34:02 +0100'
+  content: 'Jeśli Patryk Zawadzki uważa że jabbera używają tylko linuxowcy to się
+    myli. Jeśli uważa że linuxowcy używają tylko jabera: znowu się myli.  Jesteś zwolennikiem
+    patentów na oprogramowanie??? wiesz na czym polega wolność oprogramowania? jak
+    rozumiesz to free? Zablokowanie jabbera, wywalenie transportu do gg icq niczego
+    nie zmieni. nie tendy droga! To co robisz napełnia mnię odrazą. Wstyd wstyd...
+    Nie ty stworzyłeś jabbera, nie ja. Jak możesz się cieszyć z zamkniętości tlenu?
+    tragedia!!!! '
+- id: 441
+  author: Axquan
+  author_url: ''
+  date: '2005-02-01 16:38:32 +0100'
+  date_gmt: '2005-02-01 16:38:32 +0100'
+  content: 'no i na 7thGuardzie się pojawiło... Było się burzyć? :-) Mnie to nie przeszkadza,
+    &quot;skond klikacze&quot; są naprawdę denerwujący, ale co zrobić? Jak ktoś wspomniał
+    kiedyś dorosną i im przejdzie, ludzie uczą się na błędach...swoich :-) '
+- id: 442
+  author: Bartosz Feński aka fEnIo
+  author_url: ''
+  date: '2005-02-01 16:48:41 +0100'
+  date_gmt: '2005-02-01 16:48:41 +0100'
+  content: |-
+    No to się popisałeś.
+    <br/>Może jeszcze forsuj blokowanie maili z interii/wp/onetu, bo tam też większość to buractwo.
+    <br/>A może w ogóle zacznij pędzić żywot pustelnika, a wtedy będziesz &quot;kul i trendi&quot;, tylko kto będzie aktualizował Twego bloga by takie pionki z hapi.pl mogły go czytać?
+    <br/>
+    <br/>Żałosne.
+    <br/>fEnIo
+- id: 443
+  author: DoomHammer
+  author_url: ''
+  date: '2005-02-01 17:11:52 +0100'
+  date_gmt: '2005-02-01 17:11:52 +0100'
+  content: |-
+    @Patrys: a jest jakas istniejaca implementacja ALICE pod Jabbera? BO szukalem i chcialem sobie pogadac, ale znalazlem tylko Elize...
+    <br/>@Cachotterie: &quot;jakoś jednak średnio chce mi się wierzyć, że jak ichni transport z serwerem zacznie padać, to nie zaczną szukać rozwiązań gdzie indziej...&quot; - Jellonki? Szukać? Wątpie! Przecież to te istoty, którym trzeba przyniesć prezent w pudełku i osobiście go wręczyć i rozpakować. DLaczego Psi jest za trudne? Bo trzeba samemu wybrać serwer...
+- id: 444
+  author: Patrys
+  author_url: ''
+  date: '2005-02-01 19:29:01 +0100'
+  date_gmt: '2005-02-01 19:29:01 +0100'
+  content: |-
+    DoomHammer:
+    <br/>mam własnego bota, przerobiłem kilka projektów pythonowych i połączyłem w jeden. Jak skończę, to udostępnię naturalnie (zgodnie z ideą wolnego oprogramowania, której - jak czytam - jestem przeciwnikiem).
+    <br/>
+    <br/>Reszta: skoro 7thGuard zniżył się do poziomu komentowania blogów, to wynocha mi stąd na siódmego. Tygodniową dawkę humoru w komentarzach już wyrobiliście.
+- id: 445
+  author: mg
+  author_url: ''
+  date: '2005-02-01 19:55:17 +0100'
+  date_gmt: '2005-02-01 19:55:17 +0100'
+  content: Jankowski powinien zostać wy masonskie antypolskie kapitalistyczne lewaki!
+- id: 446
+  author: riddle
+  author_url: ''
+  date: '2005-02-01 19:58:09 +0100'
+  date_gmt: '2005-02-01 19:58:09 +0100'
+  content: |-
+    Mnie nie przeszkadza pseudosieć hapi.pl ... jedynie wpływ jaki to coś może mieć na joggera. Pal sześć, jak będzie ogórne filtrowanie głównej i komentarzy w v2. Chodzi mi o to, że po co nam na joggerze choćby 20 userów więcej, którzy będą prowadzić blogi - dokładnie tak - w stylu &quot;Hello Kitty&quot; czy &quot;Kto to Dziub Dziub&quot; i zeżerać zasoby? Przecież jogger nie jest płatny - jak się dowiedzą o tym jelonki, to będą zakładać konta dla zabawy - a potem je porzucać. Czy wytrzymamy to? :/
+    <br/>
+    <br/>I to jest główny motor mojego niezadowolenia z hapi.pl. Reszta jest jak najbardziej spoko. Trzeba ludzi wychowywać - czemu w szkołach nie ma W OGÓLE lekcji o netykiecie? Taki koleś &quot;opluka&quot; Internet w szkole, &quot;vapniacki&quot; mu założą w domu i potem siedzi i denerwuje wszystkich. Nie zaprzeczam - pierwsze moje tygodnie w Internecie są dla mnie powodem do wstydu, lecz nie zaczepiałem ludzi i co, myślę, ważne - czytałem wszystkie faq, zasady, regulaminy jakie napotkałem. Zwłaszcza dokument, który polecam każdemu gdy tylko ma kwadrans wolnego czasu - http://rtfm.bsdzine.org/. Trzeba uświadamiać ludziom, że nie są anonimowi. No kurde, trzeba ;)
+- id: 447
+  author: szzzzzz...ej?
+  author_url: ''
+  date: '2005-02-01 20:27:21 +0100'
+  date_gmt: '2005-02-01 20:27:21 +0100'
+  content: rorio jestes bucem
+- id: 448
+  author: Jaras
+  author_url: ''
+  date: '2005-02-01 20:37:53 +0100'
+  date_gmt: '2005-02-01 20:37:53 +0100'
+  content: jak już zdążyłem Ci wspomnieć a i o czym mniej więcej Grey pisał powyżej,
+    &quot;wyLAjtuJ sIę zIOom&quot;, bo to walka z wiatrakami. problem z &quot;filipinkami&quot;
+    i &quot;bravo-machozzz&quot; istnieje od dawna i nie tylko przy okazji komunikatorów,
+    ale wszelkich forów, chatów etc. etc. fala leniwej &quot;ja jeste dysklektyk mam
+    papierey wiec ode mnie wara si e qórwa odpierdzxidel&quot; młodzieży jest nie
+    do powstrzymania...
+- id: 449
+  author: cooz
+  author_url: ''
+  date: '2005-02-01 21:46:12 +0100'
+  date_gmt: '2005-02-01 21:46:12 +0100'
+  content: |-
+    czlowiek dziwne zwierze...
+    <br/>jeszcze pamietam podpisaywane tysiacami autografow ankiety, topicki na roznych forach(itp) o otwarcie serwerow tlena na jabbera, dobrze ze sie to niczym konkretnym nie skonczylo, bo dopiero wtedy by niektorzy sie zamartwiali tym calym zalewem mas...
+- id: 450
+  author: martinez
+  author_url: ''
+  date: '2005-02-01 22:06:38 +0100'
+  date_gmt: '2005-02-01 22:06:38 +0100'
+  content: Ten wpis, podobnie jak zabranie głosu na forum hapi.pl świadczą o tym,
+    że patrys chciał sobie wydłużyć, ale nie wiedział jak. :S To smutne.
+- id: 451
+  author: noo
+  author_url: ''
+  date: '2005-02-02 08:15:20 +0100'
+  date_gmt: '2005-02-02 08:15:20 +0100'
+  content: a ja jestem zażenowany, że użytkownicy PLD mają taki łatwy dostęp do forum
+    Hapi :(
+- id: 452
+  author: rorio
+  author_url: ''
+  date: '2005-02-02 09:45:26 +0100'
+  date_gmt: '2005-02-02 09:45:26 +0100'
+  content: "Tak jestem bucem!!! Tylko czemu się nie podpisałeś???\n<br/>Każdy powinien
+    mieć dostęp do jabbera. To jest wolność. Jabber powstał aby ludzie mogli się komunikować,
+    paru lamospamerów niczego nie zmieni. Czemu zakładać, że użytkownicy czegoś innego
+    niż jabber )linux( to lamerzy? A czy użytkownicy np. Mandagory to lamerzy(sam
+    na nim siedzę)? Patryś ty na prawdę nie rozumiesz o co chodzi w &quot;free&quot;,
+    &quot;open&quot;. Wyjaśnij jak rozumiesz te słowa, ok? Może napisz jakiegoś zamkniętego
+    jabbera. nazwij go elittepatrysscoolchackerlinuxrulezjabber, nowi userzy muszą
+    udowodnić że są hakerami, cool gościami itd. Wiesz co? Używam jabbera tak samo
+    jak gg. Nie zbyt obcodzi mnie jak to diała, ważne że działa i że jest otwarty.
+    Jestem zawiedzony, bo do niedawna uważałem że jabberowcy używają jabba z tych
+    samych powodów. A figa! Wy używacie jabbera bo inni go nie używają... smutne.
+    Patryś powinien skasować swojego posta z happy. Jest ochydny. Co happowcy sobie
+    o nas pomyślą? Wiecie co: jabberowcy to buce. :( "
+- id: 453
+  author: rorio
+  author_url: ''
+  date: '2005-02-02 09:48:55 +0100'
+  date_gmt: '2005-02-02 09:48:55 +0100'
+  content: "&quot;Cała treść niniejszej strony jest własnością autora i nie może być
+    kopiowana bądź powielana bez zgody autora&quot; Czy to jest otwartość? \n<br/>\n<br/>-==Posty
+    pochodzące od rorio są objęte licencją gnu==-\n<br/>heh...\n<br/>To co ja piszę
+    nałeży do mnie i ja ustalam na jakich zasadach jest udostępniane. jeśli patrysiowi
+    się to nie podoba, niech wywali moje posty. "
+- id: 454
+  author: Beny
+  author_url: ''
+  date: '2005-02-02 10:47:19 +0100'
+  date_gmt: '2005-02-02 10:47:19 +0100'
+  content: 'Ja czegos nie rozumiem. Jesli nie chcecie kogos w domu to sie zamyka drzwi.
+    Czy nie mozna ustawic waszych komunikatorow, tudziez zmodyfikowac protokol jesli
+    takie opcji nie ma, aby nie przyjmowac wiadomosci od niezarejestrowanych w waszej
+    ksiazce numerow. '
+- id: 455
+  author: szzzzzz...ej?
+  author_url: ''
+  date: '2005-02-02 13:29:34 +0100'
+  date_gmt: '2005-02-02 13:29:34 +0100'
+  content: |-
+    Rorio ty jestes bucem nie ze wzgledu na swoj poglad, a ze wzgledu na sposob formulowania go. Nie emocjonuj sie tak, bo ci zylka peknie.
+    <br/>A swoja droga podpisuje sie. Szzzzzz...ej? to jak najbardziej moj podpis. Imieniem i nazwiskiem sie nie podpisuje, zeby potem jakis buc rorio nie uzywal ich w kazdym swoim poscie.
+- id: 456
+  author: rorio
+  author_url: ''
+  date: '2005-02-02 15:24:36 +0100'
+  date_gmt: '2005-02-02 15:24:36 +0100'
+  content: 'Tu nie ma miejsca na emocje. Jestem zrelaksowany, wyluzowany, tylko co
+    wy robicie jest tak idiotyczne że to się w pale nie mieści! {teraz się zdenerwowałem:}
+    Sam jesteś buc! :D To znacznie poprawi klimat dyskusji nie? Zacznijmy się obrażać.
+    Ten twój podpis jest w stylu tych okropnych, nietechnicznych... haxxar0w itd.
+    Czemu oceniacie ludzi po tym jakiego komunikatora używają? To mój ostatni post:
+    Wy nie macie wpływu na jabbera. Nie potraficie zrobić hello world&#039;a... Olewam
+    was. siedzcie tu sobie, gadajcię między sobą... zamknijcie to forum dla obcych...
+    Kiście się! papa '
+- id: 457
+  author: Greybrow
+  author_url: ''
+  date: '2005-02-02 16:49:41 +0100'
+  date_gmt: '2005-02-02 16:49:41 +0100'
+  content: |-
+    Mam pomysł niezły. Jak już jest ten bot alicyjny, to może mu dodać test na inteligencję dla użytkowników &quot;nie na liście&quot;?
+    <br/>Mam zamiar taki test dodać do forum smf, które jednak ruszy.
+    <br/>Wpisy idiotów i tak nic nie dają...
+- id: 458
+  author: szzzzzz...ej?
+  author_url: ''
+  date: '2005-02-02 17:26:40 +0100'
+  date_gmt: '2005-02-02 17:26:40 +0100'
+  content: |-
+    rorio - jacy wy? ja sie pod patrysa pogladem nie podpisuje, a zdaje sie odpowiadasz na mojego posta? Ja nikogo nie oceniam po komunikatorze, ktorego uzywa, patrys raczej tez nie. To pewnie fajnie prowadzic krucjate przeciwko bandzie niedobrych, zadufanych w sobie ludzi. Musze cie rozczarowac. Grupy, ktora tu krytykujesz nie ma. Patrys wypowiedzial sie w swoim imieniu. 7thguard zrobil z tego wielkie halo i w efekcie trafili tu ludzie weszacy wielki spisek. Dyskusja powinna dotyczyc problemu wkraczania zwyklych uzytkownikow na poletko jabbera, natomiast ktos wolal zrobic z tego wojenke z patrysem. Efekt jest taki, ze zamiast rozmawiac o problemie i roznicy zdan na ten temat, masa rozemocjonowanych ludzi wmawia patrysowi, ze nic nie wie, nic nie umie, jest nazista etc. Zle wszystko zrozumiales, nerwy cie poniosly i tyle. Wyluzuj sie troszke, nikt tu niczego nie zabrania. Ja przypuszczam, ze moje zdanie na temat problemu nowych uzytkownikow korzystajacych z jabbera jest bardzo podobne do twojego. Uwazam tylko, ze zle sie wypowiadasz - emocjonalnie, piszac do patrysa uzywasz treciej osoby wymieniajac go kazdorazowo z nazwiska (to daje poczucie wyzszosci?), wmawiasz mu, ze sie nie zna. Przykro mi, ze dyskusja na blogu i 7thguardzie ma postac pyskowki, ale przy tak napisanym artykule sie nie dziwie - ani tym co sie oburzaja, ani reszcie.
+    <br/>Pogratulowac patrysowi zdobycia popularnosci.
+- id: 459
+  author: Patrys
+  author_url: ''
+  date: '2005-02-02 19:11:45 +0100'
+  date_gmt: '2005-02-02 19:11:45 +0100'
+  content: |-
+    rorio:
+    <br/>&gt; &quot;Cała treść niniejszej strony jest
+    <br/>&gt; własnością autora i nie może być
+    <br/>&gt; kopiowana bądź powielana bez zgody
+    <br/>&gt; autora&quot;
+    <br/>&gt;Czy to jest otwartość?
+    <br/>
+    <br/>&gt; -==Posty pochodzące od rorio są objęte licencją gnu==-
+    <br/>&gt; heh...
+    <br/>&gt; To co ja piszę nałeży do mnie i ja
+    <br/>&gt; ustalam na jakich zasadach jest
+    <br/>&gt; udostępniane. jeśli patrysiowi się
+    <br/>&gt; to nie podoba, niech wywali moje posty.
+    <br/>
+    <br/>Znaczy się, że pracę też mam rzucić, bo nie mogę efektów swojego wysiłku w godzinach 8:00 - 16:00 udostępniać na GPL? Chyba coś ci się pomyliło...
+- id: 460
+  author: blue/enigma
+  author_url: ''
+  date: '2005-02-02 22:15:39 +0100'
+  date_gmt: '2005-02-02 22:15:39 +0100'
+  content: |-
+    mmm: &quot;A co do dzieciarni - oni też kiedyś dorosną. Pewnie każdy kto dorwał się do sieci zrobił jakieś głupstwo.&quot;
+    <br/>
+    <br/>No tak, ja też jestem dzieciarnia. Ale kretynem (czyt. jellonkiem) nie jestem. Jakoś nie potrzebowałam mega-kampanii reklamowej żeby dotrzeć do jabbera i joggera :/. Jak ktoś chce to sobie znajdzie. Nie trzeba wszystkiego dawać pod nos. Tak, zrobiłam parę głupstw, ale nigdy nie dręczyłam normalnych ludzi :/.
+- id: 461
+  author: przyjaciel
+  author_url: ''
+  date: '2005-02-02 22:44:39 +0100'
+  date_gmt: '2005-02-02 22:44:39 +0100'
+  content: |-
+    blue/enigma no i?
+    <br/>
+    <br/>Dręczenie jest w każdej sieci bez wyjątku.
+- id: 462
+  author: blue/enigma
+  author_url: ''
+  date: '2005-02-02 22:47:50 +0100'
+  date_gmt: '2005-02-02 22:47:50 +0100'
+  content: |-
+    No i... trzeba odróżniać jellonki od normalnych ludzi. Nie liczy się tu wiek. Tak, dręczenie jest w każdej sieci. W jednej większe, w drugiej mniejsze. Wolałabym żeby na jabberze było jednak mniejsze...
+    <br/>
+    <br/>Narazie dobranoc :)
+- id: 463
+  author: rorio
+  author_url: ''
+  date: '2005-02-03 12:11:02 +0100'
+  date_gmt: '2005-02-03 12:11:02 +0100'
+  content: "Ta wasza krucjata anty&quot;lamerska&quot; uderza w userów gg i happy...
+    :) to idiotyzm. My jesteśmy chakery ony som lameły, nie? szzzcostam?\n<br/>wyjasnij
+    mi o co ci chodzi? to musi być zbyt złożone dla takiego mandrakowca jak ja...
+    a co do pyskówki: to ty nazywasz ludzi bucami. Używanie nazwiska w iii osobie
+    to nic obrazliwego "
+- id: 464
+  author: Jezuch
+  author_url: ''
+  date: '2005-02-03 12:12:34 +0100'
+  date_gmt: '2005-02-03 12:12:34 +0100'
+  content: Rorio, wyjaśnij mi tak BTW - Rorio to imię, czy nazwisko?
+- id: 465
+  author: rorio
+  author_url: ''
+  date: '2005-02-03 17:25:55 +0100'
+  date_gmt: '2005-02-03 17:25:55 +0100'
+  content: "to moja internetowa osobowość. moje prawdziwe imie nie powinno cię interesować.
+    Ty też się raczej jezuch nie nazywasz :)\n<br/>szejjcostam: Ja cię nie atakuję,
+    atakuję jedynie postawę patrysia, która ostatnimi czasy staje się dość popularna
+    :(\n<br/>i tyle, możesz to nazywać krucjatą. jeśli nie zgadzasz się z patrysiem
+    to czemu się mnie czepiasz? chodzi  o formę posta? Jesli tak to wybacz... \n<br/>Mój
+    pogląd jest jasny: jabber należy do wszystkich ludzi na ziemi(marsie etc.). Każdy
+    powinien mieć do niego nieograniczony dostęp.\n<br/>Jakie było by twoje (szejcostam)
+    stanowisk gdybym wypuścił &quot;odwalony&quot; klient dla jabbera? Lamerstwo?
+    Wiem że mówiłem że  miałem już tu nie zaglądać, ale wybacz, nie dokończyłem swojej
+    krucjaty. nazywaj to jak chcesz tylko szanuj poglądy innych ludzi. Ja szanuję
+    pogląd patrysia, może on wynikać ze nie zrozumienia paru spraw, czy czegoś innego.
+    Jest to metoda na wprowadzenie neeeteeetykeety na jabbciu, jest ona jednak zprzeczna
+    z jego ideą. I o to mi chodzi. Napewno nie poprawisz klimatu rozmowt takimi postami:
+    &quot;rorio jesteś bucem.&quot; :D Przemyślcie to, papa"
+- id: 466
+  author: szzzzzz...ej?
+  author_url: ''
+  date: '2005-02-03 23:44:22 +0100'
+  date_gmt: '2005-02-03 23:44:22 +0100'
+  content: |-
+    Twoj poglad jest jasny, twoje wyrazanie go jest godne buca. Piszesz bzdury, oceniasz druga osobe, a potem mowisz, ze szanujesz jej poglady - to jest twoim zdaniem logiczne? To jest twoim zdaniem godne? Pozwalasz sobie jechac po nieznanej osobie, atakujesz ja na podstawie szmatlawego artykykulu i oczekujesz szacunku w zamian? To jest zachowanie godne wylacznie buca. Nie czepiam sie twojego pogladu na otwartosc jabbera - juz to pisalem. Czepiam sie niekonsekwencji - atakujesz kogos, wymieniasz z imienia i nazwiska (jesli to dla ciebie takie normalne to wspolczuje wszystkim twoim dyskutantom) - my wiemy jak patrys sie nazywa, on sie z tym nie kryje, on sa tez swietnie wie, wydajesz sady nad nim, swietnie wiesz na czym sie zna a na czym nie. I oczekujesz mojego szacunku? Zrozumienia? To ze mam podobne zdanie na temat samego problemu nie znaczy, ze bede tolerowal buca.
+    <br/>Odejdz. Nie pisz wiecej, nie mam checi znizac sie wiecej do takiego poziomu dyskusji.
+    <br/>I nie podpisuje sie jak widac szejcostam skonczony bucu - jesli przepisac cos albo przekleic to dla ciebie zbyt trudno to nie odzywaj sie do mnie w ogole.
+- id: 467
+  author: buc rorio
+  author_url: ''
+  date: '2005-02-04 20:03:56 +0100'
+  date_gmt: '2005-02-04 20:03:56 +0100'
+  content: "Wybacz szeej itd. ale patryś pod tym postem podpisał się z imienia i nazwiska
+    :(\n<br/>Co do teko że jestem bucem masz racje. Jestem mega bucem. Atakuje patrysia
+    nie na podstawie jakiegos arta, tylko na podstawie jego posta. \n<br/>Nikomu die
+    daje szacunku, od nikogo nie oczekuje szacunku. :|\n<br/>Może teraz pogadamy o
+    naszych poglądach? ale nie tu. Na 7th. ty atmosfera mi nie odpowiada. Patryś zrobił
+    dobrze pisząc odpowiedz na 7thguardzie. Ma racje. Jabber może nie być gotowy na
+    zalew userów. Tylko jego metody zaradzenia tej sytuacji są okropne, złe i *********.
+    \n<br/>po prostu moje i patrysia poglądy są całkowicie inne... może miejscami
+    troszkę mnie ponosi. Fakt, nie znam się najlepiej na jabbie, ale wiem na czym
+    polega tolerancja: &quot;nie zgadzam się z tym co mówisz, ale życie oddam żebyś
+    mógł to mówić&quot;. Tylko proszę nie przesadzaj..."
+- id: 468
+  author: Linux Advocacy mini-HOWTO
+  author_url: ''
+  date: '2005-03-15 18:37:12 +0100'
+  date_gmt: '2005-03-15 18:37:12 +0100'
+  content: |-
+    Nie upieraj się przy tym, że Linux jest jedyną odpowiedzią dla
+    <br/>     wymagających aplikacji. Właśnie tak jak społeczność linuxowa miłuje
+    <br/>     sobie wolność, którą Linux im dostarcza, tak rozwiązania powiązane
+    <br/>     koniecznie tylko z Linuxem pozbawiają innych tej wolności.
+---
+<p>Od jakiegoś czasu napadają mnie pierwsze Jellonki na jabberze. Nie wytrzymałem. <a href="http://www.hapi.pl/">Hapi</a> nie ma racji bytu.</p>
+
+<p>Na ichnim forum zostawiłem im <a href="http://www.hapi.pl/forum/viewtopic.php?t=45">wiadomość</a> o poniższej treści:</p>
+
+<blockquote><p>Witam,<br />
+<br />
+Piszę jako członek polskiej społeczności jabberowej, lecz nie piszę w jej imieniu. Zawarta poniżej treść jest prywatną opinią jej autora i nie może być odbierana w jakikolwiek inny sposób.<br />
+<br />
+Od dawna jestem szczęśliwym użytkownikiem jabbera (jak większość geeków, programistów linuksowych, sysadminów i innych pochodnych antysocjalnych społeczności komputerowych). Szczęśliwym o tyle, że jabber od zawsze wolny był od przeróżnych "koFFanyH pAniEnEk", "1337 haxx0rów" i tłumów zbyt skąpo obdarownaych przez życie intelektem dzieci. Wielokrotnie już zastanawiałem się nad całkowitym odłączeniem transportu GG, a to za sprawą tyle napastliwych co napalonych "trzynastek", a to za sprawą ludzi, którzy są tak ubodzy w zainteresowania, że nie widzą lepszej metody zagospodarowania czasu, niźli tylko zaczepianie losowych osób "szczęśliwie" wybranych z czeluści katalogu użytkowników. Od zawsze na transport GG patrzyłem jak na opcjonalne połączenie świata ludzi kompetentnych ze światem chaosu (procentowo, naturalnie - są wyjątki po stronie jabbera, są i niedoinformowane jednostki wartościowe po stronie GG). Dlaczegóż chcecie więc nam, bogu ducha winnym użytkownikom, zgotować los tak marny? Przepuścić hordy matołów dla własnej satysfakcji? Czy warto zrobić to tylko po to, by za parę lat wszyscy informatycy na świecie (a jabber polski nie jest - ciekawe, czy Niemcy, Amerykanie, Japończycy i Francuzi ucieszą się na widok dobrze znanego już nam "cze poklikash?!!?!!11!!" lub "z kont jestes") będą wspominać was jako tych, którzy pokonali sieć. Jako następną funkcję proponuję więc dodać system automatycznego rozsyłania/forwardowania łańcuszków, być może nawet z funkcją generatora, a następnie wprowadzić katalog WWW userów (nie ograniczający się do domeny hapi.pl - w końcu każdy człowiek potrzebuje trochę spamu - zwłaszcza ci, których JID jest identyczny z mailem).<br />
+<br />
+Być może nie rozumiem waszej motywacji, może są w tym jakieś cele wyższe. Przykro mi jednak, bo jeśli dalej tak pójdzie, za parę lat, dziś korzystający z jabbera, Polacy będą musieli się wstydzić. Nie za siebie, za grupy niewychowanych nastolatków i nastolatek, których wtajemniczyliście w techniki "komunikacji" międzyserwerowej.<br />
+<br />
+Gdy tak o tym myślę, cieszę się, że Tlen.pl pozostaje do dziś serwerem zamkniętym.<br />
+<br />
+Z poważaniem,<br />
+Patryk Zawadzki &lt;patrys AT pld-linux DOT org&gt;</p></blockquote>

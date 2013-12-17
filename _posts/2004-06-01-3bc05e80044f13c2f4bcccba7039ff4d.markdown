@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Problem z dostępem do sieci
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 23
+date: 2004-06-01 15:34:16.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments: []
+---
+Przed chwilą zostałem wezwany do naszego klienta. Powód był prosty, my im dostarczamy łącze sieciowe, a oni mają problem z dostępem do sieci. W ramach wcześniejszego przygotowania sprawdziłem, czy komputery klienta są podłączone do sieci. Okazało się nawet, że odpowiadają wdzięcznie na pingi. Różne rzeczy się dzieją, a klientom się nie odmawia, więc posłusznie zebrałem się, zabrałem coś do pisania (jako że ci państwo lubią bez uprzedzenia zmieniać adresy MAC kart sieciowych, później dziwiąc się, że DHCP nie działa) i ruszyłem w drogę. Dotarłem dzielnie do sekretariatu, gdzie miłe panie poprosiły mnie o zaczekanie na PanaDyrektora&trade;. Otóż jego gabinet, podobnie jak inne miejsca święte, wolno zwiedzać jedynie w towarzystwie wyszkolonego przewodnika. Niestety, stosowne kompetencje posiada jedynie sam PanDyrektor&trade;, skądinąd znany ze swych półgodzinnych sesji obiadowych, między którymi następuje dziesięciominutowa przerwa na pracę. Doczekawszy się w końcu upgranionej persony, zapragnąłem poznać cel mojej wizyty i przyczynę awarii.<br />
+<br />
+- Wie pan, bo jak odbieram pocztę, to jest wszystko w porządku, ale jak włączam przeglądarkę, to mi się momentalnie komputer wiesza...<br />
+<br />
+Bogatszy o nowe doświadczenia życiowe i z bagażem nabytych mądrości opuściłem jego gabinet, by na tle zachodzącego słońca udać się ku nowej, być może równie fascynującej, przygodzie.<br />
+<br />
+A na koniec, drogie dzieci,<br />
+morał bajki tej jest taki:<br />
+nie ściągajcie filmów z kazyy,<br />
+bo będziecie mieć robaki.

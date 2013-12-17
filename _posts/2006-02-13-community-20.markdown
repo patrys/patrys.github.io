@@ -1,0 +1,129 @@
+---
+layout: post
+status: publish
+published: true
+title: Community 2.0
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 231
+wordpress_url: http://www.room-303.com/blog/2006/02/13/community-20/
+date: 2006-02-13 00:02:37.000000000 +01:00
+categories:
+- varia
+- web
+tags: []
+comments:
+- id: 3349
+  author: byte
+  author_url: http://byte.livenet.pl
+  date: '2006-02-13 00:17:07 +0100'
+  date_gmt: '2006-02-12 23:17:07 +0100'
+  content: Moja prawda jest najmojsza. Klasyka.
+- id: 3350
+  author: Cthulhu
+  author_url: ''
+  date: '2006-02-13 00:24:30 +0100'
+  date_gmt: '2006-02-12 23:24:31 +0100'
+  content: Ja osobiście myślałem, że padnę ze śmiechu czytając najpierw długaśną notkę
+    riddla a potem napisaną w "górnolotny" stylu odpowiedź Wassago. Pewnie gdyby nie
+    skasował bloga to zamiast pisać komentarz rzuciłby trackbackiem.. ;)
+- id: 3351
+  author: stan
+  author_url: ''
+  date: '2006-02-13 01:40:57 +0100'
+  date_gmt: '2006-02-13 00:40:57 +0100'
+  content: "he he, a to wszystko przez j2 :D :D LOL\r\nparanoja..."
+- id: 3352
+  author: mrman
+  author_url: http://private.hell.to
+  date: '2006-02-13 02:29:15 +0100'
+  date_gmt: '2006-02-13 01:29:15 +0100'
+  content: "ot. polskie piekiełko. nic nadzwyczajnego ani nowego :)\r\npisalem o tym
+    w kontekscie wykop i olo.pl"
+- id: 3353
+  author: Ktos
+  author_url: http://www.ktos.info/notatki/
+  date: '2006-02-13 09:13:46 +0100'
+  date_gmt: '2006-02-13 08:13:46 +0100'
+  content: "A ja myślałem, że padnę ze śmiechu, gdy zobaczyłem \"prawidła logiki dla
+    informatyków\" i przykład \"argumentacji przez patos\" :-)\r\n\r\nUmieszczę to
+    sobie jako fortunki gdzieś :-)"
+- id: 3354
+  author: kuba
+  author_url: http://spiffy.slabaprodukcja.com/
+  date: '2006-02-13 09:36:53 +0100'
+  date_gmt: '2006-02-13 08:36:53 +0100'
+  content: 'albo wprost z przekroju, cyt. za najwiekszym politykiem polskiej sceny
+    bynajmniej nie wzrostem: "Absolutnie nie ma żadnych powodów, żeby sądzić, że kogoś
+    rejestrowano w sposób nieprawdziwy jako agenta [SB]. – Skąd Pan to wie? – Bo nigdy
+    się z niczym podobnym nie spotkałem" - cos nie istnieje bo interlokutor o danej
+    rzeczy nie slyszal. bosko :)'
+- id: 3356
+  author: gfy
+  author_url: http://gofuckyourselfjogger.pl
+  date: '2006-02-14 01:29:14 +0100'
+  date_gmt: '2006-02-14 00:29:14 +0100'
+  content: "Panie Patryku.\r\nPanie, wzialbys sie Pan, za jakas robote fizyczna. Bys
+    Pan popracowal porzadnie, gnoju bys poprzerzucal. A nie tylko ciagle pierdololo
+    po komisjach!\r\nZ tymi wypocinami to sie pan co najwyzej do familiady nadajesz,
+    ot co!\r\nKto nie oglada szymona to won :-)"
+- id: 3357
+  author: Librarian
+  author_url: ''
+  date: '2006-02-14 03:36:12 +0100'
+  date_gmt: '2006-02-14 02:36:12 +0100'
+  content: "Ech, szkoda słów.\r\nJuż starożytni mawiali: <em>Quis penis aquam turbat?</em>\r\nNa
+    jednym z dawno czytanych blogów, autor tegoż, zwracał uwagę na bliskość semantyczną
+    tej antycznej sentencji z tzw. przegięciem pały (łac. <em>hiperflexio penis</em>).\r\nKomenatrze
+    jak zwykle, niczym <em>Tytus, Romek i A`tomek</em>, bawiąc - uczą, ucząc - bawią.
+    Chociaż czasem zabawa przypomina wiejską potańcówkę, ze \"sztachetówą\" na finał.\r\nA
+    cytując dosłownie radosną twórczość (przez duże <em>TFU!!!</em>) przedmówcy:\r\n<blockquote>Bys
+    Pan popracowal porzadnie, gnoju bys poprzerzucal.</blockquote> - Patrys! To chyba
+    sugestia żebyś zaczął moderować komentarze... :)"
+- id: 3359
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-02-14 21:59:59 +0100'
+  date_gmt: '2006-02-14 20:59:59 +0100'
+  content: Ależ my się z GFY znamy osobiście i cenię sobie jego ironię :)
+- id: 3362
+  author: Librarian
+  author_url: ''
+  date: '2006-02-15 00:31:33 +0100'
+  date_gmt: '2006-02-14 23:31:33 +0100'
+  content: A to przepraszam :)
+---
+<p>Ja się już przyzwyczaiłem do trolli w komentarzach, którzy w argumentacji stosują prawidła logiki dla informatyków:</p>
+
+<dl>
+<dt>argument przez wątpliwość</dt>
+<dd><q>Chyba cię pojebało!</q></dd>
+
+<dt>dowód przez indukcję autorytetu</dt>
+<dd><q>To nieprawda, mój wujek napisał o tym książkę.</q></dd>
+
+<dt>dowód akustyczny</dt>
+<dd><q>Słyszałem, że mówisz bzdury.</q></dd>
+
+<dt>argument multimedialny</dt>
+<dd><q>Gdzieś czytałem coś zupełnie innego. Albo ktoś mi mówił.</q></dd>
+
+<dt>dowód wprost</dt>
+<dd><q>Bzdura.</q></dd>
+
+<dt>dowód przez psychoanalizę</dt>
+<dd><q>Wynika to z faktu, że nie znasz się na niczym innym.</q></dd>
+
+<dt>dowód przez fallus micrus</dt>
+<dd><q>Zajmuję się tym rok dłużej, mam fajniejszą furę i większego. Mylisz się.</q></dd>
+</dl>
+
+<p>Dyskusje takie zawsze wnoszą wiele ciekawych informacji do rozmowy i ogólnie są bardzo potrzebne, choćby dla odreagowania stresu na cudzym blogu. To co zobaczyłem dzisiaj mnie przeraziło: <a href="http://riddle.jogger.pl/comment.php?eid=189441">Riddle opisuje</a> spór pomiędzy nim a Wassago.</p>
+
+<p>Nie byłoby w tym nic komicznego, gdyby nie pewien drobny fakt. Spór toczy się o to, kto <em>zupełnie nieodpłatnie</em> wykona projekt graficzny dla <em>darmowego serwisu</em>. Jeśli dodać do tego argumentację przez patos (<q>Panie Kowalski, Pan raczysz nie dostrzegać intratnego piękna, zawoalowanego krzykliwą powierzchownością materii</q>), to zaczyna to przypominać spór dwóch cór Koryntu o to, która obsłuży klienta za darmo.</p>
+
+<p>No proszę ja was, czy możliwość umieszczenia w <abbr title="Curriculum Vitae">CV</abbr> zapisu <q>wykonałem projekt serwisu społecznego, o którym nikt z was nie słyszał</q> jest warta łapania się za mordy? Ja bym się na ich miejscu zastanowił dwa razy, a potem umówił na wspólne piwo. Współpraca jest lepsza niż walka, zwłaszcza, kiedy walczyć nie ma o co.</p>
+
+Technorati Tags: <a href="http://technorati.com/tag/community" rel="tag">community</a>, <a href="http://technorati.com/tag/blog" rel="tag">blog</a>, <a href="http://technorati.com/tag/design" rel="tag">design</a>, <a href="http://technorati.com/tag/layout" rel="tag">layout</a>

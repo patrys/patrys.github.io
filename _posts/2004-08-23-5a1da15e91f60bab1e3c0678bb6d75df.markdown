@@ -1,0 +1,121 @@
+---
+layout: post
+status: publish
+published: true
+title: Porządki
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 42
+date: 2004-08-23 15:05:13.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 299
+  author: SynPrezesa
+  author_url: ''
+  date: '2004-08-23 15:41:40 +0200'
+  date_gmt: '2004-08-23 15:41:40 +0200'
+  content: |-
+    Co bylo, to bylo i w zwiazku ze jestem fikcyjny, nie jestem zbyt pamietliwy ;)
+    <br/>
+    <br/>Wojny to przeciez nie bylo... nie denerwuj sie tak :]
+    <br/>
+    <br/>Przez telefon:
+    <br/>Pracownik: Czesc szefie.
+    <br/>Szef: zapier**laj do pracy!
+    <br/>
+    <br/>P: Czemu na mnie szef krzyczy? Jest poniedzialek, trzeba pracownikom mowic cos milego na poczatek tygodnia, a nie tak z grubej rury...
+    <br/>S: Kijem po łbie dostaniesz, to Ci sie odechce cos milego!
+    <br/>
+    <br/>hmm...
+    <br/>
+    <br/>
+- id: 300
+  author: PewienAdministrator
+  author_url: ''
+  date: '2004-08-23 16:28:37 +0200'
+  date_gmt: '2004-08-23 16:28:37 +0200'
+  content: Praca to nie przelewki, jak deklarujesz przyjście o godzinie 9tej (lub
+    masz tak w umowie) to ma tak być. Może ktoś potrzebuje Twojej pomocy? Albo jest
+    coś pilnego do zrobienia? (np. kawa).
+- id: 301
+  author: SynPrezesa
+  author_url: ''
+  date: '2004-08-23 22:05:06 +0200'
+  date_gmt: '2004-08-23 22:05:06 +0200'
+  content: Ale P byl 30 minut przed czasem!
+- id: 302
+  author: been
+  author_url: ''
+  date: '2004-08-24 08:50:18 +0200'
+  date_gmt: '2004-08-24 08:50:18 +0200'
+  content: 'ojej ale error hehe admin schowaj sie '
+- id: 303
+  author: SynPrezesa
+  author_url: ''
+  date: '2004-08-25 11:54:42 +0200'
+  date_gmt: '2004-08-25 11:54:42 +0200'
+  content: czemu sie nic nie dzieje?
+- id: 304
+  author: Wampirek
+  author_url: ''
+  date: '2004-08-25 11:56:42 +0200'
+  date_gmt: '2004-08-25 11:56:42 +0200'
+  content: Partyś, poziomy dostępu Twoim przyjacielem ;)
+- id: 305
+  author: been
+  author_url: ''
+  date: '2004-08-26 11:00:56 +0200'
+  date_gmt: '2004-08-26 11:00:56 +0200'
+  content: "nic się nie dzieje bo nikt się nie rajcuje Twoją osobą SPTM :) \n<br/>cierpliwie
+    czekamy na kolejną biurową opowieść, gdzieś między kawą, a kolejnym klientem.
+    \ "
+- id: 306
+  author: DarkStar
+  author_url: ''
+  date: '2004-08-27 13:25:03 +0200'
+  date_gmt: '2004-08-27 13:25:03 +0200'
+  content: 'Dzien pracownika biurowego wyglada mniej wiecej tak: przed obiadem- nuda,
+    po obiedzie- walka z sennoscia.'
+- id: 307
+  author: SynPrezesa
+  author_url: ''
+  date: '2004-08-28 13:56:32 +0200'
+  date_gmt: '2004-08-28 13:56:32 +0200'
+  content: |-
+    Patrys: napisalbys cos ciekawego... bo nudno w tej pracy :]
+    <br/>
+- id: 308
+  author: been
+  author_url: ''
+  date: '2004-08-30 11:30:55 +0200'
+  date_gmt: '2004-08-30 11:30:55 +0200'
+  content: patrys kontynuuje swoje opowieści - tyle, że już nie tutaj.. :)
+- id: 309
+  author: Cachotterie
+  author_url: ''
+  date: '2004-08-30 12:19:15 +0200'
+  date_gmt: '2004-08-30 12:19:15 +0200'
+  content: I zostawilby wszystkich swoich wiernych czytelnikow? Nieladnie... ;(
+- id: 310
+  author: Patrys
+  author_url: ''
+  date: '2004-08-30 12:20:04 +0200'
+  date_gmt: '2004-08-30 12:20:04 +0200'
+  content: O co wy mnie podejrzewacie? :)
+- id: 311
+  author: Cachotterie
+  author_url: ''
+  date: '2004-08-30 12:23:45 +0200'
+  date_gmt: '2004-08-30 12:23:45 +0200'
+  content: |-
+    O to ze nas porzuciles, biednych, nieszczesliwych bez duchowego wsparcia... eee...
+    <br/>No dobra. Przesadzilam ;-)
+    <br/>Ale ze wojna ktora sie tu rozpetala zniesmaczyla Cie na tyle zeby na czas jakis zarzucic pisanie. Ostatnio to jakas zaraza wsrod joggerowcow ;)
+---
+Niestety, wygląda na to, że do niektórych ludzi nie dotarło, że strona ma charakter czysto rozrywkowy, a przedstawione na niej wydarzenia i postacie celowo nie odnoszą się do żadnych nazwisk ani pseudonimów. W związku z tym cała ostatnia notka została przeniesiona przeze mnie do krainy wiecznych łowów. Nie budowałem miejsca do prowadzenia wojen i przykro mi, że w ciągu ostatnich dwóch dni w takie się zamieniło.<br />
+<br />
+Poczucie humoru to jedno, ale agresja to drugie. Przemyślcie to przed wysłaniem kolejnego komentarza.

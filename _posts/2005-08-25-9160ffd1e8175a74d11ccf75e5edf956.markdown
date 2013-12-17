@@ -1,0 +1,137 @@
+---
+layout: post
+status: publish
+published: true
+title: Przedwczesna optymalizacja
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 149
+date: 2005-08-25 22:44:00.000000000 +02:00
+categories:
+- software
+- code
+tags: []
+comments:
+- id: 2057
+  author: Carstein
+  author_url: ''
+  date: '2005-08-25 22:57:00 +0200'
+  date_gmt: '2005-08-25 22:57:00 +0200'
+  content: |-
+    Najlepsze jaja, z tego co słyszałem są we flashu. Znajomy ostatnio sporo pisze w tym czymś, to się nasłuchałem.
+    <br/>
+    <br/>Jak wiadomo przy graficę 3D sporo się wykonuje funkcji trygonometrycznych. Jeśli trzeba je wykonać wielokrotnie, to warto sobie poszczególne wyniki tablicować i potem się  odwoływać do tablicy. Otóż okazuje się, że odwołanie się do elementu tablicy jest we flashu wolniejsze, niż wywołanie funkcji trygonometrycznej z zewnętrznej biblioteki.
+    <br/>
+    <br/>Ponoć cały flash jest naszpikowany takimi motywami.
+- id: 2058
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-08-25 23:02:26 +0200'
+  date_gmt: '2005-08-25 23:02:26 +0200'
+  content: |-
+    Moja funkcja była znacznie bardziej WTF
+    <br/>[snip]
+    <br/>        les     di,G_Buf
+    <br/>        add     di,&amp;CX
+    <br/>        mov     ax,CY
+    <br/>        shl     ax,6
+    <br/>        add     di,ax
+    <br/>        shl     ax,2
+    <br/>        add     di,ax
+    <br/>        mov     ax,G_Color
+    <br/>        mov     es:[di],al
+    <br/>[snip]
+    <br/>
+    <br/>Potem już tylko wystarczy wrzucić bufor do karty (z obsługą synchronizacji pionowej)
+    <br/>
+    <br/>        cmp     G_VSync,0
+    <br/>        je @@3
+    <br/>@@1:
+    <br/>        mov     dx,03dah
+    <br/>        in al,dx
+    <br/>        test    al,8
+    <br/>        jne     @@1
+    <br/>@@2:
+    <br/>        in al,dx
+    <br/>        test    al,8
+    <br/>        je @@2
+    <br/>@@3:
+    <br/>        push    ds
+    <br/>        mov     ax,0a000h
+    <br/>        mov     es,ax
+    <br/>        xor     di,di
+    <br/>        lds     si,G_Buf
+    <br/>        mov     cx,(MAX_BUF_SIZE / 4)
+    <br/>        cld
+    <br/>        db 66h
+    <br/>        rep     movsw
+    <br/>        pop     ds
+    <br/>
+    <br/>:)
+- id: 2059
+  author: Patrys
+  author_url: ''
+  date: '2005-08-25 23:07:49 +0200'
+  date_gmt: '2005-08-25 23:07:49 +0200'
+  content: |-
+    Hmm, twoja funkcja działa tylko dla 320x200x256 :P
+    <br/>
+    <br/>U siebie też jakiś miesiąc później zamieniłem mnożenie na przesunięcia bitowe i składanie. Tylko, że nie chodzi tu o najładniejszą funkcję do rysowania pikselami po ekranie. Chodzi o to, że to już nie te czasy, kiedy się pisało wstawki w assemblerze.
+- id: 2060
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-08-25 23:12:33 +0200'
+  date_gmt: '2005-08-25 23:12:33 +0200'
+  content: To była biblioteka do gry, którą kiedyś pisałem pod DOS-em. Co ciekawe
+    można tą grę kupić na Allegro razem z GIMPem, Firefoxem, OpenOffice i innymi otwartymi
+    programami :D
+- id: 2061
+  author: Tomash
+  author_url: ''
+  date: '2005-08-26 17:24:20 +0200'
+  date_gmt: '2005-08-26 17:24:20 +0200'
+  content: W tym roku czeka mnie poznawanie assemblera (przedmiot Sterowanie Eksperymentem
+    Fizycznym)... już się cieszę na samą myśl ;]
+---
+<p>Patrzę dziś z łezką w oku na kod, który napisałem w Pascalu na początku 1998. roku (czyli gdzieś w pierwszej klasie ogólniaka):</p>
+
+<blockquote><pre>procedure putpixel(x,y:word;color:word); assembler;
+asm
+  mov cx,640*2
+  mov bx,x
+  cmp bx,639
+  ja @noput
+  mov ax,y
+  cmp ax,479
+  ja @noput
+  add ax,topscreeny
+  mul cx
+  shl bx,1
+  add ax,bx
+  adc dx,0
+  mov si,ax
+  cmp dl,curbank
+  je @bankok
+  call dword ptr bankswitch
+  mov curbank,dl
+@bankok:
+  push $a000
+  pop es
+  mov ax,color
+  mov es:[si],ax
+@noput:
+end;</pre></blockquote>
+
+<p>I śmiać mi się chce, kiedy w oknie obok widzę kod, który dziś mam po kimś poprawiać:</p>
+
+<blockquote><pre>for ($i = 0, $j = 0; ; )
+{
+	$tab[$i++] = $title[$j];
+	$tab[$i++] = $content[$j++];
+	if ($j >= $limit)
+		break;
+}</pre></blockquote>
+
+<p>Nie wiedziałem, że czas procesora jest aż tak cenny w zagnieżdżanych językach skryptowych. Pół biedy z tym, ale widziałem już takie krzaki na ekranie, że sam autor by mi dziś nie powiedział, co kod robi bez pomocy debugowania.</p>

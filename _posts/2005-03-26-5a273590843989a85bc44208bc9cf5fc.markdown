@@ -1,0 +1,66 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #007: Wielkanoc'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 71
+date: 2005-03-26 14:48:11.000000000 +01:00
+categories:
+- comic
+tags: []
+comments:
+- id: 798
+  author: ZKI
+  author_url: ''
+  date: '2005-03-26 15:14:06 +0100'
+  date_gmt: '2005-03-26 15:14:06 +0100'
+  content: ':D'
+- id: 799
+  author: Spider
+  author_url: ''
+  date: '2005-03-26 15:42:01 +0100'
+  date_gmt: '2005-03-26 15:42:01 +0100'
+  content: Swietne :)))))
+- id: 800
+  author: m
+  author_url: ''
+  date: '2005-03-26 16:23:25 +0100'
+  date_gmt: '2005-03-26 16:23:25 +0100'
+  content: smutne ;)
+- id: 801
+  author: futrzak
+  author_url: ''
+  date: '2005-03-26 19:12:13 +0100'
+  date_gmt: '2005-03-26 19:12:13 +0100'
+  content: Dobry pomysł! ;D
+- id: 802
+  author: jpc
+  author_url: ''
+  date: '2005-03-27 16:23:25 +0200'
+  date_gmt: '2005-03-27 16:23:25 +0200'
+  content: |-
+    Pomysł genialny (jak zwykle)! :)
+    <br/>
+    <br/>Co do Świąt: sprowadzenie ich do sprzątania i malowania jajek to faktycznie profanacja. W takich ,,świętach&#039;&#039; wcale nie miałbym ochoty uczestniczyć. :-)
+- id: 803
+  author: blue/enigma
+  author_url: ''
+  date: '2005-03-30 12:09:17 +0200'
+  date_gmt: '2005-03-30 12:09:17 +0200'
+  content: hiehie :P
+- id: 804
+  author: Didimos
+  author_url: ''
+  date: '2005-11-02 16:51:13 +0100'
+  date_gmt: '2005-11-02 16:51:13 +0100'
+  content: Strip genialny i doskonale hermetyczny... Moi koledzy (konstruktorzy) zza
+    szyby pytali z czego się tak śmieję, więc im pokazałem. Teraz dziwią się jeszcze
+    bardziej... :-)
+---
+<p>Święta są do niczego. Przygotowania do świąt to tylko pretekst do zmuszania biednych informatyków do sprzątania czegoś, co jest zdecydowanie uporządkowane i takim powinno pozostać.</p>
+
+<p class="strip"><img src="http://patrys.icenter.pl/comic/007-easter.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>

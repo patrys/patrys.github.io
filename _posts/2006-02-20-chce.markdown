@@ -1,0 +1,158 @@
+---
+layout: post
+status: publish
+published: true
+title: Chcę!
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 236
+wordpress_url: http://www.room-303.com/blog/2006/02/20/chce/
+date: 2006-02-20 00:48:27.000000000 +01:00
+categories:
+- varia
+- usability
+tags: []
+comments:
+- id: 3392
+  author: gfy
+  author_url: http://gofuckyourself.jogger.pl
+  date: '2006-02-20 01:50:24 +0100'
+  date_gmt: '2006-02-20 00:50:24 +0100'
+  content: "w zadnym zestawie nie zauwazylem barku, co jak na moj gust je dyskalifikuje\r\na
+    poza tym\r\ntrzeba miec fantazje dziadku :-)"
+- id: 3395
+  author: marcink
+  author_url: http://blog.elksoft.pl
+  date: '2006-02-20 13:40:33 +0100'
+  date_gmt: '2006-02-20 12:40:33 +0100'
+  content: "Przerost formy nad treścią.  No i beznadziejnie małe te biurka -- kubek
+    z kawą jeszcze da się gdzieś wcisnąć, ale jest zdecydowanie za mało miejsca na
+    książki i notatki.\r\n\r\nNie, stolik za plecami nie liczy się jako miejsce na
+    notatki, dziękuję.  A mikroskopijna podstawka pod notes jest na innym poziomie
+    niż klawiatura, co oznacza że jeśli ustawisz sobie wygodnie klawisze to nie będziesz
+    w stanie wygodnie pisać.  Dziękuję.\r\n\r\nAle wyglądają efektownie, fakt."
+- id: 3396
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-02-20 13:44:25 +0100'
+  date_gmt: '2006-02-20 12:44:25 +0100'
+  content: "marcink:\r\n\r\nTo jest stanowisko dla grafika lub programisty."
+- id: 3397
+  author: marcink
+  author_url: http://blog.elksoft.pl
+  date: '2006-02-20 13:56:53 +0100'
+  date_gmt: '2006-02-20 12:56:53 +0100'
+  content: "Wygląda raczej na przekombinowany help desk: w zasięgu ręki tylko klawiatura,
+    monitory i telefon.  Dla mnie się nie nadaje, chociaż większość mojej pracy przy
+    komputerze to tworzenie oprogramowania -- wymyślanie, projektowanie, poszukiwania,
+    także kodowanie.  Papieru zużywam dużo, na notatki, schematy i/lub bezsensowne
+    bazgranie.\r\n\r\nGrafiką rzeczywiście się nie zajmuję, ale zawsze mi się wydawało
+    że takim papier i ołówek może być przydatny nawet bardziej niż mi.  Tablet trochę
+    miejsca też zajmuje, skaner też, chociaż ten to akurat można pewnie wcisnąć za
+    plecy i jakoś przecierpieć..."
+- id: 3398
+  author: mienta
+  author_url: http://blog.drachal.com
+  date: '2006-02-21 09:53:23 +0100'
+  date_gmt: '2006-02-21 08:53:23 +0100'
+  content: Kurcze rzeczywiście jakieś to małe. Możnaby klaustrofobii dostać nawet.
+    Miejsca na kawę i poranną gazetkę zupełnie brakuje ;)
+- id: 3402
+  author: 'NuLL'
+  author_url: http://www.null.avx.pl
+  date: '2006-02-21 21:33:05 +0100'
+  date_gmt: '2006-02-21 20:33:05 +0100'
+  content: Jak dla mnie troche kosmicznie to wyglada. Co do miejsca to za malo go.
+    Gdzie poloze laptopa kolo desktopa ?? I podlacze sobie kable do niego ?? O kawie
+    juz nie wspominam ;)
+- id: 3403
+  author: jarv
+  author_url: http://monochrome.pl/blog/
+  date: '2006-02-22 14:53:47 +0100'
+  date_gmt: '2006-02-22 13:53:47 +0100'
+  content: Niezłe, ale jak dla mnie - nic nie przebija wygodnego fotela + duży stół/biurko.
+    lubie mieć przed monitorem miejsce.
+- id: 3405
+  author: shrew
+  author_url: http://blog.patrycja.mentis.pl
+  date: '2006-02-23 12:20:23 +0100'
+  date_gmt: '2006-02-23 11:20:23 +0100'
+  content: patrys, dolaczam sie do prosby!. tyle, ze to cos wyglada jak fotel dentystyczny
+    ;)
+- id: 3408
+  author: Karol Błażewicz
+  author_url: ''
+  date: '2006-02-24 18:53:06 +0100'
+  date_gmt: '2006-02-24 17:53:06 +0100'
+  content: Check <a href="http://www.ok-cancel.com/comic/6.html" title="OK/Cancel"
+    rel="nofollow">this picture</a>.
+- id: 3409
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-02-25 10:51:54 +0100'
+  date_gmt: '2006-02-25 09:51:54 +0100'
+  content: Czytam Ok/Cancel od początku ;)
+- id: 3411
+  author: marmez
+  author_url: ''
+  date: '2006-02-26 11:21:22 +0100'
+  date_gmt: '2006-02-26 10:21:22 +0100'
+  content: "mniej wiecej zgadzam sie, wygoda wygodą, ale duzo miejsa na książki, notatki,
+    podręczne kompakty i inne narzędzia, musi być. \r\nTo ja już wolę wileki biórko
+    z mnustwem szuflad, i dodatkowo fotel taki jak poniżej:\r\nhttp://www.plasma2system.com/\r\nhttp://heh.pl/prasowe1634.html\r\n\r\nróżnież
+    brakuje, troche jak bazgrać po kartkach i stać, ale w pocycji siędzącej powinno
+    się dać :) \r\n\r\nNo a jakie dbanie o plecy! :)"
+- id: 3415
+  author: maverick
+  author_url: http://effigy.pl/blog
+  date: '2006-02-28 11:12:50 +0100'
+  date_gmt: '2006-02-28 10:12:50 +0100'
+  content: "Fajne fajne, ale diabelnie mało miejsca na blacie i nie pasuje do żadnego
+    wnętrza. Jakbym sobie to postawił w pokoju wyglądałby jak tron imperatora Palpatine'a
+    z \"Powrotu Jedi\" albo komora medytacyjna Dartha Vadera...\r\n\r\n...mają różowe?
+    ;-p"
+- id: 3424
+  author: m
+  author_url: ''
+  date: '2006-03-03 00:14:34 +0100'
+  date_gmt: '2006-03-02 23:14:34 +0100'
+  content: "Moze jestem tradycjonalista, ale takie cos zupelnie mi wystarcza i mam
+    pelno miejsca do zasmiecenia papierami:\r\nhttp://tinyurl.com/qyc54\r\n\r\nA nazwa
+    prosze sie nie sugerowac ;)."
+- id: 3425
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-03-03 00:21:56 +0100'
+  date_gmt: '2006-03-02 23:21:56 +0100'
+  content: Jak to wszystkie meble IKEA - ani dwa monitory postawić, ani seksu na tym
+    uprawiać (stąd nazwa) ;)
+- id: 3426
+  author: Yarpen_Abbil
+  author_url: http://fantasyforever.prox-net.pl/yarpen-wp/
+  date: '2006-03-03 10:15:27 +0100'
+  date_gmt: '2006-03-03 09:15:27 +0100'
+  content: Chciałbym, ale nie mogę... :D
+- id: 3470
+  author: asder
+  author_url: http://s9.bitefight.pl/c.php?uid=57095
+  date: '2006-03-15 15:40:44 +0100'
+  date_gmt: '2006-03-15 14:40:44 +0100'
+  content: Ja też
+- id: 3490
+  author: koza
+  author_url: http://krakufel.org/blog
+  date: '2006-03-25 15:12:09 +0100'
+  date_gmt: '2006-03-25 14:12:09 +0100'
+  content: nie moge odnalezc ceny tych "cacek". pol roku zbierania i jedno jest moje.
+- id: 3537
+  author: reod
+  author_url: http://reod.ovh.org/home/
+  date: '2006-04-10 21:19:29 +0200'
+  date_gmt: '2006-04-10 20:19:29 +0200'
+  content: Poczekam, aż z kiblem zrobią :]
+---
+<p>Czy mam wygodne biurko? Biurko jak to biurko, cztery deski na krzyż. Do tego rozklekotany fotel na kółkach &mdash; syn doktora Frankensteina, bo zmontowany z resztek trzech martwych poprzedników. Kto mi ufunduje <a href="http://www.poetictech.com/">nowe miejsce do pracy</a>?</p>
+
+Technorati Tags: <a href="http://technorati.com/tag/desk" rel="tag">desk</a>, <a href="http://technorati.com/tag/technology" rel="tag">technology</a>, <a href="http://technorati.com/tag/gadget" rel="tag">gadget</a>, <a href="http://technorati.com/tag/workspace" rel="tag">workspace</a>

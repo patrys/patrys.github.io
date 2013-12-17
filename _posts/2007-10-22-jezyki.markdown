@@ -1,0 +1,138 @@
+---
+layout: post
+status: publish
+published: true
+title: Języki...
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 412
+wordpress_url: http://room-303.com/blog/2007/10/22/jezyki/
+date: 2007-10-22 14:12:05.000000000 +02:00
+categories:
+- code
+tags: []
+comments:
+- id: 8585
+  author: Grzegorz Niewęgłowski
+  author_url: http://hoppke.myopenid.com/
+  date: '2007-10-22 15:23:33 +0200'
+  date_gmt: '2007-10-22 14:23:33 +0200'
+  content: Tak sobie dorzucę, że assembler jest najwydajniejszy tylko jeśli nie płacisz
+    za czas programisty a złożoność programu jest minimalna.
+- id: 8586
+  author: Krzysztof Klimonda
+  author_url: http://cthulhu.myopenid.com/
+  date: '2007-10-22 15:49:17 +0200'
+  date_gmt: '2007-10-22 14:49:17 +0200'
+  content: Wiesz Patrys, w Pythonie wcięcia spacjami to oficjalny sposób przez pep-8
+    promowany :].
+- id: 8587
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2007-10-22 15:54:05 +0200'
+  date_gmt: '2007-10-22 14:54:05 +0200'
+  content: Wiem, dlatego wypisałem to jako wadę języka ;)
+- id: 8588
+  author: Krzysztof Klimonda
+  author_url: http://cthulhu.myopenid.com/
+  date: '2007-10-22 16:09:11 +0200'
+  date_gmt: '2007-10-22 15:09:11 +0200'
+  content: "Patrys: masz coś popsute z openid. staram się dodać inny \"login\" (czy
+    jak się to zwie) i rzuca błędami php:\r\nFatal error: Cannot redeclare get_users_drafts()
+    (previously declared in /home/.hawn/revolta/room-303.com/blog/wp-admin/includes/user.php:233)
+    in /home/.hawn/revolta/room-303.com/blog/wp-admin/admin-db.php on line 9"
+- id: 8589
+  author: Chaos
+  author_url: ''
+  date: '2007-10-22 17:52:38 +0200'
+  date_gmt: '2007-10-22 16:52:38 +0200'
+  content: oceń jakie języki znasz w ciemno, b.dobrze, dobrze, słabo, ledwo
+- id: 8591
+  author: Green
+  author_url: ''
+  date: '2007-10-22 20:13:26 +0200'
+  date_gmt: '2007-10-22 19:13:26 +0200'
+  content: Tak gwoli ścisłości - Delphi i Kylix nie używają Pascala ale Object Pascal'a.
+    Drobna różnica ale jednak :)
+- id: 8592
+  author: anghan
+  author_url: http://anghan.jogger.pl
+  date: '2007-10-22 20:48:05 +0200'
+  date_gmt: '2007-10-22 19:48:05 +0200'
+  content: 'OT: Od pewnego czasu w Konquerorze v3.5.8 na twoim blogu wyskoczył mi
+    z boku dodatkowy pasek. Tak jakby twój blog był w osobnej ramce. Korzystają z
+    głównego paska mogę zobaczyć co najwyżej dalej biała pustkę. Postaram się ustalić
+    czy to nie moja przeglądarka, w każdym razie sytuacja nastąpiła po ostatnich zmianach.'
+- id: 8594
+  author: dely
+  author_url: http://daniel.kozminski.info
+  date: '2007-10-23 06:33:46 +0200'
+  date_gmt: '2007-10-23 05:33:46 +0200'
+  content: Przy obecnych kompilatorach oraz mocy procesorów, pisanie w Asemblerze
+    mija się z celem.
+- id: 8596
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2007-10-23 11:41:25 +0200'
+  date_gmt: '2007-10-23 10:41:25 +0200'
+  content: "Chaos:\r\n\r\nNie w ciemno, jestem programista i nie wymienilem zadnego
+    jezyka, w ktorym nie programowalem. Nie wymienilem za to paru, przy ktorych siedzialem
+    za krotko, zeby sie wypowiadac (Objective C, Ocaml, etc.). Poza tym, chodzi o
+    pierwsze skojarzenia, a nie o wpis encyklopedyczny.\r\n\r\nGreen:\r\n\r\nNie chcialem
+    tego rozbijac na dwa identyczne wiersze.\r\n\r\nanghan:\r\n\r\nWina Konq, nawet
+    WebKit wyswietla prawidlowo."
+- id: 8601
+  author: bart'k
+  author_url: ''
+  date: '2007-10-24 12:49:43 +0200'
+  date_gmt: '2007-10-24 11:49:43 +0200'
+  content: "Zdecydowanie najsmieszniejszy \"Bekart perla i shella\" :D\r\n\r\nMam
+    pytanie - czemu w Javie \"bez IDE\" nie podchodz? Przeciez jest swietne API, chyba
+    nie trudno polapac sie w nazwach?\r\n\r\nAnyway, bardzo fajna lista (i napisana
+    z jajem). Wlasnie siedze w pracy, wiec dzieki za usmiech na mojej twarzy."
+- id: 8621
+  author: frob
+  author_url: http://sysrq.net
+  date: '2007-10-28 21:58:59 +0100'
+  date_gmt: '2007-10-28 20:58:59 +0100'
+  content: '@dely: Steve Gibson zaprzeczylby zdecydowanie...'
+- id: 8652
+  author: anghan
+  author_url: http://anghan.jogger.pl
+  date: '2007-11-04 10:34:39 +0100'
+  date_gmt: '2007-11-04 09:34:39 +0100'
+  content: "@dely: A co jeśli nie ma innej możliwości niż pisanie w asemblerze danego
+    procesora? Asembler jest stosowany jeszcze w bardzo wielu miejscach i gdzieniegdzie
+    sprawdza się po prostu najlepiej.\r\n\r\nPomimo bardzo trudnej pielęgnacji kodu
+    czasem po prostu nie mam innego wyjścia. Informatyka na ładnych programach z GUI
+    sie nie kończy. Na szczęście teraz już nawet większość mikrokontrolerów pozwala
+    się programować z C bo bym umarł :p"
+---
+<p><a href="http://offtopic.jogger.pl/2007/10/20/jezyki-programowania/">Riddle zaprosił</a>, a ja nie mam nic do stracenia. Języki, które znam:</p>
+
+<table>
+<thead>
+<tr><th>Język</th> <th>Walety</th> <th>Zady</th></tr>
+</thead>
+<tbody>
+<tr><th>ADA</th> <td>Patrz Pascal</td> <td>Nieprzydatny w mojej pracy</td></tr>
+<tr><th>Assembler</th> <td>Najwydajniejszy ze wszystkich</td> <td>Zupełnie nieprzenośny, wymaga dużo dyscypliny, żeby kod dało się czytać</td></tr>
+<tr><th>C</th> <td>Mój pierwszy język, wydajny, masa bibliotek</td> <td>Brak obiektowości, <code>strdup</code>, <code>malloc</code></td></tr>
+<tr><th>C++</th> <td>Wydajny, obiektowy, biblioteka templatek</td> <td>Dalej niski poziom, chora składnia przyjaciół i przeciążania operatorów</td></tr>
+<tr><th>ECMAScript</th> <td>Czytelny, obiektowy; JavaScript</td> <td>Debugowanie ActionScript to przeżycie na miarę kamieni nerkowych</td></tr>
+<tr><th>Java</th> <td>Czytelny, obiektowy, przestrzenie nazw, przenośność bajtkodu</td> <td>Spory narzut, NazwyTakPrzyjazne, że BezIdeNiePodchodź</td></tr>
+<tr><th>Lisp</th> <td>Jeden z pierwszych języków wysokiego poziomu</td> <td>nieczytelny (zupełnie (naprawdę))</td></tr>
+<tr><th>LUA</th> <td>Czytelny, obiektowy język wysokiego poziomu, banalnie łatwo osadzalny</td> <td>Mało popularny</td></tr>
+<tr><th>Pascal</th> <td>Czytelny, wbudowane operacje na ciągach, binarne ciągi z prefiksową notacją długości</td> <td>Słaba obiektowość, praktycznie martwy, chore implementacje Delphi i Kylix</td></tr>
+<tr><th>Perl</th> <td>Prosty jak budowa cepa, obiektowy</td> <td>Często używany zamiast bardziej odpowiedniego shella lub awka, TIMTOWTDI</td></tr>
+<tr><th>PHP</th> <td>Jest wszędzie od dziewięciu lat, ostatnio prawie obiektowy; po dwóch miesiącach wydaje ci się, że znasz język na wskroś</td> <td>Tylko ci się wydaje; bękart Perla i shella, biblioteka standardowa nie obsługuje wyjątków, automatycznie ładuje wszelkie rozszerzenia; przez te dziewięć lat wolałbym programować w czymś normalnym</td></tr>
+<tr><th>Python</th> <td>Czytelny, obiektowy, przestrzenie nazw, dekoratory, unikod, przenośność bajtkodu, wymaga wcięć!</td> <td>Niektórzy uważają, że wcięcia robi się spacjami</td></tr>
+<tr><th>Ruby</th> <td>Mocno obiektowy, przestrzenie nazw</td> <td>Nie obsługuje unikodu, do dziś nie ma żadnej specyfikacji języka</td></tr>
+<tr><th>Shell</th> <td>Prosty, oparty o strumienie</td> <td>Nieczytelny, służy tylko do spinania innych narzędzi</td></tr>
+<tr><th>SML</th> <td>Czytelny, notacja matematyczna</td> <td>Bezstanowy, programowanie bez skutków ubocznych jest mało praktyczne</td></tr>
+</tbody>
+</table>
+
+<p>Skaranie boskie z wami dzieciaczki. A do tablicy pójdzie teraz&hellip; Czesio, znaczy <a href="http://www.thelirium.net/">Cezio</a>.</p>

@@ -1,0 +1,226 @@
+---
+layout: post
+status: publish
+published: true
+title: Wyższa Szkoła Informatyki i Zarządzania - Copernicus
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 160
+date: 2005-09-30 22:52:48.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 2233
+  author: Igor
+  author_url: ''
+  date: '2005-09-30 23:15:06 +0200'
+  date_gmt: '2005-09-30 23:15:06 +0200'
+  content: A ja nie kumam po co meczysz sie w jakims prywtnym homoczyms, zamiast dostac
+    sie na AE i przebimbac 5 lat bez wiekszego problemu (mozesz nawet studiowac inf
+    i ekonometrie i miec wykłady z Pascala :-) )
+- id: 2234
+  author: marcoos
+  author_url: ''
+  date: '2005-09-30 23:17:22 +0200'
+  date_gmt: '2005-09-30 23:17:22 +0200'
+  content: Rektorem jest u was prof. Kisilewicz? :)
+- id: 2235
+  author: Patrys
+  author_url: ''
+  date: '2005-09-30 23:18:54 +0200'
+  date_gmt: '2005-09-30 23:18:54 +0200'
+  content: Tak jest.
+- id: 2236
+  author: qwiat
+  author_url: ''
+  date: '2005-10-01 00:03:37 +0200'
+  date_gmt: '2005-10-01 00:03:37 +0200'
+  content: |-
+    Przedmity ekonomiczne bolą człowieka (a informatyk człowiekiem po dwakroć ;] ) jak &quot;drzazga w chuju&quot;, pomyśl Igor ile trzba by się wycierpieć na takiej AE.
+    <br/>
+    <br/>PS Nie mam nic absolutnie do ludzi z AE. :)
+    <br/>
+    <br/>PPS Na uczelniach państowych też potrafią mieć człowieka a nic.
+- id: 2237
+  author: pascon
+  author_url: ''
+  date: '2005-10-01 00:44:52 +0200'
+  date_gmt: '2005-10-01 00:44:52 +0200'
+  content: Na uczelniach panstwowych tym bardziej - nie placisz i dupe zawracasz.
+- id: 2238
+  author: superfrog
+  author_url: ''
+  date: '2005-10-01 09:58:03 +0200'
+  date_gmt: '2005-10-01 09:58:03 +0200'
+  content: Nawiasem mówiąc, a&#039;propos armii. O ile pamiętam, w tej chwili, weszła
+    ostatnimi czasy nowelizacja, wystarczy rok odroczenia, aby zostać automatycznie
+    przeniesionym do rezerwy.
+- id: 2239
+  author: Jerrec
+  author_url: ''
+  date: '2005-10-01 10:58:49 +0200'
+  date_gmt: '2005-10-01 10:58:49 +0200'
+  content: "ROTFL - to u was dziekanat bywa czasem dostępny dla studentów??\n<br/>\n<br/>Na
+    Uniwersytecie Łódzkim dziekanat jest instytucją mityczną; indeksy zostawia się
+    pod koniec roku u strażnika przy wejściu, a on je potem zapewne zawodzi do domu
+    prodziekana.  "
+- id: 2240
+  author: s
+  author_url: ''
+  date: '2005-10-01 11:10:05 +0200'
+  date_gmt: '2005-10-01 11:10:05 +0200'
+  content: 'Hehe ;) A mój znajomy miał komisję dyscypilnarną na tej szacownej uczelni,
+    ponieważ przemiłe panie z dziekanatu oskarżyły go o bycie przezeń lżonymi. W skład
+    komisji wchodził JM rektor Kisiel, który z miejsca odezwał się w te słowa: &quot;No
+    wie pan, to też ludzie są. Trochę im szacunku się należy. Niech pan ich następnym
+    razem nie wyzywa. Ma pan u mnie upomnienie. Do widzenia panu.&quot; '
+- id: 2241
+  author: Nina
+  author_url: ''
+  date: '2005-10-01 11:17:34 +0200'
+  date_gmt: '2005-10-01 11:17:34 +0200'
+  content: |-
+    U nas w dziekanacie pracują bardzo miłe panie - nie licząc przeokropnej Helgi (zwanej również Panią Dyrektor, która tak naprawdę nie ma w szkole nic do powiedzenia, a mimo to wciąż wszystkich rozstawia po kątach).
+    <br/>
+    <br/>Pierwsza poprawka u nas zawsze jest darmowa, za kolejne trzeba płacić, ale to też kwestia podejścia wykładowcy danego przedmiotu. Pani od statystyki u której niektórzy zdawali egzamin poprawkowy po 15 razy - robiła tak, że płacili tylko za tę poprawkę na której zaliczyli przedmiot ;) - na każdej innej mieli po 15 - 20 min, żeby się rozeznać czy są w stanie zaliczyć to w tej chwili :)
+    <br/>
+    <br/>Ale ze szkołami to ostatnio źle się dzieje - chociażby Wyższa Szkoła Rzemiosła Artystycznego, której to byli studenci mają (wg opinii rektora tej uczelni) długi wysokości nawet 30 tys PLN :&gt;
+- id: 2242
+  author: hash
+  author_url: ''
+  date: '2005-10-01 12:50:17 +0200'
+  date_gmt: '2005-10-01 12:50:17 +0200'
+  content: |-
+    To nie bylo zabawne, ale, sie usmialem,
+    <br/>ja nie mam problemow w dziekanacie,
+    <br/>wlasciwie to ja mam tam chody :D
+- id: 2243
+  author: listek
+  author_url: ''
+  date: '2005-10-01 14:13:26 +0200'
+  date_gmt: '2005-10-01 14:13:26 +0200'
+  content: |-
+    @superfrog: coś chyba musiało Ci się pomylić... bo ja zaglądam do mojej książeczki, strona 13, pkt 8, adnotacje służbowe:
+    <br/>warszawa śródm.
+    <br/>odroczenie od dnia 21.04.2005 do dnia 30.09.2009r.
+    <br/>
+    <br/>i zgodnie z tym co pamiętam kazali mi co roku pokazywać się z papierkiem, że jeszcze studiuję (choć nie rozumiem po co mi to w takim razie wpisywali takie &quot;odroczenie&quot;;)
+- id: 2244
+  author: meanall
+  author_url: ''
+  date: '2005-10-01 17:12:56 +0200'
+  date_gmt: '2005-10-01 17:12:56 +0200'
+  content: "Poprzednio też studiowałem na Wyższej Szkole Informatyki i Zarządzania.
+    Tyle, że w Bielsku-Białej. Skończyło się to przygodą z dziekanem na &quot;Analizie
+    matematycznej&quot;. Był 3 semestr i egzamin z wspomnianego wcześniej przedmiotu.
+    Opuściłem kilka zajęć i pan dziekan nieomieszkał mi tego wypomnieć. Dzień przed
+    egzaminem z tego przedmiotu, 15 minut przed końcem zajęć, wziął mnie do tablicy
+    i kazał rozwiązać zadanie z przyszłego semestru/przedmiotu. Oczywiście nie wiedziałem
+    nic na temat tego czego Pan Dziekan wymagał. Nie dostałem żadnej oceny negatywnej...
+    tylko pytanie: &quot;Czy wie Pan, Panie Patryku jak Pan sie teraz czuje?&quot;
+    - wiedziałem, ale nie powiedziałem :) Dziekan skwitował odpowiedzią za mnie: &quot;Tak
+    jak pojutrze, zapraszam na egzamin.&quot; :)\n<br/>\n<br/>Następnego dnia poszedłem
+    oczywiście na egzamin... napisałem wszystkie 3/3 wymagane zadania. Kiedy dziekan
+    sprawdzał prace po egzaminie... a koledzy klepali mnie po plecach gratulując &quot;piąteczki&quot;
+    - bo wszystkie zadania oczywiście były dobrze. Dziekan poprosił mnie o index i
+    wpisał ... 2. Bo jak stwierdził &quot;My mam y już ocenę uzgodnioną, prawda?&quot;
+    ;]\n<br/>\n<br/>Pociągnąłem tam do 6 semestru... na 7... wydając wtedy 700zł miesięcznie
+    na czesne... i nie skończyłem tej uczelni. BO NIE.\n<br/>\n<br/>Od tego czasu
+    zbieram na wyrzutnie rakiet ziemia-ziemia. \n<br/>\n<br/>pozdrawiam ;)\n<br/>"
+- id: 2245
+  author: superfrog
+  author_url: ''
+  date: '2005-10-02 04:26:57 +0200'
+  date_gmt: '2005-10-02 04:26:57 +0200'
+  content: |-
+    @listek: http://www.biuletyn.mon.gov.pl/start.php?page=1040000000
+    <br/>
+    <br/>Według regulacji, które wejdą w życie od 3 stycznia 2006 r., armia będzie mogła wezwać poborowego do odbycia zasadniczej służby wojskowej tylko przez 18 miesięcy od dnia stawienia się do poboru lub zgłoszenia się do WKU w sprawie uregulowania stosunku do służby wojskowej. Jeżeli przez ten czas poborowy nie dostanie „biletu” lub nie skorzysta z odroczenia – zostanie automatycznie przeniesiony do rezerwy. Na tej samej zasadzie poborowi, którym skończy się odroczenie, będą przenoszeni do rezerwy po upływie 18 miesięcy.
+- id: 2246
+  author: MiLKA
+  author_url: ''
+  date: '2005-10-02 19:52:59 +0200'
+  date_gmt: '2005-10-02 19:52:59 +0200'
+  content: Patrys, no prosze. Tak samo lubisz ten dziekanat jak ja :) Ja w ten sam
+    sposob mam w plecy wyklad z przedmiotu &quot;Projektowanie i Wdrażania Systemów
+    Informatycznych&quot; z Chorosiem. Który to już bedzie semestr? 5?
+- id: 2247
+  author: Patrys
+  author_url: ''
+  date: '2005-10-03 19:31:21 +0200'
+  date_gmt: '2005-10-03 19:31:21 +0200'
+  content: Ja właśnie zaczynam czwarty (2,5 roku studiowałem wcześniej w Instytucie
+    Informatyki Uniwersytetu Wrocławskiego).
+- id: 2248
+  author: MiLKA
+  author_url: ''
+  date: '2005-10-03 19:33:04 +0200'
+  date_gmt: '2005-10-03 19:33:04 +0200'
+  content: to pomyliłem się o jeden :-) Ja powinienem być teraz na 7 semestrze, ale
+    urlop dziekański biore :-)
+- id: 2249
+  author: Patrys
+  author_url: ''
+  date: '2005-10-03 20:54:18 +0200'
+  date_gmt: '2005-10-03 20:54:18 +0200'
+  content: Ja powinienem już być inżynierem od dawna ;]
+- id: 2250
+  author: pomyślunek
+  author_url: ''
+  date: '2005-10-03 21:53:25 +0200'
+  date_gmt: '2005-10-03 21:53:25 +0200'
+  content: |-
+    boślunek
+    <br/>&quot;Boś Lunek&quot;
+- id: 2251
+  author: HoBBit °¸°
+  author_url: ''
+  date: '2005-10-05 06:58:15 +0200'
+  date_gmt: '2005-10-05 06:58:15 +0200'
+  content: |-
+    #  Patrys powiedział: Ja powinienem już być inżynierem od dawna ;]
+    <br/>-------------
+    <br/>ja tez !:&gt;
+    <br/>-------------
+- id: 2252
+  author: bartek
+  author_url: ''
+  date: '2005-10-06 15:56:19 +0200'
+  date_gmt: '2005-10-06 15:56:19 +0200'
+  content: gdzie ty studiujesz, stary ?
+- id: 2253
+  author: Greybrow
+  author_url: ''
+  date: '2005-10-06 20:26:58 +0200'
+  date_gmt: '2005-10-06 20:26:58 +0200'
+  content: |-
+    Ja tam podstępnie atakowałem panie z dziekanatu kwiatami. Po którymś razie poznawały mnie nie tylko na widok mój, ale i przez telefon :)
+    <br/>Zaczęło się od tego, że studiując mieście odległym o marne 75km, a dzwoniąc z domu, zapytałem się telefonicznie o plan zajęć, a dokładniej czy moja grupa ma zajęcia czy nie. Odpowiedź była oczywista: &quot;Proszę sobie zobaczyć na tablicy przed dziekanatem&quot;
+- id: 2254
+  author: dxOne
+  author_url: ''
+  date: '2005-10-07 05:40:36 +0200'
+  date_gmt: '2005-10-07 05:40:36 +0200'
+  content: |-
+    polibuda w stolicy. wydzial Elektryka i Takietam Idiotyzmy.
+    <br/>maly banal jak obiegowka. otoz bedac studentem informatyki i nie odwiedzajac nigdy zadnej uczelnianej bibloteki(nie posiadajc karty w skrocie) trzeba miec wypis z bibloteki wydzialu chemicznego. i jeszcze kilku, ale ich nazw juz nie pamietam.
+    <br/>jesli masz szczescie i trafisz na milego pana w glownej powie ci ze maja teraz &quot;system&quot; i moga sprawdzic inne bibloteki, jesli nie to rownie mila pani poinformuje Cie jakie to wojaze musisz odbyc.
+    <br/>to oczywiscie tylko jeden z tysiaca odcinkow obozebiegowki.
+    <br/>niedlugo minie rok od tamtych wydarzen, a ja nadal nie mam swoich papierow.
+---
+<p>Model biznesowy mojej nieszczęsnej szkoły (a traktuję ją bardziej jak miejsce ucieczki przed armią naszą niepokonaną, niż jako źródło jakiejkolwiek wiedzy) z całą pewnością jeszcze niejednokrotnie mnie w życiu zaskoczy, choć przyznać muszę, że ich ostatni wybryk powalił mnie na kolana.</p>
+
+<p>Jako całkiem niezły (uchwalono decyzją jednoosobowej komisji ze mną w składzie) informatyk w ogólnym tego słowa znaczeniu, z przedmiotami kierunkowymi daję sobie radę całkiem nieźle. Pozostałe, jak mikroekonomia, makroekonomia, podstawy prawa Unii Europejskiej, czy marketing, zaliczam w okolicach oceny dostatecznej. Niestety, ostatnio noga powinęła mi się na egzaminie z podstaw i metod zarządzania. Cóż - zdarza się - pomyślałem i zacząłem przygotowania do egzaminu poprawkowego. Główna bolączka tej sytuacji to utrata uprawnień do pobierania stypendium, ale nie przejąłem się tym specjalnie po informacji, że stypendium za lipiec otrzymam najwcześniej w listopadzie. Niechybnie pieniądze za kolejny semestr wpłynęłyby już na konto moich wnuków (a nadmienić należy, że póki co nic nie wiadomo mi o ich istnieniu).</p>
+
+<p>Na egzamin poprawkowy wyruszyłem pewny siebie i całkowicie odstresowany - nie ma co się bać na zapas, a - w razie czego - został mi jeszcze jeden termin. Zapłaciłem też z dwudniowym wyprzedzeniem 50 <abbr>PLN</abbr> za możliwość przystąpienia do wyżej wspomnianego. Jak każdy cywilizowany informatyk, pieniądze puściłem eliksirem przez internet. Jakież było moje zdziwienie, gdy okazało się, że szalenie miła (czytaj: arogancka) pani w dziekanacie stanowczo odmówiła mi wydania potwierdzenia dokonania opłaty (a biurokracja w owej placówce oświaty stanowi, że bez owego świstka nie powinienem nawet pokazywać się na oczy egzaminatorowi). Otóż pani skarbnik niefartownie udała się na zaplanowany urlop wypoczynkowy, toteż na uczelni zapanował nieopisany wprost chaos, a najtęższe nawet umysły bez jej pomocy nie były w stanie określić, czy faktycznie zapłaciłem. <q>Trzeba było iść zapłacić na poczcie</q> - usłyszałem na pociechę. <q>Do egzaminu nie może pan przystąpić, ale za to nie potrącimy panu opłaty za drugi termin, bo do pierwszego pan nie przystępuje.</q> Cóż, dobre i to.</p>
+
+<p>Drugi termin egzaminu wypadł w sobotę, 24. września. Z głową pełną wiedzy na temat strategii, taktyki i planowania, a także więcej niż świadom zagadnień związanych z różnymi stylami zarządzania, wyruszyłem dziarsko w kierunku uczelni. Prewencyjnie przyjechałem z lekkim wyprzedzeniem, by odebrać zaległą karteczkę - swoją przepustkę do krainy szczęścia. Niczym klapa od sedesu w podmiejskim szalecie, szczęka moja opadła w pobliże obuwia, kiedy to ta sama pani przekazała mi kolejny radosny komunikat. <q>Nie może pan przystąpić do egzaminu, przecież zapłacił pan tylko za pierwszy termin. Drugi ma pan nieopłacony.</q></p>
+
+<p>To niesamowite, jak ludzkie poglądy potrafią się zreformować na przestrzeni zaledwie dwóch miesięcy. Przypomniałem jej tedy zeznania, jakie złożyła w mojej obecności, a o których mowa w poprzednim akapicie. <q>To z pewnością nie byłam ja, to pewnie moja koleżanka się nie zna i tak panu powiedziała.</q> Powstrzymałem się z trudem, aby nie dodać <q>tak, pewnie dzwoniła do mnie z urlopu.</q> Pani posunęła się w swych żartach dalej i zasugerowała mi, że mogę jeszcze zapłacić w kwesturze, a w ogóle to <q>trzeba było w pierwszym terminie iść zapłacić na poczcie.</q> W związku z tym, że pod koniec miesiąca rzadko miewam nadmiarowe fundusze, gotówki do szkoły nie noszę, kwestura kart nie akceptuje, a <em>ja już zapłaciłem za ten egzamin</em>, podziękowałem i za tę opcję.</p>
+
+<p>Dowiedziałem się, że moja niesubordynacja spowoduje konieczność powtarzania przedmiotu w kolejnym semestrze, co wiąże się z koniecznością zapłacenia dodatkowo 200 <abbr>PLN</abbr>. Niestety, do dziś nie wiem, za co zapłaciłem poprzednich 50, bo jeśli traktować układ pomiędzy mną a szkołą jak tradycyjną relację klient-dostawca usług, to żadnej usługi w zamian nie uświadczyłem, nie licząc oczywiście humorów pracownicy dziekanatu. Uśmiechnąłem się wtedy tak sztucznie, jak tylko byłem w stanie się uśmiechnąć i udałem się w kierunku drzwi. Pani zawołała za mną jeszcze: <q>i co, zamierza pan iść na egzamin bez zezwolenia?</q> Bez wahania odpowiedziałem zatem: <q>nie, zamierzam napisać na panią skargę.</q> Na jej pełne zdziwienia <q>słucham?</q> wyrwało mi się (przy rektorze) już tylko głośne <q>p!3#dol się.</q></p>
+
+<p>Gdybym ja w ten sposób traktował swoich klientów, to dziś jedyne płyty, jakich bym słuchał, byłyby jednocześnie elementami nośnymi któregoś z wrocławskich mostów. Nie mówię już o tym, że żywiłbym się wyłącznie produktami w stu procentach naturalnymi, jak gąsienice, gołębie i niedopałki. Niestety, zasada płacisz-wymagasz nie obowiązuje w szkolnictwie.</p>

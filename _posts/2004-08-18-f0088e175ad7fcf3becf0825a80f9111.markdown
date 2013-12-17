@@ -1,0 +1,103 @@
+---
+layout: post
+status: publish
+published: true
+title: Outsourcing to takie modne słowo
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 38
+date: 2004-08-18 10:08:17.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 188
+  author: PeTe
+  author_url: ''
+  date: '2004-08-18 10:16:39 +0200'
+  date_gmt: '2004-08-18 10:16:39 +0200'
+  content: Wow ja to bym się już z takiej roboty dawno wyniósł...
+- id: 189
+  author: bmalkow
+  author_url: ''
+  date: '2004-08-18 10:18:28 +0200'
+  date_gmt: '2004-08-18 10:18:28 +0200'
+  content: Patrys jest administratorem nie do zdarcia! Drobne problemy go nie zniechęcają
+    :)
+- id: 190
+  author: Wampirek
+  author_url: ''
+  date: '2004-08-18 10:20:36 +0200'
+  date_gmt: '2004-08-18 10:20:36 +0200'
+  content: Twardy zawodnik z Ciebie, ja bym nie zdzierżył...
+- id: 191
+  author: Patrys
+  author_url: ''
+  date: '2004-08-18 10:21:44 +0200'
+  date_gmt: '2004-08-18 10:21:44 +0200'
+  content: Zapomniałem dodać, że oprócz PewnegoAdministratora™, niejako przy okazji,
+    SamPrezes™ przydzielił dostęp do roota nikomu innemu tylko SynowiPrezesa™, najwspanialszemu
+    administratorowi na świecie.
+- id: 192
+  author: Patrys
+  author_url: ''
+  date: '2004-08-18 10:23:30 +0200'
+  date_gmt: '2004-08-18 10:23:30 +0200'
+  content: 'Errata: mój komputer to Pentium II 350 MHz, 128 MB RAM.'
+- id: 193
+  author: Wampirek
+  author_url: ''
+  date: '2004-08-18 10:24:12 +0200'
+  date_gmt: '2004-08-18 10:24:12 +0200'
+  content: LOL :D
+- id: 194
+  author: bmalkow
+  author_url: ''
+  date: '2004-08-18 10:24:13 +0200'
+  date_gmt: '2004-08-18 10:24:13 +0200'
+  content: |-
+    Hehehe!
+    <br/>Ti innych terrorystów już nie musisz się obawiać :)
+- id: 195
+  author: shoo
+  author_url: ''
+  date: '2004-08-18 10:40:51 +0200'
+  date_gmt: '2004-08-18 10:40:51 +0200'
+  content: i tak oto bedziesz musial poświęcić 3 razy więcej czasu na prywatne sprawy,
+    bo jak rozumiem przełączenie się do Evo też zajmuje troche czasu, a maile same
+    się nie przeczytają rzecz jasna ;)
+- id: 196
+  author: DarkStar
+  author_url: ''
+  date: '2004-08-18 10:57:57 +0200'
+  date_gmt: '2004-08-18 10:57:57 +0200'
+  content: Powiem tylko &quot;run for your life!&quot;.
+- id: 197
+  author: remiq
+  author_url: ''
+  date: '2004-08-18 12:08:23 +0200'
+  date_gmt: '2004-08-18 12:08:23 +0200'
+  content: A pod koniec miesiąca Cię wyrzucą i wystawią niegatywną opinię.
+---
+Pierwsza sobota sierpnia, próba zdalnego logowania na maszynę. Brak odpowiedzi ze strony serwera. Ponawiam próbę po kilku minutach. Jestem w środku, reattach do screena. Brak oczekujących na podłączenie sesji. Uptime. Komputer działa od siedmiu minut. Who. Zastanawiające, zalogowany jest PewienAdministrator&trade; z Warszawy. Co dziwne, zalogowany jest na roota i to z lokalnej konsoli. Krótki rekonesans wykonany za pomocą rozmowy przez wall ujawnił, że PewienAdministrator&trade;, mój kolega, został bez uprzedzenia ściągnięty przez PewnąFirmę&trade; celem wykonania audytu bezpieczeństwa. Innymi słowy, firma szuka na mnie haka. Zastanawiające tylko, że wybrali do tego celu osobę, z którą utrzymuję stały kontakt. Właściwie, to ten fakt cieszy mnie niezmiernie, w innym przypadku wszystko zostałoby, zapewne, zatuszowane. PewnaFirma&trade; ma zwyczaj budowania więzi z pracownikami poprzez dyskretnie przeprowadzane za ich plecami kontrole, które i tak kończą jako tajemnica poliszynela. Nie przejąłem się tym specjalnie, postanowiłem za to oddać komplet dokumentów jednemu z naszych klientów, co niewątpliwie wymagało wizyty w biurze.<br />
+<br />
+Biuro odwiedziłem w okolicach godziny piętnastej. Niestety, wszystko, czego udało mi się dokonać, sprowadzało się do pocałowania klamki. Drzwi zostały zamknięte na górny zamek, do którego klucz posiada jedynie nie pracujący u nas już od jakiegoś czasu SynPrezesa&trade;. Portier powiadomił mnie z uśmiechem, że wszyscy opuścili budynek i nikt nie postanowił zostawić klucza. Lekko wstrząśnięty ale nie zmieszany, udałem się w podróż powrotną do domu. Coś było nie tak.<br />
+<br />
+Poniedziałek, kolejna próba wejścia do biura spełzła na niczym. Udałem się przeto do SamegoPrezesa&trade;, celem wyjaśnienia pewnych rzeczy. Niedzielne próby zdalnego dostępu do maszyn wywołały niejednokrotnie uśmiech na mojej twarzy, kiedy to okazywało się, że na kolejnych maszynach bądź nie mam ze swojego konta dostępu do roota, bądź to nie posiadam tam konta wcale. Z niczego nie zdradzającą miną i udając lekkie zdziwienie, wszedłem do gabinetu SamegoPrezesa&trade;.<br />
+<br />
+- Czy mógłbym się dowiedzieć, co się dzieje?<br />
+- Przyjechał PewienAdministrator&trade; i łataliśmy dziury w programach.<br />
+- A mogę jakoś dostać się do biura?<br />
+- Zostałeś przeniesiony, teraz serwerownia jest zamknięta na stałe, nikt tam nie ma wstępu.<br />
+- Rozumiem, że administracją również zajmuje się ktoś inny?<br />
+- Tak, za dużo czasu pochłaniało ci czytanie poczty z list pld-devel, postanowiliśmy cię odciążyć.<br />
+- Mhm...<br />
+<br />
+Przygotowany na wszystko udałem się do mojego nowego miejsca pracy. Już po kilku minutach okazało się, że nie byłem jednak przygotowany na jedno. Moje stanowisko pracy to już nie dual Pentium 600 z 512 MB RAM. W zamian otrzymałem ten jakże przewspaniały komputer, Pentium 350 i na deser 128 pamięci. Dotąd jego jedyną rolą było zbieranie logów z innych maszyn. Już wkrótce miałem się jednak przekonać, że - według SamegoPrezesa&trade; - wspaniale nadaje się on do pracy w środowisku Gnome. A może mylę się i moim zadaniem jest budowa stron w środowisku tekstowym i przygotowywanie ich designu specjalnie z myślą o lynksie?<br />
+<br />
+Od tego czasu większość czasu spędzam sprawdzając, w jakiej pozycji najwygodniej ułożyć nogi na stole. Z radością pełniłbym swoje dotychczasowe obowiązki, niestety PewnaFirma&trade; uznała, że najlepszy administrator to taki, którego od serwerowni dzieli jedynie siedem godzin jazdy pociągiem. Siedzę więc i poświęcam połowę swojego czasu na cierpliwe upraszanie się o niezbędne uprawnienia do modyfikacji plików, które polecił mi edytować SamPrezes&trade;. Odkąd zostałem "odciążony", praca zajmująca mi dotąd cztery godziny, teraz zajmuje mi godzin osiem. Nakłada się na to oczywiście również rewelacyjne stanowisko do pracy, na którym dokument OOo otwiera się dokładnie sześć minut, a przełączanie pomiędzy oknem przeglądarki i procesorem tekstu daje dość czasu, aby wpaść w alkoholizm.<br />
+<br />
+Morał: umowa przy zatrudnieniu to kwestia, jak sama nazwa mówi, umowna. To, że mam tam napisane "administrator sieci", do niczego nie zobowiązuje. Mogę równie dobrze zajmować się wstawianiem dokumentów Worda na strony klientów. Jakież to jednak nieszczęście, że umowa moja wygasa z ostatnim dniem tego miesiąca? Przy obecnym stanie rzeczy, z pewnością zdecyduję się na jej przedłużenie. Może od razu poproszę o dożywocie, podobno za dobre sprawowanie można skrócić wyrok nawet do połowy :).

@@ -1,0 +1,66 @@
+---
+layout: post
+status: publish
+published: true
+title: Potyczek biurowych ciąg dalszy
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 10
+date: 2004-05-05 18:13:55.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 15
+  author: remiq
+  author_url: ''
+  date: '2004-05-05 18:31:40 +0200'
+  date_gmt: '2004-05-05 18:31:40 +0200'
+  content: To prywatna firma, czy państwowa?
+- id: 16
+  author: Patrys
+  author_url: ''
+  date: '2004-05-05 18:32:39 +0200'
+  date_gmt: '2004-05-05 18:32:39 +0200'
+  content: A czy w państwowej firmie istnieje taki organ wykonawczy, jak &quot;syn
+    prezesa&quot;? :)
+- id: 17
+  author: remiq
+  author_url: ''
+  date: '2004-05-05 18:34:06 +0200'
+  date_gmt: '2004-05-05 18:34:06 +0200'
+  content: |-
+    Czasem istnieje :P
+    <br/>
+    <br/>Łe, to żadna komuna. :P
+- id: 18
+  author: ssszzzz....szz.zzzzzz.zzzz....
+  author_url: ''
+  date: '2004-05-05 20:00:25 +0200'
+  date_gmt: '2004-05-05 20:00:25 +0200'
+  content: |-
+    pamietasz ta strone ktora robilismy dla TEJ firmy?
+    <br/>ta strone co ja nieopatrznie syn prezena niedlugo pozniej skasowal?
+- id: 19
+  author: Patrys
+  author_url: ''
+  date: '2004-05-05 20:01:24 +0200'
+  date_gmt: '2004-05-05 20:01:24 +0200'
+  content: Designu nie skasował. Skasował tylko bazę danych. Strona dalej dostępna.
+- id: 20
+  author: ssszzzz....szz.zzzzzz.zzzz....
+  author_url: ''
+  date: '2004-05-05 20:09:45 +0200'
+  date_gmt: '2004-05-05 20:09:45 +0200'
+  content: |-
+    aj to nie wiedzialem
+    <br/>czyli poszla sie walic tylko masowka, te wszystkie dane, ktorych po prostu od groma przemielilismy?
+    <br/>spoko
+    <br/>pomijam fakt, ze w wypadku tego goscia powinno byc &quot;pracowal&quot; a nie pracowal
+---
+Rano przychodzimy do biura, okazuje się, że komputer, na którym pracował syn prezesa, jest w całkowitej rozsypce. Brakuje zasilacza, połowy pamięci, karta graficzna leży w środku luzem. Spalił się w domu komputer i trzeba było podmienić. Ale brakuje też dysku z innego serwera, który podłączony był tam tylko tymczasowo.<br />
+<br />
+Przychodzi syn prezesa. Kulturalnie zadałem pytanie o brakujący dysk. W odpowiedzi usłyszałem "a, zapomniałem go wyciągnąć". Po chwili syn prezesa dodał "a w ogóle to potrzebny wam ten dysk, bo ja bym go sobie wziął do domu". A ja, naiwny, myślałem, że komuna umarła.

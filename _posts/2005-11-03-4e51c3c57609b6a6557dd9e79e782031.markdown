@@ -1,0 +1,69 @@
+---
+layout: post
+status: publish
+published: true
+title: PLD FTP Traffic
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 170
+date: 2005-11-03 01:48:53.000000000 +01:00
+categories:
+- linux
+tags: []
+comments:
+- id: 2361
+  author: MySZ
+  author_url: ''
+  date: '2005-11-03 12:58:23 +0100'
+  date_gmt: '2005-11-03 12:58:23 +0100'
+  content: hm, a moze tam nie byc znacznikow html ? bo jabrss@cmeerw.net mi przysyla
+    sieczke :(
+- id: 2362
+  author: arekm
+  author_url: ''
+  date: '2005-11-03 12:59:04 +0100'
+  date_gmt: '2005-11-03 12:59:04 +0100'
+  content: Mógłby ten skrypt patrzeć tylko w SRPMS (tym samym pokazywać tylko nazwę
+    głównej paczki) i pokazywać również co znikneło?
+- id: 2363
+  author: Patrys
+  author_url: ''
+  date: '2005-11-03 13:19:17 +0100'
+  date_gmt: '2005-11-03 13:19:17 +0100'
+  content: Pewnie mógłby, kwestia podesłania mi odpowiedniego pliku .poldekrc z domyślnym
+    źródłem (skrypt używa poldka). Nie wiem tylko, co praktyczniejsze dla końcowego
+    użytkownika, bo czasem z jednego speca buduje się kilka paczek o zupełnie innych
+    nazwach. Pokazywanie usuniętych to pikuś, dorobię dziś.
+- id: 2364
+  author: Patrys
+  author_url: ''
+  date: '2005-11-03 13:24:54 +0100'
+  date_gmt: '2005-11-03 13:24:54 +0100'
+  content: |-
+    MySZ:
+    <br/>
+    <br/>Większość popularnych czytników RSS obsługuje znaczniki bez problemu, więc raczej tak zostanie. Bez znaczników u większości ludzi wyjdzie sieczka zupełna. Polecam Liferea.
+- id: 2365
+  author: MySZ
+  author_url: ''
+  date: '2005-11-03 15:40:21 +0100'
+  date_gmt: '2005-11-03 15:40:21 +0100'
+  content: no ja nie uzywam zewn. czytnika rss, wole zeby jabber dawal mi znac :(
+    no nic, jakos bede sobie radzil, i tak milo ze taki fiuczer sie pojawil :)
+- id: 2366
+  author: Patrys
+  author_url: ''
+  date: '2005-11-03 19:57:59 +0100'
+  date_gmt: '2005-11-03 19:57:59 +0100'
+  content: Nauczyłem go listować też usunięte pakiety. Jak pojawi się ruch w ac-main,
+    to zobaczymy efekty.
+---
+<p>Dzięki uprzejmej zgodzie <a href="http://princefool.blogspot.com/">Łukasza Jernasia</a>, do którego należy maszyna zasilająca <a href="http://planet.pld-linux.org/index_pl.html">Planetę <abbr>PLD</abbr></a>, od dzisiaj dostępna jest nowa usługa - <a href="http://planet.pld-linux.org/poldek/poldek.rss">kanał <abbr title="Really Simple Syndication">RSS</abbr> dla ruchu <abbr>FTP</abbr></a>.</p>
+
+<p>Feed jest uaktualniany dwa razy dziennie i podłączyłem go na dobry początek do Planety. Skrypt obsługujący generowanie feedu napisałem przez 10 minut w bashu, więc zobaczymy, jak dobrze będzie się spisywał. Czekam na uwagi i zapraszam do subskrypcji. Przypominam, że kanał jest aktualizowany co 12 godzin, więc odświeżanie go co 2 minuty mija się z celem - szanujcie łącze Łukasza.</p>
+
+<p>Przy okazji Planety - jeśli ktoś z deweloperów <abbr>PLD</abbr> prowadzi bloga, a nie jest tam syndykowany, to proszę się zgłaszać do mnie. Jestem opiekunem serwisu i chętnie podłączę.</p>
+
+<p>Jeden z nas jest teraz w wyjątkowo trudnej sytuacji życiowej, <a href="http://mmazur.jogger.pl/">Mariusz</a>, jesteśmy z tobą.</p>

@@ -1,0 +1,222 @@
+---
+layout: post
+status: publish
+published: true
+title: emerge windows
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 106
+date: 2005-06-14 19:54:43.000000000 +02:00
+categories:
+- linux
+tags: []
+comments:
+- id: 1282
+  author: Jezuch
+  author_url: ''
+  date: '2005-06-14 19:57:46 +0200'
+  date_gmt: '2005-06-14 19:57:46 +0200'
+  content: To miasto Redmond się nazywa...
+- id: 1283
+  author: Patrys
+  author_url: ''
+  date: '2005-06-14 19:58:49 +0200'
+  date_gmt: '2005-06-14 19:58:49 +0200'
+  content: Oops, literówka, fixed.
+- id: 1284
+  author: martinez
+  author_url: ''
+  date: '2005-06-14 20:00:35 +0200'
+  date_gmt: '2005-06-14 20:00:35 +0200'
+  content: Tymczasem Debian popsuł wszystkim szyki. ,,Co będzie pierwsze, RedHat 12,
+    KDE 8.0, PLD 5.0 czy Debian 3.1?&#039;&#039; - zagadka nie ma już racji bytu.
+    :(
+- id: 1285
+  author: Patrys
+  author_url: ''
+  date: '2005-06-14 20:01:14 +0200'
+  date_gmt: '2005-06-14 20:01:14 +0200'
+  content: Teraz czekamy na Debiana 3.2 :&gt;
+- id: 1286
+  author: Jezuch
+  author_url: ''
+  date: '2005-06-14 20:01:44 +0200'
+  date_gmt: '2005-06-14 20:01:44 +0200'
+  content: A nie 3.1.1? ;)
+- id: 1287
+  author: Arghil
+  author_url: ''
+  date: '2005-06-14 20:49:31 +0200'
+  date_gmt: '2005-06-14 20:49:31 +0200'
+  content: |-
+    To teraz zmieniamy zagadkę na:
+    <br/>co będzie pierwsze, Fedora 8, KDE 10, Debian 3.5 czy PLD 2.1? :D
+- id: 1288
+  author: nbw
+  author_url: ''
+  date: '2005-06-14 22:07:03 +0200'
+  date_gmt: '2005-06-14 22:07:03 +0200'
+  content: Ja również nie mam mu za złe. Przynajmniej będzie miał za co dzieci wykarmić.
+- id: 1289
+  author: Qwiat
+  author_url: ''
+  date: '2005-06-14 22:07:15 +0200'
+  date_gmt: '2005-06-14 22:07:15 +0200'
+  content: No, liczba dywersantów rośnie, teraz trzeba tylko czekać rozsadzą tą Sauronową
+    twierdzę ;)
+- id: 1290
+  author: Arghil
+  author_url: ''
+  date: '2005-06-14 22:08:10 +0200'
+  date_gmt: '2005-06-14 22:08:10 +0200'
+  content: '... albo odwrotnie wzmocnią ją jeszcze bardziej.'
+- id: 1291
+  author: Qwiat
+  author_url: ''
+  date: '2005-06-14 22:14:13 +0200'
+  date_gmt: '2005-06-14 22:14:13 +0200'
+  content: |-
+    nie byłbym tego taki pewien:
+    <br/>
+    <br/>&quot;I&#039;m helping Microsoft to understand Open Source and community-based projects.&quot;
+    <br/>
+    <br/>Mnie wystarczyło przeczytanie dwóch artykułów o OS żeby zrozumieć ;)
+    <br/>
+    <br/>No jest jescze inna możliwość, koleś ściemnia ;)
+- id: 1292
+  author: nbw
+  author_url: ''
+  date: '2005-06-14 22:17:01 +0200'
+  date_gmt: '2005-06-14 22:17:01 +0200'
+  content: |-
+    E tam. To jest zagranie pod publike, takie samo jak Linus instalujący Linuksa na swoim Mac&#039;u.
+    <br/>
+    <br/>Poza tym jest to ogólnik. von Richtofen miał powiedzenie - żeby pokonać przeciwnika musisz znać go lepiej od samego siebie.
+- id: 1293
+  author: mmazur
+  author_url: ''
+  date: '2005-06-14 23:00:24 +0200'
+  date_gmt: '2005-06-14 23:00:24 +0200'
+  content: Ja bym chętnie pracował w MS :)
+- id: 1294
+  author: riddle
+  author_url: ''
+  date: '2005-06-15 12:20:03 +0200'
+  date_gmt: '2005-06-15 12:20:03 +0200'
+  content: |-
+    Ja nie czytałem nic o OS a wszystko co robiłem zawsze dawałem obudowane wszystkim co do produkcji było potrzebne. Oczywiście żaden ze mnie deweloper, tylko mówię, że nie jest to trudne. :)
+    <br/>
+    <br/>A ja bym nie chciał... co innego IBM.
+- id: 1295
+  author: Arghil
+  author_url: ''
+  date: '2005-06-15 12:38:36 +0200'
+  date_gmt: '2005-06-15 12:38:36 +0200'
+  content: IBM .... czasy, czasy, kiedyś to był wróg nr jeden ;) może M$ po prostu
+    chce zmienić swój \&quot;image\&quot;, że nie jest taki anty? (a potem dokopać
+    jak każdy normalny duży koncern)
+- id: 1296
+  author: nbw
+  author_url: ''
+  date: '2005-06-15 13:55:49 +0200'
+  date_gmt: '2005-06-15 13:55:49 +0200'
+  content: |-
+    Ja bym nie miał problemu z pracą w firmie w stylu MS. Poszedłbym tam gdzie płacą lepiej, popracował kilka lat, podbudował sobie CV i odszedł, zakładając własną firmę z oszczędności.
+    <br/>
+    <br/>Do IBM kiedyś aplikowałem ;)
+    <br/>
+    <br/>Co do polityki MS to bardzo dobrze ujął to Dvorak - SCO to firma krzak, która pozwami miała sprawdzić jakie są luki prawne w licencjach światka OS i jak światek OS zareaguje na ewentualne ataki.
+    <br/>
+    <br/>Uczą się. W końcu marketing i podglądanie przeciwników to jedne z elementów, które MS opanował do perfekcji.
+- id: 1297
+  author: listek
+  author_url: ''
+  date: '2005-06-15 18:48:04 +0200'
+  date_gmt: '2005-06-15 18:48:04 +0200'
+  content: developer gentoo... to może wreszcie ktoś sprawdzi ile w windowsie kodu
+    opensource, albo co ciekawsze ile bylo copy&amp;paste z gpl&#039;u ;)
+- id: 1298
+  author: Patrys
+  author_url: ''
+  date: '2005-06-16 15:11:23 +0200'
+  date_gmt: '2005-06-16 15:11:23 +0200'
+  content: |-
+    listek:
+    <br/>
+    <br/>Firma wielkości MS nie może sobie pozwolić na kradnięcie kodu raczej. Poza tym oprócz kiepskiego zarządu mają też całkiem zdolnych programistów (to już nie to, co implementacja stosu TCP w Win95).
+- id: 1299
+  author: sprae
+  author_url: ''
+  date: '2005-06-16 20:03:34 +0200'
+  date_gmt: '2005-06-16 20:03:34 +0200'
+  content: 'Patrys: &#039;skont wiesh&#039; ?'
+- id: 1300
+  author: nbw
+  author_url: ''
+  date: '2005-06-16 20:10:30 +0200'
+  date_gmt: '2005-06-16 20:10:30 +0200'
+  content: |-
+    Jako, że zajmujemy się głównie stronami www to można wymienić choćby jednego pracownika MS:
+    <br/>
+    <br/>Tantek Celik.
+    <br/>
+    <br/>Ogólnie moje zdanie jest takie, że gdyby dziś MS postanowił zerwać z kompatybilnością w dół, mógłby stworzyć naprawdę świetny system.
+    <br/>
+    <br/>Ale nie może. Bo znalazłby się tam, gdzie była konkurencja 10-15 lat temu.
+- id: 1301
+  author: listek
+  author_url: ''
+  date: '2005-06-16 20:13:35 +0200'
+  date_gmt: '2005-06-16 20:13:35 +0200'
+  content: moim zdaniem stać ich na to żeby spróbować badań i zrobienia czegoś bardzo
+    dobrego. wystarzcy mały zespół i trochę środków... prawie nic nie stracą, a mogą
+    dużo zyskać :/
+- id: 1302
+  author: Patrys
+  author_url: ''
+  date: '2005-06-17 00:18:52 +0200'
+  date_gmt: '2005-06-17 00:18:52 +0200'
+  content: |-
+    listek:
+    <br/>
+    <br/>Nie, nie, nie. Nie chodzi o to, że oni nie mają pieniędzy czy siły roboczej. Oni się boją dotknąć tej przeglądarki, bo jeśli ją naprawią, to 90% internetu &quot;się zepsuje&quot;. A zwalać będą nie na kiepskich webmasterów a na MS. Mozilla nie ma takich zobowiązań, bo nie jest komercyjna, a i tak musieli nie raz implementować w FF obejścia na DOM w wersji MS.
+- id: 1303
+  author: nbw
+  author_url: ''
+  date: '2005-06-17 00:28:43 +0200'
+  date_gmt: '2005-06-17 00:28:43 +0200'
+  content: "Czy ja wiem.. \n<br/>\n<br/>Rozwiązanie jest tak oczywiste, że aż kole
+    w oczy. Mają pieniądze i mają zespół, więc mogą założyć nowy projekt, rozwijany
+    równocześnie do Windows i IE. Taki zrywający z kompatybilnością, ew. zawierający
+    emulatory/pomosty między platformami. I w tym samym czasie przekonywać producentów
+    softu, webdeveloperów itd by zaczęli korzystać z tego. Po jakimś czasie wyparłoby
+    to Windows/IE."
+- id: 1304
+  author: Patrys
+  author_url: ''
+  date: '2005-06-17 00:30:01 +0200'
+  date_gmt: '2005-06-17 00:30:01 +0200'
+  content: Sądząc po minimalnych wymaganiach sprzętowych, Longhorn ma szanse być takim
+    produktem ;]
+- id: 1305
+  author: sprae
+  author_url: ''
+  date: '2005-06-17 02:07:43 +0200'
+  date_gmt: '2005-06-17 02:07:43 +0200'
+  content: 'nbw: i wyszlo by im to co intelowi z itanium :) Produkt dobry, ale miejacy
+    male zastosowanie.'
+- id: 1306
+  author: riddle
+  author_url: ''
+  date: '2005-06-17 11:06:30 +0200'
+  date_gmt: '2005-06-17 11:06:30 +0200'
+  content: Ale przecież mają Doctype-Switching, aii? Więc ja nie widzę tego &quot;zapsucia
+    się Internetu&quot;
+---
+<p>Jeden z założycieli <a href="http://www.gentoo.org/">projektu Gentoo</a>, Daniel Robbins, od 3 tygodni grzeje swoim siedzeniem nowe, mało miękkie, krzesło. <a href="http://www.gentoo.org/news/20050613-drobbins.xml">Przyjął posadę</a> w Redmond.</p>
+
+<p><a href="http://pld-linux.org/">PLD Linux</a> nie ma więc już żadnych poważnych wrogów i możemy przejąć władzę nad światem, kiedy tylko wyjdzie wersja 2.0 Ac (a stanie się to z pewnością w ciągu najbliższych dwudziestu lat). :&gt;</p>
+
+<p>Poważnie rzecz biorąc, to nie mam mu tego za złe (nie tyle osobiście, co jako aktywnemu członkowi ruchu <abbr title="OpenSource">OS</abbr>). Jeśli uważa, że bardziej spełni się edukując redmoncianych <abbr title="Chief Executive Officer">CEO</abbr>s w dziedzinie OS, to tylko lepiej dla niego, bo żadna praca nie hańbi, a płacą pewnie całkiem nieźle (ciężko najeść się kodem, nawet jeśli jest darmowy).</p>

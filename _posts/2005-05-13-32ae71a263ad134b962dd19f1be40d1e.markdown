@@ -1,0 +1,39 @@
+---
+layout: post
+status: publish
+published: true
+title: Usability w PLD
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 89
+date: 2005-05-13 14:13:41.000000000 +02:00
+categories:
+- linux
+tags: []
+comments:
+- id: 1059
+  author: Greybrow
+  author_url: ''
+  date: '2005-05-16 11:58:02 +0200'
+  date_gmt: '2005-05-16 11:58:02 +0200'
+  content: |-
+    Na takie coś czekam.
+    <br/>Póki co, jedyny klikalny system to mandrake, ale jest aż za bardzo klikalny...
+- id: 1060
+  author: freetz
+  author_url: ''
+  date: '2005-05-16 15:12:27 +0200'
+  date_gmt: '2005-05-16 15:12:27 +0200'
+  content: "jeśłi nie uda Ci się tego przeforsować, to daj znać jak znajdziesz miejsce.
+    Mam dość marudzenia geeków i stosunku ich do gnome w pld. Myśle, że ie jestem
+    sam... \n<br/>a jak już to clearlooks :)"
+---
+<p>Ponieważ używam i instaluję PLD na desktopach, zależy mi na jego używalności dla zwykłego użytkownika. Niestety, w PLD domyślnie dołączane są pliki <code>.desktop</code> dla aplikacji przeznaczonych stricte dla konsoli. Dlatego w menu pojawiają się śmieci typu bc, dc, elinks, ftp, lftp, links, lynx, mc, czy ncftp. Dla mnie (i dla wielu użytkowników/deweloperów) nie mają żadnego zastosowania. Kiedy chcę z nich skorzystać, włączam sobie terminal.</p>
+
+<p>Radą na to jest opcja ukrywania ich w menu. Dlatego z pakietu <code>gnome-menus</code> wydzieliłem podpakiet <code>gnome-menus-filter-default</code>, zachowujący dotychczasowy układ menu i utworzyłem alternatywny, <code>gnome-menus-filter-noconsole</code>. Ten ostatni usuwa z menu wszystkie programy oznaczone jako <code>ConsoleOnly</code>. Tu pojawia się kolejny problem, większość wcale nie jest w ten sposób opisana. Do poprawki pójdzie kilka albo kilkanaście speców.</p>
+
+<p>Następna sprawa to domyślny styl Gnome w PLD, który przypomina bardziej czasy 1.4 niż obecnego 2.10. Jest paskudny i nie nadaje się specjalnie do używania. Jeśli znajdę chwilę, to będę chciał zmienić go na jakiś inny. W rozmowie z <a href="http://aredridel.livejournal.com/">Aredridel</a> ustaliliśmy, że warto byłoby zainteresować się nowym ClearLooks albo Milk 2.0.</p>
+
+<p>Na koniec został problem metapakietów. PLD powinno mieć własne, osobne repozytorium metapakietów. Co prawda istnieje spec dla <code>metapackage-gnome</code> ale raz, że jest nieaktualny, a dwa - zawiera programy spoza zestawu Gnome, co nie powinno mieć miejsca. Jeśli nie uda się przeforsować tego do samej dystrybucji, to być może razem z Aredridel poprowadzimy własne repozytorium takich plików. Miejsca nie potrzeba dużo, a życie ułatwia znacznie, zwłaszcza w przypadku Gnome, KDE czy teTeXa.</p>

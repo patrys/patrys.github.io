@@ -1,0 +1,127 @@
+---
+layout: post
+status: publish
+published: true
+title: Lekcja statystyki
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 34
+date: 2004-07-23 18:31:26.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 153
+  author: Greybrow
+  author_url: ''
+  date: '2004-07-23 21:59:39 +0200'
+  date_gmt: '2004-07-23 21:59:39 +0200'
+  content: |-
+    chyba przestanę czytać ten blog
+    <br/>za dużo mnie to nerwów kosztuje...
+- id: 154
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2004-07-24 08:58:23 +0200'
+  date_gmt: '2004-07-24 08:58:23 +0200'
+  content: Zwolnij się. Przecież to jest poniżające. Ja rozumiem, że bezrobocie, czy
+    cos w tym stylu, ale taka sytuacja jak Twoja uwłacza ludzkiej godności.
+- id: 155
+  author: DarkStar
+  author_url: ''
+  date: '2004-07-26 13:43:36 +0200'
+  date_gmt: '2004-07-26 13:43:36 +0200'
+  content: Tez tak uwazam. Dziwie sie, ze patrys zbywa wszelkie podszeptywane propozycje.
+    ;)
+- id: 156
+  author: Patrys
+  author_url: ''
+  date: '2004-07-26 13:45:23 +0200'
+  date_gmt: '2004-07-26 13:45:23 +0200'
+  content: Przez ten weekend dostałem 3 oferty pracy. Ale nie mogę zerwać umowy do
+    końca sierpnia.
+- id: 157
+  author: DarkStar
+  author_url: ''
+  date: '2004-07-26 14:57:19 +0200'
+  date_gmt: '2004-07-26 14:57:19 +0200'
+  content: Uuuu, no to brawo! :D A po miesiacu nie beda juz aktualne?
+- id: 158
+  author: Express
+  author_url: ''
+  date: '2004-07-26 21:44:17 +0200'
+  date_gmt: '2004-07-26 21:44:17 +0200'
+  content: |-
+    Wy się tak nie cieszcie. W nowej pracy Patrys może już nie mieć żadnego SynPrezesa™. I co my będziemy wtedy czytać? :)
+    <br/>
+- id: 159
+  author: DarkStar
+  author_url: ''
+  date: '2004-07-27 09:39:56 +0200'
+  date_gmt: '2004-07-27 09:39:56 +0200'
+  content: Moze zacznie pisac wiersze...
+- id: 160
+  author: BezpośredniPrzełożony™
+  author_url: ''
+  date: '2004-07-28 12:24:30 +0200'
+  date_gmt: '2004-07-28 12:24:30 +0200'
+  content: Patrys, coś ostatnio mało ciekawostek zamieszczasz :(, czyżby czas nie
+    pozwalał?! A poza tym co to qrka ma być, że pojawiam się tak żadko? Czyżbym za
+    mało zalazł Ci za skórę?
+- id: 161
+  author: qwiat
+  author_url: ''
+  date: '2004-07-28 15:57:55 +0200'
+  date_gmt: '2004-07-28 15:57:55 +0200'
+  content: hmmm wydało się... ;]
+- id: 162
+  author: Krymzon
+  author_url: ''
+  date: '2004-08-02 20:02:47 +0200'
+  date_gmt: '2004-08-02 20:02:47 +0200'
+  content: A chociaz jedna z tych ofert sensowna? :)
+- id: 163
+  author: oddany fan
+  author_url: ''
+  date: '2004-08-18 00:55:25 +0200'
+  date_gmt: '2004-08-18 00:55:25 +0200'
+  content: heheh klawiatury nie zobaczycie, nasz bohater zrobil sobie foty z dwiema
+    i wrzucil na grono.net, zeby laski mialy kisiel w eryku, ze on taki profesional
+    jest. Nie odda, bo jakby jakas wpadla na kontrole, to musi pokazac:D
+---
+Dziś rano, zgodnie z poleceniem SamegoPrezesa&trade; wysłaliśmy plan na dziś i do końca lipca. Odpowiedź na mój plan:
+
+<blockquote>Proszę przesładnie dokładnej listy zadań własnych do wykonania w lipcu 2004.<br />
+Do listy proszę dołączyć plan realizacyjny tych zadań (w ujęciu szczegółowym).<br />
+Proszę przewidzieć rezerwę czasową na różne zadania zlecanie na bieżąco (operacyjne).<br />
+<br />
+[...]<br />
+<br />
+Inne:<br />
+- proszę od dzisiaj o raporty po każdym dniu ze szczegółową listą (z czasem wykonania) czynności.<br />
+- proszę rejestrować i informować mnie o wszystkich ew. telefonach dotyczących twoich ew. interwencji informatycznych.<br />
+- przypominam o zadaniu stworzenia nowego narzędzia dla naszego klienta (na jakim etapie jest to zadanie?)<br />
+- przypominam o zadaniu - terminarz grupowy/sieciowy<br />
+- przypominam o zadaniu - struktura organizacyjna firmy (szablon)<br />
+- prosze o informacje szczegółową dot. powstającego systemu - proszę o propozycję metody wdrażania.</blockquote>
+
+Odpowiedź na plan MojegoWspółpracownika&trade;:
+
+<blockquote>Te punkty to lista zadań (i to ogólna!), a nie plan. Plan musi zawierać szczegółowe operacje, z których składa się dane zadanie z rozpisaniem szczegółowego terminu (od ... do) i godzin wykonania.<br />
+<br />
+Poza tym z listy wynika, że przez tydzień nie będziesz miał co obić, bo te zadania to może na jeden dzień - to za co mamy Ci zapłacić?</blockquote>
+
+Odnośnie tego ostatniego, owe "ogólnikowe zadania, które nie są planem" mają  w sumie około 40 godzin roboczych, tak długiej doby jeszcze nigdy nie widziałem. Doszliśmy więc do wniosku, że żyjemy w kraju o polarnych dniach i tropikalnych nocach, te pierwsze trwają bowiem tyle, ile to konieczne, a te drugie tyle, żeby nie spóźnić się rano do biura.<br />
+<br />
+Co zaś tyczy się szczegółowych danych powstającego systemu? Proszę bardzo:<br />
+<br />
+60 tabel w bazie danych<br />
+25000 linii kodu<br />
+80 plików<br />
+800 kb miejsca<br />
+2800 commitów w logu subversion od 10. maja<br />
+<br />
+Z innych danych statystycznych: od ostatniej dłuższej wizyty SynaPrezesa&trade; doświadczamy braku jednej myszki bezprzewodowej i jednej klawiatury bezprzewodowej. Jak mówił, "pożyczył je do środy". Zapomniał podać datę chociażby z przybliżeniem do roku.

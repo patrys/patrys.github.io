@@ -1,0 +1,116 @@
+---
+layout: post
+status: publish
+published: true
+title: Standards versus reality, part 4
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 110
+date: 2005-06-22 20:32:47.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 1333
+  author: riddle
+  author_url: ''
+  date: '2005-06-22 20:35:03 +0200'
+  date_gmt: '2005-06-22 20:35:03 +0200'
+  content: Niezłe, dzięki! Przyda mi się na pewno. :)
+- id: 1334
+  author: adas
+  author_url: ''
+  date: '2005-06-22 20:45:14 +0200'
+  date_gmt: '2005-06-22 20:45:14 +0200'
+  content: A może z takimi rzeczami na kurs.browsehappy.pl?
+- id: 1335
+  author: Patrys
+  author_url: ''
+  date: '2005-06-22 20:46:16 +0200'
+  date_gmt: '2005-06-22 20:46:16 +0200'
+  content: Nie chce mi się tego opisywać zbyt oficjalnie, materiały są dostępne, więc
+    chętni mogą przepisać.
+- id: 1336
+  author: Express
+  author_url: ''
+  date: '2005-06-23 09:02:21 +0200'
+  date_gmt: '2005-06-23 09:02:21 +0200'
+  content: |-
+    No to może na msr chociaż?
+    <br/>Pusto i cicho tam od dawna, a w zakłądkach ciągle leży, to od czasu do czasu spojrzę...
+- id: 1337
+  author: Patrys
+  author_url: ''
+  date: '2005-06-23 09:16:51 +0200'
+  date_gmt: '2005-06-23 09:16:51 +0200'
+  content: |-
+    Express:
+    <br/>
+    <br/>Prowadzenie kilku stron, kiedy cierpi się na sesję i brak czasu, jest dość uciążliwe.
+- id: 1338
+  author: Express
+  author_url: ''
+  date: '2005-06-24 08:27:52 +0200'
+  date_gmt: '2005-06-24 08:27:52 +0200'
+  content: |-
+    Domyślam się. Ostatnio wiem aż za dobrze co to znaczy brak czasu...
+    <br/>W poniedziałek (urlop) wyspałem się pierwszy raz od miesiąca. I na razie ostatni :(
+    <br/>Tylko po prostu msr wydaje mi się odpowiedniejszym miejscem na takie artykuły. Ale twoja wola.
+- id: 1339
+  author: Draakhan
+  author_url: ''
+  date: '2005-06-26 16:16:42 +0200'
+  date_gmt: '2005-06-26 16:16:42 +0200'
+  content: |-
+    Tak patrzę, że ten jogger to mała kopalnia ciekawostek ;) Trzeba będzie kogoś pośledzić ;)
+    <br/>
+    <br/>&gt; Stosuje się tu też powyższa uwaga - do testowania CSS (jako podstawowej przeglądarki) należy używać czegoś, co działa. Dopiero potem dostosowywać kod do IE.
+    <br/>
+    <br/>No niestety, smutna prawda. Ostatnio też spędzam godziny na wyłapywaniu i naprawianiu błędów pod IE, gdzie pod innymi przeglądarkami z miejsca działa...
+---
+<p>Dziś krótko o stylach.</p>
+
+<p><abbr title="Cascading Style Sheets">CSS</abbr> ma taką przemiłą cechę, że pozwala przypisać dowolnemu elementowi nieograniczoną liczbę klas. Definiuje się to rozdzielając nazwy klas za pomocą spacji:</p>
+
+<blockquote><pre>&lt;p class="pierwsza druga"&gt;Lorem ipsum, baby!&lt;/p&gt;</pre></blockquote>
+
+<p>O dziwo, działa to nawet w <abbr title="Internet Explorer">IE</abbr>. Przynajmniej częściowo. Pewien nieznośny bug sprawia, że w przypadku wystąpienia kilku klas, IE zaczyna przypisywać je dość rozrzutnie, aplikuje mianowicie wszystkie klasy, których nazwa zaczyna się (a może zawiera) dowolną z wymienionych. Stąd jeśli do powyższego przykładu przypisze się poniższy arkusz, efekt może być dość nieoczekiwany:</p>
+
+<blockquote><pre>.pierwsza
+{
+	color: #000;
+}
+.druga
+{
+	border: 1px solid #000;
+}
+.pierwszaNotka
+{
+	background: #000;
+}</pre></blockquote>
+
+<p>IE z ogromną radością zaaplikuje nam wszystkie trzy klasy, a efektem będzie czarny pasek. Czyż to nie przepysznie? Dlatego też należy unikać jak ognia sytuacji, kiedy nazwa jednej klasy jest jednocześnie prefiksem nazwy innej. Można też unikać aplikowania kilku klas do pojedynczego elementu.</p>
+
+<p>Drugi problem dotyczy wielkości liter, standard definiuje nazwy klas i identyfikatorów jako rozróżniające duże i małe litery. IE z kretesem ignoruje te informacje. Są dwa przypadki, kiedy może nas to zaboleć. Pierwszy to arkusz styli zbudowany z myślą o IE (o ile można w ogóle budować arkusze styli z myślą o konkretnej przeglądarce). Jeśli bowiem nasz dokument jest serwowany jako <abbr title="Extensible HyperText Markup Language">XHTML</abbr>, przeglądarka ma obowiązek ściśle przestrzegać tagów elementów pisanych małymi literami. Stąd poza IE poniższy styl nie ma żadnego zastosowania, jako że nie istnieje element <code>&lt;STRONG/&gt;</code>:</p>
+
+<blockquote><pre>STRONG
+{
+	color: #f00;
+}</pre></blockquote>
+
+<p>Druga sytuacja to nazwy klas pisane jako <code>pojedynczeSłowo</code> (preferuję ten styl ze względu na czytelność arkusza):</p>
+
+<blockquote><pre>&lt;p class="loremIpsum"&gt;Lorem ipsum dolor sit amet&lt;/p&gt;</pre></blockquote>
+
+<blockquote><pre>.loremIpsum
+{
+	color: #f00;
+}
+.lOrEmIpSuM
+{
+	color: #00f;
+}</pre></blockquote>
+
+<p>Kto zgadnie, jakiego koloru będzie powyższy paragraf? Tutaj sprawa jest prosta, nazwy trzeba definiować z rozmysłem i konsekwentnie, wtedy taka sytuacja raczej nie będzie mieć miejsca. Stosuje się tu też powyższa uwaga - do testowania CSS (jako podstawowej przeglądarki) należy używać czegoś, co działa. Dopiero potem dostosowywać kod do IE.</p>

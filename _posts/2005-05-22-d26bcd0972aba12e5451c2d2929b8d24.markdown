@@ -1,0 +1,229 @@
+---
+layout: post
+status: publish
+published: true
+title: Zemsta Lucasa
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 91
+date: 2005-05-22 22:26:38.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1076
+  author: da.killa
+  author_url: ''
+  date: '2005-05-22 22:32:01 +0200'
+  date_gmt: '2005-05-22 22:32:01 +0200'
+  content: A ja i tak pójdę! :D
+- id: 1077
+  author: Jajcus
+  author_url: ''
+  date: '2005-05-22 22:34:20 +0200'
+  date_gmt: '2005-05-22 22:34:20 +0200'
+  content: Kino familijne po teleranku? To pewnie żadnych cycków nie ma? ;-)
+- id: 1078
+  author: riddle
+  author_url: ''
+  date: '2005-05-22 22:35:06 +0200'
+  date_gmt: '2005-05-22 22:35:06 +0200'
+  content: |-
+    Łaa... :D Uśmiałem się po pachy! :D Masz kolego talent :) Takie recenzje mogą nawet przyrównać Padmę do ulicznicy a i tak nie będę zły. Plus! :D
+    <br/>
+    <br/>Btw, wiesz.. tzn mam nadzieję, że wiesz, tylko się nabijasz, że R2D2 skombinował wiertło i przewiercił robota bojowego a nie go osikał? :P
+- id: 1079
+  author: futrzak
+  author_url: ''
+  date: '2005-05-22 22:35:31 +0200'
+  date_gmt: '2005-05-22 22:35:31 +0200'
+  content: LOL :D Muszę to zobaczyć! ;&gt;
+- id: 1080
+  author: Patrys
+  author_url: ''
+  date: '2005-05-22 22:36:37 +0200'
+  date_gmt: '2005-05-22 22:36:37 +0200'
+  content: Tak, wiem, ale wyglądała ta scena jak przewijanie dziecka - jeden robot
+    trzyma R2 w górze, a na drugim pojawia się brązowa strużka ;].
+- id: 1081
+  author: froger3
+  author_url: ''
+  date: '2005-05-22 22:38:00 +0200'
+  date_gmt: '2005-05-22 22:38:00 +0200'
+  content: |-
+    recka super:)
+    <br/>mi tam sie film podobal, ale fakt faktem było pare przegięć:)
+    <br/>
+    <br/>a i nie wspomniałeś o słabej muzyce :D
+- id: 1082
+  author: Patrys
+  author_url: ''
+  date: '2005-05-22 22:38:19 +0200'
+  date_gmt: '2005-05-22 22:38:19 +0200'
+  content: 'Jajcuś: nie, ale jeśli pójść z nastawieniem na komedię, to można myślę
+    się nieźle bawić.'
+- id: 1083
+  author: froger3
+  author_url: ''
+  date: '2005-05-22 22:39:35 +0200'
+  date_gmt: '2005-05-22 22:39:35 +0200'
+  content: 'jajcuś: są, bo jest goła leia :D'
+- id: 1084
+  author: Patrys
+  author_url: ''
+  date: '2005-05-22 22:39:36 +0200'
+  date_gmt: '2005-05-22 22:39:36 +0200'
+  content: Nie wspomniałem o muzyce, bo muzyki w filmie nie było. Chyba im gdzieś
+    kaseta zginęła a te 15 minut jakaś kotletowa kapela z doskoku zagrała, budżet
+    pana Williamsa został przesunięty na rzecz jeszcze większej ilości fajerwerków.
+- id: 1085
+  author: riddle
+  author_url: ''
+  date: '2005-05-22 22:45:25 +0200'
+  date_gmt: '2005-05-22 22:45:25 +0200'
+  content: Mnie dobił Jar Jar na pogrzebie.
+- id: 1086
+  author: Jajcus
+  author_url: ''
+  date: '2005-05-22 23:08:40 +0200'
+  date_gmt: '2005-05-22 23:08:40 +0200'
+  content: |-
+    froger3: serio? to może się skuszę ;-)
+    <br/>
+    <br/>BTW. to ta? http://www.badsamaritan.com/original/archives/images/carriefisher7.php
+- id: 1087
+  author: Barry
+  author_url: ''
+  date: '2005-05-22 23:21:11 +0200'
+  date_gmt: '2005-05-22 23:21:11 +0200'
+  content: Autorowi trzeba przynać, że ma rację, ale jednak wiele zależało od podejścia.
+    Mnie na przykład film mimo niedociągnieć się podobał, i nic na to nie poradzę
+    ;)
+- id: 1088
+  author: jarv
+  author_url: ''
+  date: '2005-05-23 00:03:01 +0200'
+  date_gmt: '2005-05-23 00:03:01 +0200'
+  content: |-
+    a ja zapamietalem i utwierdzam sie dalej - film mi sie podobal... i tego zdania bede sie trzymal.
+    <br/>
+    <br/>i przyczepie sie do szczegolu - to byl statek Grievous&#039;a... ;)
+- id: 1089
+  author: cenebris
+  author_url: ''
+  date: '2005-05-23 00:30:16 +0200'
+  date_gmt: '2005-05-23 00:30:16 +0200'
+  content: Świetnie napisana recenzja, jednak do kina i tak pójdę sam zobaczyć :)
+- id: 1090
+  author: ramzes
+  author_url: ''
+  date: '2005-05-23 03:16:15 +0200'
+  date_gmt: '2005-05-23 03:16:15 +0200'
+  content: "A ja poszedlem na ten film bo:\n<br/>- lubie efekty specjalne\n<br/>-
+    moj pierwszy w zyciu film ogladniety w kinie to SW wlasnie, wiec musialem to zobaczyc.
+    Fakt, ze gdybym sie chcial czepiac drobiazgow, muzyki, itp to bylby to zarazem
+    moj ostatni film w zyciu w kinie - bo owszem moze zniechecic.\n<br/>\n<br/>Jednak
+    jaki ten film bedzie, to bylo wiadomo juz od poczatku. Kazdy znal z gory zakonczenie,
+    wiec nie ma mowy o dreszczyku emocji i niepewnosci. \n<br/>To tak jakby teraz
+    ktos chcial nakrecic odcinek z dziecinstwa zycia Janka Kosa zanim dostal sie do
+    czterech pancernych.\n<br/>\n<br/>Film warto zobaczyc... chociaz nie, inaczej:
+    film trzeba zobaczyc ale nie wiem czy warto."
+- id: 1091
+  author: Igor
+  author_url: ''
+  date: '2005-05-23 07:22:10 +0200'
+  date_gmt: '2005-05-23 07:22:10 +0200'
+  content: Pisze sie Isaura, a nie Izaura :P Jako wierny fan tamtej serii musze natychmiast
+    wytknac ten blad! :]
+- id: 1092
+  author: froger3
+  author_url: ''
+  date: '2005-05-23 07:39:58 +0200'
+  date_gmt: '2005-05-23 07:39:58 +0200'
+  content: 'jajcuś: no, podobna, ale w troche mniejszej wersji:&gt;'
+- id: 1093
+  author: Tomash
+  author_url: ''
+  date: '2005-05-23 09:42:15 +0200'
+  date_gmt: '2005-05-23 09:42:15 +0200'
+  content: Tekst bardzo dobry. Dowcipy zajebiste (&quot;kochanie, wybiłem przedszkole&quot;
+    - brawo!;)) mieszają się ze średnimi (&quot;tyskiego nie dowieźli&quot;), ale
+    recka doskonała :). Chociaż mi się parę rzeczy w Zemście Shitów podobało, to jednak
+    film jako całość jest rzadki.
+- id: 1094
+  author: Jerrec
+  author_url: ''
+  date: '2005-05-23 11:33:34 +0200'
+  date_gmt: '2005-05-23 11:33:34 +0200'
+  content: "No cóż, film trzyma poziom pierwszych dwóch części (patrząc na nazewnictwo).
+    A szkoda... \n<br/>\n<br/>Gdyby Lucas miał 25x mniejszy budżet, to MOŻE coś z
+    tego by było. A tak - Star Wars = Episodes 4,5,6."
+- id: 1095
+  author: Ktoś... | ...tam
+  author_url: ''
+  date: '2005-05-23 19:13:10 +0200'
+  date_gmt: '2005-05-23 19:13:10 +0200'
+  content: |-
+    Cóż, jednym z pierwszych filmów, na jakich byłem w kinie, były &quot;Kosmiczne jaja&quot; - jak widać, ja się już swoje naśmiałem. I do kina tym razem nie pójdę.
+    <br/>A recenzja jest wyśmienita :D
+- id: 1096
+  author: T
+  author_url: ''
+  date: '2005-05-24 23:05:37 +0200'
+  date_gmt: '2005-05-24 23:05:37 +0200'
+  content: Zacznijmy od tego, ze najlepsze epizody V,VI nie byly rezyserowane przez
+    samego Lucasa. Lucas ma leb, ale nie do rezyserki. Podejrzewam, ze jakby ktos
+    sie inny za to zabral to moglby wyjsc zupelnie inny lepszy film.
+- id: 1097
+  author: Jaras
+  author_url: ''
+  date: '2005-05-25 08:25:49 +0200'
+  date_gmt: '2005-05-25 08:25:49 +0200'
+  content: przestań narzekać i ciesz się, iż nie załapałeś się z jakiegoś konkursu
+    na wersję dubbingowaną. pamiętacie animowanego Inspektora Gadgeta? co noc, od
+    pamiętnej niedzieli 22.05.05, budzę się z krzykiem, kiedy to w moim śnie Obi naciera
+    na Dooku krzycząc &quot;dalej, dalej mieczu świetlny Kenobiego&quot;.
+- id: 1098
+  author: T
+  author_url: ''
+  date: '2005-05-25 11:04:09 +0200'
+  date_gmt: '2005-05-25 11:04:09 +0200'
+  content: |-
+    hahahaha dobre :)
+    <br/>Ja mialem farta bo system rezerwacji online tak pieknie nam zarezerwowal bilety, ze wpadlibysmy na dubbing. Ale mily pan przy kasach zdziwiony, ze na dubbing zmienil nam rezerwacje :)
+- id: 1099
+  author: N K P W
+  author_url: ''
+  date: '2005-11-02 15:52:51 +0100'
+  date_gmt: '2005-11-02 15:52:51 +0100'
+  content: Ale o co chodzi
+- id: 1100
+  author: N K P W
+  author_url: ''
+  date: '2005-11-02 15:54:17 +0100'
+  date_gmt: '2005-11-02 15:54:17 +0100'
+  content: LOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooOOOOOOOOOOOOOOOOOOOOOOol
+---
+<p>Nie dało się tego uniknąć. Świadom porażki <em>Epizodu Pierwszego</em> i <em>Ataku Klonów</em>, mimo wszystko, wybrałem się do kina z <a href="http://monochrome.pl/">Jarvisem</a> na <em>Zemstę Sithów</em>. Teraz już wiem, czemu niektórzy w mowie potocznej odnoszą się do tego filmu per <q>zemsta shitów</q>. Pan Lucas nie zawiódł swoich nowych, nastoletnich fanów sagi i zgotował im kolejny odcinek teleranka.</p>
+
+<p>Recenzja będzie odrobinę chaotyczna, film jest tak wielopłaszczyznowy, że trudno analizować go chronologicznie, zacznę może od metafory. Na statku Hrabiego Dooku Anakin (a może Ani? <q>Ale czy Ani jest cały?</q>) musiał wycinać dziurę w suficie windy, bo nie było klapy. W kinie klapa była, film jest tragiczny.</p>
+
+<p>Stary George nie oszczędzał na efektach specjalnych. Od pierwszej minuty filmu do samych napisów końcowych towarzyszy nam w 90% grafika komputerowa. Pozostałe 10% to coś pomiędzy <em>Tajemnicami piasków</em> a <em>Niewolnicą Izaurą</em> - kino familijne o nieprzeciętnej mimice i ogólnie grze aktorskiej. Na pochwałę zasługują przede wszystkim bardzo sugestywne monologi, pełne bólu i cierpnienia (ze strony widzów głównie) - np. Obi-Wan Cannot-Be, który ogląda hologram Anakina mordującego dzieci w Świątyni Jedi. Minę ma niczym typowy polski widz, doświadczający właśnie reklam na Polsacie, toteż po chwili (około 3 sekundy później) uznaje <q>nie mogę już na to patrzeć</q> i sprzęt wyłącza. Sam przyszły Vader scenę tę przeżył znacznie bardziej dramatycznie, pojechał zobaczyć się z żoną i już samo spojrzenie w jego oczy powiedziało jej wszystko o tej straszliwej zbrodni: (cytując kumpla Jarvisa) <q>kochanie, wybiłem do nogi lokalne przedszkole, będziemy musieli zapisać dzieciaka do jakiegoś innego</q>.</p>
+
+<p>Temat masowych mordów nie jest w Polsce zbyt lekkim do dyskusji, toteż zajmijmy się czymś przyjemnym, np. <q>droidami bzykaczami</q>, czyż sama nazwa nie jest wspaniała? Takie zwykłe kosmiczne kleszcze, a jak wiadomo na kleszcze najskuteczniejszą bronią jest R2. Nasz śmietnikopodobny kolega zyskał kilka nowych umiejętności, niestety zatracił je już w 19 lat później, kiedy to toczy się akcja <em>Gwiezdnych Wojen</em>. Jakież to zdolności? Przede wszystkim uniezależnił się od dźwigów dokowych. Bez problemu sam wskakuje i wyskakuje ze swojego slotu w myśliwcach. Dorósł też płciowo, o czym upewnił nas pokazując dwóm strażnikom siusiaka i oblewając ich olejem. Po co zapytacie? Otóż planował właśnie podpalic ich za pomocą swoich silników odrzutowych. Taka mała konserwa, a funkcji ma jak szwajcarski scyzoryk, pomyśleć, że inne astrodroidy większość swego <q>życia</q> przegniły w statkach kosmicznych.</p>
+
+<p>Również nasz stary znajomy, Yoda, nie próżnował od czasu <em>Ataku</em>. Po powrocie z sanatorium w Ciechocinku, był nie do poznania. Mało kto wie, że w uzdrowisku dochrapał się pozycji rozgrywającego w lokalnej drużynie koszykarskiej. Upust swym talentom dał w scenie rodem z polskich stadionów, kiedy to w sali obrad Senatu Republiki zły Pan Sith wyrywał ławeczki z trybun i ciskał nimi w tego biednego, zgrzybiałego, poruszającego się o lasce, trzymetrowymi susami, staruszka.</p>
+
+<p>W tym samym czasie, nasz dzielny druh, Ani z Zielonego Wzgórza, toczył bój na śmierć i życie ze swym uprzednim mentorem, Kenobim. Było gorąco! Niemal żałowałem, że na seans nie przybyłem w okularach przeciwsłonecznych. Lawa tu, lawa tam, płomienie na pierwszym planie. Wszystko się wali, syczy i pali. Pan zła i ciemności, zaślepiony gniewem, nie zauważył nawet iż stracił rękę i dwie nogi. Nie robiło to wielkiej różnicy, jako że pozostała ręka była metalową pamiątką po spotkaniu z Dooku. Nie robiło różnicy też o tyle, że chwilę później spłonął żywcem (jako, że Tyskie do Lucasa na czas nie dojechało).</p>
+
+<p>Czemu był zły, zapytacie? Podobno przeżywał wewnętrzną walkę uczuć, ponoć targały nim sprzeczne wartości, że to niby wybierał między życiem żony a drogą światłości? Bzdura, biedny Ani nie był kochany w domu i, jak każdy nastolatek, postanowił się zbuntować. <q>Mamo, a oni mi nie dali tytułu mistrza!</q> - <q>Przyłącz się do Ciemnej Strony!</q> - <q>Nie!</q> - <q>No przyłącz się, będziesz miał dłuższego.</q> - <q>Nie!</q> - <q>No chodź...</q> - <q>No dobra.</q>. Ostateczną decyzję podjął jednak podczas pełnej grozy i napięcia sceny <q>To on jest zdrajcą!</q> - <q>Nie, to on!</q> - <q>Nie to on.</q> - <q>On.</q> - <q>To on, na syfa dziesięć.</q> - <q>Pobite gary... aaaaaaa!</q> (i tu defenestrował). Wróćmy jednak do naszego konającego, przypalonego, beznogiego i bezrękiego kolegi.</p>
+
+<p>Typowy Kowalski miałby trudności z odnalezieniem się w podobnej sytuacji. Nie co dzień bowiem człowiek budzi się z takim kacem, a tu ni ręki ni nogi, a na dodatek jeziora lawy ogniste. Dzielny, świeżo upieczony (dosłownie) Sith, nie poddał się jednak i walczył do końca, jedyną pozostałą mu kończyną jął czołgać się w stronę wyjścia, niczym czołga się do wyjścia widz pod koniec drugiej godziny tego filmu. Na szczęście Imperator wpadł w porę i zabrał go do siebie na kurację. A był to zabieg długi i niezwykle skomplikowany. W ciągu przeszło pięciu minut, cztery automaty - specjalnie wypożyczone przez Sithów z zakładów montażowych Forda - przykręciły Vaderowi nowe nóżki, które to przypadkiem właśnie w jego rozmiarze ostały się na magazynie. Do tego nowa rączka i wdzianko od Versace. Ach, jeszcze kask na magnesiki i voila. <em>Moon power make-up</em>, chciałoby się rzec. Jeszcze tylko ryk rannego bawołu, postrzelonego z procy wykałaczką, na wieść o śmierci połowicy i można opanować galaktykę.</p>
+
+<p>Ciekawa bardzo jest również scena na Kashyyyk. Nikt właściwie nie wie, po co ona jest, ale to właśnie nastrój tajemniczości przesądził o sukcesie oryginalnej trylogii. Ah, zapomniałbym że tak się miło złożyło, że spośród milionów Wookiee, akurat Chewbacca mieszkał przy samym lotnisku, cóż za zbieg okoliczności.</p>
+
+<p>Żeby do końca nie narzekać, wspomnę jeszcze o przepięknych scenach walki, których nagrania dłużyły się do tego stopnia, że kamerzysta przez większość czasu starał się zobaczyć, która jest godzina, przybliżając obraz nadgarstka raz jednego, raz drugiego z bohaterów starcia.</p>
+
+<p>Jeśli jeszcze ktoś nie zauważył, to film mi się nie podobał. Szkoda wydawać 15 PLN na bilet do kina. Chyba, że ktoś jest fanem serii i, jak ja, musi się o tym przekonać na własnej skórze. Nie polecam, chyba że TVP1 puści go kiedyś za darmo w ramach <q>kina familijnego</q> po <em>Teleranku</em></p>

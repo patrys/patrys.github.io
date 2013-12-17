@@ -1,0 +1,54 @@
+---
+layout: post
+status: publish
+published: true
+title: Stolica, ziemia obiecana
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 19
+date: 2004-05-27 19:06:44.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 35
+  author: borisof
+  author_url: ''
+  date: '2004-05-27 21:10:19 +0200'
+  date_gmt: '2004-05-27 21:10:19 +0200'
+  content: |-
+    Taaakkkk !!!???
+    <br/>
+    <br/>Łeee, to ja juz tam jade !  :)
+    <br/>
+    <br/>PS. czy tez moge poprosic o szybkie przeszkolenie ... :&gt; ??
+- id: 36
+  author: e-krolik
+  author_url: ''
+  date: '2004-05-31 22:34:45 +0200'
+  date_gmt: '2004-05-31 22:34:45 +0200'
+  content: 'tia... man iptables było niezbyt dyplomatycznym posunięciem na rozmmowie
+    wstępniej. Wogóle to &lt;ironia&gt;gratuluję samokrytyki&lt;/ironia&gt; :) '
+---
+Nie tak znowu dawno temu wróciłem z delegacji do Warszawy. Towarzyszyłem oczywiście nikomu innemu jak samemu SynowiPrezesa&trade;. On zaś pojechał do stolicy w celu znalezienia sobie pracy. Składał więc CV do wszystkich większych firm zajmujących się hostingiem i usługami sieciowymi. Jakież było jego zdziwienie, kiedy to jedna z firm zaprosiła go jeszcze tego samego dnia na rozmowę kwalifikacyjną połączoną z egzaminem wstepnym. Do egzaminu pozostały 3 godziny, więc SynPrezesa&trade; z właściwą sobie beztroską podszedł do mnie i przemówił w te słowy: "Ej, muszę umieć iptables, nauczysz mnie".<br />
+<br />
+Dwie godziny później, mądrzejszy o podstawową wiedzę na temat przekierowywania portów, filtrowania połączeń, stawiania NATu i maskarady, zaczął się zbierać na egzamin, w czym mu, niestety, towarzyszyć nie mogłem.<br />
+<br />
+Godzina 19:00, ponownie spotykam SynaPrezesa&trade;.<br />
+<br />
+- I jak egzamin?<br />
+- Śmieszny był. Pisaliśmy na kartkach bez komputerów.<br />
+- A jakie pytania?<br />
+- No, na przykład "co robi taka regułka iptables" i tam jakieś bzdury...<br />
+- I co napisałeś?<br />
+- "man iptables"<br />
+<br />
+[...]<br />
+<br />
+- A w ogóle to jak ty chcesz pracować w Warszawie?<br />
+- Noo, dostanę jakieś 2000 na rękę na start i się jakoś utrzymam...<br />
+<br />
+Morał: na naukę nigdy nie jest zbyt późno. Zawsze jest czas żeby się czegoś nauczyć. Poza tym często ucząc się jednej rzeczy można przy okazji nauczyć się też innej. Np. mana. Oczywiście każdy wie też, że w stolicy jest tak dużo wolnych etatów, że przyjmuje się ludzi bez doświadczenia, bez umiejętności i daje im 2000 PLN na start. Z dobroci serca, naturalnie, żeby im się było łatwiej zaaklimatyzować w nowym mieście.

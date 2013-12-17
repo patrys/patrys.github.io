@@ -1,0 +1,107 @@
+---
+layout: post
+status: publish
+published: true
+title: Rant
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 156
+date: 2005-09-19 19:36:22.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 2135
+  author: psz
+  author_url: ''
+  date: '2005-09-19 20:03:29 +0200'
+  date_gmt: '2005-09-19 20:03:29 +0200'
+  content: Własny sherlock, własny...
+- id: 2136
+  author: Łukasz Grabuń
+  author_url: ''
+  date: '2005-09-19 20:04:26 +0200'
+  date_gmt: '2005-09-19 20:04:26 +0200'
+  content: |-
+    Och, no, szlag.
+    <br/>
+    <br/>Proszę, cały cytat:
+    <br/>
+    <br/>@Patryk: Ty, no, tupnij nóżką i idź sobie. Zabawki jeszcze zabierz :-)
+    <br/>
+    <br/>A poczucie humoru to gdzie? ;-)
+    <br/>
+    <br/>I nie tylko o Cię chodzi, ale Twój wpis był ostatnio.
+- id: 2137
+  author: psz
+  author_url: ''
+  date: '2005-09-19 20:06:06 +0200'
+  date_gmt: '2005-09-19 20:06:06 +0200'
+  content: 'Łukasz: przez chwilę myślałem, że do mnie piszesz... ale zauważyłem, że
+    Patrys ma to samo imię, co ja :P'
+- id: 2138
+  author: Patrys
+  author_url: ''
+  date: '2005-09-19 20:12:34 +0200'
+  date_gmt: '2005-09-19 20:12:34 +0200'
+  content: |-
+    Łukasz:
+    <br/>
+    <br/>To nie było do ciebie tylko, inaczej wkleiłbym wielkiego palucha z linkiem.
+- id: 2139
+  author: Puck
+  author_url: ''
+  date: '2005-09-19 22:40:41 +0200'
+  date_gmt: '2005-09-19 22:40:41 +0200'
+  content: "Patrys, napisz sobie własne staty. :-) Takie proste, location.href + referrer.
+    \n<br/>Albo, jak masz czas, posiedź nad czymś bardziej zaawansowanym, na przykład
+    tak:\n<br/>http://delta.lebkowski.info/screen/web/unlog-jogger2.png"
+- id: 2140
+  author: Patrys
+  author_url: ''
+  date: '2005-09-19 22:44:35 +0200'
+  date_gmt: '2005-09-19 22:44:35 +0200'
+  content: |-
+    Gdybym ja miał tylko czas sobie coś napisać, to bym sobie dawno napisał coś, co od dawna cieszy się nazwą kodową &quot;Integer&quot; i ma mieć funkcjonalność podobną do Basecampu.
+    <br/>
+    <br/>Póki co, 99% mojego czasu wypełniają płatne zlecenia. Może ktoś chce mi zapłacić za napisanie własnych statystyk? Dyskutujemy (z mmazurem) o takim projekcie już od dawna ;]
+- id: 2141
+  author: MiMaS
+  author_url: ''
+  date: '2005-09-20 14:51:10 +0200'
+  date_gmt: '2005-09-20 14:51:10 +0200'
+  content: Hmmm... Słuszna uwaga, popieram. Ale... Niedawny wpis &quot;Nasz klient
+    na szpan&quot; zaczyna się od słów &quot;Pozwolę sobie publicznie polemizować
+    z...&quot; a jednak pod wpisem, z którym polemizujesz nie widzę komentarza z linkiem...
+    Ślepy jestem czy może słowa &quot;etykieta każe&quot; mają dotyczyć innych, nie
+    Ciebie? ;-&gt;
+- id: 2142
+  author: Patrys
+  author_url: ''
+  date: '2005-09-20 18:48:24 +0200'
+  date_gmt: '2005-09-20 18:48:24 +0200'
+  content: |-
+    MiMaS:
+    <br/>
+    <br/>Wpis Łukasza też był komentarzem do mojej notki, a powyższy rant nie jest atakiem na Łukasza. Akurat jego bloga przeglądam co jakiś czas, więc wyłapuję odpowiedzi na moje posty, gorzej z serwisami, o których nigdy nie słyszałem - te muszę wyłapywać ręcznie w statystykach.
+- id: 2143
+  author: jarv
+  author_url: ''
+  date: '2005-09-20 21:52:53 +0200'
+  date_gmt: '2005-09-20 21:52:53 +0200'
+  content: |-
+    marudzisz. ;] ale to codziennosc w twoim wykonaniu.
+    <br/>
+    <br/>i bardzo sie ciesze, ze pamietasz o integerze. a statsy.. hm... tez cie pomecze i napiszemy wlasnego mint&#039;a... &lt;rotfl&gt;
+- id: 2144
+  author: MiMaS
+  author_url: ''
+  date: '2005-09-21 08:16:36 +0200'
+  date_gmt: '2005-09-21 08:16:36 +0200'
+  content: |-
+    @Patrys: Ależ ja nie sugeruję żadnego ataku... I sam atakować nie mam zamiaru..
+    <br/>Tylko pomyślałem sobie w wielkiej naiwności swej, że skoro piszesz, iż zostawianie linka prowadzącego do komentowanego wpisu jest _obowiązkiem_ wynikającym z etykiety to dotyczy to również Ciebie i wpisów które Ty komentujesz. Może lepiej było napisać wprost &quot;na blogach, których nie znam i nie czytam codziennie etykieta każe....&quot; ;-) Stąd taka mała uwaga na boku - osobiście nie wydaje mi się, żeby _nakazywanie_ (&quot;etykieta każe&quot;, _każe_??) innym stosowania praktyk, które samm ignorujesz było szczególnie eleganckie. I tyle.
+---
+<p>Nic mnie tak nie denerwuje, jak przeczesywanie statystyk w poszukiwaniu komentarzy do swoich notek. Po to istnieje możliwość komentowania ich na miejscu, żeby zostawianie swoich opinii nie wymagało zewnętrznych serwisów. Rozumiem, że niektórych irytuje brak obsługi <abbr title="HyperText Markup Language">HTML</abbr>, że pole jest małe. Oczywiście, można napisać odpowiedź w formie notki na własnym blogu, ale przy braku wsparcia dla łączy typu trackback i pingback, etykieta każe <em>zostawić <abbr title="Uniform Resource Identifier">URI</abbr> odpowiedzi w komentarzach na stronie z oryginalnym tekstem</em>. W ten sposób śledzenie dyskusji nie wymaga talentów telepatycznych. Jest to tym bardziej trudne, że denne statystyki <a href="http://stat.pl/" rel="nofollow">stat.pl</a> z nieznanych mi przyczyn nie logują query string, więc w przypadku większości for internetowych mogę tylko pomarzyć o zlokalizowaniu wątku.</p>

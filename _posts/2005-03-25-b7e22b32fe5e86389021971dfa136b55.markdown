@@ -1,0 +1,65 @@
+---
+layout: post
+status: publish
+published: true
+title: Luminocity
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 69
+date: 2005-03-25 21:03:25.000000000 +01:00
+categories:
+- linux
+tags: []
+comments:
+- id: 789
+  author: jpc
+  author_url: ''
+  date: '2005-03-27 16:18:32 +0200'
+  date_gmt: '2005-03-27 16:18:32 +0200'
+  content: Composite w master serwerze nie jest potrzebne dla Luminocity, więc nie
+    powinno sprawiać problemów z FireGL. (na R9200 z DRI chodzi tragicznie wolno;
+    na fglrx średnio wolno, ale to może kwestia złej konfiguracji - pokombinuje jeszcze
+    dziś)
+- id: 790
+  author: Patrys
+  author_url: ''
+  date: '2005-03-27 16:20:30 +0200'
+  date_gmt: '2005-03-27 16:20:30 +0200'
+  content: Dla Luminocity nie, ale Luminocity to hack. Docelowe Metacity ma używać
+    rozszerzenia wbudowanego w Iksy zamiast obchodzenia wszystkiego przez Xfake.
+- id: 791
+  author: jpc
+  author_url: ''
+  date: '2005-03-27 16:22:30 +0200'
+  date_gmt: '2005-03-27 16:22:30 +0200'
+  content: Bardzo docelowo planowane jest zmigrowanie Xservera na EGL (to chyba jakiś
+    okrojony OpenGL) oraz mesa-solo i renderowanie wszystkiego tak jak Luminocity
+    (z czymś a&#039;la Xfake wbudowanym w Xserver). Xgl to pierwsza przymiarka (na
+    razie mocno kiepskawa).
+- id: 792
+  author: Patrys
+  author_url: ''
+  date: '2005-03-27 16:33:40 +0200'
+  date_gmt: '2005-03-27 16:33:40 +0200'
+  content: Docelowo to powinno to działać jak OSX, czyli cały system chodzi natywnie
+    na OpenGL i nie blokuje innych aplikacji GL-owych, udostępniając im własne warstwy.
+- id: 793
+  author: jpc
+  author_url: ''
+  date: '2005-03-27 16:36:55 +0200'
+  date_gmt: '2005-03-27 16:36:55 +0200'
+  content: Właśnie tak. :)
+---
+<p>Przeglądając wczoraj (dziś w nocy) stronę <a href="http://gnome.org/~seth/">Design Fu</a> Setha, który jest pierwszym źródłem informacji o wszystkich zmianach w UI Gnome, szukałem nowych informacji na temat projektu <a href="http://www.gnome.org/projects/sabayon/">Sabayon</a>. Zamiast tego znalazłem coś, co wbiło mnie w ziemię.</p>
+
+<p>Projekt <a href="http://www.gnome.org/~seth/blog/xshots">Luminocity</a>, bo o nim mowa, to tymczasowy projekt przejściowy, utworzony na potrzeby testowania kodu przed merge'owaniem do bazy Metacity. Na udostępnionych przez Setha filmach widać wyraźnie dwie rzeczy: po pierwsze, programistom Gnome się nudzi (a efekty ich nudy powalają na kolana); po drugie, Metacity będzie mieć oficjalnego managera kompozycji (wsparcie dla kompozycji już znajduje się częściowo w kodzie Metacity, ale jest domyślnie zablokowane).</p>
+
+<p>Czego by nie powiedzieć, widać wyraźnie, że Gnome, choć małymi kroczkami, zdecydowanie idzie w kierunku zwykłego użytkownika. Za jakiś czas skończy się era kojarzenia systemów uniksowych z pryszczatymi, zakompleksionymi nastolatkami.</p>
+
+<p>Efekt gumowych okien jest zaiste przepiękny. Jak pisze Seth, prace nad kodem stanęły w miejscu i wszyscy bawią się nowym efektem. Podobne rozwiązania od dłuższego czasu znają szczęśliwi posiadacze Mac OS X (towarzyszą chociażby minimalizacji okien czy przełączaniu pulpitów).</p>
+
+<p>Ważniejszy jednak jest zintegrowany pełny manager kompozycji. Po co? Nie tylko żeby dorównać Makowcom pod względem eyecandy. Przede wszystkim dla zwiększenia szybkości przełączania się pomiędzy aplikacjami. W tej chwili wszystko oparte jest o system dirty rectangles, przy przełączaniu okien odrysowane musi zostać wszystko, co było dotąd zasłonięte przez inne okno bądź znajdowało się poza bieżącym pulpitem. W przypadku używania managera kompozycji zintegrowanego z managerem okien, okna rysowane są tylko w przypadku zmiany ich zawartości. Przełączanie ich kolejności i widoczności nie wymaga odrysowania ich zawartości, bo stosowna bitmapa znajduje się już w banku rozszerzenia <code>composite</code> i jest gotowa do wyrzucenia bezpośrednio na ekran.</p>
+
+<p>Problemem, jak zawsze, pozostaje wsparcie tej technologii przez producentów kart graficznych. O ile nVidia radzi sobie z tym bardzo sprawnie, to sterowniki firegl Ati pozostawiają wiele do życzenia. Jeśli tylko wykryją załadowane rozszerzenie <code>composite</code>, natychmiast wyłączają obsługę akceleracji. Alternatywą jest tu zestaw opensource'owych sterowników X11, z tym, że nie wspierają one akceleracji w chipach nowszych generacji. W tym, w Radeonach 9600 Pro/Mobility, a taki właśnie znajduje się w moim notebooku.</p>

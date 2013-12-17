@@ -1,0 +1,93 @@
+---
+layout: post
+status: publish
+published: true
+title: Critical update
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 103
+date: 2005-06-10 01:21:41.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1261
+  author: Express
+  author_url: ''
+  date: '2005-06-10 09:12:28 +0200'
+  date_gmt: '2005-06-10 09:12:28 +0200'
+  content: |-
+    Wpis qwiata w księdze kondol... przepraszam, gratulacyjnej, jest ładny :)
+    <br/>
+    <br/>Poza tym, coś mi nie pasi - na zaręczynach obrączki?
+    <br/>I więcej się czepiać nie będę, bo mi głupio; został mi tydzień wolności - do przyszłej soboty :)
+- id: 1262
+  author: Spider
+  author_url: ''
+  date: '2005-06-10 10:01:52 +0200'
+  date_gmt: '2005-06-10 10:01:52 +0200'
+  content: znaczy sie takoz wyglada synprezesa ?
+- id: 1263
+  author: Patrys
+  author_url: ''
+  date: '2005-06-10 10:19:32 +0200'
+  date_gmt: '2005-06-10 10:19:32 +0200'
+  content: Tak jest.
+- id: 1264
+  author: zenon
+  author_url: ''
+  date: '2005-06-10 15:10:47 +0200'
+  date_gmt: '2005-06-10 15:10:47 +0200'
+  content: A czy jest jakaś selekcja przed wejściem i będą sprawdzane zaproszenia?
+    Bo ja chętnie bym coś kupił i wpadł na potańcówe :P
+- id: 1265
+  author: martinez
+  author_url: ''
+  date: '2005-06-11 14:34:04 +0200'
+  date_gmt: '2005-06-11 14:34:04 +0200'
+  content: O w mordę, ale SP miał pomysł. Jeszcze powinien dopisek zrobić ,,Jeśli
+    ktoś nie kupi czegoś, to się obrazimy i nie pobierzemy&#039;&#039;
+- id: 1266
+  author: Cachotterie
+  author_url: ''
+  date: '2005-06-11 14:35:11 +0200'
+  date_gmt: '2005-06-11 14:35:11 +0200'
+  content: Czepiacie się. To ostatnio dość popularna taktyka, dzięki której państwo
+    młodzi nie dostają pięciu żelazek.
+- id: 1267
+  author: m
+  author_url: ''
+  date: '2005-06-12 15:55:23 +0200'
+  date_gmt: '2005-06-12 15:55:23 +0200'
+  content: lol... syn-prezesa (tm) to selox, czy ja dobrze widze? :)
+- id: 1268
+  author: Patrys
+  author_url: ''
+  date: '2005-06-12 18:11:19 +0200'
+  date_gmt: '2005-06-12 18:11:19 +0200'
+  content: Twoja dobrze widzieć.
+- id: 1269
+  author: remiq
+  author_url: ''
+  date: '2005-06-12 18:44:27 +0200'
+  date_gmt: '2005-06-12 18:44:27 +0200'
+  content: Wow, SynPrezesa był nawet na prhn!
+- id: 1270
+  author: m
+  author_url: ''
+  date: '2005-06-12 23:51:47 +0200'
+  date_gmt: '2005-06-12 23:51:47 +0200'
+  content: no to kurde nie wiedzialem, ze TEN selox na syna-prezesa(tm) awansowal.
+    moze ta dziewczyna z nim porzadek zrobi...
+- id: 1271
+  author: Jaras
+  author_url: ''
+  date: '2005-06-20 09:51:13 +0200'
+  date_gmt: '2005-06-20 09:51:13 +0200'
+  content: bueheheheheheeheh - a gdzie logo z pączkiem?
+---
+<p><em>Nie pytaj, co SynPrezesa&trade; może zrobić dla ciebie, spytaj raczej, co ty możesz zrobić dla SynaPrezesa&trade;.</em></p>
+
+<p>A lista życzeń długa nie jest, spieszcie się drodzy państwo, bo nie starczy dla wszystkich chętnych. Rezerwacje przyjmowane są przez internet, bilety drożeją w dniu koncertu... znaczy się źle powiedziałem, cholerne przyzwyczajenia. Do zobaczenia na <a href="http://selox.org/index.php?module=listaprezentow">oficjalnej stronie</a>.</p>

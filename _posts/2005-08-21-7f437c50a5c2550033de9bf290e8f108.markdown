@@ -1,0 +1,82 @@
+---
+layout: post
+status: publish
+published: true
+title: DistroDev.org
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 143
+date: 2005-08-21 19:26:47.000000000 +02:00
+categories:
+- linux
+tags: []
+comments:
+- id: 1977
+  author: Enleth
+  author_url: ''
+  date: '2005-08-21 20:28:55 +0200'
+  date_gmt: '2005-08-21 20:28:55 +0200'
+  content: Niezłe, niezłe. Może się przyjmie w innych distro PLDowy pomysł podziału
+    dużych programów na jaknajwięcej małych pakietów? Skończy się rekompilowanie PHP
+    i apacza na każdym nie-PLDowym serwerze dla jednego brakującego modułu i psioczenie
+    że KDE/Gnome są tak wielkie...
+- id: 1978
+  author: jpc
+  author_url: ''
+  date: '2005-08-21 20:32:47 +0200'
+  date_gmt: '2005-08-21 20:32:47 +0200'
+  content: Nie jestem tylko pewien, czy forma (blog) jest najlepsza...
+- id: 1979
+  author: martinez
+  author_url: ''
+  date: '2005-08-21 21:06:37 +0200'
+  date_gmt: '2005-08-21 21:06:37 +0200'
+  content: W Gentoo podział KDE na małe paczki skończył się... e....yyyy... no właśnie.
+- id: 1980
+  author: rash
+  author_url: ''
+  date: '2005-08-21 21:31:49 +0200'
+  date_gmt: '2005-08-21 21:31:49 +0200'
+  content: '... dobrze? :P'
+- id: 1981
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-08-21 21:44:34 +0200'
+  date_gmt: '2005-08-21 21:44:34 +0200'
+  content: 'KDE zawsze było podzielone na małe paczki: kdebase, kdemultimedia, kdepim,
+    etc :P'
+- id: 1982
+  author: martinez
+  author_url: ''
+  date: '2005-08-21 21:52:33 +0200'
+  date_gmt: '2005-08-21 21:52:33 +0200'
+  content: |-
+    Nie, niedobrze. Niektóre rzeczy wymagają małych paczek, niektóre kobył, konflikt interesów jest.
+    <br/>
+    <br/>Jam Łasica: ROTFL, można do sygnaturki? :&gt;
+- id: 1983
+  author: rash
+  author_url: ''
+  date: '2005-08-21 22:21:00 +0200'
+  date_gmt: '2005-08-21 22:21:00 +0200'
+  content: Tak było na początku - błąd w starych ebuildach. Teraz (ja przynajmniej)
+    żadnych błędów nie widzę.
+- id: 1984
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-08-21 23:01:21 +0200'
+  date_gmt: '2005-08-21 23:01:21 +0200'
+  content: |-
+    &gt; Jam Łasica: ROTFL, można do sygnaturki? :&gt;
+    <br/>Można :)
+- id: 1985
+  author: martinez
+  author_url: ''
+  date: '2005-08-22 08:50:25 +0200'
+  date_gmt: '2005-08-22 08:50:25 +0200'
+  content: 'rash: Ehm, mam jeszcze stare pakiety poinstalowane - w takim razie wypadałoby
+    wszystko wyrzucić i zacząć od nowa? :&gt;'
+---
+<p><a href="http://nbtsc.org/~aredridel/">Aredridel</a> (PLD Linux) i <a href="http://xentac.net/~jchu/blog">xentac</a> (Arch Linux) ogłosili niedawno otwarcie dość niecodziennego portalu. <a href="http://distrodev.org/">Distro Development Talk</a> ma na celu skupienie społeczności związanej z rozwojem różnych dystrybucji. Ta różność jest tu kluczowa, bo serwis nie ma służyć za helpdesk (nie, to nie jest miejsce, gdzie użytkownicy mogą zadawać pytania), ma być platformą do swobodnego mind stormingu. Dzieląc się swoimi opiniami mamy okazję poznać sprawę z punktu widzenia innych dystrybucji, możemy również rozszerzyć swoją wiedzę, czytając o pomysłach i problemach innych. Póki co, serwis jest w powijakach i dopiero zbiera grono uczestników, stąd niska aktywność, dlatego zachęcam do rejestracji. Podkreślam jeszcze raz, że jest to usługa dla deweloperów i zadawanie tam pytań <q>jak zrobić</q> jest kiepskim pomysłem.</p>

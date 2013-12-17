@@ -1,0 +1,64 @@
+---
+layout: post
+status: publish
+published: true
+title: Web2.0
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 221
+wordpress_url: http://www.room-303.com/blog/2006/01/28/web20/
+date: 2006-01-28 12:34:06.000000000 +01:00
+categories:
+- varia
+- web
+- software
+tags: []
+comments:
+- id: 3164
+  author: Łukasz Horodecki
+  author_url: http://golf-olszewka.pl/blog/
+  date: '2006-01-28 12:52:31 +0100'
+  date_gmt: '2006-01-28 11:52:31 +0100'
+  content: ':D'
+- id: 3165
+  author: bellois
+  author_url: http://jabba.pl/bellois
+  date: '2006-01-28 13:28:31 +0100'
+  date_gmt: '2006-01-28 12:28:31 +0100'
+  content: LOL, genialne ;)
+- id: 3166
+  author: mazdac
+  author_url: ''
+  date: '2006-01-28 13:46:23 +0100'
+  date_gmt: '2006-01-28 12:46:23 +0100'
+  content: ciekawe porownanie :P
+- id: 3167
+  author: m
+  author_url: ''
+  date: '2006-01-28 16:15:16 +0100'
+  date_gmt: '2006-01-28 15:15:16 +0100'
+  content: tylko gdzie "social networking"? bo ajax do czyszczenia toalet widac ;)
+- id: 3169
+  author: Riddle
+  author_url: http://riddle.jogger.pl
+  date: '2006-01-28 18:50:48 +0100'
+  date_gmt: '2006-01-28 17:50:48 +0100'
+  content: Web 1.0 nie powinno mieć efektu lustra. ;)
+- id: 3173
+  author: rasheed
+  author_url: http://mklimek.org
+  date: '2006-01-28 22:37:41 +0100'
+  date_gmt: '2006-01-28 21:37:41 +0100'
+  content: Tia, widziałem.. I drugi raz rotfl ;)
+- id: 3176
+  author: patryk
+  author_url: ''
+  date: '2006-01-29 01:20:54 +0100'
+  date_gmt: '2006-01-29 00:20:54 +0100'
+  content: dobre
+---
+<p class="strip"><a href="http://www.flickr.com/photos/90175672@N00/92101447/" title="Photo Sharing"><img src="http://static.flickr.com/37/92101447_7e351d2165.jpg" width="500" height="375" alt="Web2.0" /></a></p>
+
+Technorati Tags: <a href="http://technorati.com/tag/web2.0" rel="tag">web2.0</a>, <a href="http://technorati.com/tag/joke" rel="tag">joke</a>, <a href="http://technorati.com/tag/ajax" rel="tag">ajax</a>

@@ -1,0 +1,50 @@
+---
+layout: post
+status: publish
+published: true
+title: CV
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 13
+date: 2004-05-06 14:51:56.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 27
+  author: remiq
+  author_url: ''
+  date: '2004-05-06 17:53:59 +0200'
+  date_gmt: '2004-05-06 17:53:59 +0200'
+  content: To się nazywa sabotaż na konkurencji, wiesz? :&gt;
+- id: 28
+  author: krymzon
+  author_url: ''
+  date: '2004-05-07 20:17:57 +0200'
+  date_gmt: '2004-05-07 20:17:57 +0200'
+  content: Radziłbym zrobić wszystko, żeby dostał tę pracę. I najlepiej nie wychodził
+    z niej 24h/doba.
+---
+Jakieś dwa tygodnie temu SynPrezesa&trade; postanowił zatrudnić się w konkurencyjnej firmie. W tym celu został zmuszony do popełnienia CV i listu motywacyjnego. Czynił to pierwszy raz w życiu, więc poprosił nas o pomoc:<br />
+<br />
+- Tak może być? "Piszę do Was w sprawie oferty pracy."<br />
+- A może na początku jakieś "Szanowni Państwo"?<br />
+- A tak trzeba? Nigdy tak nie pisałem.<br />
+- No... wypada.<br />
+- No dobra, "Szanowni Państwo, piszę do Państwa w sprawie oferty pracy."<br />
+- Ale w sprawie jakiej oferty? Powołaj się na jakieś ogłoszenie w gazecie albo na liście dyskusyjnej.<br />
+- Nie no, to przez telefon.<br />
+- To napisz, że piszesz w sprawie oferty, którą złożono ci telefonicznie.<br />
+- Ale to nie od nich, tylko gadałem ze znajomym, który tam zna jakiegoś dyrektora i powiedział, żebym napisał do nich.<br />
+- To w sprawie jakiej oferty ty piszesz?!<br />
+- Hmm... "Szanowni Państwo, jestem studentem aktywnie poszukująm pracy"?<br />
+- No już lepiej.<br />
+<br />
+[...]<br />
+<br />
+- "Pracowałen wcześniej na stanowiskach takich jak \[tu lista dyrektorów, specjalistów, itp.\], gdzie do moich obowiązków należało między innymi...". Co należało do moich obowiązków?<br />
+<br />
+Biedny człowiek, przez 4 lata nie wiedział, co robi. I jak tu teraz napisać ładne CV? ;)

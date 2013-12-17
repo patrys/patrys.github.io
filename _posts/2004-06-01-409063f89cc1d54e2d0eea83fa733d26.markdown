@@ -1,0 +1,49 @@
+---
+layout: post
+status: publish
+published: true
+title: O dobrych i złych kolegach
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 22
+date: 2004-06-01 14:52:46.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 46
+  author: remiq
+  author_url: ''
+  date: '2004-06-01 15:15:45 +0200'
+  date_gmt: '2004-06-01 15:15:45 +0200'
+  content: Chyba wiesz, kto będzie na tym stanowisku :&gt;
+- id: 47
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2004-06-01 15:17:43 +0200'
+  date_gmt: '2004-06-01 15:17:43 +0200'
+  content: SamPrezes na pewno doceni Twoje zaangażowanie w pracę dla dobra firmy.
+---
+Dzwoni komórka. Oczywiście SynPrezesa&trade;:<br />
+<br />
+- Słucham?<br />
+- Czeeeeść...<br />
+- No, co jest?<br />
+- Słuchaj potrzebuje żebyś coś zrobił.<br />
+- No, słucham.<br />
+- Ściągnij mi z sieci pirata nowego nero, pirata [...] i pirata [...] i [...] i...<br />
+- To jest firma, nie ściągam piratów.<br />
+- No, weź, nie bądź taki.<br />
+- Nawet gdybym bardzo chciał, to i tak nie mam Kazaa, to jest linuks.<br />
+- E tam, ja ściągałem przez www.<br />
+- To sobie ściągnij.<br />
+- Ale ja mam neostradę...<br />
+- A ja mam pracę. Nie nudzę się w biurze.<br />
+- Ale z ciebie kolega! Dobra! Cześć!<br />
+<br />
+I przeulubiony rozmówca mój był się rozłączył.<br />
+<br />
+Morał: w erze trudnej konkurencji rynkowej każda firma musi dbać o swój wizerunek i nie może bez powodu odwracać się od klienta wykręcając się starym jak świat chwytem na brak czasu. Trzeba liczyć się z rosnącymi oczekiwaniami rynku, a na dynamicznie rosnący popyt odpowiadać agresywną podażą. Nie wiem tylko, czy SamPrezes&trade; przychyli się do mojego pomysłu wydzielenia z pionu informatycznego specjalnego stanowiska dla Dyrektora do spraw Technologii Peer-to-Peer. :)

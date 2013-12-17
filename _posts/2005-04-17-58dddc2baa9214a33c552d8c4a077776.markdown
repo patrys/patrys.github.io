@@ -1,0 +1,62 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #010: Untitled Comics'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 79
+date: 2005-04-17 22:13:42.000000000 +02:00
+categories:
+- comic
+tags: []
+comments:
+- id: 946
+  author: Nina
+  author_url: ''
+  date: '2005-04-17 22:17:36 +0200'
+  date_gmt: '2005-04-17 22:17:36 +0200'
+  content: To naprawdę nie mój komiks. Znowu mnie wykorzystali. Patrys przecież ja
+    bym nigdy tak do Ciebie nie napisała/powiedziała ;) ale przynajmniej mam yapco
+    ;)
+- id: 947
+  author: Patrys
+  author_url: ''
+  date: '2005-04-17 22:20:46 +0200'
+  date_gmt: '2005-04-17 22:20:46 +0200'
+  content: Mam nadzieję, że nikt się na mnie nie obrazi ;]. Wiem, że Greenek rysuje
+    toto, ale z kółka ciężko szafkę zrobić :D
+- id: 948
+  author: Nina
+  author_url: ''
+  date: '2005-04-17 22:21:42 +0200'
+  date_gmt: '2005-04-17 22:21:42 +0200'
+  content: |-
+    Coof`owi się podobało ;)
+    <br/>
+    <br/>Rzeczywiście... na szafę to ja się nie nadaję ;)
+- id: 949
+  author: Greenek
+  author_url: ''
+  date: '2005-04-18 17:49:44 +0200'
+  date_gmt: '2005-04-18 17:49:44 +0200'
+  content: Wow :D Nina i Apple? Wstydziłabyś się :D
+- id: 950
+  author: bazyl
+  author_url: ''
+  date: '2005-04-18 18:31:55 +0200'
+  date_gmt: '2005-04-18 18:31:55 +0200'
+  content: Czemu w jakiś dziwny sposób, przez wyraźne oznaczenie tego laptopa na biurku
+    mam podejrzenie iż to oczywisty afront w moim kierunku? :D
+- id: 951
+  author: Cachotterie
+  author_url: ''
+  date: '2005-04-18 18:34:58 +0200'
+  date_gmt: '2005-04-18 18:34:58 +0200'
+  content: Egocentryk :P
+---
+<p>Przeglądałem dzisiaj <a href="http://www.sip-bp.pl/untitled-comics/index.php">Untitled Comics</a> i nie mogłem się powstrzymać ;).</p>
+
+<p class="strip"><img src="http://comic.room-303.com/strips/010-untitled.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>

@@ -1,0 +1,116 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Standards: the final frontier'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 161
+date: 2005-10-11 20:58:58.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 2255
+  author: Revolt
+  author_url: ''
+  date: '2005-10-11 21:01:36 +0200'
+  date_gmt: '2005-10-11 21:01:36 +0200'
+  content: Co to do cholery ma być ? Liczyłem na jakąś stronę, artykuły, a tam dupy...
+    Nieładnie chłopcy, dupy się ogląda w internecie :P
+- id: 2256
+  author: ehh
+  author_url: ''
+  date: '2005-10-11 21:01:37 +0200'
+  date_gmt: '2005-10-11 21:01:37 +0200'
+  content: Może przekonywać:)
+- id: 2257
+  author: Riddle
+  author_url: ''
+  date: '2005-10-11 21:03:15 +0200'
+  date_gmt: '2005-10-11 21:03:15 +0200'
+  content: |-
+    Zatkało mnie.
+    <br/>Session terminated.
+- id: 2258
+  author: Kelner
+  author_url: ''
+  date: '2005-10-11 21:04:46 +0200'
+  date_gmt: '2005-10-11 21:04:46 +0200'
+  content: Oj, przez takie rzeczy chce się wrócić do webdevelopingu... Jeszcze trochę
+    i zarzucę literaturę i filozofię.
+- id: 2259
+  author: twoja stara
+  author_url: ''
+  date: '2005-10-11 21:05:27 +0200'
+  date_gmt: '2005-10-11 21:05:27 +0200'
+  content: |-
+    Niemam żadnych najmniejszych nawet pytań.
+    <br/>
+- id: 2260
+  author: Jajcus
+  author_url: ''
+  date: '2005-10-11 21:14:39 +0200'
+  date_gmt: '2005-10-11 21:14:39 +0200'
+  content: |-
+    No, no... akcja zapowiada się naprawdę nieźle... :-)
+    <br/>Rozumiem, że to co wydać to na razie tylko wstęp, tak? ;-)
+- id: 2261
+  author: nbw
+  author_url: ''
+  date: '2005-10-11 21:21:45 +0200'
+  date_gmt: '2005-10-11 21:21:45 +0200'
+  content: Tak. Dopiero robimy casting do kolejnych stripów (tak, stripów to adekwatne
+    słowo ;)
+- id: 2262
+  author: Cyber Killer
+  author_url: ''
+  date: '2005-10-11 21:24:20 +0200'
+  date_gmt: '2005-10-11 21:24:20 +0200'
+  content: WoooW ;-). Obrazki propagandowe na miarę LinuxGirls ;-). Good job! :-D
+- id: 2263
+  author: zdzichu
+  author_url: ''
+  date: '2005-10-11 21:34:04 +0200'
+  date_gmt: '2005-10-11 21:34:04 +0200'
+  content: Kimże są te webmasterki? :)
+- id: 2264
+  author: Bellois
+  author_url: ''
+  date: '2005-10-11 21:57:51 +0200'
+  date_gmt: '2005-10-11 21:57:51 +0200'
+  content: 'Prymitywne. '
+- id: 2265
+  author: dxOne
+  author_url: ''
+  date: '2005-10-11 23:16:56 +0200'
+  date_gmt: '2005-10-11 23:16:56 +0200'
+  content: a gdzie tu interaktywnosc? ;)
+- id: 2266
+  author: Greybrow
+  author_url: ''
+  date: '2005-10-12 10:11:38 +0200'
+  date_gmt: '2005-10-12 10:11:38 +0200'
+  content: |-
+    Tak sobie kliknąłem w pracy i ...
+    <br/>Może jakieś ostrzeżenia inne/bardziej sugerujące treść niż &quot;za efekty nie ręczymy&quot; ?
+- id: 2267
+  author: delphiak
+  author_url: ''
+  date: '2005-10-12 18:56:11 +0200'
+  date_gmt: '2005-10-12 18:56:11 +0200'
+  content: nie no... rewelka :)
+- id: 2268
+  author: Tomash
+  author_url: ''
+  date: '2005-10-12 20:29:57 +0200'
+  date_gmt: '2005-10-12 20:29:57 +0200'
+  content: Cascading Sheets. Zdecydowanie :D
+---
+<p>W codziennej pracy niejednokrotnie doskwiera nam brak właściwych materiałów referencyjnych, dotyczących realnych korzyści płynących z rozwiązań opartych na standardach. Utrudnia to przekonywanie tak klientów, jak i własnych pracodawców do wykonania kroku we właściwą stronę. Samo <a href="http://w3.org/"><abbr title="World Wide Web Consortium">W3C</abbr></a> celuje bardziej w inżynierów implementujących protokoły i formaty, niż w ludzi wykorzystujących je w swoich rozwiązaniach, stąd surowy i nieprzystępny charakter publikowanych przez nich informacji nie powinien dziwić. Z drugiej strony, coraz częściej docierają do nas głosy, że skoro na Joggerze publikujemy artykuły o podobnej tematyce, powinniśmy zrobić coś razem. Postanowiliśmy więc zawiązać akcję, mającą na celu informowanie o konkretnych plusach rozwiązań nowoczesnych, a jednocześnie ustandaryzowanych, które z pozoru mogą się wydawać cięższe do wdrożenia niż przestarzałe dziś metody, wykorzystujące prezentacyjny charakter dokumentu.</p>
+
+<p>Patrys i <a href="http://nbw.jogger.pl/">nbw</a> prezentują zatem: <a href="http://gallery.room-303.com/Varia/WebStandards/standardysieciowe2.jpg?orig=1">standardy sieciowe</a>.</p>
+
+<p>Dostępna jest też <a href="http://gallery.room-303.com/Varia/WebStandards/">oficjalna strona akcji</a>. Za efekty nie ręczymy. <abbr title="Not Suitable For Work">NSFW</abbr>.</p>

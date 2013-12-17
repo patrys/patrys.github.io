@@ -1,0 +1,730 @@
+---
+layout: post
+status: publish
+published: true
+title: O co dokładnie chodzi z BrowseHappy i MsnBetter ThanGoogle?
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 115
+date: 2005-06-26 22:20:40.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1425
+  author: remiq
+  author_url: ''
+  date: '2005-06-26 22:40:43 +0200'
+  date_gmt: '2005-06-26 22:40:43 +0200'
+  content: A cztery wpisy niżej Patryś jedzie SEO. Ładnie, ładnie.
+- id: 1426
+  author: Patrys
+  author_url: ''
+  date: '2005-06-26 22:42:36 +0200'
+  date_gmt: '2005-06-26 22:42:36 +0200'
+  content: |-
+    Zauważ, że ta strona:
+    <br/>
+    <br/>1) nie została zgłoszona do konkursu
+    <br/>2) wcale nie prosiła o promocję
+    <br/>3) nie używa nieuczciwych technik, jak strony z pierwszych dwóch stron wyników google na to hasło
+    <br/>
+    <br/>A cała akcja to właśnie między innymi obśmianie tego konkursu, przy okazji przysługujące się promocji alternatywnych przeglądarek
+- id: 1427
+  author: Patrys
+  author_url: ''
+  date: '2005-06-26 22:44:38 +0200'
+  date_gmt: '2005-06-26 22:44:38 +0200'
+  content: |-
+    remiq:
+    <br/>
+    <br/>Tak BTW, znajdź sobie wpis z maja zatytułowany &quot;O autorze&quot; i przeczytaj zdanie o moim nicku. Ja do ciebie &quot;ręmiq&quot; nie mówię.
+- id: 1428
+  author: m
+  author_url: ''
+  date: '2005-06-26 22:46:40 +0200'
+  date_gmt: '2005-06-26 22:46:40 +0200'
+  content: lol... &lt;a href=&quot;http://patrys.jogger.pl&quot;&gt;jestem pryszczatym
+    geekiem&lt;/a&gt; ;)
+- id: 1429
+  author: Patrys
+  author_url: ''
+  date: '2005-06-26 22:47:32 +0200'
+  date_gmt: '2005-06-26 22:47:32 +0200'
+  content: Nie uda się, w maju było zdjęcie, na stronie jest link do galerii :P
+- id: 1430
+  author: remiq
+  author_url: ''
+  date: '2005-06-26 22:50:09 +0200'
+  date_gmt: '2005-06-26 22:50:09 +0200'
+  content: "Patrys: \n<br/>1. No to zgłosić ją. \n<br/>2. Lepper też nie prosił. A
+    bzdurną kampanię dostał.\n<br/>3. Microsoft i Google używają. nieuczciwych technik.
+    MS stworzył IE, co jest _złą_ przeglądarką. Co to są &quot;nieuczciwe techniki&quot;?\n<br/>\n<br/>Cała
+    ta akcja to kolejny pomysł typu &quot;Cały Internet kontra google&quot;. "
+- id: 1431
+  author: Patrys
+  author_url: ''
+  date: '2005-06-26 22:53:23 +0200'
+  date_gmt: '2005-06-26 22:53:23 +0200'
+  content: Strona nie jest konkursowa i nikt chyba nie zamierza umieszczać tam bannera
+    reklamowego akcji, chodzi o promocję świadomości odnośnie przeglądarek, a nie
+    o jakąś walkę z Google. Google jest najlepszą wyszukiwarką i tyle. Nieuczciwe
+    techniki to tworzenie sztucznego contentu, który składa się z losowych słów kluczowych
+    i linków do identycznych podstron tylko po to, żeby windować całą taką siatkę
+    w wynikach, a przez to i stronę, do której się linkuje. W Google pozycję strony
+    podnoszą też linki z serwisów o wyższej pozycji i stron popularnych.
+- id: 1432
+  author: remiq
+  author_url: ''
+  date: '2005-06-26 22:57:06 +0200'
+  date_gmt: '2005-06-26 22:57:06 +0200'
+  content: Uważasz, że kto dotrze do browsehappy w ten sposób? Tylko Ci, co są zainteresowani
+    pozycjonowaniem, więc użytkownicy bardziej obeznani z czymś więcej, niż IE. Bo
+    chyba nie wierzysz, że typowy klikacz onetu wpisuje w googlu &quot;msnbetter thangoogle&quot;.
+- id: 1433
+  author: Patrys
+  author_url: ''
+  date: '2005-06-26 22:59:13 +0200'
+  date_gmt: '2005-06-26 22:59:13 +0200'
+  content: Liczę na to, że ludzie zainteresują się tym, że na sporej ilości stron
+    pojawia się ten sam link. To działa jak łańcuszki.
+- id: 1434
+  author: remiq
+  author_url: ''
+  date: '2005-06-26 23:00:22 +0200'
+  date_gmt: '2005-06-26 23:00:22 +0200'
+  content: |-
+    Kretyn? Tak. &quot;msnbetter thangoogle&quot;? Nigdy.
+    <br/>
+    <br/>Elo! Jest zajefajna akcja. Wszyscy linkujemy browsehappy.pl jako &quot;msnbetter thangoogle&quot;.
+    <br/>
+    <br/>Taaak. :)
+- id: 1435
+  author: wariat
+  author_url: ''
+  date: '2005-06-26 23:00:24 +0200'
+  date_gmt: '2005-06-26 23:00:24 +0200'
+  content: |-
+    Cała ta akcja to 1. śmierdzi bo co jak co ale (.{3}) nie jest napewno lepsze niż Gógel i tyle.
+    <br/>2. śmierdzi bo psucie (inaczej tego nazwać nie umiem) katalogu wyszukiwarki zawsze będzie złe
+    <br/>3. powyżej zaproponowane rozwiązanie jest dobre z wielu powodów i może dlatego warto się powygłupiac mimo iż to takie samo psucie katalogu, tylko na fraze na którą jest on właśnie psuty masowo. A przy okazji gdyby się udało wypozycjonowac browsehappy.pl na szczycie to być może uda się zrobić koło pióra tym co próbują komuś wmówić że (.{3}) jest lepsze ...
+    <br/>
+    <br/>Patrys: dzieki za linke, ale ja wlasnie po przeczytaniu tego co na samej górze więc jedyne co to zmusiło mni eto do powrotu i napisania powyższych bzdur :)
+    <br/>
+    <br/>$1, $2 nie chce wpisywać bo nie wiem czy to nie popsuje czegoś przypadkiem ;-)
+- id: 1436
+  author: wariat
+  author_url: ''
+  date: '2005-06-26 23:04:32 +0200'
+  date_gmt: '2005-06-26 23:04:32 +0200'
+  content: 'A i jeszcze jedno ... to że w ten sposob wypromuje sie browsehappy.pl
+    tylko wśród &quot;pozycjonerów&quot; to nei do końca prawda bo Góglarka po tych
+    linkahc trafi po raz kolejny na browsehappy.pl co samo w sobie podniesie mu Pagerank,
+    i dalej samo w sobie podnisie wyniki wszystkiego co myslę większośc z nas właśnie
+    uważa za better than... '
+- id: 1437
+  author: Puck
+  author_url: ''
+  date: '2005-06-26 23:30:57 +0200'
+  date_gmt: '2005-06-26 23:30:57 +0200'
+  content: 'Oj, wszyscy do tego podchodzą jak do jakiejś wielkiej idei (względnie:
+    zbrodni). Dla mnie to zabawa i mam nadzieję, że przy okazji można się przysłużyć
+    akcji &quot;surfuj bez obaw&quot;. Sam konkurs już został zbojkotowany (vide:
+    pierwsze dwa wyniki), więc czemu by go nie wykorzystać do własnych celów? :)'
+- id: 1438
+  author: Nivertius
+  author_url: ''
+  date: '2005-06-26 23:35:33 +0200'
+  date_gmt: '2005-06-26 23:35:33 +0200'
+  content: |-
+    No jak dzieci.
+    <br/>&#039;Akcja&#039; przypomina mi czasy podstawówki, w którym jedna osoba sobie złożyła z papeiru pewnego rodzaju &#039;strzelajke&#039; i się nią bawiła, to na następny dzień cała szkoła &#039;strzelała&#039;. Tak, tamto to też była zabawa.
+    <br/>Tak, jasne, pomożemy alternatywnym przeglądarką. Napewno co drugi polski użytkownik IE co drugi dzień bezsensowne angielskie frazy w wyszukiwarkach. Myślę, że jakbyśmy wszyscy zamiast umieszczać gupoty [błąd zamierzony] choć przyjrzeli się kodowi SwojejUlubionejAlternatywnejPrzeglądarki, to byśmy im bardziej pomogli.
+    <br/>A co do pagerank to wariacie masz racje, tylko po co na taką głupią fraze? Lepiej trzymać buttonek z odpowiednim altem niż te głupoty jednorazowo w notce.
+    <br/>Google ewidentnie sprzeciwiało się SEO, strony stosujące wyszukane techniki pozycjonowania dostają nawet bana. Ludzie, zresztą jak dla mnie kompetentni stwiedzili, że jeżeli strona jest dobrze napisana, ma semantycznie poprawną składnie to się sama wypozycjonuje.
+    <br/>Nie, nie jak dzieci, jak owieczki.
+    <br/>Tak tak, to tylko zabawa i obeśmianie się z konkursu.
+    <br/>Patrys zaczął, to Patrysowi się dostnie komentarzem.
+- id: 1439
+  author: Patrys
+  author_url: ''
+  date: '2005-06-27 01:20:27 +0200'
+  date_gmt: '2005-06-27 01:20:27 +0200'
+  content: Hehehe, statystyki pokazują, że coraz więcej ludzi trafia tu przez forum.optymalizacja.com,
+    niestety dostęp tam jest tylko dla zarejestrowanych, więc nie dowiem się, czy
+    podobnie jak w przypadku Hapi trafię na 7thguarda, Slashdot czy do Wyborczej.
+- id: 1440
+  author: sztywny
+  author_url: ''
+  date: '2005-06-27 18:50:05 +0200'
+  date_gmt: '2005-06-27 18:50:05 +0200'
+  content: No wypasiony żart, świat się śmieje po prostu. Kolejna okazja do 200 bezsensownych
+    wpisów na jogger.pl.
+- id: 1441
+  author: 'a ja lubie obie wyszukiwarki :'
+  author_url: ''
+  date: '2005-06-28 02:15:09 +0200'
+  date_gmt: '2005-06-28 02:15:09 +0200'
+  content: |-
+    Patrys, kto wie może trafisz nawet do &quot;Rozmów w toku&quot; :D
+    <br/>
+    <br/>wow! :) właśnie sprawdziłem gratuluję tak wysokiej pozycji na fraze konkursową!
+- id: 1442
+  author: qwiat
+  author_url: ''
+  date: '2005-06-28 12:24:49 +0200'
+  date_gmt: '2005-06-28 12:24:49 +0200'
+  content: cała akcja zaczyna mi się podobać :) http://qwiat.icenter.pl/msnbtg.html
+- id: 1443
+  author: 'a ja lubie obie wyszukiwarki :'
+  author_url: ''
+  date: '2005-06-28 16:26:19 +0200'
+  date_gmt: '2005-06-28 16:26:19 +0200'
+  content: |-
+    qwiat widzę że przeceniasz intencje swojego &quot;mistrza&quot;. Konkurs budzi duże zainteresowanie, został nawet przedstawiony w telewizji TVN! :D
+    <br/>
+    <br/>Nie ma się co dziwić, czy to w pozytywnym odniesieniu do podmiotu czy negatywnym, od dawna sposób &#039;na sępa&#039; towarzyszy rozmaitym działaniom reklamowym.
+    <br/>
+    <br/>qwiat myślę, że warto wychylić nos poza patrys.jogger.pl
+- id: 1444
+  author: Przemo
+  author_url: ''
+  date: '2005-06-28 21:52:30 +0200'
+  date_gmt: '2005-06-28 21:52:30 +0200'
+  content: Ten konkurs pozycjonowania to żenada dlatego podoba mi się pomysł zwałowania
+    go :]
+- id: 1445
+  author: Qwiat
+  author_url: ''
+  date: '2005-06-28 22:07:31 +0200'
+  date_gmt: '2005-06-28 22:07:31 +0200'
+  content: "W dupie mam intencje mojego &quot;intencyjnego mistrza&quot; :P. \n<br/>\n<br/>Poprostu
+    lubię dobrą zabawę a tego mi nie brakuje jak rzucę okiem ranking i źródło strony
+    http://msnbetter-thangoogle.wojd.eu.org/ (aktualnie czwartej w kolejności)\n<br/>\n<br/>Przy
+    okazji śmieję się sam z siebie że kiedyś tyle pracowałem na &quot;ładnym&quot;
+    dla wyszukiwarki kodem strony.\n<br/>\n<br/>Co do prawd życiowych i wychodzenia
+    poza joggera Patrysa to nie bardzo rozumiem o co ci chodzi. Jak próbuję napisać
+    na to jakąś cientą ripostę to wychodzi z mi bełkot... nie skomentuję."
+- id: 1446
+  author: ere
+  author_url: ''
+  date: '2005-06-29 08:59:08 +0200'
+  date_gmt: '2005-06-29 08:59:08 +0200'
+  content: |-
+    nie podoba Wam sie konkurs, nazywacie go żenadą a jednak jedziecie na jego fali... to jest dla mnie osobiscie przykre.
+    <br/>
+    <br/>tak sobie pomyślałem: prosze, wymyslcie sobie wlasne haslo, zwiazane z przegladarkami czy tez z czym sobie chcecie... i bawcie sie.
+    <br/>
+    <br/>to, co robicie w tej chwili, sami nazywacie spamowaniem wynikow - promujecie strone niezwiazana z danym tematem. Wasz marketing pokonal etyke... tylko dlaczego tak latwo to przyszlo?
+    <br/>
+    <br/>na koniec szczerze nie zycze, byscie byli swiadkami jak ktos w swoim interesie jedzie na popularnosci Waszych pomyslow. Wszak jest tyle do wymyslenia jeszcze... powodzenia.
+- id: 1447
+  author: wariat
+  author_url: ''
+  date: '2005-06-29 09:11:01 +0200'
+  date_gmt: '2005-06-29 09:11:01 +0200'
+  content: "Bez sensu... Jaki marketing? Ktos zaczal sprzedawac firefoksy w Empiku?
+    Psucie komus zabawy? W swoim interesie? Gdzie ten interes? Bez przesady. To że
+    strone browsehappy można znaleźć na pierwszej stroeniw wyników na zapytanie &quot;nowoczesne
+    przeglądarki internetowe&quot; wg. mnie i pewnie nie tylko mnie udowadnia, że
+    dobrze napisana strona zawierająca treść wypozycjonuje się sama. \n<br/>Ale załóźmy,
+    że pozycjonowanie profesjonalne jest ważne i potrzebne. Uważasz, że jest wporzadku
+    jeśli polega to na tym, że zestaw stron posiada linki do siebie na wzajem w bloku
+    wyświetlanym nie tylko poza przeglądarką, ale nawet poza monitorem ;-) jest ok?
+    Na tym polega pozycjonowanie strony? No to ja dziękuję bo dopiero kiedy zajżałem
+    wczoraj do kodu zorientowałem się dlaczego wyskakują mi wyniki &quot;z kapelusza&quot;
+    i doprecyzowałem zapytanie. \n<br/>W tym konetkście (JA) uważam zjawisko zwane
+    &quot;pozycjonowaniem&quot; jako szkodliwe. Do samej zabawy w konkurs nic nie
+    mam, może poza tym, że hasło mnie drażni :), wierzę bowiem w to co padło tu kilka
+    razy, że po zakończeniu konkursu i usunięciu tego całego stuffu z sieci Google
+    sam z siebie się oczyści i jakieś wyimaginowane szkody nie powstaną."
+- id: 1448
+  author: sztywny
+  author_url: ''
+  date: '2005-06-29 09:13:49 +0200'
+  date_gmt: '2005-06-29 09:13:49 +0200'
+  content: Kompletnie was pojebało chłopaki. Nudzi wam się?
+- id: 1449
+  author: ere
+  author_url: ''
+  date: '2005-06-29 09:16:29 +0200'
+  date_gmt: '2005-06-29 09:16:29 +0200'
+  content: |-
+    interes to promocja przegladarek, co z tego ze sa darmowe.
+    <br/>sam na swoich stronach mam buttony firefoxa i ciesze sie, jesli ktos dzieki temu trafi na jego strone.
+    <br/>
+    <br/>tak, jak napisalem - uwazam Wasze dzialanie za nieetyczne, szczegolnie w kontekscie wypowiedzi o tym, jak to nie lubicie spamowania wynikow.
+- id: 1450
+  author: Krymzon
+  author_url: ''
+  date: '2005-06-29 14:05:15 +0200'
+  date_gmt: '2005-06-29 14:05:15 +0200'
+  content: |-
+    Przepraszam, ale to jest spamowanie jakich wyników? Czy pozostałe wyniki mają jakiś sens? Czy jest to spychanie wartościowych witryn?
+    <br/>To po prostu tragedia, że takie http://msnbetter-thangoogle.hoomor.pl/ znalazło się o jedną pozycję dalej, niż by było, gdyby nie ta akcja...
+    <br/>
+    <br/>SEO zrobiło konkurs, żeby pokazać jaki Google jest rzekomo badziewny. Patrys wpadł na pomysł jak pokazać, że konkurs jest badziewny. Dodaktowym skutkiem jest to, że wśród setek bezsensownych stron konkursowych znalazła się dobra witryna. To jest spamerstwo?
+- id: 1451
+  author: ere
+  author_url: ''
+  date: '2005-06-29 15:26:15 +0200'
+  date_gmt: '2005-06-29 15:26:15 +0200'
+  content: Tak, jak najbardziej - strona nie ma nic wspolnego z wyszukiwana fraza.
+- id: 1452
+  author: Puck
+  author_url: ''
+  date: '2005-06-29 15:52:46 +0200'
+  date_gmt: '2005-06-29 15:52:46 +0200'
+  content: ere, jak to nie ma nic wspólnego? To główna strona bojkotująca tą frazę!
+    Gdyby nie miała nic wspólnego, to nie wyskakiwała by w wynikach. Tak samo wszystkie
+    inne wyniki nie mają nic wspólnego z MsnBetter ThanGoogle, bo ta fraza nic nie
+    znaczy.
+- id: 1453
+  author: ere
+  author_url: ''
+  date: '2005-06-29 18:05:52 +0200'
+  date_gmt: '2005-06-29 18:05:52 +0200'
+  content: "Puck, strony biorace udzial w konkursie maja zwiazek z fraza, poniewaz
+    biora udzial w konkursie na te fraze (sic!), zawieraja zwykle fraze w tytule lub
+    tresci strony.\n<br/>\n<br/>Tlumaczenie sie bojkotem uwazam za smieszne, czy wobec
+    tego strona o kanarkach moze byc w wynikach na fraze &#039;zdjecia Saturna&#039;
+    poniewaz kanarki bojkotuja te planete?\n<br/>Czy to wlasnie nie jest zasmiecanie
+    wynikow?\n<br/>\n<br/>Dodam tylko, ze strona browsehappy pojawia sie w wynikach
+    wskutek (niestety) naiwnosci i niedoskonalosci algorytmu Google. Ukazanie takich
+    zachowan wyszukiwarki to rowniez cel konkursu.\n<br/>\n<br/>pozdrawiam serdecznie
+    \n<br/>i oczywiscie zachecam do zarejestrowania sie w konkursie ;)"
+- id: 1454
+  author: Puck
+  author_url: ''
+  date: '2005-06-29 18:13:00 +0200'
+  date_gmt: '2005-06-29 18:13:00 +0200'
+  content: "zrozum, ere, że Internet to nie jest prosta maszyna. Każdy z nas go tworzy.
+    Jeśli mówimy, że IE to kiepska przeglądarka i google to &quot;potwierdza&quot;
+    to znaczy, że spamujemy, bo na oficjalnej stronie microsoftu nie jest tak napisane?
+    \n<br/>Internet to każdy z nas, każda notka, komentarz link i opinia. Jeśli większość
+    użytkowników joggera łączy browsehappy z frazą - to ten fakt już oznacza, że te
+    dwie rzeczy mają związek.\n<br/>Poza tym, nigdzie nie jest napisane, że strona
+    konkursowa musi mieć coś wspólnego z frazą. Ma po prostu być na pierwszym miejscu.
+    Nigdzie też nie jest napisane, że należy promować swoją stronę. ;-) \n<br/>Dobra,
+    wiem o co Ci chodzi, EOT z mojej strony."
+- id: 1455
+  author: sztywny
+  author_url: ''
+  date: '2005-06-29 18:16:11 +0200'
+  date_gmt: '2005-06-29 18:16:11 +0200'
+  content: |-
+    Akcja &quot;Andrzej Lepper to kretyn&quot; była chociaż zabawna.
+    <br/>
+- id: 1456
+  author: ere
+  author_url: ''
+  date: '2005-06-29 18:27:35 +0200'
+  date_gmt: '2005-06-29 18:27:35 +0200'
+  content: |-
+    sztywny, byla zabawna ale tez nie dla wszystkich.
+    <br/>
+    <br/>Nie wiem, czy wiecie ale tego typu konkursy organizowane sa na swiecie dosc czesto - np tuz przed startem polskiego, zakonczyl sie francuski konkurs &#039;sorcier glouton&#039; rozgrywany w wyszukiwarce msn.fr.
+    <br/>
+    <br/>To po prostu sprawdzian dla pozycjonerow i okazja do wspolnej zabawy uczestnikow.
+    <br/>
+    <br/>pozdrawiam
+- id: 1457
+  author: Patrys
+  author_url: ''
+  date: '2005-06-29 19:11:49 +0200'
+  date_gmt: '2005-06-29 19:11:49 +0200'
+  content: |-
+    ere:
+    <br/>
+    <br/>Pokaż mi jedną osobę, która będzie konkursowego hasła szukała w internecie. Ba, na pierwszej stronie wyników są tylko trzy strony, które zawierają jakąkolwiek treść i o dziwo żadna z nich nie bierze udziału w zawodach.
+    <br/>
+    <br/>Skoro jednak hasło jest bezużyteczne zupełnie i ludziom nie szkodzimy to komu szkodzimy? Konkursowi? Nie, nie szkodzimy konkursowi, bo skoro nie bierzemy w nim udziału to nie wpływamy na jego wyniki w żaden sposób.
+    <br/>
+    <br/>Może szkodzimy IE? Tak, jemu szkodzimy, bo linkujące osoby przy okazji konkursu podbijają PageRank strony BrowseHappy. To nie jest złe, bo jaką przeglądarką IE jest, każdy widzi.
+    <br/>
+    <br/>Gdzie tu więc niemoralność i nieetyczność? To, że wyprzedziliśmy kilka tysięcy stron-krzaków pozycjonujących się tą samą metodą? Kto mieczem wojuje, ten od miecza ginie. Absurdalność pozycjonowania serwisu, który danej frazy nie zawiera jest właśnie formą protestu przeciwko wyszukiwarkowym uszustom - pozycjonując sztucznie (nie przez content) strony, psują internet, bo Google zwraca strony niezwiązane z poszukiwaną frazą. To, że na hasło &quot;ogórki&quot; wyskoczy mi producent lodówek nie zobliguje mnie w żaden sposób do zakupu nowego sprzętu AGD, a może tylko zniechęcić do marki, która używa takich metod promocji.
+    <br/>
+    <br/>Do ciebie osobiśnie nic nie mam, do organizatorów konkursu też nie, sprawdziłem, że strona konkursu nie zawiera żadnych linków bezpośrednich do strony organizatora, więc i teoria o autopromocji się nie sprawdziła.
+- id: 1458
+  author: ere
+  author_url: ''
+  date: '2005-06-29 19:34:22 +0200'
+  date_gmt: '2005-06-29 19:34:22 +0200'
+  content: |-
+    Patrys, szczerze zycze powodzenia w dalszym promowaniu browsehappy i dobrych przegladarek, jesli konkurs w jakis sposob Wam w tym pomaga to tym bardziej sie ciesze.
+    <br/>Byc moze Wasza strona zajmie pierwsza pozycje, kto wie... wowczas bede Wam gratulowal sily linkow i jednosci.
+    <br/>
+    <br/>Osobiscie zle odebralem ataki w stylu &#039;ten konkurs to wiocha&#039; albo &#039;obśmiejmy go&#039;.
+    <br/>To po prostu bylo przykre biorac pod uwage, ile pracy kosztowalo jego rozpoczecie. To chyba nieuniknione, ze popelnia sie bledy robiac cos po raz pierwszy. Bledy przerozne, ktore teraz wychodza.
+    <br/>
+    <br/>W kazdym razie zycze milej zabawy, obserwowania wynikow i zachowan Google :)
+    <br/>
+    <br/>pozdrawiam
+    <br/>aha.. i nie bylbym soba, gdybym na koniec nie zachecil do rejestracji w konkursie ;) czesc
+- id: 1459
+  author: Patrys
+  author_url: ''
+  date: '2005-06-29 19:37:09 +0200'
+  date_gmt: '2005-06-29 19:37:09 +0200'
+  content: |-
+    ere:
+    <br/>
+    <br/>To ja mam propozycję taką, żeby w następnej edycji wyraźnie zakazać umieszczania konkursowych stron na serwerach innych niż swoje (np. na darmowych kontach) i wprowadzić obowiązek ich usunięcia po zakończeniu. Dodatkowa dyskwalifikacja za spamowanie cudzych stron czy to przez komentarze, czy na forach dyskusyjnych.
+- id: 1460
+  author: sw
+  author_url: ''
+  date: '2005-06-30 02:19:26 +0200'
+  date_gmt: '2005-06-30 02:19:26 +0200'
+  content: |-
+    Cała wasza akcja się nie uda, bo pod koniec konkursu do pierwszego wyniku będzie prowadziło najmniej 100.000 linków, i to odpowiednio poprowadzonych bo inaczej dostanie się filtr. Jeśli chcecie zaistnieć to macie szansę teraz przez dzień, tydzien, może trochę dłużej...
+    <br/>A we wrześniu zacznie się ostra jazda
+- id: 1461
+  author: Transjeż
+  author_url: ''
+  date: '2005-06-30 02:38:39 +0200'
+  date_gmt: '2005-06-30 02:38:39 +0200'
+  content: |-
+    Brgrhbr
+    <br/>
+    <br/>I tak wygra allegro
+    <br/>a wszyscy co grali to sie skichali
+    <br/>
+    <br/>brgrhbre
+- id: 1462
+  author: Kornel^BrowseHappy
+  author_url: ''
+  date: '2005-07-01 00:01:53 +0200'
+  date_gmt: '2005-07-01 00:01:53 +0200'
+  content: |-
+    Dzięki za promocję. Działa. Ruch na browsehappy.pl znacznie się zwiększył.
+    <br/>
+    <br/>Użytkownicy IE też interesują się konkursem...
+- id: 1463
+  author: Patrys
+  author_url: ''
+  date: '2005-07-01 00:03:03 +0200'
+  date_gmt: '2005-07-01 00:03:03 +0200'
+  content: Marketing wirusowy to najskuteczniejsza forma reklamy :)
+- id: 1464
+  author: Szoki
+  author_url: ''
+  date: '2005-07-01 00:12:38 +0200'
+  date_gmt: '2005-07-01 00:12:38 +0200'
+  content: |-
+    Teraz spokojnie ludziki mogą opuscić ich forum bo po co im forum jak Koleś:) z Allegro wygrywa
+    <br/>
+    <br/>Niech nam długo zyje pozycjoner z allegro
+- id: 1465
+  author: qwiat
+  author_url: ''
+  date: '2005-07-01 14:26:02 +0200'
+  date_gmt: '2005-07-01 14:26:02 +0200'
+  content: |-
+    ere otrzymujemy takie mechanizmy wyszukiwarek na jakie sobie zasluzylismy (my czyli webmasterzy w ogole). Nieuczciwe praktyki przy pozycjonowaniu stron WWW zmusiły twórców wyszukiwarek do pewnych radykalnych posunięć.
+    <br/>
+    <br/>W pięknej wizji świata strony powinny być pozycjonowane po słowach kluczowych i z taką myslą był tworzony HTML.
+    <br/>
+    <br/>Ludzie okazali się idiotami i mamy to co obecnie mamy. Mam nadzieję że kiedyś strony będą robione w XML-u, to znacznie polepszy metody wyszukiwania (oby).
+    <br/>
+    <br/>PS Gdyby nie tak zaczepne hasło konkursu to może nie doszło by do tej zabawy :)
+- id: 1466
+  author: ike
+  author_url: ''
+  date: '2005-07-02 00:07:44 +0200'
+  date_gmt: '2005-07-02 00:07:44 +0200'
+  content: hurra. radiomaryjabetter thangoogle ;-)
+- id: 1467
+  author: ere
+  author_url: ''
+  date: '2005-07-02 12:04:15 +0200'
+  date_gmt: '2005-07-02 12:04:15 +0200'
+  content: "qwiat, gdyby nie zaczepne haslo - nie byloby tak glosno o konkursie :)\n<br/>i
+    o to chodzilo...\n<br/>\n<br/>inna sprawa - codziennie analizuje wyniki w google
+    i msn.\n<br/>niestety, jak do tej pory cisnie sie na usta tylko jedno &#039;msnbetter&#039;
+    - to, w jaki sposob mozna manipulowac google jest po prostu smutne.\n<br/>a jakie
+    jest wasze zdanie? \n<br/>\n<br/>pozdrawiam\n<br/>ps. Patrys w operze to okienko
+    do wpisywania komentarza jest strasznie male - na oko, jakies 200px :("
+- id: 1468
+  author: Juzeff de Troll
+  author_url: ''
+  date: '2005-07-02 21:46:51 +0200'
+  date_gmt: '2005-07-02 21:46:51 +0200'
+  content: Czym tumaczyć tak nagły upadek browserhappy.pl w wynikach gugla?
+- id: 1469
+  author: Krolowa
+  author_url: ''
+  date: '2005-07-04 12:37:57 +0200'
+  date_gmt: '2005-07-04 12:37:57 +0200'
+  content: ja trafilam na browsehappy dzieki MsnBetter ThanGoogle ;)
+- id: 1470
+  author: rorio
+  author_url: ''
+  date: '2005-07-04 16:33:09 +0200'
+  date_gmt: '2005-07-04 16:33:09 +0200'
+  content: 'Genialny pomysł! Patrys rulez!!! '
+- id: 1471
+  author: buc rorio (jestem z tego dumny
+  author_url: ''
+  date: '2005-07-04 16:49:03 +0200'
+  date_gmt: '2005-07-04 16:49:03 +0200'
+  content: |-
+    ere: ale ten konkurs to wiocha... Jesli z wiocha zrobimy cos co ma sens to ta wiocha bedzie mniej wsiocka (od msn bo to wiocha straszna). Cale to pozycjonowanie to wiocha: no to robimy wioche no i ta mniej wsiocka wiocha bedzie wsiocka na maksa tak jak IE (bo to wiocha) ale ludzie wejda na browseł happy to sie kopsna na nie wsiockiego ff! Jasne? Patrys robi wies z wsi i to jest wspaniale!
+    <br/>No i jeszcze microshit(wiohahahaha!) robi wies, a do nich nalezy msn ktore vjest wiocha, nie? no to robimy wioche!
+- id: 1472
+  author: ere
+  author_url: ''
+  date: '2005-07-04 18:45:15 +0200'
+  date_gmt: '2005-07-04 18:45:15 +0200'
+  content: |-
+    przykro mi buc rorio, ale Twoja wypowiedź to dla mnie żenada.
+    <br/>sądziłem, że wypowiadają się tutaj ludzie dorośli...
+    <br/>
+    <br/>rób sobie wiochę, Twoja sprawa.
+    <br/>do zobaczenia w sandboxie.
+- id: 1473
+  author: rorio
+  author_url: ''
+  date: '2005-07-05 21:16:13 +0200'
+  date_gmt: '2005-07-05 21:16:13 +0200'
+  content: Wiesz, ta moja wypowiedz jest w stylu tego calego jeb***** pozycjonowania.
+    To zenada... straszliwa.... Kto przyniesie foremki?
+- id: 1474
+  author: Kornel
+  author_url: ''
+  date: '2005-07-18 11:05:42 +0200'
+  date_gmt: '2005-07-18 11:05:42 +0200'
+  content: Już milion stron jest w wynikach Google, a BrowseHappy jest w czołówce!
+- id: 1475
+  author: simon
+  author_url: ''
+  date: '2005-07-21 01:08:56 +0200'
+  date_gmt: '2005-07-21 01:08:56 +0200'
+  content: |-
+    Pytanie do właśncicieli BrowseHappy jeżeli chcecie zbojkotować konkurs, który wam nic nie zrobił a na hasło konkursowe przed startem nie było żadnych wyników iwęc nikomu nie szkodzi ten konkurs
+    <br/>Napiszcie o swojej akcji oficjalnie na głównej stroniew i wyjaśnijcie czmu to robicie, powiem tak mnie swoją akcją do  Siebie zraziliście i już... I powiem wam wiele osób będzie miało o was negatywne zdanie.
+    <br/>
+    <br/>No chyba że wyznajecie zasade neiważne że źle o nas mówią ważne że mówią...
+    <br/>
+    <br/>Zaczynacie powoli niebezpieczną grę macie dorby pomysł i szczytną ideę ale metody nie są ani etyczne ani fair...
+- id: 1476
+  author: Patrys
+  author_url: ''
+  date: '2005-07-21 01:11:42 +0200'
+  date_gmt: '2005-07-21 01:11:42 +0200'
+  content: A skąd ten genialny pomysł, że ja mam cokolwiek wspólnego z BrowseHappy?
+    Czytanie nie boli.
+- id: 1477
+  author: simon
+  author_url: ''
+  date: '2005-07-21 01:16:02 +0200'
+  date_gmt: '2005-07-21 01:16:02 +0200'
+  content: a ktop powiedział że pytanie było do Ciebie zapytałem włąscicieli lub twórców,
+    przeczytaj dokładnie czy gdzies przypadkiem jest Twój nick?? A może nie wiem co
+    pisze??
+- id: 1478
+  author: Patrys
+  author_url: ''
+  date: '2005-07-21 01:17:11 +0200'
+  date_gmt: '2005-07-21 01:17:11 +0200'
+  content: No chyba nie wiesz, bo akcja jest moja.
+- id: 1479
+  author: simon
+  author_url: ''
+  date: '2005-07-21 01:19:19 +0200'
+  date_gmt: '2005-07-21 01:19:19 +0200'
+  content: "wypowiedź jak widać z Nicku:\n<br/>\n<br/>&quot;Kornel^BrowseHappy powiedział(a):\n<br/>\n<br/>01
+    lipca 2005 o 00:01:53 \n<br/>Dzięki za promocję. Działa. Ruch na browsehappy.pl
+    znacznie się zwiększył. \n<br/>\n<br/>Użytkownicy IE też interesują się konkursem...&quot;\n<br/>\n<br/>\n<br/>Więc
+    oni nie umywają od tego rąk, a po za tym możesz lekko zaszkodzić witrynie... Uwierz
+    mi mogą być za to przez wiele osób znienawidzeni...\n<br/>"
+- id: 1480
+  author: wariat
+  author_url: ''
+  date: '2005-07-21 01:20:05 +0200'
+  date_gmt: '2005-07-21 01:20:05 +0200'
+  content: |-
+    Kurcze temat bumerang? :D Czyzby az tak draznilo &quot;konkursowiczow&quot; ze browserhappy.pl wisi sobie na puierwszym miejscu mimo iz wiele osob juz zapomnailo, ze mielismy je wykrecic?
+    <br/>Wlasciciel browserhappy nie ma z pomyslem nic wspolnego, za to Patrys u ktorego piszemy ma ... to raz.
+    <br/>Dwa o &quot;akcji&quot; jest na stronie &quot;akcji&quot; bo za strone &quot;akcji&quot; mozna uznac joger Patrysia wiec postulat jest spelniony ;-)
+    <br/>Trzy ... nie chce mi sie ... trzy i dalej vbylo juz milion razy wyjasniane :D
+- id: 1481
+  author: Patrys
+  author_url: ''
+  date: '2005-07-21 01:20:20 +0200'
+  date_gmt: '2005-07-21 01:20:20 +0200'
+  content: A niby za co, skoro nie biorą udziału w konkursie?
+- id: 1482
+  author: Patrys
+  author_url: ''
+  date: '2005-07-21 01:21:21 +0200'
+  date_gmt: '2005-07-21 01:21:21 +0200'
+  content: Nawet na wikipedię się załapaliśmy :]
+- id: 1483
+  author: simon
+  author_url: ''
+  date: '2005-07-21 01:21:50 +0200'
+  date_gmt: '2005-07-21 01:21:50 +0200'
+  content: wariat ani nie biorę udziału w konkursie, dwa ani nie mam z nim nic wspólnego
+    po prostu wkurwia mnie jeżeli ktoś wykorzystuję coś popularnego, twierdzi że go
+    to wkurwia ale wykorzystuje to do wałsnego marketingu, w sensie chcemy bnyc na
+    fali, żałosne z lekka....
+- id: 1484
+  author: simon
+  author_url: ''
+  date: '2005-07-21 01:22:32 +0200'
+  date_gmt: '2005-07-21 01:22:32 +0200'
+  content: |-
+    w wikipedi można samu edytować więc nie ściemniaj....
+    <br/>
+    <br/>Dzicinne
+- id: 1485
+  author: Patrys
+  author_url: ''
+  date: '2005-07-21 01:24:17 +0200'
+  date_gmt: '2005-07-21 01:24:17 +0200'
+  content: No to sprawdź czy aby sam dopisałem. Z takim podejściem daleko nie zajedziesz
+    w dyskusji, bo trolli się ignoruje.
+- id: 1486
+  author: wariat
+  author_url: ''
+  date: '2005-07-21 01:26:40 +0200'
+  date_gmt: '2005-07-21 01:26:40 +0200'
+  content: "Zrozum ... \n<br/>tak konkurs pozycjonowania uwazam za malo rozsadny a
+    byc moze szkodliwy. Szkodliwy w sensie spamowania bazy googla i innych wyszukiwarek
+    tez automatycznie. \n<br/>Ale to olalem, wychodzac z zalozenia ze baza jest juz
+    popsuta grupa ludzi uzyla &quot;frazy msnbetter thangoogle&quot; aby wypozycjonowac
+    na nia strone zawierajaca tresc. I tyle ... \n<br/>Zart ... jesli ktokolwiek moze
+    sie za to obrazic na kogokolwiek ... a niech sie obraza jego sprawa. \n<br/>Organizatorzy
+    konkursu, bioracy w nim udzial i inni jakos nie maja nic przeciwko, mozna powiedziec
+    ze wrecz kibicuja. \n<br/>To podobno ludzie zafascynowani googlem jako takim technikami
+    i takimi tam ... browsehappy.pl wypozycjonowane mimo braku informacji na stronie
+    to dla nich rowniez jakis material do zglebiania wiedzy tajemnej.\n<br/>\n<br/>Tak
+    wolalbym swiat bez &quot;pozycjonowania&quot;, &quot;klikania w banerki&quot;
+    i wielu innych rzeczy ... neiststy taki swiat juz był, i wiecej go nie bedzie
+    ... \n<br/>\n<br/>A jesli ktos z powodu tego zartu zawezmie sie i bedzie do konca
+    zycia uzywal IE na zlosc browsehappy.pl, cuz ... jego strata :D"
+- id: 1487
+  author: simon
+  author_url: ''
+  date: '2005-07-21 01:27:03 +0200'
+  date_gmt: '2005-07-21 01:27:03 +0200'
+  content: Whatever, karcisz stronę Browsehappy które w swoim zamyśle jest dobra ale
+    zaczyna się o niej negatywnie mówic w kontekscie konkursu i na jutro pokaże Ci
+    conajmniej 20 linkó do artkułów o negatywnej stronie TWojej akcji, wieć poczekaj
+    do jutra o tej porze...
+- id: 1488
+  author: simon
+  author_url: ''
+  date: '2005-07-21 01:29:40 +0200'
+  date_gmt: '2005-07-21 01:29:40 +0200'
+  content: |-
+    wariat uważam IE za najgorszy produkt ale do tego akurat ja nie potrzebowałem browsehappy pracuje w informatyce od 20 lat i uwierz mi trafiłem tutaj poprzez pewne negatywne opinie o tej akcji w kręgu informatyków, takich portali jak: Onet, WP, ranking.pl, czy chocby polska wersja ebay...
+    <br/>
+    <br/>Chodzi mi o to że ta akcja może zaszkodzić dobrej i pozytywnej witrynie... i o nic więcej
+- id: 1489
+  author: Patrys
+  author_url: ''
+  date: '2005-07-21 01:30:14 +0200'
+  date_gmt: '2005-07-21 01:30:14 +0200'
+  content: Pisz waść szybko te artykuły, bo będę skrupulatnie liczył. Chyba pomylił
+    ci się blog z pikietą i głodówką relacjonowaną w TV na wszystkich kanałach. To
+    że masz jakieś osobiste uprzedzenia do mnie (może zazdrościsz czegoś?) ma się
+    nijak do naszej zabawy.
+- id: 1490
+  author: Patrys
+  author_url: ''
+  date: '2005-07-21 01:31:34 +0200'
+  date_gmt: '2005-07-21 01:31:34 +0200'
+  content: To w Onecie i WP teraz specjalistów zatrudnili? Chyba całkiem niedawno,
+    bo jak ostatnio tam zaglądałem to tę samą papkę ludziom serwowali. :D
+- id: 1491
+  author: simon
+  author_url: ''
+  date: '2005-07-21 01:31:50 +0200'
+  date_gmt: '2005-07-21 01:31:50 +0200'
+  content: Patrys poczytaj sobie artykuły o negatywnych skutkach złego PR...  to akurat
+    stosujesz ale oki z mojej strony do jutra CIsza... A jak mi zabraknie artykułów,
+    to chłopai w paru portalach na pewno na szybko coś napisza hehehehe
+- id: 1492
+  author: wariat
+  author_url: ''
+  date: '2005-07-21 01:34:08 +0200'
+  date_gmt: '2005-07-21 01:34:08 +0200'
+  content: "Tia jassne :D\n<br/>\n<br/>Patrys: A na tej wiki to gdzie? Bo ja tam nic
+    nie widze choc art. o konkursie jest ... "
+- id: 1493
+  author: Patrys
+  author_url: ''
+  date: '2005-07-21 01:34:19 +0200'
+  date_gmt: '2005-07-21 01:34:19 +0200'
+  content: A ja dalej ci powtarzam, że BrowseHappy o akcji zostało powiadomione już
+    po jej przeprowadzeniu. Mogą o mnie źle pisać w Onecie, Interii, WP, na czatach,
+    w PC Worldzie, w Chipie, w Linux+, a nawet w magazynie Bravo. Nadal świetnie się
+    bawię :)
+- id: 1494
+  author: wariat
+  author_url: ''
+  date: '2005-07-21 01:36:04 +0200'
+  date_gmt: '2005-07-21 01:36:04 +0200'
+  content: A juz znalazlem ... w historii strony ... ktos juz killnal byl linka :D
+- id: 1495
+  author: Patrys
+  author_url: ''
+  date: '2005-07-21 01:41:36 +0200'
+  date_gmt: '2005-07-21 01:41:36 +0200'
+  content: Swoją drogą, ta akcja odbyła się prawie miesiąc temu.
+- id: 1496
+  author: wariat
+  author_url: ''
+  date: '2005-07-21 01:44:30 +0200'
+  date_gmt: '2005-07-21 01:44:30 +0200'
+  content: To juz poza wszystkim :D Moze trzeba by powtorzyc? Eeee pozniej ;-)
+- id: 1497
+  author: szafoski
+  author_url: ''
+  date: '2005-07-22 11:57:40 +0200'
+  date_gmt: '2005-07-22 11:57:40 +0200'
+  content: |-
+    www.majdanskieblokowiska.prv.pl
+    <br/>www.majdanskieblokowiska.prv.pl
+    <br/>www.majdanskieblokowiska.prv.pl
+    <br/>www.majdanskieblokowiska.prv.pl
+    <br/>www.majdanskieblokowiska.prv.pl
+    <br/>
+- id: 1498
+  author: Jajcus
+  author_url: ''
+  date: '2005-07-22 12:06:55 +0200'
+  date_gmt: '2005-07-22 12:06:55 +0200'
+  content: O widzę, że &quot;test turinga&quot; (wpisywanie cyferek) odsiewa może
+    boty, ale różnych ćwierćiteligentów nie zatrzyma ;-)
+- id: 1499
+  author: rorio
+  author_url: ''
+  date: '2005-07-22 17:20:27 +0200'
+  date_gmt: '2005-07-22 17:20:27 +0200'
+  content: 'Simon się odczepił, czy jeszcze się gdzieś czai? '
+- id: 1500
+  author: Patrys
+  author_url: ''
+  date: '2005-07-22 19:02:56 +0200'
+  date_gmt: '2005-07-22 19:02:56 +0200'
+  content: Kiepskie pozycjonowanie strony, kiedy linki się nie linkują ;]
+- id: 1501
+  author: siedem
+  author_url: ''
+  date: '2005-08-22 12:59:22 +0200'
+  date_gmt: '2005-08-22 12:59:22 +0200'
+  content: Zgadzam się z Simonem i negatywnym PR. Po lekturze wypowiedzi na kilku
+    joggerach i widząc poparcie Kornela, kiedy widzę gdzieś link do browsehappy robi
+    mi się jakoś tak niefajnie. No ale cóż... jedni się cieszą, innym nie w smak.
+---
+<p>Przy okazji opisu <a href="http://patrys.jogger.pl/comment.php?eid=126542">konkursu SEO</a> narodził się pomysł wypromowania dla żartu strony <a href="http://browsehappy.pl/">BrowseHappy</a>. Akcja ruszyła, co można zaobserwować na <a href="http://jogger.pl/">stronie głównej Joggera</a>. Szukamy chętnych do pomocy.</p>
+
+<p>Jak się przyłączyć? To proste, wystarczy, że na stronie (np. w notce na swoim blogu) umieścisz poniższy kod <abbr title="HyperText Markup Language">HTML</abbr>:</p>
+
+<blockquote><pre>&lt;a href="http://browsehappy.pl/"&gt;MsnBetter ThanGoogle&lt;/a&gt;</pre></blockquote>
+
+<p>Akcja ma charakter czysto ideologiczny i formę raczej żartobliwą, BrowseHappy nie zostało zgłoszone jako uczestnik konkursu i nie czerpie żadnych finansowych korzyści z pozycji w wyszukiwarce.</p>

@@ -1,0 +1,46 @@
+---
+layout: post
+status: publish
+published: true
+title: Marketing po bożemu
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 56
+date: 2005-02-20 13:22:31.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 624
+  author: puma
+  author_url: ''
+  date: '2005-02-20 13:34:52 +0100'
+  date_gmt: '2005-02-20 13:34:52 +0100'
+  content: fakt. ładny chłopak, nawet mogę się wysilić i użyć słowa UROCZY :] (oto
+    mój komentarz drogi Patrysie)
+- id: 625
+  author: puma
+  author_url: ''
+  date: '2005-02-20 13:36:36 +0100'
+  date_gmt: '2005-02-20 13:36:36 +0100'
+  content: no dobra jest tak ładny że wrzuciłam go na pulpit, teraz powineineś być
+    z siebie wręcz dumny :)
+- id: 626
+  author: jarv
+  author_url: ''
+  date: '2005-02-20 15:33:17 +0100'
+  date_gmt: '2005-02-20 15:33:17 +0100'
+  content: |-
+    heh - jak widac - marketing tym sposobem dziala,.,.,.
+    <br/>
+    <br/>ja tam w szoku bylem wczoraj, gdy to mojej ciotce, przy ktorej to stala moja matka, instalowalem thunderbirda. i obie byly zachwycone mozliwosciami filtrowania spamu. najbardziej mnie rozbawil komentarz mojej matki - &quot;masz mi przyslac linka, albo jak bedziesz, to mnie tez zainstalujesz,...&quot;.
+    <br/>
+    <br/>sie smieje, ze to taki moj wlasny wklad w szerzenie OpenSource&#039;a.
+---
+<p>Nie od dziś wiadomo, że przeciętnemu użytkownikowi absolutnie nie zależy na jakichkolwiek standardach. Nie interesują go rewolucyjne technologie siedzące pod maską czegoś tak podstawowego, jak przeglądarka internetowa. Podstawowe wymaganie jest jedno, przeglądarka ma działać i mają się w niej prawidłowo wyświetlać strony internetowe.</p>
+
+<p>"Prawidłowo" nie oznacza, niestety, interpretacji zdefiniowanej przez <abbr title="World Wide Web Consortium">W3C</abbr> - użytkownik oczekuje, że strony będą wyświetlać się tak, jak w <abbr title="Internet Explorer">IEvil</abbr>. Mniej lub bardziej oznacza to zgodność z tag soup i quirks mode, a na to użytkownicy współczesnych przeglądarek (tych ustandaryzowanych) liczyć nie mogą.</p>
+
+<p>Jak więc ich przekonać, że standardy są dobre, że strony nie działają przez to, że autor użył narzędzi tak wyrafinowanych jak <abbr title="MicroSoft">MS</abbr> FrontPage? A może nie warto, może lepiej odwołać się do wewnętrznych instynktów i pokazać użytkownikom <a href="http://www.deviantart.com/view/10809287/">słodką wersję Firefoksa</a>? ;)</p>

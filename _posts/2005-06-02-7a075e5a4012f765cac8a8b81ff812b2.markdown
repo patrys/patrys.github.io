@@ -1,0 +1,147 @@
+---
+layout: post
+status: publish
+published: true
+title: Miasto pełne awarii
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 96
+date: 2005-06-02 20:38:58.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1188
+  author: Jajcus
+  author_url: ''
+  date: '2005-06-02 20:46:08 +0200'
+  date_gmt: '2005-06-02 20:46:08 +0200'
+  content: "UPSy powinny trzymać każdą istotną maszynę przynajmniej te 15-30 minut,
+    a następnie spowodować jej poprawne zamknięcie (trzeba się trochę napracować,
+    żeby tak się działo i niezawodnie, ale warto).\n<br/>A te 15-30 minut można wykorzystać
+    na szukanie agregatu, paliwa do niego i podłączenie całości ;-) \n<br/>W bardziej
+    realistycznym przypadku na zapisanie wszystkiego co istotne. Minimalny downtime
+    można zagwarantować jedynie przez prawidłowe zamknięcie wszystkich systemów. Czas
+    to wytłumaczyć szefowi..."
+- id: 1189
+  author: Patrys
+  author_url: ''
+  date: '2005-06-02 20:49:13 +0200'
+  date_gmt: '2005-06-02 20:49:13 +0200'
+  content: Problem w tym, że nie ma sposobu na połączenie (przy obecnej konstrukcji
+    serwerowni) kablami UPSów z odpowiednimi maszynami. Z tego powodu kłaść maszyny
+    trzeba ręcznie, na co szef pozwala kiedy UPS zaczyna wydawać ostatnie rozpaczliwe
+    piski. Nawet 2 osoby nie dadzą rady haltować 6 serwerów w minutę, kiedy w serwerowni
+    nie ma światła, za to jest dokładnie jeden monitor i jedna klawiatura.
+- id: 1190
+  author: iss
+  author_url: ''
+  date: '2005-06-02 20:51:15 +0200'
+  date_gmt: '2005-06-02 20:51:15 +0200'
+  content: E tam. Raz w miesiącu tylko. W mojej okolicy takie numery energetyka odstawia
+    średnio co tydzień (http://tinyurl.com/d7tof -- wszystkie restarty wywołane brakiem
+    prądu). Poważnie się zastanawiam nad kupnem drugiego UPSa coby obie maszyny mieć
+    chronione.
+- id: 1191
+  author: Patrys
+  author_url: ''
+  date: '2005-06-02 20:54:46 +0200'
+  date_gmt: '2005-06-02 20:54:46 +0200'
+  content: No nam w tym tygodniu już 2 razy wywaliło, pierwszy raz po burzy ostatniej,
+    ale wtedy to pół dzielnicy prądu nie miało.
+- id: 1192
+  author: Jajcus
+  author_url: ''
+  date: '2005-06-02 20:57:23 +0200'
+  date_gmt: '2005-06-02 20:57:23 +0200'
+  content: "Patrys: \n<br/>\n<br/>moja konfiguracja:\n<br/>3 maszyny w serwerowni
+    (obcy budynek)\n<br/>1 UPS, podłączony RSem do jednej z tych maszyn\n<br/>\n<br/>Jak
+    brakuje prądu przez 15 minut wszystko działa jak należy, a następnie poprawnie
+    się downuje. Gdy zasilanie wraca, to wszystko po prostu wstaje i zaczyna działać.
+    Same Linuksy, rzeczywiście gorzej może być w środowiskach heterogenicznych.\n<br/>\n<br/>1
+    klawiatura i 1 monitor, bez możliwości przepięcia do innej maszyny i właściwie
+    pełna kontrola nad wszystkimi trzema (konsola szeregowa), poza _bardzo_ awaryjnymi
+    sytuacjami (problem ze sprzętem przez który bootowanie zatrzymuje się przed odpaleniem
+    gruba).\n<br/>\n<br/>Jeżeli jest problem z odległością między UPSem a jakimś serwerem
+    który mógłby z nim gadać, to warto zainwestować np. w serwerek portu szeregowego.
+    Jeżeli UPSy są niezarządzalne... to cóż... do serwerowni się po prostu nie nadają.\n<br/>\n<br/>"
+- id: 1193
+  author: Patrys
+  author_url: ''
+  date: '2005-06-02 21:01:38 +0200'
+  date_gmt: '2005-06-02 21:01:38 +0200'
+  content: UPSy są zarządzalne, tylko stoją w takim miejscu, że spięcie wymagałoby
+    kabla circa 10 metrów. Downowanie serwerów między sobą to pikuś, bo demony UPSowe
+    potrafią się komunikować przez sieć. Podnosić można via WakeOnLan.
+- id: 1194
+  author: m
+  author_url: ''
+  date: '2005-06-02 23:05:13 +0200'
+  date_gmt: '2005-06-02 23:05:13 +0200'
+  content: kolokacja, Patrys, kolokacja... to nie jest droga sprawa, a jakosc hostingu
+    nieporownywalnie wieksza niz jakakolwiek &quot;swoja&quot;
+- id: 1195
+  author: Patrys
+  author_url: ''
+  date: '2005-06-02 23:05:58 +0200'
+  date_gmt: '2005-06-02 23:05:58 +0200'
+  content: Taki jesteś specjalista, to nie pierdol tylko ufunduj. Bo na miejscu nam
+    są potrzebne serwery do budowania serwisów.
+- id: 1196
+  author: m
+  author_url: ''
+  date: '2005-06-02 23:10:36 +0200'
+  date_gmt: '2005-06-02 23:10:36 +0200'
+  content: |-
+    coś tam o poczcie klientów wspominałeś chyba, nie? (taka gówniana sprawa)
+    <br/>
+    <br/>a do własnych potrzeb 6 maszyn potrzebujecie? no to ja dawno w icenter nie byłem ;)
+- id: 1197
+  author: Patrys
+  author_url: ''
+  date: '2005-06-02 23:15:20 +0200'
+  date_gmt: '2005-06-02 23:15:20 +0200'
+  content: 'Powiedziałem, mądry to każdy może być. Raz - kolokacje to się opłaca w
+    Czechach albo w Niemczech robić. U pierwszych tanio, u drugich nie ma limitu transferu.
+    Dwa - ja nie jestem właścicielem firmy, a z pensji sobie nie kolokuję serwerów.
+    Powtarzam więc: ufunduj.'
+- id: 1198
+  author: Qwiat
+  author_url: ''
+  date: '2005-06-04 00:02:26 +0200'
+  date_gmt: '2005-06-04 00:02:26 +0200'
+  content: |-
+    Nasz szef się chyba edukuje, na początku dostałem ochrzan za to że położyłem serwery zamiast pozwolić im zdechnąć. Tym razem kazał je wyłączać zanim padną UPS-y, krok na przód.
+    <br/>
+    <br/>Są jednak rzeczy trudniejsze do zrozumienia, przykładowo nie mogę się doczekać inwestycji w latarkę (oświetlenie nie ma UPS-a), a zupełnie zdumiało mnie odkrycie dobrego, nie używanego UPS-a.
+- id: 1199
+  author: bellois
+  author_url: ''
+  date: '2005-06-04 11:13:37 +0200'
+  date_gmt: '2005-06-04 11:13:37 +0200'
+  content: ale to menu na waszej stronie kiepsko dziala...
+- id: 1200
+  author: m
+  author_url: ''
+  date: '2005-06-04 17:40:17 +0200'
+  date_gmt: '2005-06-04 17:40:17 +0200'
+  content: tak czy siak.. niezły PR robisz dla icenter - pilnuj tych logów ;)
+- id: 1201
+  author: Patrys
+  author_url: ''
+  date: '2005-06-04 17:49:01 +0200'
+  date_gmt: '2005-06-04 17:49:01 +0200'
+  content: |-
+    bellois:
+    <br/>
+    <br/>Ja tej strony nie robiłem.
+---
+<p><a href="http://prodesign.pl/">Nasza firma</a> ma chyba pecha do awarii. Nie mamy problemu ze sprzętem, oprogramowanie działa bez zarzutu, załoga jest kompetentna i swoje prace wykonujemy sumiennie. Inni się chyba na nas uwzięli.</p>
+
+<p>Firma mieści się w centrum miasta, tuż obok kina <a href="http://www.heliosnet.pl/">Helios</a>, stare budownictwo, za sąsiadów mamy między innymi <a href="http://techland.pl/">Techland</a>. Obsługuje nas chyba najgorsza podstacja elektryczna w całym Wrocławiu. Regularnie, raz w miesiącu, bez ostrzeżenia pada zasilanie. Pada i leży tak przez dobre 30-40 minut.</p>
+
+<p>Ludzie pracujący przy designie rwą sobie włosy z głowy na myśl o uszkodzonych plikach na dysku, serwerownia ciągnie ostatkiem sił, bo bateria <abbr title="Uninterruptible Power Supply">UPS</abbr>ów wytrzymuje obciążenie przez około 15 minut. Rozdzwaniają się telefony (<q>tak, wiemy, że poczta nie działa, to nie nasza wina</q>). Czasem serwery nie mają kontaktu ze światem, bo z braku prądu łącze zerwie się gdzieś po drodze, szlag nas trafia. Każda taka awaria jest dla energetyki miejskiej ogromnym zaskoczeniem (a dziwnym trafem zdarzają się zawsze po 16:00), a dla nas oznacza siedzenie po godzinach w pracy i podnoszenie biednych maszynek do stanu używalności.</p>
+
+<p>Tak było też i dzisiaj, biuro z <a href="http://qwiat.icenter.pl/">Qwiatem</a> opuściliśmy punkt 19:30. Byłoby wcześniej, gdyby wystarczyło podnieść maszyny. Problem w tym, że szef chce mieć minimalny downtime (co wychodzi zupełnie odwrotnie) i wyraźnie nakazuje ciągnąć wszystko aż do ostatecznego padu UPSów.</p>

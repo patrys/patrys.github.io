@@ -1,0 +1,108 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Grafik: poszukiwany'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 191
+date: 2005-12-06 20:42:34.000000000 +01:00
+categories:
+- praca
+tags: []
+comments:
+- id: 2820
+  author: Herself
+  author_url: ''
+  date: '2005-12-06 21:21:36 +0100'
+  date_gmt: '2005-12-06 21:21:36 +0100'
+  content: Ha, zawsze chciałem być pierwszy ;-P
+- id: 2821
+  author: s
+  author_url: ''
+  date: '2005-12-06 21:49:39 +0100'
+  date_gmt: '2005-12-06 21:49:39 +0100'
+  content: |-
+    Co za szowinista, no. Miejsce dla grafika jedno, a &quot;mile by widział&quot; panie. Kazdy by mile widzial panie, ale to nie powod, zeby sie z tym obnosic. Jawnogrzesznik! Bezbożnik! Na pewno do kościoła nie chodzi i tylko onanizm mu w głowie! Szatanista jeden!
+    <br/>
+    <br/>:&gt;
+- id: 2822
+  author: Carstein
+  author_url: ''
+  date: '2005-12-06 21:51:26 +0100'
+  date_gmt: '2005-12-06 21:51:26 +0100'
+  content: A to miejsce naprzeciwko ciebie, to jest wada czy zaleta? ;)
+- id: 2823
+  author: kameowy
+  author_url: ''
+  date: '2005-12-06 22:09:13 +0100'
+  date_gmt: '2005-12-06 22:09:13 +0100'
+  content: |-
+    Zaleta jak najbardziej... Ja Warszawiakiem i nie za bardzo grafikiem ale pytanie mam, z ciekawości...
+    <br/>Czy jeśli ktoś wymaganego photoshopa nie zna, a gimpem poszczycić się może to pracę dostanie?
+- id: 2824
+  author: jpc
+  author_url: ''
+  date: '2005-12-06 22:21:10 +0100'
+  date_gmt: '2005-12-06 22:21:10 +0100'
+  content: |-
+    kameowy: jak zna Gimpa, to na Fotoshopa się przekwalifikuje w razie potrzeby w 3 godziny
+    <br/>
+    <br/>Patrys: dopisz, że wolne, bo po zajętej to Ci chyba nic, nie? ;]
+- id: 2825
+  author: jpc
+  author_url: ''
+  date: '2005-12-06 22:21:43 +0100'
+  date_gmt: '2005-12-06 22:21:43 +0100'
+  content: 'Patrys: ,,że wolne panie mile widziane&#039;&#039;'
+- id: 2826
+  author: kameowy
+  author_url: ''
+  date: '2005-12-06 22:23:28 +0100'
+  date_gmt: '2005-12-06 22:23:28 +0100'
+  content: |-
+    przekwalifiuje jak przekwalifikuje...
+    <br/>nie ma odpowiedników filtrów na przykład ;)
+- id: 2827
+  author: Patrys
+  author_url: ''
+  date: '2005-12-06 22:46:02 +0100'
+  date_gmt: '2005-12-06 22:46:02 +0100'
+  content: Jeśli jest w stanie pracować z podobną wydajnością, to nie ma problemu
+    raczej.
+- id: 2828
+  author: jpc
+  author_url: ''
+  date: '2005-12-06 22:48:34 +0100'
+  date_gmt: '2005-12-06 22:48:34 +0100'
+  content: Ale czy na tym Ci aurat zależało pisząc to spacjalne zaproszenie? ;]
+- id: 2829
+  author: Patrys
+  author_url: ''
+  date: '2005-12-06 22:49:13 +0100'
+  date_gmt: '2005-12-06 22:49:13 +0100'
+  content: Ja mówiłem o GIMPie, a nie o paniach. Te, naturalnie, najchętniej wolne
+    ;D
+- id: 2830
+  author: s
+  author_url: ''
+  date: '2005-12-06 22:55:47 +0100'
+  date_gmt: '2005-12-06 22:55:47 +0100'
+  content: ja tam wole szybkie :P
+---
+<p>Jako, że <a href="http://monochrome.pl/">Jarvis</a> od nas odchodzi, <a href="http://prodesign.pl/">Internet Center</a> szuka pracowników na stanowisko <strong>grafika <abbr title="World Wide Web">WWW</abbr></strong>.</p>
+
+<p>W grę wchodzi praca na pełny etat, na miejscu - w siedzibie firmy, we Wrocławiu. Biurko w biurko ze mną. <em>Niezbędne</em> wymagania:</p>
+
+<ul>
+<li>udokumentowane pracami, co najmniej dwuletnie, doświadczenie przy
+projektowaniu serwisów internetowych;</li>
+<li>biegła znajomość Adobe Photoshop, Macromedia Flash;</li>
+<li>umiejętność przynajmniej podstawowego programowania ActionScript;</li>
+</ul>
+
+<p>W przypadku spełnienia wszystkich wymagań, po szczegóły proszę się zgłaszać do Piotra Jelonka &lt;jelonek at icenter pl&gt;, w załączniku przesyłając swoje <abbr title="Curriculum Vitae">CV</abbr> i odnośniki do prac.</p>
+
+<p>Aha, panie <em>bardzo</em> mile widziane ;).</p>

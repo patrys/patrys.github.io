@@ -1,0 +1,68 @@
+---
+layout: post
+status: publish
+published: true
+title: Planet PLD
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 119
+date: 2005-06-30 22:02:10.000000000 +02:00
+categories:
+- linux
+- web
+tags: []
+comments:
+- id: 1523
+  author: spider
+  author_url: ''
+  date: '2005-06-30 22:04:58 +0200'
+  date_gmt: '2005-06-30 22:04:58 +0200'
+  content: ladny
+- id: 1524
+  author: qeek
+  author_url: ''
+  date: '2005-06-30 22:07:18 +0200'
+  date_gmt: '2005-06-30 22:07:18 +0200'
+  content: |-
+    Estetycznie i czytelnie.
+    <br/>Co nie zmienia faktu, że zaczyna mi się już niedobrze robić na widok Kubricka :|.
+- id: 1525
+  author: nbw
+  author_url: ''
+  date: '2005-06-30 22:37:24 +0200'
+  date_gmt: '2005-06-30 22:37:24 +0200'
+  content: |-
+    Z akcentem z Human Traffic - &quot;najs, najs&quot; ;)
+    <br/>
+    <br/>To teraz czas na mnie...
+- id: 1526
+  author: zdzichuBG
+  author_url: ''
+  date: '2005-06-30 22:57:48 +0200'
+  date_gmt: '2005-06-30 22:57:48 +0200'
+  content: |-
+    Ładnie, ale to i tak się czyta w agregatorze, to nie robi jaki jest styl na stronie.
+    <br/>A ten dowcip jest debilny.
+- id: 1527
+  author: djurban
+  author_url: ''
+  date: '2005-07-01 01:10:08 +0200'
+  date_gmt: '2005-07-01 01:10:08 +0200'
+  content: "Ten dowcip jest kretynski.\n<br/>A moze by napisac spam bota ktory zajezdzi
+    livejournal loopujac po ich serwie? "
+- id: 1528
+  author: Patrys
+  author_url: ''
+  date: '2005-07-01 01:11:06 +0200'
+  date_gmt: '2005-07-01 01:11:06 +0200'
+  content: Ale to sami ludzie doklejają, a nie automat. Nie robią tego wbrew sobie.
+---
+<p>Właśnie skończyłem wstępną zmianę layoutu <a href="http://planet.pld-linux.org/">Planet PLD</a> - agregatora informacji publikowanych przez deweloperów wyżej wspomnianej dystrybucji.</p>
+
+<p>Póki co, design strony opiera się na zmodyfikowanym mocno Kubricku. Może nie jest to specjalnie oryginalne, ale z pewnością nowy układ jest bardziej czytelny od poprzedniego.</p>
+
+<p>Mam nadzieję, że przy okazji niczego nie zepsułem na serwerze DeeJay1, jeśli coś nie zachowuje się tak, jak powinno, to proszę o pilną informację.</p>
+
+<p><strong>PS:</strong> najlepszy <a href="http://jajcus.jogger.pl/comment.php?eid=128835">dowcip o blondynce</a>, jaki kiedykolwiek czytałem.</p>

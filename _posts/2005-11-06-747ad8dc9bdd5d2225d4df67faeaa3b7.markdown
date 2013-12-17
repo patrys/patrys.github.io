@@ -1,0 +1,144 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #019: Życie informatyka jest smutne'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 174
+date: 2005-11-06 21:50:45.000000000 +01:00
+categories:
+- comic
+tags: []
+comments:
+- id: 2395
+  author: jpc
+  author_url: ''
+  date: '2005-11-06 21:59:00 +0100'
+  date_gmt: '2005-11-06 21:59:00 +0100'
+  content: Czy żyrafy to też jest to hermetyczne, czego możemy nie rozumieć? ;]
+- id: 2396
+  author: Patrys
+  author_url: ''
+  date: '2005-11-06 21:59:58 +0100'
+  date_gmt: '2005-11-06 21:59:58 +0100'
+  content: '&quot;Żyrafy&quot; i tym podobne to nasz lokalny folklor. Hermetyczne
+    jest natomiast nawiązanie do TeXa w rozmowie przy piwie.'
+- id: 2397
+  author: jpc
+  author_url: ''
+  date: '2005-11-06 22:01:09 +0100'
+  date_gmt: '2005-11-06 22:01:09 +0100'
+  content: |-
+    Aha... ;]
+    <br/>Nawiązanie do ConTeXtu zrozumiałem. ;]
+    <br/>
+    <br/>Btw. Używałeś zarówno jednego, jak i drugiego?
+- id: 2398
+  author: Patrys
+  author_url: ''
+  date: '2005-11-06 22:02:32 +0100'
+  date_gmt: '2005-11-06 22:02:32 +0100'
+  content: Tak i niestety głównie nie do składania tekstu, a do programowania w tym
+    wynalazków, których wymagał od nas prowadzący przedmiot o wdzięcznej nazwie &quot;Skład
+    tekstu. TeX.&quot;
+- id: 2399
+  author: jpc
+  author_url: ''
+  date: '2005-11-06 22:04:07 +0100'
+  date_gmt: '2005-11-06 22:04:07 +0100'
+  content: Aha. Ja używałem jedynie LaTeXa do składu różnych rzeczy (np. sprawozdań
+    na laborki), a teraz chodzi za mną plain (TeX). Gdzieś tam w tle przwinął się
+    ConTeXt, ale jakoś nie wiem czy warto się w niego bawić...
+- id: 2400
+  author: Enleth
+  author_url: ''
+  date: '2005-11-06 22:06:34 +0100'
+  date_gmt: '2005-11-06 22:06:34 +0100'
+  content: 'Google nic nie podaje o żyrafach które się nie mnożą. Wniosek: one nie
+    istnieją.'
+- id: 2401
+  author: Patrys
+  author_url: ''
+  date: '2005-11-06 22:06:40 +0100'
+  date_gmt: '2005-11-06 22:06:40 +0100'
+  content: Teksty składa się bajecznie. Gorzej z pisaniem programów. Na początku śmialiśmy
+    się z tego, ale potem wykładowca pokazał nam Maszynę Turinga zaprogramowaną w
+    PostScripcie...
+- id: 2402
+  author: jpc
+  author_url: ''
+  date: '2005-11-06 22:11:15 +0100'
+  date_gmt: '2005-11-06 22:11:15 +0100'
+  content: |-
+    Patrys: bajecznie jak bajecznie, żeby ominąć niektóre narowy LaTeXa, trzeba umieć to progamować (a ja niestety nie umiem).
+    <br/>
+    <br/>PostScript rządzi! :D
+    <br/>Ja osobiście robiłem w nim tylko trochę papierów różnego rodzaju (w kratkę, milimetrowy, do rysunków przestrzennych), ale gość, który napisał w nim serwer WWW zawsze był moim idolem! :P
+- id: 2403
+  author: Enleth
+  author_url: ''
+  date: '2005-11-06 22:12:27 +0100'
+  date_gmt: '2005-11-06 22:12:27 +0100'
+  content: 'jpc: co wychodziło z przesłania tego serwera drukarce?'
+- id: 2404
+  author: jpc
+  author_url: ''
+  date: '2005-11-06 22:13:29 +0100'
+  date_gmt: '2005-11-06 22:13:29 +0100'
+  content: 'Enleth: nie sprawdzałem, ale używane miało być z poziomu GhostScripta.'
+- id: 2405
+  author: dxOne
+  author_url: ''
+  date: '2005-11-06 23:55:17 +0100'
+  date_gmt: '2005-11-06 23:55:17 +0100'
+  content: tekst Twoje zyrafy sie nie mnoza byl w filmie Gladiator.
+- id: 2406
+  author: jpc
+  author_url: ''
+  date: '2005-11-06 23:56:18 +0100'
+  date_gmt: '2005-11-06 23:56:18 +0100'
+  content: Gdzie? :)
+- id: 2407
+  author: Patrys
+  author_url: ''
+  date: '2005-11-07 10:34:46 +0100'
+  date_gmt: '2005-11-07 10:34:46 +0100'
+  content: dxOne wygrywa. Samochód prześlemy SMSem na wskazany numer.
+- id: 2408
+  author: Tomash
+  author_url: ''
+  date: '2005-11-07 17:37:01 +0100'
+  date_gmt: '2005-11-07 17:37:01 +0100'
+  content: Konktekstu czy kontekstu?
+- id: 2409
+  author: YamroZ
+  author_url: ''
+  date: '2005-11-07 19:48:52 +0100'
+  date_gmt: '2005-11-07 19:48:52 +0100'
+  content: Wreszcie jogger wrócił do żywych. Patrys, nie możesz zaprzeczyć, że góra
+    jest ponad dołem. Nieprawdaż ?
+- id: 2410
+  author: HoBBit °¸°
+  author_url: ''
+  date: '2005-11-08 07:20:33 +0100'
+  date_gmt: '2005-11-08 07:20:33 +0100'
+  content: 'YamroZ: Chyba Twoja!'
+- id: 2411
+  author: chrumoń
+  author_url: ''
+  date: '2005-11-08 16:43:34 +0100'
+  date_gmt: '2005-11-08 16:43:34 +0100'
+  content: dobrze zgaduje, ze te zyrafy zapozyczone z Gladiatora?
+- id: 2412
+  author: alienjr
+  author_url: ''
+  date: '2005-11-08 18:18:17 +0100'
+  date_gmt: '2005-11-08 18:18:17 +0100'
+  content: afair to miały coś z przyrodzeniem ;)
+---
+<p>Z góry przepraszam wszystkich, którzy nie zrozumnieją dzisiejszego odcinka, ale jest chyba najbardziej hermetycznym ze wszystkich dotychczasowych. Co smutniejsze, poniższa rozmowa miała miejsce w rzeczywistości.</p>
+
+<p class="strip"><img src="http://comic.room-303.com/strips/019-latex.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>

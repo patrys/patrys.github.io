@@ -1,0 +1,69 @@
+---
+layout: post
+status: publish
+published: true
+title: WYSIWTF
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 403
+wordpress_url: http://room-303.com/blog/2007/08/27/wysiwtf/
+date: 2007-08-27 14:15:03.000000000 +02:00
+categories:
+- web
+- code
+tags: []
+comments:
+- id: 8413
+  author: a
+  author_url: ''
+  date: '2007-08-27 16:14:58 +0200'
+  date_gmt: '2007-08-27 15:14:58 +0200'
+  content: "W stopce też schował się mały WTF:\r\n\"An unhandled Generated Content
+    exception\""
+- id: 8414
+  author: Walker
+  author_url: http://walker.jogger.pl/
+  date: '2007-08-27 17:50:51 +0200'
+  date_gmt: '2007-08-27 16:50:51 +0200'
+  content: O, super. Już wylądowało w czytniku.
+- id: 8415
+  author: Sharpek
+  author_url: http://Sharpek.openid.pl/
+  date: '2007-08-27 21:57:34 +0200'
+  date_gmt: '2007-08-27 20:57:34 +0200'
+  content: Kontakt na stronie nie działa
+- id: 8416
+  author: mynth
+  author_url: ''
+  date: '2007-08-28 08:27:19 +0200'
+  date_gmt: '2007-08-28 07:27:19 +0200'
+  content: przydałoby się body{background:#fff} bo mam brzydkie szare tło.
+- id: 8420
+  author: Voltaire
+  author_url: http://volter.wordpress.com
+  date: '2007-08-30 19:23:30 +0200'
+  date_gmt: '2007-08-30 18:23:30 +0200'
+  content: Dobre, będę zaglądać :-)
+- id: 8454
+  author: http://rad.openid.pl/
+  author_url: http://rad.openid.pl/
+  date: '2007-09-06 00:07:36 +0200'
+  date_gmt: '2007-09-05 23:07:36 +0200'
+  content: "dobre - ląduje w zakładkach/czytniku\r\n\r\nswoją drobą szczególnie spodobał
+    mi się jeden fragment z tego wpisu:\r\n<blockquote>10p potrzebuje jeszcze około
+    dwóch dni miłości</blockquote>zapamiętam sobie ;)"
+- id: 8464
+  author: nonim
+  author_url: http://www.pozycjonowanie.pl
+  date: '2007-09-10 08:04:57 +0200'
+  date_gmt: '2007-09-10 07:04:57 +0200'
+  content: WYSIWTF na głównej wykopu, teraz przydałoby się to jakoś dopracować pod
+    kątem graficznym i ilości treści :)
+---
+<p>Pozazdrościliśmy nieco z <a href="http://thelirium.net/">ceziem</a> zabawy, jaką serwuje nam codziennie <a href="http://worsethanfailure.com/">Worse Than Failure</a> (jeśli ktoś jeszcze nie czyta, to migiem dodawać do czytników). W Polsce też jest masa zabawnych sytuacji w firmach, a nie każdy chce od razu pisać do <abbr>WTF</abbr>, dlatego też od piątku istnieje i działa (a właściwie to się dopiero powoli rozkręca) <a href="http://wysiwtf.pl/">WYSIWTF</a>.</p>
+
+<p>Zapraszamy :)</p>
+
+<p>Wiem, że zaraz ktoś mnie zbluzga za to, że <a href="http://10przykazan.com/">10przykazan</a> miało być nowe, a jeszcze nie jest. WYSIWTF uruchomiliśmy w jakąś godzinę, a 10p potrzebuje jeszcze około dwóch dni miłości, żeby pokazać coś więcej niż poprzednia wersja. Może uda się nam do przykazań usiąść w najbliższy weekend. Poczekajcie jeszcze trochę, warto.</p>

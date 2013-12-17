@@ -1,0 +1,63 @@
+---
+layout: post
+status: publish
+published: true
+title: Made Man
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 316
+wordpress_url: http://www.room-303.com/blog/2006/12/16/made-man/
+date: 2006-12-16 20:17:49.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 5492
+  author: wzs
+  author_url: http://www.wzs.jogger.pl
+  date: '2006-12-16 20:31:15 +0100'
+  date_gmt: '2006-12-16 19:31:15 +0100'
+  content: "A ja myślałem że developer/programista to raczej nie ma czasu grać...\r\nMuszę
+    zdecydowanie popracować nad organizowaniem własnego czasu, bo jakoś na gry nie
+    ma go już od ok dwóch lat... (nie licząc od czasu do czasu flashowych gierek i
+    Frozen Bubble)"
+- id: 5493
+  author: mads
+  author_url: http://www.mads.net.pl
+  date: '2006-12-16 21:24:18 +0100'
+  date_gmt: '2006-12-16 20:24:18 +0100'
+  content: Do Call of Juarez to trzeba mieć takiego kompa, że 3Ghz, 2GB RAM-u i GeF6600
+    GT to zdecydowanie za mało. :( Ale gierka faktycznie udana. :)
+- id: 5494
+  author: arekm
+  author_url: ''
+  date: '2006-12-16 22:11:49 +0100'
+  date_gmt: '2006-12-16 21:11:49 +0100'
+  content: Niezła ta strona http://www.callofjuarez.com/, już na głównej dowiadujemy
+    się czym jest MRTG i na tym strona się kończy ;-)
+- id: 5496
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-12-17 19:13:07 +0100'
+  date_gmt: '2006-12-17 18:13:07 +0100'
+  content: Wygląda na to, że już naprawili.
+- id: 5501
+  author: Michał Stempień
+  author_url: http://www.xms.pl
+  date: '2006-12-18 15:45:33 +0100'
+  date_gmt: '2006-12-18 14:45:33 +0100'
+  content: F.E.A.R. wypas, tez muszę kiedyś znaleźć czas na rozszerzenie.
+---
+<p>Dosłownie przed paroma minutami skończyłem grać w <a href="http://www.immatv.com/mademan_intro.htm">Made Mana</a>. Świetna gra. Nie przytłacza najnowszymi efektami, nie ma specjalnie skomplikowanej fabuły, ale&hellip;</p>
+
+<p>Jeśli podobali ci się <a href="http://www.eidos.co.uk/gss/reservoirdogs/">Reservoir Dogs</a>, ta gra jest właśnie dla ciebie. Typowy shooter, w konsolowych klimatach, na pececie. Rewelacyjna grywalność, wartka akcja, świetna muzyka, klimat lat 60-80 i do tego, na okrasę, masa zwłok.</p>
+
+<p>Prostolinijna historyjka o weteranie z Wietnamu, który pracuje jako dostawca półlegalnego towaru. Kiedy traci ciężarówkę pełną papierosów z przemytu, próbuje ją odzyskać i trafia w sam środek wojny gangów. Następnie, już jako długie ramię rodziny mafijnej, zajmuje się rozwiązywaniem <q>problemów.</q></p>
+
+<p>Co ciekawe, zastosowana została inwersja czasowa niemal rodem z Pulp Fiction. Podobnie, jak w serii Hitman, akcję śledzimy w postaci opowieści głównego bohatera. Na zmianę przeplatają się wątki z Wietnamu, późnych lat sześćdziesiątych i czasów współczesnych opowieści.</p>
+
+<p>No cóż, skoro Made Man się skończył, czas na kolejną pozycję &mdash; <a href="http://whatisfear.com/us/">F.E.A.R.: Extraction Point</a>.</p>
+
+<p>Żałuję tylko, że do teraz nie udało mi się zagrać w pełną wersję gry, dla której tworzyłem stronę internetową: <a href="http://www.callofjuarez.com/">Call of Juarez</a>.</p>

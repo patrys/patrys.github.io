@@ -1,0 +1,52 @@
+---
+layout: post
+status: publish
+published: true
+title: Update
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 167
+date: 2005-10-31 19:08:30.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 2336
+  author: ehh
+  author_url: ''
+  date: '2005-10-31 19:12:42 +0100'
+  date_gmt: '2005-10-31 19:12:42 +0100'
+  content: Welcome back (żart:))
+- id: 2337
+  author: kocie
+  author_url: ''
+  date: '2005-10-31 19:19:55 +0100'
+  date_gmt: '2005-10-31 19:19:55 +0100'
+  content: |-
+    nie moglam pic przed jazda autobusem, jako ze mam slaby pecherz ;)
+    <br/>
+    <br/>jesli chcesz, dostaniesz torebka jeszcze raz.
+    <br/>
+    <br/>to co, hau? ;&gt;
+    <br/>noga!
+    <br/>:D
+- id: 2338
+  author: HoBBit °¸°
+  author_url: ''
+  date: '2005-10-31 20:45:17 +0100'
+  date_gmt: '2005-10-31 20:45:17 +0100'
+  content: Patrys Dog :]
+- id: 2339
+  author: DeeJay1
+  author_url: ''
+  date: '2005-11-01 09:39:03 +0100'
+  date_gmt: '2005-11-01 09:39:03 +0100'
+  content: Wykrakałeś :P (ale znów działa na szczęście)
+---
+<p>Korzystając z chwilowego (żart) powrotu Joggera, chciałem wyjaśnić ostatnie przepychanki w związku z tymże. Dużo osób (i to bardzo dla mnie wartościowych) wynosi się na swoje - to fakt. Ja się wynosić nie zamierzam, przynajmniej chwilowo. Napisałem, że pauzuję nie dlatego, że chcę uciekać, najzwyczajniej mam na głowie kilka innych projektów mniej lub bardziej komercyjnych. W tym kilka zupełnie nowych serwisów, których uruchomienie koordynuję bądź wspomagam. Wszystkim, którzy mnie <q>rzegnali</q> (pisownia oryginalna), pragnę przekazać, że życzenia przedwczesne.</p>
+
+<p>Z projektów niezależnych pojawiło się też pisanie, bo <a href="http://nbw.jogger.pl/">nbw</a> namówił mnie na pisanie na łamach <a href="http://art.webesteem.pl">Webesteem Art&amp;Design Magazine</a>. Można więc liczyć na to, że w jednym najbliższych numerów pojawi się coś mojego. Miłośnicy tekstów dotyczących tworzenia dla sieci powinni się ucieszyć.</p>
+
+<p>Przy okazji chciałem pozdrowić <a href="http://koci-cien.blog.pl" title="Kociee">pewną przemiłą młodą damę</a>, która była na tyle miła, by towarzyszyć mi przez ten weekend. Z planów wypicia piwa nic nie wyszło - ze względu na chwilowy, nagły zanik wszelkich sklepów monopolowych w sobotę, a także na płynne przejście pomiędzy zakupami i przystankiem <abbr>PKS</abbr> (nazwijcie to czasoprzestrzenią) dziś rano. Co się tyczy tego drugiego - chyba żadna kobieta nie rozbierała się jeszcze przy mnie tyle razy jednego dnia ;). Więcej nie będę czynił aluzji, bo i tak już dostałem dziś raz torebką.</p>

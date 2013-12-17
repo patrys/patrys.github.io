@@ -1,0 +1,224 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #002: Usability nie zawsze pomaga w życiu'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 58
+date: 2005-02-21 00:39:38.000000000 +01:00
+categories:
+- comic
+tags: []
+comments:
+- id: 645
+  author: jarv
+  author_url: ''
+  date: '2005-02-21 04:07:02 +0100'
+  date_gmt: '2005-02-21 04:07:02 +0100'
+  content: stary - mordujesz ;)
+- id: 646
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-21 10:55:44 +0100'
+  date_gmt: '2005-02-21 10:55:44 +0100'
+  content: A raczej zostaniesz zamordowany jak się spotkamy ;]
+- id: 647
+  author: m
+  author_url: ''
+  date: '2005-02-22 18:37:56 +0100'
+  date_gmt: '2005-02-22 18:37:56 +0100'
+  content: taka kolejnosc przyciskow &quot;Tak&quot; i &quot;Nie&quot; ma male usability...
+    ;)
+- id: 648
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-22 18:44:13 +0100'
+  date_gmt: '2005-02-22 18:44:13 +0100'
+  content: |-
+    Ha, a właśnie wg wielu podręczników opartych o badania na &#039;nieskażonych umysłach&#039; ;) ma duże usability, tylko ci co są przyzwyczajeni do windy są biedni, bo winda przeczy w tym (i nie tylko tym) miejscu zaleceniom.
+    <br/>&quot;The eyes of people who read left-to-right tend towards the upper-left and lower-right corners of boxes. Therefore the action the user is most likely to perform should be located in the lower-right corner.&quot;
+    <br/>Jak dla mnie - ma to sens.
+- id: 649
+  author: nbw
+  author_url: ''
+  date: '2005-02-22 22:39:04 +0100'
+  date_gmt: '2005-02-22 22:39:04 +0100'
+  content: Jako game designer potwierdzę - Yes powinno być po prawej stronie. Ile
+    bluzgów nawrzucałem na kilka &quot;perełek&quot; ktore po prawej stronie mialy
+    &quot;cancel&quot;
+- id: 650
+  author: m
+  author_url: ''
+  date: '2005-02-23 18:47:14 +0100'
+  date_gmt: '2005-02-23 18:47:14 +0100'
+  content: |-
+    przede wszystkim: &quot;wg wielu&quot; brzmi wiesz... rownie dobrze jak wedlug zadnego
+    <br/>
+    <br/>Winda oraz produkty oparte na interface design guidelines Microsoftu to jednak pewien standard, natomiast open-source ma w GUI niestety nadal straszny syf - dobrym przykladem jest chocby Anaconda, ktora oglada wielu userow, a ktorej GUI jest ekstremalnie spieprzone :(
+- id: 651
+  author: Patrys
+  author_url: ''
+  date: '2005-02-23 18:49:58 +0100'
+  date_gmt: '2005-02-23 18:49:58 +0100'
+  content: 'm: proponuję zapoznać się z AHIG, wspomnianym w komiksie. Apple od 10
+    lat prowadzi badania nad intuicyjnością i używalnością interfejsu. MS ma tylko
+    jeden duży test za sobą (wdrożenie interfejsu Win95), więc Apple jest dla mnie
+    tutaj wyznacznikiem. Tak samo zresztą twierdzi Gnome HIG, nad którym pracują ludzie
+    kompetentni (m.in. RedHat). Nie trolluj.'
+- id: 652
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-23 18:53:20 +0100'
+  date_gmt: '2005-02-23 18:53:20 +0100'
+  content: 'm: przede wszystkim &quot;winda to pewien standard&quot; brzmi wiesz...
+    równie dobrze jak &quot;jedzmy gówno - miliony much nie mogą się mylić&quot;.
+    To że PewnaDużaFirma zmusiła i przyzwyczaiła swoich użytkowników do jakiegoś-tam-układu
+    nie znaczy, że jest on naturalny/intuicyjny. Człowiek po odpowiednio długim czasie
+    ponoć nawet do wrzodu na tyłku się przyzwyczai... ;]'
+- id: 653
+  author: m
+  author_url: ''
+  date: '2005-02-23 18:56:02 +0100'
+  date_gmt: '2005-02-23 18:56:02 +0100'
+  content: |-
+    Zebys sie nie zdziwil... bez wzgledu na wszystko (wiadoma sprawa, ze w jakiej kolejnosci oko &quot;przechodzi&quot; przez elementy okna) podstawowa zasada tworzenia GUI jest czytelnosc, nawiazanie do metafor i wykorzystanie skojarzen userow. Utrwalone engramy niestety sa inne niz chcieliby wielcy-teoretyczni-mysliciele. Mowie powaznie - zrob wieksza aplikacje okienkowa i daj to zwyklym end-userom, ktorzy pracuja wylacznie z aplikacjami biurowymi, a jestem pewien, ze jednak sie rozczarujesz.
+    <br/>
+    <br/>No i przykro mi, ze postrzegasz to jako trollowanie. To Ty mowisz, ze rh jest bardziej kompetentny niz ms... no sorry ;)
+- id: 654
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-23 18:58:48 +0100'
+  date_gmt: '2005-02-23 18:58:48 +0100'
+  content: |-
+    No tylko że takie testy są prowadzone - tylko że na ludziach którzy nie pracują latami na windzie, tylko &quot;nieskażonych umysłach&quot; ;) I na tych ludziach wychodzi, że winda naturalnego układu nie ma i nie ma to nic wspólnego z teoretycznym-myślicielstwem, tylko testach na... khm. Żywym organizmie :&gt;
+    <br/>Gdyby w to miejsce dać ludzi przyzwyczajonych do pracy na windzie - oczywistym jest że im by wyszło że to nienaturalne, ale to kwestia przyzwyczajenia.
+- id: 655
+  author: Patrys
+  author_url: ''
+  date: '2005-02-23 18:59:02 +0100'
+  date_gmt: '2005-02-23 18:59:02 +0100'
+  content: |-
+    Raz: ci, którzy używają od lat MS nie przesiądą się nagle na Gnome czy MacOSX.
+    <br/>
+    <br/>Dwa: dla nowych użytkowników dużo bardziej intuicyjne jest umieszczenie sugerowanej opcji w prawym dolnym rogu okna. I to zostało udowodnione w testach empirycznych na żywych ludziach.
+- id: 656
+  author: m
+  author_url: ''
+  date: '2005-02-23 18:59:42 +0100'
+  date_gmt: '2005-02-23 18:59:42 +0100'
+  content: '@cach... nie wiem, czy ta dyskusja ma sens, ale... to, co jest naturalne,
+    a co nie, wynika takze z juz nabytych doswiadczen i nawykow. Syfu do poprawienia
+    w GUI produktow open-sourcowych jest nadal duzo - bylbym daleki od stwierdzenia,
+    ze jest lepiej niz w przypadku produktow MS. Jest inaczej, momentami lepiej, ale
+    momentami duuuzo gorzej. Vide ta nieszczesna anaconda.'
+- id: 657
+  author: m
+  author_url: ''
+  date: '2005-02-23 19:02:13 +0100'
+  date_gmt: '2005-02-23 19:02:13 +0100'
+  content: |-
+    @patrys
+    <br/>
+    <br/>raz: zgadzam sie
+    <br/>dwa: jestem przekonany, ze takie rozmieszczenie jest funkcjonalne w przypadku wizardow i przyciskow &quot;back&quot; i &quot;next&quot;. a z wynikami badan sie nie dyskutuje - jedni je akceptuje, inni podwazaja
+- id: 658
+  author: Patrys
+  author_url: ''
+  date: '2005-02-23 19:07:11 +0100'
+  date_gmt: '2005-02-23 19:07:11 +0100'
+  content: 'm: http://developer.apple.com/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html'
+- id: 659
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-23 19:07:32 +0100'
+  date_gmt: '2005-02-23 19:07:32 +0100'
+  content: |-
+    Przyzwyczajenia mają to do siebie, że - o ile w kierunku &#039;bardziej naturalnym&quot; - dają się w pewnym zakresie modyfikować. Myślę że łatwiej przestawić się na tryb &quot;klawisze najbardziej potrzebne (najczęściej używane) zawsze mam w prawym rogu&quot; z trybu &quot;to co najbardziej potrzebne jest w losowych miejscach&quot; niż vice-versa. To jest moim zdaniem przewaga układu &#039;naturalnego&#039; nie uwzględniającego przyzwyczajeń.
+    <br/>Aczkolwiek zgodzę się że nigdy się nie obywa bez ciężkiego okresu przejściowego, czego sama nieraz doświadczam.
+    <br/>Natomiast że nie zawsze jest idealnie w open-sourcowych produktach - fakt niezaprzeczalny, ale to są produkty rozwijane często-gęsto hobbystycznie, a jak na kasę którą MS czerpie i wydaje na swoje produkty, to jego interfejsy powinny być takie że mucha nie siada - a daleko im do tego, co gorsza - każde kolejne wydanie np. Office&#039;a wprowadza tak &#039;intuicyjne&#039; zmiany że pochlastać się czerstwą bułką mam ochotę... ;] Natomiast do dużych produktów, typu gnome, to chyba jednak ciężko się przyczepić i jest mocno przemyślany. I jeszcze jedno - w OS jeśli coś jest mocno nieintuicyjne, to pod wpływem sugestii użytkowników to się zmieni. W produktach MS... khem ;)
+- id: 660
+  author: m
+  author_url: ''
+  date: '2005-02-23 19:07:44 +0100'
+  date_gmt: '2005-02-23 19:07:44 +0100'
+  content: ja znam te strone, jak i wiele innych tekstow...
+- id: 661
+  author: m
+  author_url: ''
+  date: '2005-02-23 19:12:46 +0100'
+  date_gmt: '2005-02-23 19:12:46 +0100'
+  content: |-
+    przede wszystkim: ;)
+    <br/>poza tym: nie wiem, jak w aplikacjach typowo biurowych, ale w przypadku produktow developerskich ms jest zadziwiajaco otwarty na zgloszenia featurow i chetnie wchodzi w dyskusje, co jest potrzebne, a co nie - mowie to ja, szary developer
+    <br/>
+    <br/>nasuwa mi sie jeszcze jedna mysl: to, ktore z ustawien przyciskow OK i Cancel jest intuicyjne zalezy chyba tylko od przyzwyczajen usera, bo tylko user nieprzyzwyczajony rzeczywiscie widzi-i-czyta napisy na tych przyciskach, przyzwyczajeni klikaja na slepo. nie wiem wiec, na ile warto zmieniac przyzwyczajenia userow oprogramowania ms. czy warto w tym przypadku? mi sie wydaje, ze nie
+- id: 662
+  author: Patrys
+  author_url: ''
+  date: '2005-02-23 19:16:48 +0100'
+  date_gmt: '2005-02-23 19:16:48 +0100'
+  content: |-
+    A ja ci nie każę zmieniać interfejsu Windows przecież. Możesz zostać przy oknach &quot;zapisz&quot;, które domyślnie pokazują ci zawartość dysku twardego, zamiast ostatnią lokalizację i listę paru sugerowanych, możesz mieć &quot;cancel&quot; z prawej strony, możesz mieć okna komunikatów, z których nic nie wynika, bo są napisane w języku programistów a nie użytkowników i się pani Kazia dowiaduje, że &quot;pamięć nie może być read&quot; i dlatego poczty nie wyśle.
+    <br/>
+    <br/>Ja jestem jednak za ulepszaniem tego, czego ulepszenie nie kosztuje nic (a programiści OS pracują w większości za darmo i zależy im na używalności programów).
+    <br/>
+    <br/>Inne przyzwyczajenie z Windows: kombajny do wszystkiego. Ja jestem zwolennikiem KISS.
+- id: 663
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-23 19:20:27 +0100'
+  date_gmt: '2005-02-23 19:20:27 +0100'
+  content: |-
+    Może ta otwartość przy produktach developerskich wynika trochę z tego, że akurat na tym rynku muszą się starać - developerzy są na tyle wymagającym &quot;klientem&quot; że jak coś nie będzie im pasować, to nie jest dla nich koszmarnym wyzwaniem zmienić IDE... Poza tym przecież oni też na tym pracują to muszą się starać ;) Co innego dla biednej pani Kasi z sekretariatu która z office&#039;a to chyba tylko w OO mogłaby uderzać ;)
+    <br/>
+    <br/>Natomiast co do zmiany przyzwyczajeń - problem polega na tym, że nie chodzi tylko o przyciski typu OK-Cancel, gdzie rzeczywiście klika się na ogół &quot;na ślepo&quot; tylko o pewną spójność. O to, że zawsze &quot;Zapisz i zamknij&quot; też będziesz miał pierwsze z prawej, podobnie inne często używane opcje, a nie za każdym razem w innym miejscu, raz pierwszy z lewej, innym razem gdzieś w środku, jeszcze innym - po prawej. O to że przy pojawiającym się nowym okienku już instynktownie wiesz, gdzie szukać dobrego przycisku mimo że mogłeś tego okienka nigdy wcześniej nie widzieć. I z tego względu warto - bo jeśli chodzi o samo ok-cancel to rzeczywiście szkoda zachodu.
+- id: 664
+  author: m
+  author_url: ''
+  date: '2005-02-23 19:21:50 +0100'
+  date_gmt: '2005-02-23 19:21:50 +0100'
+  content: |-
+    Patrys, drogi kompanie browarowy... ja ani przez chwile nie twierdzilem, ze produkty ms maja fajowe GUI, bo zdecydowanie nie maja. Ale to, po ktorej stronie jest przycisk Cancel ma tak naprawde znaczenie dla swiezych userow? Tak sadzisz? Przeciez to ganz egal.
+    <br/>
+    <br/>Nie bede sie wdawal w dyskusje, co jest lepsze od czego. Ale nie pisz, ze oprogramowanie linuxowe ma super zrozumiale komunikaty, bo... no bo nie ma i sam dobrze o tym wiesz. Patrz obiektywnie.
+- id: 665
+  author: Patrys
+  author_url: ''
+  date: '2005-02-23 19:23:49 +0100'
+  date_gmt: '2005-02-23 19:23:49 +0100'
+  content: Jedyne linuksowe oprogramowanie, o jakim wspomniałem, to Gnome. I akurat
+    do Gnome nie masz się jak przyczepić. Jeśli chodzi o wzór interfejsu to bez mrugnięcia
+    okiem pokażę ci Aqua.
+- id: 666
+  author: m
+  author_url: ''
+  date: '2005-02-23 19:25:57 +0100'
+  date_gmt: '2005-02-23 19:25:57 +0100'
+  content: |-
+    @cachotterie
+    <br/>
+    <br/>Zgadzam sie generalnie w calej rozciaglosci. btw, dyskusje o zmianach w produktach developerskich, w ktorych bralem udzial, nie dotyczyly GUI (przynajmniej mnie takie zmiany raczej nie interesuja), a funkcjonalnosci. Jak dopieszcza funkcjonalnosc to moze wtedy moze bede meczeni o GUI ;).
+- id: 667
+  author: m
+  author_url: ''
+  date: '2005-02-23 19:26:47 +0100'
+  date_gmt: '2005-02-23 19:26:47 +0100'
+  content: |-
+    @patrys
+    <br/>
+    <br/>ja sie nie czepiam... ja ide na jajecznice, bo kurna glodny jestem
+- id: 668
+  author: Jezuch
+  author_url: ''
+  date: '2005-02-24 09:58:32 +0100'
+  date_gmt: '2005-02-24 09:58:32 +0100'
+  content: |-
+    To może jeszcze flejm QWERTY vs. Dvorak? :&gt;
+    <br/>I dlaczego w Polsce używa się amerykańskiego układu? ;)
+---
+<p>Cóż, starcia z <a href="http://cachotterie.jogger.pl/" title="Cachotterie">Elfką</a> nie wytrzymałby nawet <a href="http://useit.com">Jakob Nielsen</a>. ;)</p>
+
+<p class="strip"><img src="http://patrys.icenter.pl/comic/002-hig.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>

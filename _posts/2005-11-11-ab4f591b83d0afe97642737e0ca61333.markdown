@@ -1,0 +1,110 @@
+---
+layout: post
+status: publish
+published: true
+title: Frappr!
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 178
+date: 2005-11-11 02:16:02.000000000 +01:00
+categories:
+- varia
+- linux
+- web
+tags: []
+comments:
+- id: 2447
+  author: zenon
+  author_url: ''
+  date: '2005-11-11 09:28:59 +0100'
+  date_gmt: '2005-11-11 09:28:59 +0100'
+  content: Ha - dodałem się:)
+- id: 2448
+  author: Bartek Jakubski
+  author_url: ''
+  date: '2005-11-11 10:01:49 +0100'
+  date_gmt: '2005-11-11 10:01:49 +0100'
+  content: Co tam za miasto trzeba podać? Cracow - invalid city (chociaż wcześniej
+    pisze w dymku, że zrozumiał, że w Polsce). Krakow - invalid city. Jakiś niekumaty
+    jestem? Wina opery?
+- id: 2449
+  author: Riddle
+  author_url: ''
+  date: '2005-11-11 10:15:41 +0100'
+  date_gmt: '2005-11-11 10:15:41 +0100'
+  content: Denerwuje mnie już nawiązywanie do Google,  Flickr i innych podobnych serwisów.
+    Wiązanie się delicjami i tak dalej... Niech wymyślą coś innego, nowego.
+- id: 2450
+  author: dxOne
+  author_url: ''
+  date: '2005-11-11 10:23:45 +0100'
+  date_gmt: '2005-11-11 10:23:45 +0100'
+  content: 'Riddle: tia, koło też nie jest już trendy...'
+- id: 2451
+  author: Patrys
+  author_url: ''
+  date: '2005-11-11 10:33:21 +0100'
+  date_gmt: '2005-11-11 10:33:21 +0100'
+  content: |-
+    Bartek:
+    <br/>
+    <br/>Kliknij to, co podpowiada ci w tym dymku.
+    <br/>
+    <br/>Riddle:
+    <br/>
+    <br/>Nie wiem, do czego pijesz. Ot, kolejne narzędzie. Młotki produkują od setek lat, mają przestać?
+- id: 2452
+  author: Riddle
+  author_url: ''
+  date: '2005-11-11 10:34:12 +0100'
+  date_gmt: '2005-11-11 10:34:12 +0100'
+  content: Nie piję do Was. :/ Piję do tego, że kreatywność zanika w projektach netowych.
+    Wszystko musi się wspierać innymi brandami i pomysłami, bo nie przetrwa. :/
+- id: 2453
+  author: smk
+  author_url: ''
+  date: '2005-11-11 14:34:11 +0100'
+  date_gmt: '2005-11-11 14:34:11 +0100'
+  content: a hasło &quot;code reuse&quot; Ci coś mówi?
+- id: 2454
+  author: adamg
+  author_url: ''
+  date: '2005-11-11 15:10:06 +0100'
+  date_gmt: '2005-11-11 15:10:06 +0100'
+  content: 'bleee... jak to kijowo mieszkac pod stolicą - moj &#039;znaczek&#039;
+    jest praktycznie w calosci zasloniety przez paladine '
+- id: 2455
+  author: psz
+  author_url: ''
+  date: '2005-11-11 15:40:04 +0100'
+  date_gmt: '2005-11-11 15:40:04 +0100'
+  content: Można fine-tuningować położenie?
+- id: 2456
+  author: Patrys
+  author_url: ''
+  date: '2005-11-11 16:14:38 +0100'
+  date_gmt: '2005-11-11 16:14:38 +0100'
+  content: 'Cytując za FAQ: ze względów bezpieczeństwa nie (czyli nie chcą mieć kłopotów
+    przez to, że ktoś będzie konkretne budynki zaznaczał).'
+- id: 2457
+  author: misia
+  author_url: ''
+  date: '2005-11-11 22:38:57 +0100'
+  date_gmt: '2005-11-11 22:38:57 +0100'
+  content: 'Riddle: bezproduktywne narzekanie to nasza narodowa przywara... moze by
+    tak zabrac sie do roboty, co? :)'
+- id: 2458
+  author: Riddle
+  author_url: ''
+  date: '2005-11-11 22:40:33 +0100'
+  date_gmt: '2005-11-11 22:40:33 +0100'
+  content: |-
+    Jasna sprawa, studiuję specjalność której pierwszą regułą jest maksyma wg. której brak kreatywności i spoczęcie na laurach jest początkiem końca firmy.
+    <br/>
+    <br/>Tutaj chodzi tylko o brand, ale denerwują mnie powtórki z rozrywki. I będę to pisał, mimo że się Wam to nie podoba. :)
+    <br/>
+    <br/>Bu.
+---
+<p>Jako, że Frappr! robi się coraz bardziej popularny, dzisiaj zbudowałem w wolnej chwili <a href="http://www.frappr.com/pld">mapę osób związanych z <abbr>PLD</abbr></a>. Wszystkich chętnych zapraszam do rejestracji.</p>

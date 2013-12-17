@@ -1,0 +1,95 @@
+---
+layout: post
+status: publish
+published: true
+title: May I inquire about your spoons?
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 124
+date: 2005-07-06 22:18:53.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1581
+  author: wariat
+  author_url: ''
+  date: '2005-07-06 22:22:14 +0200'
+  date_gmt: '2005-07-06 22:22:14 +0200'
+  content: To juz drugi raz w tym kwartale jak zaluje ze nie mam flasha w komputerze
+    ... niestety nie podejzewam zeby zrobili ale na wszelki wypadek zaraz sprawdze
+    :(
+- id: 1582
+  author: wariat
+  author_url: ''
+  date: '2005-07-06 22:23:49 +0200'
+  date_gmt: '2005-07-06 22:23:49 +0200'
+  content: P.S. Pierwszy raz byl jak sie wszyscy zachwycali reklamowkami firefoxa.
+- id: 1583
+  author: Bad Kitty
+  author_url: ''
+  date: '2005-07-06 22:23:50 +0200'
+  date_gmt: '2005-07-06 22:23:50 +0200'
+  content: no nie da się ukryć... SF misztrz... Fuckin&#039; TRU
+- id: 1584
+  author: da.killa
+  author_url: ''
+  date: '2005-07-06 22:25:15 +0200'
+  date_gmt: '2005-07-06 22:25:15 +0200'
+  content: Na początku zachwyt. Ale przy trzecim odcinku już niestety monotonne i
+    nużące...
+- id: 1585
+  author: Patrys
+  author_url: ''
+  date: '2005-07-06 22:32:09 +0200'
+  date_gmt: '2005-07-06 22:32:09 +0200'
+  content: |-
+    Wariat:
+    <br/>
+    <br/>PPC?
+- id: 1586
+  author: wariat
+  author_url: ''
+  date: '2005-07-06 22:35:04 +0200'
+  date_gmt: '2005-07-06 22:35:04 +0200'
+  content: |-
+    az tak zle nie jest to tylko AMD64 :D
+    <br/>probowalem niejakiego GPL falsh czy jakos tak ale tez mnei olal ... choc przyznaje nei mialem wielkiego cisnienia w tym kierunku ... mam nadzieje ze macromedia w koncu zmontuje flasha dla AMD64 ... choc bardziej zalezaloby mi na pluginie SunJava do FF, ktorego tez nie ma, a Blackdown java dziala hmmm dziwnie :D
+- id: 1587
+  author: Patrys
+  author_url: ''
+  date: '2005-07-06 22:37:35 +0200'
+  date_gmt: '2005-07-06 22:37:35 +0200'
+  content: A sprawdzałeś wersję x86? Może wymagać userspace 32-bit, ale to już coś.
+- id: 1588
+  author: Egree
+  author_url: ''
+  date: '2005-07-06 22:41:20 +0200'
+  date_gmt: '2005-07-06 22:41:20 +0200'
+  content: Salad Fingers jest niesamowite, wyjątkowo chore. Obejrzałbym, ale nie wiedzieć
+    czemu flash nie wydaje u mnie dźwięków. Jedyna rzecz, która nie działa w Ubuntu
+    od razu.
+- id: 1589
+  author: wariat
+  author_url: ''
+  date: '2005-07-06 22:42:32 +0200'
+  date_gmt: '2005-07-06 22:42:32 +0200'
+  content: "Pewnei gdyby mi to w jakis zasadniczy sposob utrudnialo zycie (niemanie
+    flasha) to bym kombinowal. A uzycie wersji x86 ZTCW wymaga odpalenia wielu rzeczy
+    w &quot;emulowanym x86&quot; czyli nie tylko sama SunJava ale i plugin i firefox
+    i huk wie co jeszcze ... \n<br/>Raz cos tak odpalilem i dzialalo powiedzmy dziwnie
+    :D\n<br/>Java juz jest mysle ze plugin pojawi sie za jakis czas ... a flash ...
+    jak mowie nie warto &quot;psuc systemu&quot; dla dwoch przypadkow na kwartal :D"
+- id: 1590
+  author: froger3
+  author_url: ''
+  date: '2005-07-06 22:44:42 +0200'
+  date_gmt: '2005-07-06 22:44:42 +0200'
+  content: |-
+    salad fingers...
+    <br/>z tym kojarzy mi sie wypad na dzialke kumpla bo wszyscy znajomi mieli na to faze:)
+    <br/>i jeszcze ta muzyczka autorstwa boards of canada:&gt;~~
+---
+<p>Przeglądałem dziś niemal z łezką w oku stare, najdoskonalsze wytwory fantazji <a href="http://www.fat-pie.com/">Davida Firtha</a>. To już ponad rok od czasu, kiedy widziałem je pierwszy raz i nadal zachwycają. Psychodeliczny świat, niewiarygodna muzyka i niesamowity klimat stworzony przez osobiście nagrywane przez autora dźwięki i dialogi. <a href="http://www.fat-pie.com/flash.htm">Salad Fingers</a> musi zobaczyć każdy.</p>

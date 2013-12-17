@@ -1,0 +1,69 @@
+---
+layout: post
+status: publish
+published: true
+title: Bankowanie na wesoło
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 86
+date: 2005-05-10 23:03:20.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1023
+  author: s
+  author_url: ''
+  date: '2005-05-10 23:10:28 +0200'
+  date_gmt: '2005-05-10 23:10:28 +0200'
+  content: A ja mam lepsze pytanie. Kto trafi na _Twoje_ konto? ;)
+- id: 1024
+  author: DeeJay1
+  author_url: ''
+  date: '2005-05-10 23:37:35 +0200'
+  date_gmt: '2005-05-10 23:37:35 +0200'
+  content: Miałem kiedyś podobną sytuację(aczkolwiek w innym banku), jakaś panienka
+    w PolCardzie po prostu źle numer konta przeklepała i miałem stan zerowy. Na szczęście
+    sprawa się dość szybko wyjaśniła i tylko został w ichnim systemie numer konta
+    zmieniony a karta pozostała ta sama ;)
+- id: 1025
+  author: Smoothguy
+  author_url: ''
+  date: '2005-05-11 14:56:52 +0200'
+  date_gmt: '2005-05-11 14:56:52 +0200'
+  content: Hm... a gdybyś tak dostał kartę jakiejś szychy, co pieniędzmi rzuca na
+    lewo i prawo? To by dopiero było... fajnie. :&gt;
+- id: 1026
+  author: Jerrec
+  author_url: ''
+  date: '2005-05-11 21:27:57 +0200'
+  date_gmt: '2005-05-11 21:27:57 +0200'
+  content: 'Hym, Polska to generalnie biedny kraj.... '
+- id: 1027
+  author: Jezuch
+  author_url: ''
+  date: '2005-05-12 22:31:57 +0200'
+  date_gmt: '2005-05-12 22:31:57 +0200'
+  content: 'A potem gazety krzyczą: &quot;KOMPUTER SIĘ POMYLIŁ&quot; ;P'
+- id: 1028
+  author: Patrys
+  author_url: ''
+  date: '2005-05-17 23:22:31 +0200'
+  date_gmt: '2005-05-17 23:22:31 +0200'
+  content: A, zapomniałem pochwalić, że kartę naprawili mi w ciągu jednego dnia.
+---
+<p>Dni temu kilkanaście założyłem nowe konto <abbr title="Rachunek Oszczędnościowo-Rozliczeniowy">ROR</abbr> w <a href="http://www.bzwbk.pl/">Banku Zachodnim WBK</a>. Z poprzedniego, w <a href="http://www.mbank.com.pl/">mBanku</a>, z różnych przyczyn musiałem zrezygnować.</p>
+
+<p>Jak to z bankami bywa, na kartę płatniczą przyszło mi trochę poczekać, ale już w tydzień po podpisaniu umowy przyszła do mnie pocztą koperta z kartą, a za nią koperta z PINem do tejże. Pochwyciłem ów kolejny kawałek plastiku w swój portfel i udałem się, zgodnie z zaleceniami, do najbliższego bankomatu, celem aktywowania karty i zmiany swojego kodu. Problemów nie stwierdzono, wobec czego karta została podpisana i trafiła do kieszeni, czekając na swój moment.</p>
+
+<p>Minęło dni kilka, kiedy to wyczerpałem swoje doczesne fundusze gotówkowe i życie (a raczej <abbr title="Zarząd Dróg i Komunikacji">ZDiK</abbr>) zmusiło mnie do porozmawiania ze ścianą. Szybka kontrola w domu pokazała czterocyfrowy jeszcze stan konta, pewnym krokiem ruszyłem więc po to, co moje. Tutaj muszę pochwalić bankomaty WBK, mają najwygodniejsze menu ze wszystkich obecnych w Polsce sieci bankomatowych. Szybko wybrałem więc <em>Wypłata</em> &raquo; <em>100 PLN</em> &raquo; <em>Bez wydruku</em>. Jeszcze tylko <q><em>proszę czekać ...</em></q> i... nic.</p>
+
+<blockquote><p>Nie można zakończyć operacji: brak autoryzacji.</p></blockquote>
+
+<p>- zawyrokowała ponuro, acz na ładnym tle, maszyna. Drugi bankomat, to samo. Trzeci - nic. Zadzwoniłem więc do banku na infolinię, gdzie przemiła pani wypytała mnie o szczegóły zajścia, a następnie sprawdziła moją historię. Wydało jej się to dziwne, wobec czego poprosiła mnie o cierpliwość i zadzwoniła do informatyka. Ten zdaje się pomógł niewiele, bo tylko rozłożył bezradnie ręcę i zażądał więcej czasu. Polecono mi zaczekać do dnia kolejnego, kiedy to o godzinie 12:00 ktoś się ze mną skontaktuje.</p>
+
+<p>Tak też się stało, dziś w samo południe ta sama pani zadzwoniła do mnie. Sądząc po jej głosie, to jej zdziwienie nie ustępowało mojemu, kiedy to powiedziała mi, że zaszła jakaś pomyłka i wydana mi karta... jest przypisana do cudzego rachunku, na którym akurat saldo jest zerowe, wobec czego nie mogę nic wypłacić.</p>
+
+<p>Kartę pewnie jutro mi wymienią (ewentualnie wyślą mi nową), pieniądze w środku nocy pożyczył mi ojciec, rodzi się tylko jedno pytanie. Skąd mój pech? Czemu musiałem trafić akurat na puste konto? ;)</p>

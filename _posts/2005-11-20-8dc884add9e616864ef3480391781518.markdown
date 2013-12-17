@@ -1,0 +1,44 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #023: Alkohol szkodzi zdrowiu na terenie sklepu'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 185
+date: 2005-11-20 19:44:18.000000000 +01:00
+categories:
+- comic
+tags: []
+comments:
+- id: 2633
+  author: HoBBit °¸°
+  author_url: ''
+  date: '2005-11-20 19:48:58 +0100'
+  date_gmt: '2005-11-20 19:48:58 +0100'
+  content: wstalem o 15:53 :D
+- id: 2634
+  author: m-x
+  author_url: ''
+  date: '2005-11-24 13:55:30 +0100'
+  date_gmt: '2005-11-24 13:55:30 +0100'
+  content: A gdzie tu dowcip? :&gt;
+- id: 2635
+  author: Patrys
+  author_url: ''
+  date: '2005-11-24 23:43:43 +0100'
+  date_gmt: '2005-11-24 23:43:43 +0100'
+  content: jeden przez sekundę.
+- id: 2636
+  author: misia
+  author_url: ''
+  date: '2005-11-25 09:16:04 +0100'
+  date_gmt: '2005-11-25 09:16:04 +0100'
+  content: Teraz ta młodzież... jak dupy gołej nie pokażesz to się nie uśmiechnie
+    ;)
+---
+<p>Zainspirowany wczorajszą wizytą u kolegi, Shoo.</p>
+
+<p class="strip"><img src="http://comic.room-303.com/strips/023-megahertz.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>

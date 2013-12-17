@@ -1,0 +1,773 @@
+---
+layout: post
+status: publish
+published: true
+title: 'HOWTO: Szukanie pracy w IT'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 128
+date: 2005-07-10 12:51:20.000000000 +02:00
+categories:
+- praca
+tags: []
+comments:
+- id: 1679
+  author: Vrok
+  author_url: ''
+  date: '2005-07-10 13:19:53 +0200'
+  date_gmt: '2005-07-10 13:19:53 +0200'
+  content: Niezły tekst, tylko to &quot;uwarzaj&quot;. :P
+- id: 1680
+  author: Patrys
+  author_url: ''
+  date: '2005-07-10 13:21:24 +0200'
+  date_gmt: '2005-07-10 13:21:24 +0200'
+  content: |-
+    OMG, za mało kawy, za dużo jellonków na Gadu-Gadu.
+    <br/>
+    <br/>Fixed.
+- id: 1681
+  author: iniside
+  author_url: ''
+  date: '2005-07-10 13:26:17 +0200'
+  date_gmt: '2005-07-10 13:26:17 +0200'
+  content: Bardzo ciekawe. Co do jelonków. Wystarczy wyczyścić dane w katalogu i spokój
+    ;)
+- id: 1682
+  author: GuessWhy
+  author_url: ''
+  date: '2005-07-10 13:41:50 +0200'
+  date_gmt: '2005-07-10 13:41:50 +0200'
+  content: Chyba sobie wydrukuję ... naprawdę dobry tekst :).
+- id: 1683
+  author: nbw
+  author_url: ''
+  date: '2005-07-10 14:06:29 +0200'
+  date_gmt: '2005-07-10 14:06:29 +0200'
+  content: |-
+    Sam miałem kiedyś coś podobnego napisać. Dobrze ujętę i sformułowane :)
+    <br/>
+    <br/>Może tylko mógłbym czepić się &quot;cytowania obiektów DOM z pamięci&quot;. Osobiście uważam to za zagracanie sobie pamięci rzeczami niemal tak istotnymi jak suma rocznych opadów w Bangladeszu.
+    <br/>To nie klasówka.
+    <br/>
+    <br/>I kwestia mailowego wysyłania CV i listu motywacyjnego. Jeśli faktycznie zależy ci na pracy - sugeruję po wysłaniu aplikacji wysłać albo maila z monitem czy doszło albo zadzwonić.
+    <br/>Często bowiem bywa tak, że maile utykają u &quot;pani Jadzi&quot;, która właśnie, przypadkiem, wyjechała na urlop.
+    <br/>
+    <br/>I jest jeszcze kwestia szczęścia. Już chyba mówiłem/pisałem o tym, jak w pewnej firmie przebiegała rekrutacja. Przyszedł pan głównodowodzący rekrutacją, spojrzał na kupkę aplikacji, wydzielił z niej ze 3/4 kartek i wrzucił je do kosza. Na pytanie co z nimi odpowiedział - w tej grupie są ci, którzy nie mieli szczęścia.
+    <br/>
+    <br/>Dodam, że warto być dowcipnym i nie bać się poprawiać ofert - najlepsze firmy specjalnie przemycają błędy w ofercie bądź dają w ofercie jakieś zadanie do wykonania: vide google. Tak zdarzyło się mojemu znajomemu, który zwrócił pracodawcy uwagę, że w jego ofercie jest błąd: wymagano 8 letniego doświadczenia w dziedzinie, która istnieje od 3 lat. To właśnie ta uwaga sprawiła, że dostał pracę.
+    <br/>
+    <br/>A co do dowcipności? Przy ostatniej okazji, tej która zakończyła się moim zatrudnieniem, pozwoliłem sobie na bezczelny żart. Kiedy pracodawcy zabrakło pytań po kilku minutach i zapytał &quot;czy mam jakieś pytania&quot;, odpowiedziałem - tak, kiedy zaczynam?
+- id: 1684
+  author: nbw
+  author_url: ''
+  date: '2005-07-10 14:08:50 +0200'
+  date_gmt: '2005-07-10 14:08:50 +0200'
+  content: A moja Siostra, będąc na rozmowie w tepsie miała test na szybkość pisania.
+    Miała napisać dwa rozbudowane zdania. Jedno było fragmentem piosenki, a drugim
+    było &quot;Bardzo chciałabym pracować w TPSA&quot; ;)
+- id: 1685
+  author: siwa
+  author_url: ''
+  date: '2005-07-10 14:08:52 +0200'
+  date_gmt: '2005-07-10 14:08:52 +0200'
+  content: Dwóch informatyków i webmastera moja Fabryka przymie od zaraz. Z cmoknięciem
+    w dowolną część ciała.
+- id: 1686
+  author: Patrys
+  author_url: ''
+  date: '2005-07-10 14:16:12 +0200'
+  date_gmt: '2005-07-10 14:16:12 +0200'
+  content: |-
+    nbw:
+    <br/>
+    <br/>Z tym DOM to był żart, chodziło mi bardziej o document.getElementById() i element.getElementsByTagName() jako kontrprzykład dla odwołania przez document.all albo lepiej przez samą nazwę.
+- id: 1687
+  author: DeeJay1
+  author_url: ''
+  date: '2005-07-10 14:17:57 +0200'
+  date_gmt: '2005-07-10 14:17:57 +0200'
+  content: To ja może już potulnie wracam do swojego biura, bo w IT widzę ciężko mi
+    będzie..
+- id: 1688
+  author: Patrys
+  author_url: ''
+  date: '2005-07-10 14:19:18 +0200'
+  date_gmt: '2005-07-10 14:19:18 +0200'
+  content: |-
+    DeeJay1:
+    <br/>
+    <br/>Możesz rozwinąć swoją myśl? :D
+- id: 1689
+  author: bazyl
+  author_url: ''
+  date: '2005-07-10 14:34:41 +0200'
+  date_gmt: '2005-07-10 14:34:41 +0200'
+  content: Bardzo dobry tekst, ale brakuje w nim paru szczegółów. Np o bardzo często
+    spotykanym pytaniu &quot;dlaczego chce pan zmienić pracodawcę. Dlaczego chce Pan
+    odejść/odszedł Pan z poprzedniej pracy&quot; Pytanie niebezpieczne. Najlepszą
+    odpowiedzią jest &quot;przestałem się rozwijać i szukam nowych wyzwań. Obie strony
+    wiedzą, że to kłamstwo, ale pracodawca od razu czuje, że dla Ciebie to temat tabu
+    i z szacunkiem odnosisz się do swojego poprzedniego pracodawcy nie zdradzając
+    powodów, dla których chcesz zmienić pracę.
+- id: 1690
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-07-10 14:37:22 +0200'
+  date_gmt: '2005-07-10 14:37:22 +0200'
+  content: |-
+    &gt; Mamy rok 2005 i technika nie stoi w miejscu
+    <br/>
+    <br/>Poprzedni wpis sugeruje zupełnie coś innego ;-)
+    <br/>
+- id: 1691
+  author: m
+  author_url: ''
+  date: '2005-07-10 14:41:08 +0200'
+  date_gmt: '2005-07-10 14:41:08 +0200'
+  content: chcialbym tylko dodac, ze zapomniales Patrys o najwiekszej kopalni pracy
+    dla informatykow, jaka w tej chwili jest serwis jobpilot.pl - liczba ofert zdecydowanie
+    przewyzsze te dostepna na p.p.o, poza tym sa tam oferty znacznie powazniejsze.
+    Znam wieeeele firm szukajacych specjalistow i oferujacych im bardzo godziwe wynagrodzenia,
+    ktore na p.p.o ogloszen nie publikuja - dotyczy to wprawdzie glownie stanowisk
+    typu software engineer i software developer, a nie webdesigner/developer, no ale
+    jednak.
+- id: 1692
+  author: Patrys
+  author_url: ''
+  date: '2005-07-10 14:42:14 +0200'
+  date_gmt: '2005-07-10 14:42:14 +0200'
+  content: Misiek, tylko ja podałem przykłady rodzajów serwisów, a nie konkretne sajty.
+    Ja mam takich kilkanaście w zakładkach i nie tylko polskich ;]
+- id: 1693
+  author: m
+  author_url: ''
+  date: '2005-07-10 14:45:03 +0200'
+  date_gmt: '2005-07-10 14:45:03 +0200'
+  content: No i z tym strojem to przegiales, bo aplikujac na stanowiska inzynierskie,
+    w ktorych do pracy przychodzisz w tym, w czym poszedles spac, nie trzeba sie przebierac
+    jak na urodziny babci. Dwa razy bylem tak ubrany - raz przegialem, bo nic nie
+    wiedzialem o firmie, w ktorej potem pracowalem dwa lata ;), za drugim razem byla
+    to duza korporacja, a stanowisko zdecydowanie malo inzynierskie.
+- id: 1694
+  author: m
+  author_url: ''
+  date: '2005-07-10 14:45:37 +0200'
+  date_gmt: '2005-07-10 14:45:37 +0200'
+  content: Inna sprawa, ze za drugim razem (moze na szczescie) roboty nie dostalem
+    ;)
+- id: 1695
+  author: Patrys
+  author_url: ''
+  date: '2005-07-10 14:46:13 +0200'
+  date_gmt: '2005-07-10 14:46:13 +0200'
+  content: Tylko że twój strój codzienny wygląda jak mój galowy ;&gt;
+- id: 1696
+  author: m
+  author_url: ''
+  date: '2005-07-10 14:46:23 +0200'
+  date_gmt: '2005-07-10 14:46:23 +0200'
+  content: 'Patrys: no szur, brachu, ze tak :). Podobnie mam i ja, ale jobpilot to
+    zupelnie niezle miejsce na szukanie roboty w Polsce ;)'
+- id: 1697
+  author: m
+  author_url: ''
+  date: '2005-07-10 14:46:50 +0200'
+  date_gmt: '2005-07-10 14:46:50 +0200'
+  content: A to juz inna sprawa ;)
+- id: 1698
+  author: m
+  author_url: ''
+  date: '2005-07-10 14:53:06 +0200'
+  date_gmt: '2005-07-10 14:53:06 +0200'
+  content: |-
+    A powazniej - bardzo fajny tekst o rekrutacji w IT czytalem jakis czas temu, teraz pogooglalem i mam: http://www.joelonsoftware.com/articles/fog0000000073.html
+    <br/>
+    <br/>Co wiecej, pytania z cyklu &quot;napisz atoi()&quot; to nie mrzonki - znajomy, ktory siedzi teraz w Redmond, WA na stanowisku test engineer mial podczas rozmowy wlasnie takie pytania:
+    <br/>- opisz, jak moglbys przetestowac szklanke (i po 5 min rzucania pomyslow uslyszal &quot;nice but anything else?&quot;),
+    <br/>- napisz atoi()
+    <br/>
+    <br/>W kazdym razie warto ten art Joela przeczytac.
+    <br/>
+- id: 1699
+  author: m
+  author_url: ''
+  date: '2005-07-10 14:58:23 +0200'
+  date_gmt: '2005-07-10 14:58:23 +0200'
+  content: |-
+    Jakby ktos wolal po polsku to wlasnie namierzylem tlumaczenie: http://polish.joelonsoftware.com/Articles/Interviewing.html
+    <br/>
+    <br/>Zajebista pogoda dziś...
+- id: 1700
+  author: Vrok
+  author_url: ''
+  date: '2005-07-10 15:10:33 +0200'
+  date_gmt: '2005-07-10 15:10:33 +0200'
+  content: Ale o co chodzi z tym &quot;- napisz atoi()&quot;? :)
+- id: 1701
+  author: Patrys
+  author_url: ''
+  date: '2005-07-10 15:11:17 +0200'
+  date_gmt: '2005-07-10 15:11:17 +0200'
+  content: |-
+    Vrok:
+    <br/>
+    <br/>Zaimplementuj konwerster ASCIIZ na integer.
+- id: 1702
+  author: Tomash
+  author_url: ''
+  date: '2005-07-10 15:50:48 +0200'
+  date_gmt: '2005-07-10 15:50:48 +0200'
+  content: To wcale nie jest głupie zadanie, chociaż jak ktoś ma pojęcie o C, poradzi
+    sobie :). Najpierw trzeba złapać &#039;długość&#039; liczby w stringu, a potem
+    jechać - od początku albo od końca (od końca lepiej, bo po złapaniu długości jest
+    się na tym końcu i nie marnuje cykli) - mnożąc cyfry przez kolejne potęgi 10-tki.
+    To najbardziej naturalne i intuicyjne rozwiązanie. Ktoś ma lepszy pomysł? ;)
+- id: 1703
+  author: szzzzzz...ej?
+  author_url: ''
+  date: '2005-07-10 15:51:51 +0200'
+  date_gmt: '2005-07-10 15:51:51 +0200'
+  content: |-
+    m - ja cie prosze - najpierw przemysl, potem pisz
+    <br/>nie klep komentarzy jeden pod drugim, jeno jeden konkretny, tutaj nie ma opcji &#039;edytuj posta&#039; czy &#039;scal komentarze&#039;, przemysl i napisz raz...
+- id: 1704
+  author: Patrys
+  author_url: ''
+  date: '2005-07-10 15:53:42 +0200'
+  date_gmt: '2005-07-10 15:53:42 +0200'
+  content: |-
+    Tomash:
+    <br/>
+    <br/>int wynik = 0;
+    <br/>
+    <br/>while (*ciag)
+    <br/>{
+    <br/>  wynik = wynik * 10 + (*ciag - &#039;0&#039;);
+    <br/>  ciag++;
+    <br/>}
+- id: 1705
+  author: Tomash
+  author_url: ''
+  date: '2005-07-10 15:57:35 +0200'
+  date_gmt: '2005-07-10 15:57:35 +0200'
+  content: wynik = wynik*10. Nie wpadłem na to, rzeczywiście świetne :).
+- id: 1706
+  author: m
+  author_url: ''
+  date: '2005-07-10 15:58:16 +0200'
+  date_gmt: '2005-07-10 15:58:16 +0200'
+  content: 'szej: musisz to stary przebolec i jakos z tym zyc...'
+- id: 1707
+  author: Patrys
+  author_url: ''
+  date: '2005-07-10 15:59:20 +0200'
+  date_gmt: '2005-07-10 15:59:20 +0200'
+  content: /me idzie poprosić Sparrowa, żeby komentowanie wymagało przepisania 666
+    cyferek z obrazka, wtedy będzie mniej doublepostów.
+- id: 1708
+  author: riddle
+  author_url: ''
+  date: '2005-07-10 16:29:13 +0200'
+  date_gmt: '2005-07-10 16:29:13 +0200'
+  content: |-
+    Fajny tekst, dzięki :)
+    <br/>
+    <br/>A gdzie można się zorientować albo uzyskać poradę co do płac za projekty web&#039;owe? Ja nie mam pojęcia ile brać za strony, które robię.
+- id: 1709
+  author: m
+  author_url: ''
+  date: '2005-07-10 16:30:44 +0200'
+  date_gmt: '2005-07-10 16:30:44 +0200'
+  content: 'riddle: archiwum http://groups.google.pl/group/pl.comp.www ?'
+- id: 1710
+  author: nbw
+  author_url: ''
+  date: '2005-07-10 16:33:19 +0200'
+  date_gmt: '2005-07-10 16:33:19 +0200'
+  content: |-
+    Tak naprawdę - nigdzie. To indywidualna sprawa. Zależy jaki projekt, dla kogo itd.
+    <br/>
+    <br/>Pewnym punktem wyjścia jest ustalenie sobie stawki godzinowej. Do tego oczywiście musisz wiedzieć ile średnio zajmuje Ci stworzenie projektu.
+    <br/>
+    <br/>Najłatwiej ustalić sobie stawkę poniżej której się nie robi ;) (np pół samochodu ;)
+- id: 1711
+  author: me.
+  author_url: ''
+  date: '2005-07-10 17:37:45 +0200'
+  date_gmt: '2005-07-10 17:37:45 +0200'
+  content: |-
+    Interesujący tekst. Sprawia wrażenie &#039;Desideraty&#039;.
+    <br/>
+    <br/>Taka notka powinna powracać okresowo. Dobra pomoc dla początkujących (i nie tylko) :)
+- id: 1712
+  author: lukier
+  author_url: ''
+  date: '2005-07-10 18:53:04 +0200'
+  date_gmt: '2005-07-10 18:53:04 +0200'
+  content: niezły tekst ale ma pare mankamentów, jak zaznaczyłeś na wstępie sporo
+    jest specjalizacji &quot;informatyka&quot;.i tu jest pies pogrzebany, o ile w
+    miare podobnie wygląda dalszy procesz w przypadku np webmastera to juz do poważniejszych
+    spraw (Ada95, konkretne adminowanie i rózne inne enterprise rzeczy) proces sie
+    komplikuje i warto też zaznaczyć ze nawet najlepsze wykształcenie nie pomoże bo
+    doświadczenie w branży jest ważnym kryterium.
+- id: 1713
+  author: m
+  author_url: ''
+  date: '2005-07-10 19:14:49 +0200'
+  date_gmt: '2005-07-10 19:14:49 +0200'
+  content: |-
+    lukier: Ale czy to cos zmienia w kontekscie zupelnie slusznych rad Patrysa?
+    <br/>btw, czy osoby zajmujace sie rzeczywiscie topowymi technologiami potrzebuja takich tekstow? raczej nie...
+    <br/>
+    <br/>A procedury rekrutacyjne ulegaja zmianom. Ostatnio mila praktyka wsrod powaznych firm jest poddawanie kandydatow testom zwiazanych z technologiami, ktore odpowiadaja trudnoscia mniej wiecej egzaminom certyfikacyjnym (dla Javy SCJP, dla Oracle OCP, dla .NET przede wszystkim MCP XML WebServices i ASP.NET) - nawet we WR wiele wiekszych firm budujacych bardziej zlozone rozwiazania niz sklepik internetowy stosuja taka praktyke.
+    <br/>
+    <br/>A doswiadczenie? Anegdotka: wroclawski Siemens otwierajac dzial SDC podkupil specjalistow GSM/GPRS z PTC - takich ludzi nie ma w Polsce wielu.
+    <br/>W przypadku ludzi majacych doswiadczenie, wierz mi, kwestie rekrutacyjne wygladaja o wiele &quot;wygodniej&quot; niz w przypadku osoby zdobywajacej dopiero praktyke - tacy ludzie nie potrzebuje zlotych porad, bo znakomicie radza sobie sami.
+    <br/>
+    <br/>No i sorry, ale Ada95 jest chyba mniej popularna (gdzie to sie stosuje?) nawet niz takie egzotyki, jak Cobol/mainframe i RPG/iSeries - notabene na specjalistow od tych dwoch jezykow nadal jest bardzo duzy popyt, bo systemow do utrzymywania jest w brod.
+- id: 1714
+  author: bazyl
+  author_url: ''
+  date: '2005-07-10 19:19:00 +0200'
+  date_gmt: '2005-07-10 19:19:00 +0200'
+  content: |-
+    Dla sprostowania: Siemens SDC oznacza oftware Development Center. Tobie chodziło o SCD MD (SCD Mobile Devices) i faktycznie masz rację. Teraz jest mnóstwo ludzi w całym dziale, a wiedza na temat GSM/GPRS/UMTS jest bardzo mierna. Co ciekawe - wiedza na temat systemów RTOS czy embedded też pozosstawia wiele do życzenia.
+    <br/>
+    <br/>Rynek trudny, a specjalistów niewielu. A tam rekrutacja jest niestety bardziej na zasadzie &quot;hurra&quot;, bo ludzi, których oni poszukują po prostu nie ma.
+    <br/>
+    <br/>Wiem. Pracuję tam i uczę nowych rekrutów rzeczy potrzebnych im do pracy...
+- id: 1715
+  author: lukier
+  author_url: ''
+  date: '2005-07-10 19:21:37 +0200'
+  date_gmt: '2005-07-10 19:21:37 +0200'
+  content: bez Ady nie polatałbyś Boeingiem 777 czy innymi samolotami, nie przejechał
+    sie metrem w Paryżu czy Londynie, szybkimi kolejami w europie, nie miał byś prądu
+    w domu (np elektrownie atomowe) a o NASA czy ESA to juz wogle nie będe wspominał.
+    W Adzie sa realizowane najdroższe projekty informatyczne. Choc pewnie juz Java
+    dogania. Ada jest popularna w takich zastosowaniach bo jest strasznie wredna dla
+    programisty :-) i pilnuje na każdym kroku, nie to co w PHP.
+- id: 1716
+  author: lukier
+  author_url: ''
+  date: '2005-07-10 19:23:56 +0200'
+  date_gmt: '2005-07-10 19:23:56 +0200'
+  content: |-
+    bazyl:
+    <br/>Słyszałem ze w SCD MD jest mase ludzi, regularnie widze na wydziale oferty pracy. Macie już znane z USA &quot;przegródki&quot; :-)
+- id: 1717
+  author: bazyl
+  author_url: ''
+  date: '2005-07-10 19:25:25 +0200'
+  date_gmt: '2005-07-10 19:25:25 +0200'
+  content: 'lukier: nie wiem kto Ci takich bajek nawciskał. Przegródek nie ma. Ale
+    tłoczno się zrobiło, a owszem :P Choć i tak warunki pracy są o wiele ciekawsze
+    niż w niejednej innej firmie w Polsce. Nawet tej międzynarodowej.'
+- id: 1718
+  author: lukier
+  author_url: ''
+  date: '2005-07-10 19:31:29 +0200'
+  date_gmt: '2005-07-10 19:31:29 +0200'
+  content: |-
+    bazyl: bajek o Adzie? nikt, poczytałem:
+    <br/>http://www.adahome.com/
+    <br/>http://www.adahome.com/Ammo/Success/
+    <br/>http://www.seas.gwu.edu/~mfeldman/ada-project-summary.html
+    <br/>
+    <br/>nie patrz na to przez pryzmat Polski bo u nas to nowościa jest Siematic :-)
+- id: 1719
+  author: m
+  author_url: ''
+  date: '2005-07-10 19:32:05 +0200'
+  date_gmt: '2005-07-10 19:32:05 +0200'
+  content: |-
+    lukier: to ciekawe, moglbys cos wiecej powiedziec? Na jakich platformach to chodzi? Dotyczy to systemow RTOS, tak? Z tego, co widze, w bankowosci nadal baaardzo dobrze sie maja systemy na Cobolu i RPG, ale to bardziej kwestia wyboru platformy sprzetowej i utrzymywania sprawdzonego softu niz tworzenia nowych rozwiazan. Smierc iSeries jest blisko, duzo rzeczy migruje sie do J2EE/web, bo lepsze to niz zielone ekrany:).
+    <br/>
+    <br/>bazyl: ano, SCD MD. A wiedza jest mierna, bo sam wiesz, na ilu uczelniach ucza na wydziałach telekomunikacji technologii nowszych niz ISDN. Znasz takie, na ktorych sa kursy z GPRS/UMTS (powaznie pytam, bo mam mlodszego brata...)? Systemy RTOS tez na uczelniach wlasciwie nie istnieja, co do embedded to cos sie tam chyba robi, ale nie wiem, jaki tego poziom. Zreszta Siemens siorbie absolwentow, jak moze - 90-ciu absolwentow rocznie z IO/IZ/PWR działowi SDC nie wystarcza ;)
+- id: 1720
+  author: bazyl
+  author_url: ''
+  date: '2005-07-10 19:32:31 +0200'
+  date_gmt: '2005-07-10 19:32:31 +0200'
+  content: Nie unoś się. Mówiłem o przegródkach. Adę znam, stosowałem i wiem z czym
+    to się je i do czego się stosuje.
+- id: 1721
+  author: m
+  author_url: ''
+  date: '2005-07-10 19:34:37 +0200'
+  date_gmt: '2005-07-10 19:34:37 +0200'
+  content: 'lukier: jakie tam przegrodki - ciasno, ale bez boxow, w dodatku w niektorych
+    sekcjach zdecydowanie stawiaja na komunikacje w grupie. No i to jedna z tych firm
+    o najwygodniejszach krzesla :).'
+- id: 1722
+  author: bazyl
+  author_url: ''
+  date: '2005-07-10 19:35:38 +0200'
+  date_gmt: '2005-07-10 19:35:38 +0200'
+  content: 'm: mówisz jakbyś tam pracował :P Czy my się nie znamy? :P'
+- id: 1723
+  author: m
+  author_url: ''
+  date: '2005-07-10 19:36:17 +0200'
+  date_gmt: '2005-07-10 19:36:17 +0200'
+  content: 'm: Nie pracuje, ale mysle, ze mamy wielu wspolnych znajomych :)'
+- id: 1724
+  author: lukier
+  author_url: ''
+  date: '2005-07-10 19:39:39 +0200'
+  date_gmt: '2005-07-10 19:39:39 +0200'
+  content: |-
+    bazyl: sorry, to o przegródkach to było pytanie :-)
+    <br/>m:
+    <br/>tak, to są systemy RTOS, czasami na mikroprocesorach wbudowanych (motorolki, pewnie ARM, jest nawet wersja na AVR ale bez wielu bajerow), często uruchamia sie to w &quot;powłoce&quot; systemu operacyjnego czasu rzeczywistego np QNX czy RT Linux. To są dosyć wąskie przemysłowe zastosowania i wcale sie nie dziwie, że banki przechodzą na J2EE bo to jest dosyć dobra platforma.
+    <br/>
+    <br/>Niestety Ci nie powiem jak jest na kierunku telekomunikacja EKA/PWr choć sam studiuje na tym wydziale ale ja automatyke i robotyke specjalność robotyka :-)
+- id: 1725
+  author: m
+  author_url: ''
+  date: '2005-07-10 19:47:57 +0200'
+  date_gmt: '2005-07-10 19:47:57 +0200'
+  content: 'lukier: to ja Ci moge powiedziec, jak jest z RPG/DB2 na iSeries czyli
+    starym dobrym AS/400 - glownym argumentem za trzymaniem sie tej platformy jest
+    sprawdzone i ciagle rozbudowywane oprogramowanie, ktore chodzi sobie juz kilkanascie,
+    jak nie kilkadziesiat lat glownie tam, gdzie wieksze pieniadze, drugim powodem
+    jest ogromna stabilnosc tej platformy. Minusy tez sa w zasadzie dwa: bardzo duzy
+    koszt skalowania takich systemow oraz ograniczenia samej platformy - opoznienie
+    DB2 UDB/iSeries w porownaniu z wersjami tej bazy na innych platformach, archaicznosc
+    RPG i topornosc zielonych ekranow. J2EE jest technologia znacznie tansza, znacznie
+    latwiejsza w rozwoju i znacznie bardziej uniwersalna w kontekscie platformy bazodanowej
+    i sprzetowej. Firmy pracuja nad planami pozbycia sie iSeries, deadline&#039;y
+    juz wytyczone.'
+- id: 1726
+  author: lukier
+  author_url: ''
+  date: '2005-07-10 19:59:32 +0200'
+  date_gmt: '2005-07-10 19:59:32 +0200'
+  content: "m:\n<br/>firmy pewnie swego czasu sporo zainwestowały to, a że to nie
+    jest byle system to IBM co łaska nie dał. Sun jest o tyle lepszy, że platforma
+    jest dosyć popularna (teraz OpenSolaris), Java również, opracowali IMHO porządny
+    framework (ME,SE,EE) i jak pokazuje rynek da sie tego używać całkiem nieźle, a
+    ilość oprogramowania (i jego otwartość często!) też jest spora np. http://c-jdbc.objectweb.org/
+    , Biblioteki Prevelance itp\n<br/>M$ chyba nie da rady, pisałem troche w C# .NET
+    \ i tylko włosy sobie można z głowy wyrywać, Framework 1.1 nie umywa sie do J2SE,
+    Visual Studio wywala cały projekt jak gdzieś pojawi sie bład w designerze (moim
+    zdaniem koncepcja JavaBeana jest lepsza niż integrowanie RAD w framework jak to
+    zrobił MS). "
+- id: 1727
+  author: DeeJay1
+  author_url: ''
+  date: '2005-07-10 20:07:27 +0200'
+  date_gmt: '2005-07-10 20:07:27 +0200'
+  content: 'Patrys: że zacytuję siebie &quot;kurka, kto mi  zabrał manual&quot;. Jakoś
+    ciężko mi sobie wyobrazić życie bez manuala lub uzupełniania kodu, starczy że
+    jakiejś funkcji nie używam przez kilka miesięcy to już o niej po prostu nie pamiętam
+    i muszę szperać jakie argumenty przyjmowała. Na szczęście przeważnie wiem w jakiej
+    bibliotece ona była...'
+- id: 1728
+  author: m
+  author_url: ''
+  date: '2005-07-10 20:33:37 +0200'
+  date_gmt: '2005-07-10 20:33:37 +0200'
+  content: |-
+    lukier: IBM bardzo silnie wspiera Jave, ma kompletne srodowisko dla rozwiazan J2EE - serwery unixowe, DB2, Websphere Application Server. Wiadomo, jak to uzywac i jak stroic. Rational Application Developer to zdecydowanie najlepsze IDE, jakie widzialem dla Javy - szkoda tylko, ze dziala to na Eclipse na 3.0, a nie 3.1, bo byloby ciut szybsze ;). Platforma .NET jest mlodsza, to i nie ma jeszcze takiego wsparcia, jakie daja Javie takie organizacje, jak Apache Software Foundation, IBM, Oracle. Ale .NET sie obroni - rozwiazania takie, jak Microsoft Team System 2005, sa naprawde krokiem naprzod w przemyslowym wytwarzaniu oprogramowania, poza tym rozwiazan pochodzacych od 3rd-parties wciaz przybywa. Rynek open-source daje akurat .Netowi mniej, ale tez nikt nie kupuje Visual Studio i SQL Servera po to, zeby oszczedzac potem na darmowych rozwiazaniach.
+    <br/>
+    <br/>A z tych projektow OS, ktore wymieniles, nie korzystalem - prym w moich okolicach wiedzie JBoss, Tomcat, Hibernate, Cocoon, Struts, Spring. No i Eclipse, ktory jest swietnym IDE, latwym do podrasowania przez pluginy.
+- id: 1729
+  author: Digi
+  author_url: ''
+  date: '2005-07-10 22:03:12 +0200'
+  date_gmt: '2005-07-10 22:03:12 +0200'
+  content: |-
+    &quot;Nie spóźnij się, komisja rekrutacyjna ma prawo trzymać cię na korytarzu dowolnie długo, ale tobie nie wolno pozwolić im czekać - to oznacza brak szacunku.&quot;
+    <br/>Szacunek obowiązuje obie strony - jeśli przyszły pracodawca na dzień dobry trzyma Cię 2 godziny na korytarzu, czy krześle w poczekalni lepiej dać sobie spokój. O tym żebyś był traktowany jak człowiek w takiej pracy możesz zapomnieć (no chyba że jako człowiek do bicia).
+- id: 1730
+  author: Draakhan
+  author_url: ''
+  date: '2005-07-10 22:08:11 +0200'
+  date_gmt: '2005-07-10 22:08:11 +0200'
+  content: |-
+    @m:
+    <br/>Jak szukasz czegoś dla brata to zainteresuj się może Politechniką Gdańską i wydziałem ETI. Ja na elektronice miałem kursy dotyczące RTOS (cały semestr), o embedded też mam co nieco pojęcia dzięki swojej specjalnosci. Także jakbym miał z tym wystartować to jakieś podstawy na dobry początek mam.
+    <br/>
+    <br/>Tak samo kumpel po telekomunikacji, o GPRS miał również semestralny kurs, o UMTS również i twierdzi tak samo jak ja, że jakby coś miał z tym robic to zielony nie jest i wiedziałby od czego zacząć.
+- id: 1731
+  author: m
+  author_url: ''
+  date: '2005-07-10 22:09:13 +0200'
+  date_gmt: '2005-07-10 22:09:13 +0200'
+  content: 'Digi: heh, ale miałem podobną sytuację - przychodzę zaspany na rozmowę,
+    ledwie zdązyłem, znalazłem biuro, złapałem oddach, &quot;dzień dobry, to ja&quot;
+    i... &quot;bardzo przepraszamy, ale czy mógłby pan poczekać pół godziny, bo właśnie
+    mamy problem i wyłączamy na chwilę system produkcyjny&quot; :))'
+- id: 1732
+  author: m
+  author_url: ''
+  date: '2005-07-10 22:18:13 +0200'
+  date_gmt: '2005-07-10 22:18:13 +0200'
+  content: 'Draakhan: dzięki! Brachol coś zaczyna przebąkiwać o telekomunikacji, a
+    ja z tego generalnie noga jestem - wiem tyle, że GSM/GPRS/UMTS daje radę i że
+    na wrocławskiej EKA tego nie uczą. Bazyl, mógłbyś coś podpowiedzieć?'
+- id: 1733
+  author: lukier
+  author_url: ''
+  date: '2005-07-10 22:19:26 +0200'
+  date_gmt: '2005-07-10 22:19:26 +0200'
+  content: |-
+    Draakhan:
+    <br/>z tymi kursami to różnie bywa, na moim wydziale jest np masa teorii minimum praktyki. To z jednej strony dobrze bo gdyby uczyli tylko praktyki to by wychodzili absolwenci np. z zaawansowaną znajomością obsługi centrali strowger (to taki telekomunikacyjny przykład ale ja np na laborce z programowania robotów miałem chyba 40 letni zabytek programowany poprzez wtykanie zworek w matryce). GSM tez sie kiedyś skończy wiec może jednak lepiej żeby przyszli pracownicy nie ograniczali sie do topowych technologii (zresztą to by było straszne np wykuć 1500 str specyfikacji Bluetooth) ale posiadali wiedze teoretyczną, troche bardziej uniwersalną. Mimo wszystko miłoby było żeby do laboratoriów wpadło troche świeżego powietrza ale tak to przynajmniej historii techniki sie człowiek za jednym zamachem nauczy :-)
+- id: 1734
+  author: bazyl
+  author_url: ''
+  date: '2005-07-10 22:20:20 +0200'
+  date_gmt: '2005-07-10 22:20:20 +0200'
+  content: 'm: szczerze mówiąc, nie jestem w stanie. Sam znam tylko ogóły. Pracuję
+    na wyższym poziomie :) Wiem, że mało kto zdaje sobie z tego sprawę wewnątrz Zimola.
+    Wiem też, że na poli raczej tego nie uczą. I wątpię, żeby gdziekolwiek we wrocku
+    uczyli. Sądzę jednak, że własne próby i własna nauka może mu wystarczyć. Zawsze
+    można to wpisać potem w &quot;skills&quot; w CV ;] A się przydaje. Oj przydaje...'
+- id: 1735
+  author: Woocash
+  author_url: ''
+  date: '2005-07-10 22:23:11 +0200'
+  date_gmt: '2005-07-10 22:23:11 +0200'
+  content: |-
+    A próbowaliście kiedyś przez TempService (InfoStaff) aktualnie znany jako Randstat.pl?
+    <br/>
+    <br/>mi sie udało bardzo... bardzo bardzo
+- id: 1736
+  author: Woocash
+  author_url: ''
+  date: '2005-07-10 22:23:57 +0200'
+  date_gmt: '2005-07-10 22:23:57 +0200'
+  content: 'ups... poprawka: Randstad.pl'
+- id: 1737
+  author: m
+  author_url: ''
+  date: '2005-07-10 22:24:45 +0200'
+  date_gmt: '2005-07-10 22:24:45 +0200'
+  content: Heh, wiesz... tak mi się wydaje, że nauka GPRS/UMTS w domu to jak próba
+    zakumania konfiguracji enterprisowych routerów CISCO siedząc w kapciach przed
+    monitorem;). Poza tym porządna wiedza akademicka, jaka ogólna by nie była, zwykle
+    bardzo się przydaje. Nie wiesz może, skąd do Was łebscy absolwencji telekomuny
+    przychodzą?
+- id: 1738
+  author: m
+  author_url: ''
+  date: '2005-07-10 22:25:18 +0200'
+  date_gmt: '2005-07-10 22:25:18 +0200'
+  content: 'Woocash: opowiedz coś więcej...?'
+- id: 1739
+  author: bazyl
+  author_url: ''
+  date: '2005-07-10 22:26:07 +0200'
+  date_gmt: '2005-07-10 22:26:07 +0200'
+  content: |-
+    m: ujmę to w najprostrzy sposób z możliwych... Nie przychodzą :)
+    <br/>Przerażające, ale prawdziwe.
+- id: 1740
+  author: Woocash
+  author_url: ''
+  date: '2005-07-10 22:26:23 +0200'
+  date_gmt: '2005-07-10 22:26:23 +0200'
+  content: |-
+    &gt;&gt; Woocash: opowiedz coś więcej...?
+    <br/>
+    <br/>Big Blue ?
+- id: 1741
+  author: m
+  author_url: ''
+  date: '2005-07-10 22:28:17 +0200'
+  date_gmt: '2005-07-10 22:28:17 +0200'
+  content: |-
+    bazyl: ech... no to sporo wyjazdów do centrali na Ausbildung macie... ;)
+    <br/>
+    <br/>Woocash: Praga? Warszawa?
+- id: 1742
+  author: Draakhan
+  author_url: ''
+  date: '2005-07-10 22:37:58 +0200'
+  date_gmt: '2005-07-10 22:37:58 +0200'
+  content: "lukier (i do m w sumie też):\n<br/>A z tym to akurat masz rację. Ja jeszcze
+    miałem szansę polecieć starym programem nauczania, gdzie trochę tych zajęć na
+    laboratoriach było i nie były one (w większości, nie mówię o niechlubnych wyjątkach)
+    aż takie złe. Niestety Ci co idą u nas nowym programem (2 roczniki niżej) mają
+    drastycznie obcięte godziny laborek (względy oszczędnościowe, n/c). \n<br/>\n<br/>Także,
+    żeby być uczciwym to mogę powiedzieć tak: pod względem teorii to nie mogę narzekać
+    na braki, laboratoria zaś raczej dla nowych ludzi będą ograniczane i dopiero na
+    specjalności coś ciekawego zobaczą. Na powiew świeżości w laboratoriach też u
+    mnie bym nie liczył. No może poza katedrą mikroelektroniki, która dość mocno jest
+    sponsorowana przez Intela i jest niejako ten sponsoring obiektem zazdrości innych
+    katedr ;)"
+- id: 1743
+  author: m
+  author_url: ''
+  date: '2005-07-10 22:53:28 +0200'
+  date_gmt: '2005-07-10 22:53:28 +0200'
+  content: 'Zupełnie off-topic: czy ktoś miał okazję pobawić się OpenMosixem? jak
+    to działa? Patrzę na to szczególnie pod kątem klastrowania procesów VM Javy.'
+- id: 1744
+  author: piko
+  author_url: ''
+  date: '2005-07-11 01:06:24 +0200'
+  date_gmt: '2005-07-11 01:06:24 +0200'
+  content: OpenMosix działa. Ale znacznie lepiej na wiekszej niz 3 ilosci maszyn ;p
+- id: 1745
+  author: olaf
+  author_url: ''
+  date: '2005-07-11 02:01:13 +0200'
+  date_gmt: '2005-07-11 02:01:13 +0200'
+  content: |-
+    Super.
+    <br/>
+    <br/>Ja dostałem pracę dzięki bardzo dobremu przygotowaniu. Wiedziałem baaaaaaaaardzo dużo nie tylko o firmie do której aplikowałem ale także conieco o ich klientach i partnerach.
+- id: 1746
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2005-07-13 21:35:36 +0200'
+  date_gmt: '2005-07-13 21:35:36 +0200'
+  content: |-
+    ...&quot;że używasz najoptymalniejszych narzędzi&quot;...
+    <br/>Nie ma czegoś takiego, to jest masło maślane. Przymiotnik &quot;optymalny, -a, -e&quot; nie podlega stopniowaniu w języku polskim.
+    <br/>A poza tym fajny artykuł (pomimo, że obecnie nie szukam pracy).
+- id: 1747
+  author: Przemo
+  author_url: ''
+  date: '2005-07-20 17:54:15 +0200'
+  date_gmt: '2005-07-20 17:54:15 +0200'
+  content: |-
+    Kontynuacja artykułu:
+    <br/>http://diary.e-gandalf.net/?p=85
+    <br/>(jakby ktoś nie wiedział)
+- id: 1748
+  author: wojtekm
+  author_url: ''
+  date: '2005-07-21 22:12:32 +0200'
+  date_gmt: '2005-07-21 22:12:32 +0200'
+  content: |-
+    &gt; int wynik = 0;
+    <br/>&gt;
+    <br/>&gt; while (*ciag)
+    <br/>&gt; {
+    <br/>&gt; wynik = wynik * 10 + (*ciag - &#039;0&#039;);
+    <br/>&gt; ciag++;
+    <br/>&gt; }
+    <br/>
+    <br/>Patrys ten program liczy wspak, aby działał poprawnie musisz albo odwrócić kolejność cyfr albo skoczyć na początku ze wskaźnikiem na koniec łańcucha i zmiejszać zmienną ciąg aż do początku...
+    <br/>
+    <br/>Wojtek
+- id: 1749
+  author: Patrys
+  author_url: ''
+  date: '2005-07-21 22:13:44 +0200'
+  date_gmt: '2005-07-21 22:13:44 +0200'
+  content: To teraz mamy notację big-endian w zapisie dziesiętnym?
+- id: 1750
+  author: wojtekm
+  author_url: ''
+  date: '2005-07-21 22:37:29 +0200'
+  date_gmt: '2005-07-21 22:37:29 +0200'
+  content: A kiedykolwiek było inaczej? :)
+- id: 1751
+  author: Patrys
+  author_url: ''
+  date: '2005-07-21 22:38:09 +0200'
+  date_gmt: '2005-07-21 22:38:09 +0200'
+  content: czyli 123 = 1 + 10 * 2 + 100 * 3?
+- id: 1752
+  author: wojtekm
+  author_url: ''
+  date: '2005-07-21 22:45:09 +0200'
+  date_gmt: '2005-07-21 22:45:09 +0200'
+  content: |-
+    &gt; czyli 123 = 1 + 10 * 2 + 100 * 3?
+    <br/>
+    <br/>Tak postępuje Twój program, bo w tablicy jest najpierw 1 potem 2 a potem 3.
+    <br/>A powinien zrobić 3 + 10 * 2 + 100 * 1.
+    <br/>
+- id: 1753
+  author: Patrys
+  author_url: ''
+  date: '2005-07-21 22:46:44 +0200'
+  date_gmt: '2005-07-21 22:46:44 +0200'
+  content: Napij się kawy → pomyśl → napij się kawy → pomyśl → przeczytaj jeszcze
+    raz → napij się kawy → ... → przeanalizuj przejście dla &quot;123\0&quot; → odpisz
+- id: 1754
+  author: wojtekm
+  author_url: ''
+  date: '2005-07-21 22:51:00 +0200'
+  date_gmt: '2005-07-21 22:51:00 +0200'
+  content: Przepraszam racja... :) Ehhh, już drugi raz się tak naciąłem :)).
+- id: 25143
+  author: kest
+  author_url: http://t4y.pl
+  date: '2010-08-25 14:32:09 +0200'
+  date_gmt: '2010-08-25 12:32:09 +0200'
+  content: Tutaj też poszukują programistów t4y.pl wysłałem do nich CV. Zobaczymy
+    co dalej. Jak coś to nasziszę w przyszłości:)
+---
+<p>Wszyscy trąbią, że ciężko o pracę, że nie ma, że bieda w kraju. O ile górnicy faktycznie mają na co narzekać, o tyle umęczeni informatycy (w szerokim tego słowa znaczeniu) plotą bzdury. Miejsc pracy jest więcej niż fachowców, bo rynek ten w Polsce dopiero się rozwija, a w ofertach można wręcz przebierać.</p>
+
+<h3>Przygotowania wstępne</h3>
+
+<p>Mówienie o informatyce jak o konkretnym zawodzie, to jak powiedzenie, że konkretną pracą jest robotnik. Są tu setki specjalności, od statystyki po programowanie, a każda ma inne wymagania i specyfikę pracy. Łączy je tylko jedno - do pracy niezbędny jest komputer. Jako programista, skupię się bardziej na rdzeniu tego rynku, czyli na specjalizacjach technicznych - programowaniu, administracji, aplikacjach sieciowych.</p>
+
+<p>Pierwszą ważną rzeczą jest wybranie w miarę wąskiej specjalizacji. Nikt nie zabrania ci posiadać wielu hobby i interesować się wszystkim po trochu, jednak twój pracodawca będzie zainteresowany współpracą z tobą w zakresie konkretnych obowiązków. Stąd powinieneś przede wszystkim inwestować swój czas w rozwój w wybranym kierunku. Jeśli chcesz być programistą, wybierz grupę docelową. Mogą to być aplikacje desktopowe, software na komórki, gry komputerowe, oprogramowanie serwerowe, aplikacje internetowe, zagnieżdżone systemy czasu rzeczywistego czy skrypty Flash. Jako administrator możesz specjalizować się w zarządzaniu farmami produkcyjnymi, rozległymi sieciami, czy tuningu konkretnych usług serwerowych. Wszystko jedno, co wybierzesz, niech stanie się to twoją mocną stroną. Przeciętny student informatyki ma przynajmniej minimalne pojęcie o każdym z wybranych kierunków, ty nie możesz być przeciętny, musisz przekonać pracodawcę, że to właśnie ty najlepiej pasujesz do danego stanowiska.</p>
+
+<p>Śledź rynek. Skończyły się czasy, kiedy wystarczyło trochę poklikać w jakimś programie, żeby uważać się za guru i wyrocznię. Chcesz pracować jako webdeveloper i znasz <abbr title="HyperText Markup Language">HTML</abbr>? Świetnie, ale czy potrafisz swobodnie poruszać się w technologiach takich jak <abbr title="Cascading Style Sheets">CSS</abbr>, <abbr title="simple Inman Flash Replacement">sIFR</abbr>, <abbr title="Asynchronous JavaScript And XML">AJAX</abbr>? Cytujesz obiekty drzewa <abbr title="Document Object Model">DOM</abbr> z pamięci? Mamy rok 2005 i technika nie stoi w miejscu, klienci (a przez to i pracodawcy) oczekują nowinek, a ty będziesz musiał temu podołać.</p>
+
+<p>Upewnij się, że używasz najoptymalniejszych narzędzi i naucz się je efektywnie wykorzystywać. Oczywiście, kod można pisać w notatniku, ale z całą pewnością dużo wygodniej robi się to w zintegrowanych środowiskach, oferujących zwijanie sekcji i kolorowanie składni. Dowiedz się, z czego korzystają autorytety w danej branży, nie zatrzymuj się na pierwszym programie, który działa. Sumiennie porównaj dostępne na rynku aplikacje i zorganizuj sobie listę wad i zalet. Pamiętaj, że być może w przyszłości będziesz zmuszony korzystać z odgórnie narzuconego oprogramowania - najprawdopodobniej będzie to właśnie jeden z uznanych w branży liderów.</p>
+
+<p>Śledź ludzi. Mamy XXI wiek, czas blogów. Blogi prowadzą uczniowie podstawówek, gimnazjów, licealiści i studenci. Być może cię to zdziwi, ale prowadzą je także biznesmeni, managerowie i programiści. Popytaj bardziej doświadczonych, niech polecą ci kilka linków, stamtąd - po siatce odnośników - trafisz na szersze wody. Zanim zachwycisz się ślepo każdym, kto pisze posty dłuższe niż dwa zdania o myciu zębów, rozejrzyj się po wzajemnych relacjach, polemice i krytyce na innych blogach - będzie ci łatwiej zorientować się, kto powinien być dla ciebie autorytetem.</p>
+
+<p>Naucz się biegle czytać angielskie teksty, 90% interesujących cię informacji znajdziesz w sieci właśnie w tym języku. Nieodzowne będzie także zaznajomienie się ze słownictwem specyficznym dla danej branży - dotyczy to tak języka polskiego jak i angielskiego. Nie zdziw się, kiedy ktoś zapyta cię, czy wiesz co to <em>floatus divitis</em> czy <em>segvowanie</em>.</p>
+
+<p>Naucz się organizować swój czas. Sprawdź, ile czasu zajmuje ci wykonanie każdego projektu. Oblicz, ile procent z tego czasu poświęcasz na poszczególne etapy realizacji. Zastanów się, czy gdyby więcej czasu poświęcić na wcześniejsze planowanie, to faza budowania i wdrażania nie uległaby skróceniu. Naucz się myśleć przyszłościowo, realizując fragment pracy, pomyśl, jakie mogą być potencjalne przyczyny jego późniejszej modyfikacji i czy nie można temu zapobiec już w danym momencie.</p>
+
+<p>Szukaj znajomości, znajomości zawsze się przydają. Czy to w poszukiwaniu pracy, czy w późniejszym rozwiązywaniu napotkanych problemów. Często będziesz w stanie zaoszczędzić mnóstwo czasu, zwracając się do osoby, która dany problem już rozwiązała.</p>
+
+<h3>Poszukiwanie pracy</h3>
+
+<p>Z najlepszym nawet przygotowaniem, nie oczekuj, że praca sama cię znajdzie. Oczywiście, z czasem i takie przypadki zdarzają się coraz częściej - wystarczy wyrobić sobie choćby minimalną renomę. Póki co jednak, trzeba szczęściu dopomóc.</p>
+
+<p>Zanim zaczniesz szukać pracy i porównywać ogłoszenia, dowiedz się jak najwięcej o strukturze płac w wybranym sektorze rynku. To, co dla świeżo upieczonego studenta może wyglądać na lukratywną ofertę, może w rzeczywistości leżeć grubo pod kreską przeciętnych zarobków. Musisz oczywiście wziąć pod uwagę swój staż i umiejętności.</p>
+
+<p>Największym źródłem ofert pracy są grupy dyskusyjne (pl.praca.oferowana), często jest to też miejsce, gdzie dane ogłoszenie pojawia się po raz pierwszy. Warto regularnie przeglądać podsyłane tam oferty. Niestety, większość pracodawców ogłaszających się za pośrednictwem Usenetu to ludzie poszukujący zdespoerowanych studentów, stąd oferowane zarobki są niewspółmiernie niskie w porównaniu do nakładanych na pracownika obowiązków. Ignoruj takie ogłoszenia, bardziej opłaca się poszukać dłużej niż potem żałować podjętej współpracy.</p>
+
+<p>Drugim źródłem informacji o ofertach jest prasa papierowa. Są to zarówno dzienniki o charakterze ogólnoinformacyjnym, jak i specjalizowane magazyny branżowe. Pierwsze mają ogromną zaletę - publikują tylko ogłoszenia z okolic twojego miejsca zamieszkania. Drugie z kolei ograniczają się do potencjalnych miejsc, w których chciałbyś pracować. Firmy publikujące się w magazynach branżowych mają też z reguły większy budżet, a co za tym idzie, więcej pieniędzy do wydania na ciebie.</p>
+
+<p>Trzecim źródłem ofert są dedykowane serwisy internetowe - od bardzo ogólnych, jak <a href="http://praca.pl/">praca.pl</a>, przez dedykowane dla konkretnych grup, jak <a href="http://www.careers.uni.wroc.pl/">wrocławskie Biuro Karier dla studentów</a>, aż do specjalizujących się w konkretnej branży, jak <a href="http://itkontrakt.pl/">IT Kontrakt</a>.</p>
+
+<p>Nie bój się zgłaszać do rekrutacji. Jeśli to możliwe, swoje <abbr title="Curriculum Vitae">CV</abbr> i list motywacyjny wysyłaj pocztą elektroniczną - przerzucasz w ten sposób całość kosztów rekrutacji na potencjalnego pracodawcę, co pozwala startować jednocześnie w konkursach do kilku-kilkunastu ofert. Zgłaszaj swoją kandydaturę nawet kiedy nie jesteś pewien w 100% swojego zainteresowania. W przypadku rezygnacji, grzecznie poinformuj o tym firmę, nie musisz podawać powodu zmiany zdania.</p>
+
+<p>Zanim zdecydujesz się walczyć o konkretne stanowisko, rozpoznaj rynek. Dowiedz się, jak duża jest firma, jaką cieszy się renomą i ile osób zatrudnia. Będzie ci łatwiej ocenić możliwości rozwoju zawodowego, podwyżki czy awansu. Małe, kilku(nasto)osobowe firmy charakteryzują się lepszą atmosferą pracy, ale z reguły płacą mniej. Duże firmy mniej liczą się z kosztami, ale obowiązuje tam większa dyscyplina pracy.</p>
+
+<p>Nie ograniczaj się do rynku ściśle związanego z <abbr>IT</abbr>. Często lepiej płatną pracę można znaleźć w firmie zajmującej się innego typu działalnością, a tylko poszukującej specjalisty na dane stanowisko.</p>
+
+<p>Nie popędzaj pracodawcy. Zasypywanie firmy telefonami i emailami nie przyspieszy procesu rekrutacji. Warto za to przypominać się co jakiś czas (np. raz na kwartał), jeśli upragnionego stanowiska nie dostaniesz. Dajesz w ten sposób pracodawcy znać, że twoja kanydatura nadal jest aktualna. Dobrze przy okazji podesłaś uaktualnione <abbr>CV</abbr> i pochwalić się postępami.</p>
+
+<h3>Rozmowa kwalifikacyjna</h3>
+
+<p>Jeśli twoje resume zrobi odpowiednio dobre wrażenie, zostaniesz zaproszony do kolejnego etapu rekrutacji, którym jest spotkanie osobiste. Dobrym pomysłem jest przygotowanie się do tego wizualnie, to jest wbicie się w najlepszy garnitur ze ślubu szwagra i wypolerowanie butów. Są od tego pewne wyjątki (np. ja na ostatniej rozmowie byłem w szerokich spodniach i bluzie z kapturem oraz z nieśmiertelnikami na szyi), ale jeśli pracodawca nie zaznaczy wyraźnie, że możesz przyjść ubrany luźno, to znaczy że nie możesz. Nie należy przesadzać również w drugą stronę, jeśli twój rozmówca podejmie cię w sportowej marynarce, a ty wyglądać będziesz jak prezes banku, to może to wywołać negatywne skojarzenia związane z twoją osobą.</p>
+
+<p>Nie ćwicz przed lustrem uśmiechu i nie pisz mowy otwierającej. Bądź naturalny, podchodź do sprawy profesjonalnie, ale nie sztywno. Lepsze wrażenie zrobisz dowcipną odpowiedzią niż wydukanym cytatem z podręcznika.</p>
+
+<p>Nie spóźnij się, komisja rekrutacyjna ma prawo trzymać cię na korytarzu dowolnie długo, ale tobie nie wolno pozwolić im czekać - to oznacza brak szacunku.</p>
+
+<p>Nie chwal się na zapas, nie opowiadaj o rzeczach, które nie miały miejsca. Łatwo twoje umiejętności sprawdzić w praktyce, a najmniejsze nawet wykryte kłamstwo spowoduje przesunięcie twojej kandydatury w bardzo bliskie okolice kosza.</p>
+
+<p>Nie bądź skromny, ale unikaj dumy. Pokaż wszystkie swoje zalety, ale tylko te związane ze stanowiskiem, o które się starasz. Zanudzanie szefa osiągnięciami w konkursach recytatorskich z pierwszych lat szkoły podstawowej nie uczyni cię w jego oczach bardziej inteligentnym.</p>
+
+<p>Odpowiadaj całymi zdaniami. Staraj się odpowiadać jak najlepiej potrafisz, ale nie lej wody. Jeśli nie masz pojęcia na dany temat, to zaznacz to wyraźnie, przy okazji dodając, że szybko się uczysz, a następnie skieruj rozmowę ponownie na listę swoich zalet.</p>
+
+<p>Unikaj rozmowy na temat poprzednich miejsc pracy, im mniej mówisz o wadach poprzednich firm, tym większą odznaczasz się lojalnością i dyskrecją. Są to cechy jak najbardziej pożądane w każdym miejscu pracy.</p>
+
+<h3>Test praktyczny</h3>
+
+<p>Przygotuj się na to, że coraz więcej firm chce sprawdzić kandydata jeszcze zanim zacznie pracę. Może się zdarzyć tak, że w kilka dni po rozmowie kwalifikacyjnej zostaniesz zaproszony na poligon, gdzie w ciągu paru godzin pracy przy komputerze sprawdzone zostaną twoje deklaracje umiejętności. Szybko zobaczysz, dlaczego nie warto było kłamać w czasie rozmowy kwalifikacyjnej.</p>
+
+<p>Zanim przystąpisz do testu, dowiedz się, co będzie oceniane, czy komisja zwracać będzie uwagę na metodę rozwiązania, czy na efekt. Pamiętaj o tym podczas rozwiązywania postawionego ci problemu.</p>
+
+<p>Powodzenia.</p>

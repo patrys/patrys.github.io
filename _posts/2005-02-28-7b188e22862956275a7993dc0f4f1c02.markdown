@@ -1,0 +1,44 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #004: O wsparciu w PLD'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 61
+date: 2005-02-28 21:52:01.000000000 +01:00
+categories:
+- comic
+tags: []
+comments:
+- id: 683
+  author: jpc
+  author_url: ''
+  date: '2005-02-28 21:55:06 +0100'
+  date_gmt: '2005-02-28 21:55:06 +0100'
+  content: No... Masz rację - przesadzasz. :D
+- id: 684
+  author: gozda
+  author_url: ''
+  date: '2005-02-28 21:55:21 +0100'
+  date_gmt: '2005-02-28 21:55:21 +0100'
+  content: Swietne! :-)
+- id: 685
+  author: AlchemyX
+  author_url: ''
+  date: '2005-11-27 22:03:21 +0100'
+  date_gmt: '2005-11-27 22:03:21 +0100'
+  content: Stara prawda, znana nie od dziś :P
+---
+<p>Adam Słodowy przedstawia: pierwsza zasada w PLD - zrób to sam ;]. Oczywiście, przesadzam.</p>
+
+<p class="strip"><img src="http://patrys.icenter.pl/comic/004-user-support.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>
+
+<p>Wersja przetłumaczona:</p>
+
+<p>- Przepraszam, ale w PLD nie da się skonfigurować XYZ.<br />
+- <abbr title="Standardowa Odpowiedź Administratora">SOA</abbr>#1: u mnie działa<br />
+- Ale przecież nie ma w PLD takiego pakietu.<br />
+- <abbr title="Standardowa Odpowiedź Dewelopera">SOD</abbr>#1: przykro nam, zrób sobie sam</p>

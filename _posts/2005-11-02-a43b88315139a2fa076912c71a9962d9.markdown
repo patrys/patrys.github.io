@@ -1,0 +1,92 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #018: Sekrety alkowy Stallmana'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 169
+date: 2005-11-02 00:09:32.000000000 +01:00
+categories:
+- comic
+tags: []
+comments:
+- id: 2351
+  author: s
+  author_url: ''
+  date: '2005-11-02 00:22:25 +0100'
+  date_gmt: '2005-11-02 00:22:25 +0100'
+  content: zawsze są koszty ukryte ;&gt;
+- id: 2352
+  author: s
+  author_url: ''
+  date: '2005-11-02 00:22:41 +0100'
+  date_gmt: '2005-11-02 00:22:41 +0100'
+  content: '... mniej lub bardziej ;)'
+- id: 2353
+  author: s
+  author_url: ''
+  date: '2005-11-02 00:23:14 +0100'
+  date_gmt: '2005-11-02 00:23:14 +0100'
+  content: zapomnial bym -- pierwszy! ;)
+- id: 2354
+  author: mrman
+  author_url: ''
+  date: '2005-11-02 00:31:50 +0100'
+  date_gmt: '2005-11-02 00:31:50 +0100'
+  content: |-
+    wcale nie ciagle ;)
+    <br/>dziekujemy za nowy odcinek ;)
+- id: 2355
+  author: Didimos
+  author_url: ''
+  date: '2005-11-02 13:02:02 +0100'
+  date_gmt: '2005-11-02 13:02:02 +0100'
+  content: '&quot;Tutaj w graficznych...&quot; ...I w takich które nie są przez squida
+    filtrowane na słowo &quot;sex&quot; tfu... :-)'
+- id: 2356
+  author: deadlink
+  author_url: ''
+  date: '2005-11-02 13:57:42 +0100'
+  date_gmt: '2005-11-02 13:57:42 +0100'
+  content: "Patrys, skoro nie ma kategoryzacji notek na dżogu, to może mógłbyś dodać
+    do dotychczasowych stripów link pt. ,,poprzedni&#039;&#039;? Ułatwiłoby mi to
+    przedłużanie ROTFL&#039;a po każdym kolejnym odcinku. \n<br/>\n<br/>Dziękuję,\n<br/>fan."
+- id: 2357
+  author: Patrys
+  author_url: ''
+  date: '2005-11-02 21:22:58 +0100'
+  date_gmt: '2005-11-02 21:22:58 +0100'
+  content: |-
+    deadlink:
+    <br/>
+    <br/>Mówisz i masz :)
+- id: 2358
+  author: alienjr
+  author_url: ''
+  date: '2005-11-02 22:24:56 +0100'
+  date_gmt: '2005-11-02 22:24:56 +0100'
+  content: rotfl :)
+- id: 2359
+  author: deadlink
+  author_url: ''
+  date: '2005-11-03 14:06:02 +0100'
+  date_gmt: '2005-11-03 14:06:02 +0100'
+  content: |-
+    Patrys:
+    <br/>
+    <br/>Danke Szyn. ;)
+- id: 2360
+  author: Riddle
+  author_url: ''
+  date: '2005-11-03 17:59:14 +0100'
+  date_gmt: '2005-11-03 17:59:14 +0100'
+  content: Hehe, dzięki za linki. :D Pośmiałem się jeszcze raz. :D Musisz stanowczo
+    wypuszczać stripy częściej, masz przecież tyle śmiesznych rzeczy na widoku (przejrzyj
+    nasze logi jak nie kojarzysz :D)
+---
+<p>Notka na zamówienie <a href="http://mrman.jogger.pl/">mrmana</a>, który ciągle narzeka.</p>
+
+<p class="strip"><img src="http://comic.room-303.com/strips/018-free-sex.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>

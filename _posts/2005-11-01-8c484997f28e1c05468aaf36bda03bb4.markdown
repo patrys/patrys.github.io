@@ -1,0 +1,107 @@
+---
+layout: post
+status: publish
+published: true
+title: SynPrezesa&trade; kontratakuje
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 168
+date: 2005-11-01 12:07:31.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 2340
+  author: Revolt
+  author_url: ''
+  date: '2005-11-01 12:13:22 +0100'
+  date_gmt: '2005-11-01 12:13:22 +0100'
+  content: A to polska właśnie :)
+- id: 2341
+  author: Nina
+  author_url: ''
+  date: '2005-11-01 12:14:40 +0100'
+  date_gmt: '2005-11-01 12:14:40 +0100'
+  content: |-
+    Ale się &quot;uhahałam&quot; na dzień dobry ;)
+    <br/>
+    <br/>Fajnie przeczytać coś wesołego tuż po przebudzeniu ;P
+    <br/>
+    <br/>PS. A Twoje żyrafy się rozmnażają? :P
+- id: 2342
+  author: Patrys
+  author_url: ''
+  date: '2005-11-01 12:15:59 +0100'
+  date_gmt: '2005-11-01 12:15:59 +0100'
+  content: Śmiem dyskutować z twoją teorią!
+- id: 2343
+  author: HoBBit °¸°
+  author_url: ''
+  date: '2005-11-01 12:29:11 +0100'
+  date_gmt: '2005-11-01 12:29:11 +0100'
+  content: Chyba Z Twoja
+- id: 2344
+  author: Riddle
+  author_url: ''
+  date: '2005-11-01 12:36:57 +0100'
+  date_gmt: '2005-11-01 12:36:57 +0100'
+  content: Hehe, lol. ;p
+- id: 2345
+  author: gfy
+  author_url: ''
+  date: '2005-11-01 18:06:20 +0100'
+  date_gmt: '2005-11-01 18:06:20 +0100'
+  content: No chyba z Twoja!
+- id: 2346
+  author: Igor
+  author_url: ''
+  date: '2005-11-01 21:01:33 +0100'
+  date_gmt: '2005-11-01 21:01:33 +0100'
+  content: 14 patoli za dyplom? :/
+- id: 2347
+  author: sznik
+  author_url: ''
+  date: '2005-11-01 22:38:17 +0100'
+  date_gmt: '2005-11-01 22:38:17 +0100'
+  content: |-
+    Sam zobacz. ;P
+    <br/>
+    <br/>[Przepraszam resztę komentujących za OT ;)]
+- id: 2348
+  author: Puck
+  author_url: ''
+  date: '2005-11-03 16:56:35 +0100'
+  date_gmt: '2005-11-03 16:56:35 +0100'
+  content: |-
+    Patrys,
+    <br/>http://patrys.jogger.pl/syndication.php?count=10&amp;jid=patrys@pld-linux.org&amp;desc=1
+    <br/>Zepsułeś feeda. Właściwie tylko pośrednio Ty, ale ze to Twój feed i Twoje wpisy tracą oglądalność przez to, więc do Ciebie pisze.
+- id: 2349
+  author: Patrys
+  author_url: ''
+  date: '2005-11-03 19:10:27 +0100'
+  date_gmt: '2005-11-03 19:10:27 +0100'
+  content: |-
+    To Jogger go zepsuł - nie przekodowuje feedu - powinien zamienić kolejno:
+    <br/>
+    <br/>&amp; na &amp;amp;
+    <br/>&lt; na &amp;lt;
+    <br/>&gt; na &amp;gt; (opcjonalnie, ale praktykowane dla czytelności)
+- id: 2350
+  author: spider
+  author_url: ''
+  date: '2005-11-05 12:26:18 +0100'
+  date_gmt: '2005-11-05 12:26:18 +0100'
+  content: cudne :)
+---
+<p>Jako, że od ponad roku nie mam przyjemności współpracować z SynemPrezesa&trade; (a to za sprawą zakończenia współpracy z SamymPrezesem&trade; z końcem wakacji ubiegłego roku), nowe notki pojawiają się raczej sporadycznie. Nie lękajcie się jednak, albowiem nie dość, że z bohaterem wszech czasów znajdujemy się na jednej uczelni, to jest także starostą mojej grupy (zwanym popularnie <q>sołtysem</q>).</p>
+
+<p>Kiedy myśleliśmy już, że frekwencja na poziomie 40% jest dostatecznym osiągnięciem dla człowieka, który wszak jest SynemPrezesa&trade;, z początkiem tego semestru udało mu się zadziwić nas ponownie.</p>
+
+<p>Podczas, gdy gro studentów zwykło w dziekanacie składać wszelakie prośby i wnioski niemalże błagalne, nasz nieustraszony Tytan nauki posłużył się elementem zaskoczenia. Złożył tedy - miast prośby - oświadczenie. Oświadczenie w charakterze zawiadomienia, że w związku z poszerzeniem swej rodziny (a chodzi mi o przyjęcie ślubu, a nie wchłonięcie wiadra pączków), zmienił on wiarę. Zdaje się, że na Adwentystów nawet. Wyznanie nie jest tu rzeczą najważniejszą, grunt, że odnalazł kruczek jakiś, który ma stanowić o niemożności nauki w soboty z przyczyn religijnych. Oświadczenie jego tymi właśnie słowy się kończyło.</p>
+
+<p>I nie byłoby w tym nic dziwnego i sprawa nadzwyczajną by się nie wydała, gdyby tylko zapomnieć, że obaj jesteśmy na studiach zaocznych.</p>
+
+<p>Morał: I powiedział Patrys - <q>a szkołę sobie na weekend znajdziecie. I będziecie dumni z uczelni, jako że w perspektywie dyplom inżyniera ona wam po siedmiu semestrach oferuje. A po siedmiu dobrych tygodniach nastąpi siedem tygodni zwiątpienia i odnajdziecie tedy metody, by na zajęcia nie uczęszczać. A najgorliwsi pośród was będą zaciekli w sposobów owych odnajdywaniu i będzie wśród nich jeden przodownik, a sołtysem obrany zostanie, co to nigdy na zajęciach się nie pojawi. I zapłacze on po latach, gdy okaże się, że za cenę siedmiu semestrów bez nauki, mógł on dyplom w tydzień jeden kupić. A zapłaczą również i imigranci zza wschodniej granicy, jako że czternaście tysięcy przejdzie im koło nosa.</q></p>

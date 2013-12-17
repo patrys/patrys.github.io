@@ -1,0 +1,86 @@
+---
+layout: post
+status: publish
+published: true
+title: Spacja spacja spacja spacja tytuł
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 162
+date: 2005-10-11 22:49:26.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 2269
+  author: Jajcus
+  author_url: ''
+  date: '2005-10-11 22:54:04 +0200'
+  date_gmt: '2005-10-11 22:54:04 +0200'
+  content: |-
+    W powyższym wpisie mogłeś zastosować &amp;nbsp; zgodnie z jej semantyką zapewniając sobie poprawne łamanie (?) tekstu zgodnie z polskimi zasadami. Pisząc:
+    <br/>„...w&amp;nbsp;jednej linii...” itd.
+    <br/>Inna sprawa, że najoptymalniejszym rozwiązaniem byłby odpowiedni ficzer CSS... ale takiego chyba nie ma.
+- id: 2270
+  author: Riddle
+  author_url: ''
+  date: '2005-10-11 22:57:27 +0200'
+  date_gmt: '2005-10-11 22:57:27 +0200'
+  content: http://grabun.com/sierotki/ ;)
+- id: 2271
+  author: Jam Łasica ☮
+  author_url: ''
+  date: '2005-10-11 23:12:34 +0200'
+  date_gmt: '2005-10-11 23:12:34 +0200'
+  content: |-
+    Prawdziwym problemem są &amp;nbsp; bez &quot;;&quot;
+    <br/>&amp;nbspPotem na stronach trzeba&amp;nbspczytać
+    <br/>&amp;nbsptakie rzeczy
+- id: 2272
+  author: Patrys
+  author_url: ''
+  date: '2005-10-11 23:16:24 +0200'
+  date_gmt: '2005-10-11 23:16:24 +0200'
+  content: Co ciekawe, Explorer oszukuje i wyłapuje nieterminowane encje...
+- id: 2273
+  author: smk
+  author_url: ''
+  date: '2005-10-11 23:24:48 +0200'
+  date_gmt: '2005-10-11 23:24:48 +0200'
+  content: |-
+    Dlatego użytkownicy gorszych przeglądarek muszą je oglądać...
+    <br/>
+    <br/>(dla wolniej kumatych - sarkazm powyżej)
+- id: 2274
+  author: wyzimir
+  author_url: ''
+  date: '2005-10-11 23:25:21 +0200'
+  date_gmt: '2005-10-11 23:25:21 +0200'
+  content: Na stronie mojej firmy jest jeszcze gorzej! Webmaster zamiast niełamliwej
+    spacji powstawiał transparentne wykrzykniki ;-)
+- id: 2275
+  author: quiris
+  author_url: ''
+  date: '2005-10-12 08:00:03 +0200'
+  date_gmt: '2005-10-12 08:00:03 +0200'
+  content: Ten sam tekst można odnieść do formatowania tesktu w np. w Łerdzie, gdzie
+    palmy można dostać dostając do poprawienia ogólnego wrażenia estetycznego dokument,
+    w którym wyrównanie do prawej odbywa się za pomocą miliona spacji w linii itp.
+    ;)
+---
+<p>Specyfikacja <abbr title="HyperText Markup Language">HTML</abbr> zawiera obiekt encji reprezentującej niełamliwy znak pusty. Zna ją każdy, to <code>&amp;nbsp;</code>. Znak ten od wielu, wielu lat jest horrorem internetu, a to za sprawą tego, że zna go bardzo dużo osób, znacznie więcej niż tych, którzy znają jego semantykę.</p>
+
+<p>Niełamliwa spacja <em>nie służy</em> do:</p>
+
+<ul>
+<li>wcinania akapitów tekstu</li>
+<li>środkowania tytułów</li>
+<li>odsuwania od siebie słów czy elementów</li>
+<li>rozciągania komórek tabel</li>
+<li>tworzenia sztucznych marginesów</li>
+</ul>
+
+<p>Niełamliwa spacja jest dokładnie tym, co sugeruje jej nazwa - spacją, która nie powinna zostać wykorzystana jako miejsce zawijania tekstu. Jej poprawne użycie to rozdzielenie dwóch słów, na przykład członów nazwy firmy bądź adresu, które powinny występować obok siebie w jednej linii. Jeśli chcesz jej użyć do formatowania długich ciągów słów (jak kod programu), to wiedz, że właśnie używasz młotka do wkręcania śrubek, do tego służy <abbr title="Cascading Style Sheets">CSS</abbr> i <code>white-space: nowrap</code>.</p>
+
+<p>Największym błędem definicji niełamliwej encji było przyjęcie, że spacje te nie powinny podlegać regule zwijania nadmiarowego odstępu.</p>

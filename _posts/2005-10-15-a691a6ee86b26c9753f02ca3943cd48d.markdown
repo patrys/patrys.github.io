@@ -1,0 +1,218 @@
+---
+layout: post
+status: publish
+published: true
+title: Jogger
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 164
+date: 2005-10-15 18:32:24.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 2278
+  author: qeek
+  author_url: ''
+  date: '2005-10-15 18:34:20 +0200'
+  date_gmt: '2005-10-15 18:34:20 +0200'
+  content: Może czas przejść np. na Wordpress? :)
+- id: 2279
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2005-10-15 18:34:31 +0200'
+  date_gmt: '2005-10-15 18:34:31 +0200'
+  content: Możesz zbierać, chętnie się podpiszę, ale wątpię w skuteczność takiej akcji.
+- id: 2280
+  author: olórin
+  author_url: ''
+  date: '2005-10-15 18:34:59 +0200'
+  date_gmt: '2005-10-15 18:34:59 +0200'
+  content: Ja kilka dni temu to zrobiłem...
+- id: 2281
+  author: Enleth
+  author_url: ''
+  date: '2005-10-15 18:35:17 +0200'
+  date_gmt: '2005-10-15 18:35:17 +0200'
+  content: A czy jakoś uzasadnił nieuwalnianie kodu?
+- id: 2282
+  author: Patrys
+  author_url: ''
+  date: '2005-10-15 18:37:36 +0200'
+  date_gmt: '2005-10-15 18:37:36 +0200'
+  content: |-
+    Może warto zatem zbierać pieniądze i kupić kod od Sparrowa? Z chęcią zajmę się wprowadzaniem poprawek, jeśli będzie taka możliwość. Nawet na licencji &quot;for your eyes only&quot;.
+    <br/>
+    <br/>A Wordpress ma dwie wady: wymaga konta z PHP+MySQL, którym nie dysponuję (poza kontami związanymi z pracą, których nie chcę mieszać do swojego życia prywatnego) i jest przeznaczony dla jednego bloga, co uniemożliwia np. wygodne subskrybowanie powiadomień via Jabber (tak, mogę sobie dopisać, ale czytający takiej możliwości nie mają).
+- id: 2283
+  author: Riddle
+  author_url: ''
+  date: '2005-10-15 18:39:55 +0200'
+  date_gmt: '2005-10-15 18:39:55 +0200'
+  content: |-
+    Uważam, że parę osób na pewno by szybciej zrobiło coś dla Joggera niż jedna.
+    <br/>
+    <br/>Sam skrobałem jakiś lej dla JoggerPL2, ale bez wytycznych i zobaczenia co będzie gdzie na jakimś szkicu, to ja równie dobrze się mogę w nos podrapać. :(
+    <br/>
+    <br/>Również się podpiszę pod zrobieniem czegoś z funkcjonalnością Joggera. Bo pady da się przeżyć, jeśli opcje są okej. A jak widać po moim blogu, javascriptem to można, ale czy o to chodzi? :/
+- id: 2284
+  author: Patrys
+  author_url: ''
+  date: '2005-10-15 18:44:18 +0200'
+  date_gmt: '2005-10-15 18:44:18 +0200'
+  content: |-
+    Enleth:
+    <br/>
+    <br/>GPL mówi, że jeśli sprzedajesz produkt, to musisz udostępnić kod. Jogger.pl jest hostowany sam przez siebie, więc otwartość kodu go nie obowiązuje.
+- id: 2285
+  author: olórin
+  author_url: ''
+  date: '2005-10-15 18:45:01 +0200'
+  date_gmt: '2005-10-15 18:45:01 +0200'
+  content: 'Inaczej: Na jogger.pl nie jest udostępniany sam program, a jedynie efekt
+    jego działania.'
+- id: 2286
+  author: RedHand
+  author_url: ''
+  date: '2005-10-15 18:45:12 +0200'
+  date_gmt: '2005-10-15 18:45:12 +0200'
+  content: A ja ciągle myślałem, że kod joggera jest uwolniony...
+- id: 2287
+  author: Patrys
+  author_url: ''
+  date: '2005-10-15 18:45:40 +0200'
+  date_gmt: '2005-10-15 18:45:40 +0200'
+  content: Joggera tak, ale nie jogger.pl
+- id: 2288
+  author: RedHand
+  author_url: ''
+  date: '2005-10-15 18:46:25 +0200'
+  date_gmt: '2005-10-15 18:46:25 +0200'
+  content: To teraz zgłupiałem. Jaka jest różnica między Joggerem a jogger.pl?
+- id: 2289
+  author: Patrys
+  author_url: ''
+  date: '2005-10-15 18:47:20 +0200'
+  date_gmt: '2005-10-15 18:47:20 +0200'
+  content: Oryginalny Jogger to prosty skrypt, który pozwalał dodawać notki via WWW
+    i nie powstał w Polsce. Sparrow przerobił go i uruchomił jogger.pl, które ma tony
+    funkcjonalności więcej.
+- id: 2290
+  author: Riddle
+  author_url: ''
+  date: '2005-10-15 18:47:38 +0200'
+  date_gmt: '2005-10-15 18:47:38 +0200'
+  content: |-
+    Jogger to system, jogger.pl wzbogacił ten system w wiele nowych rzeczy, poczytaj dziennik sparrowa od początku do końca.
+    <br/>
+    <br/>I uważam, że na Joggerze jest parę osób, które na pewno by znacznie wspomogły deweloping kodu Joggera, choćby od początku. Może pół roku temu nie, ale teraz jest już taka możliwość.
+- id: 2291
+  author: jbl
+  author_url: ''
+  date: '2005-10-15 18:48:23 +0200'
+  date_gmt: '2005-10-15 18:48:23 +0200'
+  content: Ale skoro Sparow nie chce udostępnić, to chyba ma  powód jakiś. Mylę się?
+    Poza tym, jeśli się nie mylę, trwają prace nad Jogger2.
+- id: 2292
+  author: Enleth
+  author_url: ''
+  date: '2005-10-15 18:48:33 +0200'
+  date_gmt: '2005-10-15 18:48:33 +0200'
+  content: 'Patrys: to wiem, ale nie o to mi chodzi. *Subtelna* różnica między &quot;czy
+    Sparrow musi uwolnić kod&quot; a &quot;czy Sparrow uzasadnił czemu nie uwolnił
+    kodu&quot; ;)'
+- id: 2293
+  author: Patrys
+  author_url: ''
+  date: '2005-10-15 18:49:27 +0200'
+  date_gmt: '2005-10-15 18:49:27 +0200'
+  content: /me nie zna oficjalnego powodu, Sparrow tylko kilka razy mi odpowiedział
+    &quot;nie&quot; albo &quot;może kiedyś&quot;.
+- id: 2294
+  author: Riddle
+  author_url: ''
+  date: '2005-10-15 18:49:44 +0200'
+  date_gmt: '2005-10-15 18:49:44 +0200'
+  content: 'Jiobel: Uzasadnił, już tutaj to napisaliśmy. Ale dyskusja trwa nad tym
+    co z tym zrobimy. Bo jogger istnieje dzięki użytkownikom.'
+- id: 2295
+  author: Patrys
+  author_url: ''
+  date: '2005-10-15 18:51:45 +0200'
+  date_gmt: '2005-10-15 18:51:45 +0200'
+  content: Prawda jest taka, że większości użytkownikom nie jest potrzebne nic poza
+    domyślnym szablonem, więc bym nie przesadzał z naszą akurat rolą w życiu Joggera.
+    Nie sądzę, żeby ktoś płakał, gdybyśmy nagle zamknęli blogi.
+- id: 2296
+  author: k
+  author_url: ''
+  date: '2005-10-15 19:16:41 +0200'
+  date_gmt: '2005-10-15 19:16:41 +0200'
+  content: zawsze mozecie sprawdzic jak dziaua na przyklad http://jabba.uaznia.net
+    i meczyc jej autora o nowe ficzery :) jak sie go ladnie poprosi to sie na wiele
+    zgadza ;)
+- id: 2297
+  author: jpc
+  author_url: ''
+  date: '2005-10-15 19:21:29 +0200'
+  date_gmt: '2005-10-15 19:21:29 +0200'
+  content: |-
+    Patrys: Myślę, że ktoś jednak tak...
+    <br/>
+    <br/>Może czas pomyśleć nad stworzeniem czegoś alternatywnego? Z jednej strony to dublowanie roboty, ale z drugiej --- konkurencja sprzyja rozwojowi...
+    <br/>
+    <br/>Serwer mógłbym jakiś udostępnić. Mam na łączu politechniki łódzkiej Athlona 1,33 który się marnuje. :-)
+- id: 2298
+  author: PawelS
+  author_url: ''
+  date: '2005-10-15 20:03:45 +0200'
+  date_gmt: '2005-10-15 20:03:45 +0200'
+  content: 'Patrys: Mi było by przykro, gdybyś przestał pisać, bo dla mnie i dla wielu
+    innych użytkowników (tak przypuszczam) twój Jogg, jest jedną z wielu kopalń wiedzy
+    o tworzeniu stron, które mogę w społeczności Jogger-owiczów znaleźć...'
+- id: 2299
+  author: Zakrn
+  author_url: ''
+  date: '2005-10-15 20:04:26 +0200'
+  date_gmt: '2005-10-15 20:04:26 +0200'
+  content: Patrysowi chodziło bardziej o przeniesienie się gdzieś :)
+- id: 2300
+  author: Patrys
+  author_url: ''
+  date: '2005-10-15 21:06:44 +0200'
+  date_gmt: '2005-10-15 21:06:44 +0200'
+  content: Akcja ruszyła.
+- id: 2301
+  author: Patrys
+  author_url: ''
+  date: '2005-10-16 16:30:54 +0200'
+  date_gmt: '2005-10-16 16:30:54 +0200'
+  content: I zdechła.
+- id: 2302
+  author: meanall
+  author_url: ''
+  date: '2005-10-20 15:05:57 +0200'
+  date_gmt: '2005-10-20 15:05:57 +0200'
+  content: |-
+    u mnie masz konto z php i mysql :)
+    <br/>
+    <br/>nie korzystasz ?
+- id: 2303
+  author: Patrys
+  author_url: ''
+  date: '2005-10-20 18:47:58 +0200'
+  date_gmt: '2005-10-20 18:47:58 +0200'
+  content: |-
+    meanall:
+    <br/>
+    <br/>MySQL się nigdy nie doczekałem raczej ;]
+    <br/>
+    <br/>Poza tym to chodzi głównie o czas w tej chwili, jest parę projektów, które mają priorytet.
+---
+<p>Ostatnio straciłem całą ochotę na pisanie. Jogger przez większość czasu nurza się w odmętach dysfunkcji, serwer-widmo powraca z impetem, by po chwili rozpłynąć się równie łatwo i bezszelestnie, co poranna mgła po chłodnej i wilgotnej nocy. Budzi się nagłymi zrywami, by jak dziecko, bez poczucia winy i odpowiedzialności, radośnie i beztrosko oznajmić mi, że ktoś dodał nową notkę lub że pojawił się nowy komentarz w jednym ze śledzonych przeze mnie wątków. Kiedy jednak zbiorę się w sobie i spróbuję przelać myśli na w miarę składny potok słów upstrzonych znacznikami <abbr title="HyperText Markup Language">HTML</abbr>, pierwsze kliknięcie na przycisk <q>podgląd</q> rozwiewa wszelkie wątpliwości - <q>nie można odnaleźć strony</q>.</p>
+
+<p>Dodatkowo, coraz bardziej doskwiera niedoskonałość technologiczna narzędzi. Z chęcią zobaczyłbym możliwość automatycznego pingowania centrów syndykacyjnych (takich jak Technorati) po dodaniu nowej notki. Równie miłym dodatkiem byłoby oznaczanie notek za pomocą słów kluczowych i możliwość filtrowania wyświetlanej treści za pomocą tychże. Niestety, Sparrow do dziś nie zgodził się na uwolnienie kodu źródłowego systemu leżącego u podstaw całego zamieszania. Może czas zacząć zbierać podpisy?</p>
+
+<p><strong>Update:</strong> akcja ruszyła i można ją wesprzeć <a href="http://riddle.jogger.pl/comment.php?eid=156967">na blogu Riddle'a</a>.</p>

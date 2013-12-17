@@ -1,0 +1,62 @@
+---
+layout: post
+status: publish
+published: true
+title: Trac, czyli system wspomagania projektu
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 113
+date: 2005-06-25 21:01:05.000000000 +02:00
+categories:
+- web
+- software
+- code
+tags: []
+comments:
+- id: 1397
+  author: Reinmar
+  author_url: ''
+  date: '2005-06-25 22:07:29 +0200'
+  date_gmt: '2005-06-25 22:07:29 +0200'
+  content: Dzięki za tą notkę :) Nie ma to jak opinia kogoś doświadczonego. Teraz
+    przy ewentualności, że będę pracował nad jakimś dużym projektem, czy w zespole,
+    to nie będę musiał tracić czasu na szukanie odpowiedniego systemu :)
+- id: 1398
+  author: rash
+  author_url: ''
+  date: '2005-06-25 22:21:33 +0200'
+  date_gmt: '2005-06-25 22:21:33 +0200'
+  content: Traca widziałem w gajimie, całkiem przyjemny - fakt.
+- id: 1399
+  author: ehh
+  author_url: ''
+  date: '2005-06-26 18:01:40 +0200'
+  date_gmt: '2005-06-26 18:01:40 +0200'
+  content: Ja używam flyspray ale z ciekawości sprawdze potem traca.
+- id: 1400
+  author: arag0rn
+  author_url: ''
+  date: '2005-06-27 22:05:34 +0200'
+  date_gmt: '2005-06-27 22:05:34 +0200'
+  content: Też używamy Traca i prawdę mówiąc ciężko mi byłoby teraz przesiąść się
+    na cokolwiek innego.
+---
+<p>Praktycznie każdy większy projekt trafia na taki moment, gdzie do wymiany zadań i zgłaszania problemów przestaje wystarczać email. Pojawiają się problemy: coraz częściej kilka osób zgłasza tę samą usterkę, zaczynają ginąć informacje (czy to przez chaos czy przez zwykłe zapomnienie o wiadomości). Ma to miejsce tak samo w projektach wewnątrzfirmowych, gdzie osób zgłaszających i obsługujących jest relatywnie mało, i w przedsięwzięciach OpenSource, gdzie liczba zgłaszających sięga czasem setek. Tutaj przychodzi czas na wdrożenie narzędzia, które pozwoli ogarnąć i poukładać przychodzące i wychodzące informacje. Najzwyklejszy bugtracker, bądź system ticketowania, używając bardziej ogólnej nazwy.</p>
+
+<p>Pojęcie ticketu pasuje tu bardziej. Ticketem nazywamy zlecenie. Nie musi to być bug, może to być prośba o sprawdzenie czegoś, pytanie o implementację dodatkowej funkcjonalności czy notatka do samego siebie, pozostawiona na później przez zapominalskich (jak ja). Ticket od zwykłego maila różni się tym, że ma nadany unikalny numer, przypisanego autora (czyli zgłaszającego), a nawet własną stronę WWW. Strona ta pozwala śledzić zmiany zachodzące w zgłoszeniu, sprawdzić postęp prac czy pozostawić swój komentarz. Na tym praca systemu ticketowego się nie kończy. Możliwości jest wiele.</p>
+
+<p>Najpopularniejsze wśród programistów są naturalnie wszelkie <abbr title="Bug-Tracking System">BTS</abbr>. Na tym polu króluje niepodzielnie <a href="http://www.bugzilla.org/">Bugzilla</a> - system zbudowany z myślą o bardzo dużych projektach programistycznych, jego oryginalnym przeznaczeniem były projekty prowadzone przez Mozilla Organization.</p>
+
+<p>Bugzilla jest świetnym systemem, jeśli chodzi o raportowanie i statystyki, marzenie dla osoby bezpośrednio zaangażowanej w życie projektu. Każdy problem jest dokładnie zaszeregowany, określony jest ściśle komponent, w którym błąd występuje, znany jest niemal numer linii, którą należy poprawić. Głównym problemem Bugzilli jest właśnie ta szczegółowość. Trudno bowiem oczekiwać od zwykłego użytkownika, by przed opisaniem okoliczności usterki musiał zapoznać się z kodem źródłowym swojej przeglądarki, a co najmniej z wewnętrzną strukturą projektu.</p>
+
+<p>Istnieje jednak alternatywa. Jest wiele innych aplikacji o podobnym przeznaczeniu, choćby <a href="http://www.mantisbt.org/">Mantis</a> czy używany przez PLD <a href="http://flyspray.rocks.cc/">Flyspray</a>.</p>
+
+<p>Jest też <a href="http://projects.edgewall.com/trac/">Trac</a> - mój ulubieniec, którego używamy w firmie. Jest niezwykle lekki, jednym z podstawowych założeń projektu jest niewpływanie na wypracowane przez zespół metody prowadzenia projektu. Przez to Trac jest bardzo elastyczny i łatwo dostosować go do własnych potrzeb (choćby przez definicję własnych pól). Jego interfejs jest dziecinnie prosty w użyciu, nie znajdziemy tu kilkudziesięciowierszowych formularzy czy zawiłej wyszukiwarki, całość wyglądem przypomina bardziej <a href="http://www.basecamphq.com/">Basecamp</a> niż Bugzillę. Co ważne dla końcowych użytkowników, wysyłanie ticketów nie wymaga rejestracji w systemie. Jako zawartość pola <q>autor</q> wpisujemy swój adres email i system będzie automatycznie informował nas o każdej zmianie w zgłoszeniu.</p>
+
+<p>Nie do pominięcia jest też integracja z lokalnym repozytorium Subversion. Trac w czytelny sposób wyświetla nam <q>Timeline</q>, czyli chronologiczny zapis zmian w projekcie, gdzie obsługa ticketów miesza się z commitami do repozytorium, a przy każdym elemencie wyświetlona jest krótka informacja podsumowująca jego zawartość. Oczywiście, widok ten (podobnie jak każdy inny) możemy zasubskrybować w swoim ulubionym czytniku <abbr title="Really Simple Sindication">RSS</abbr>. Dodatkowo listę kamieni milowych możemy połączyć ze swoim ulubionym kalendarzem, np. z iCal, Outlookiem czy Evolution.</p>
+
+<p>Na deser otrzymujemy jeszcze narzędzie do zarządzania projektami z poziomu wiersza poleceń. Można z jego pomocą wykonywać większośc pracy administracyjnej, jak dodawanie użytkownikom uprawnień czy zarządzanie komponentami projektu. Otrzymujemy też masę przykładowych skryptów do wykorzystania i integracji z Tracem, np. skrypt automatycznie zamykający zlecenia na podstawie commitlogów z repozytorium.</p>
+
+<p>Jedyną wadą Traca jest brak graficznego systemu administracyjnego i konieczność używania poleceń konsoli, co dla mnie jest bardzo wygodne, ale często może być niepożądane bądź niemożliwe do zrealizowania. Na szczęście kolejny kamień milowy ma już w planach klikalna wersję i tego narzędzia.</p>

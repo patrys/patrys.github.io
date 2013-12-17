@@ -1,0 +1,132 @@
+---
+layout: post
+status: publish
+published: true
+title: Nowa praca
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 44
+date: 2004-09-15 22:46:33.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 317
+  author: queer
+  author_url: ''
+  date: '2004-09-15 22:48:13 +0200'
+  date_gmt: '2004-09-15 22:48:13 +0200'
+  content: Oj, okropni jesteście :] Zróbcie klientowi dobrze (ekhm) i dodajcie &quot;[SPAM]&quot;
+    na początku tematu - to Outlook potrafi odfiltrować ;)
+- id: 318
+  author: K a s p r z o l
+  author_url: ''
+  date: '2004-09-15 22:49:40 +0200'
+  date_gmt: '2004-09-15 22:49:40 +0200'
+  content: heh, będzie mi brakować SynaPrezasa(TM) :) powodzenia w nowej pracy i oby
+    dostarczała wielu wesołych przeżyć wartych opisania tutaj.
+- id: 319
+  author: Jajcus
+  author_url: ''
+  date: '2004-09-15 22:50:01 +0200'
+  date_gmt: '2004-09-15 22:50:01 +0200'
+  content: 'Ale czemu męczyć tym wszystkich klientów? Może opcja w konfiguracji konta:
+    &quot;Mam OE i naprawdę nie chcę zmieniać.&quot;? ;-)'
+- id: 320
+  author: Cachotterie
+  author_url: ''
+  date: '2004-09-15 22:57:14 +0200'
+  date_gmt: '2004-09-15 22:57:14 +0200'
+  content: |-
+    Już myślałam że do nas nie wrócisz... ;) Dobrze Cię znów widzieć :)
+    <br/>Dużo radości w nowej firmie, lepiej w takiej formie jak dziś niż takiej jak dotąd... ;]
+- id: 321
+  author: Wampirek
+  author_url: ''
+  date: '2004-09-15 22:58:58 +0200'
+  date_gmt: '2004-09-15 22:58:58 +0200'
+  content: "Heh, jak to miło znów cos tu przeczytać :) \n<br/>Wielu miłych chwil w
+    nowej firmie życzę i mniej szkodliwego SynaPrezesa(TM) ;)"
+- id: 322
+  author: Patrys
+  author_url: ''
+  date: '2004-09-15 22:59:48 +0200'
+  date_gmt: '2004-09-15 22:59:48 +0200'
+  content: |-
+    Uruchomiłem też system umożliwiający sprawdzenie mojego humoru przez internet.
+    <br/>
+    <br/>Wersja beta jest tutaj:
+    <br/>http://patrys.icenter.pl/
+- id: 323
+  author: DarkStar
+  author_url: ''
+  date: '2004-09-16 12:46:36 +0200'
+  date_gmt: '2004-09-16 12:46:36 +0200'
+  content: Eee, mnie juz ten jog nie smieszy... Nudna ta nowa praca. Taki &quot;humor&quot;
+    to i u mnie jest. Moze by tak Twoi nowi przelozeni zechcieli blizej przyjrzec
+    sie kandydaturze SPTM? :&gt;
+- id: 324
+  author: Jezuch
+  author_url: ''
+  date: '2004-09-16 13:43:00 +0200'
+  date_gmt: '2004-09-16 13:43:00 +0200'
+  content: |-
+    Dowcipy faktycznie geek-only ;)
+    <br/>Ale chyba nie pracujesz w pomocy technicznej?? :&gt;
+- id: 325
+  author: e-krolik
+  author_url: ''
+  date: '2004-09-20 09:44:41 +0200'
+  date_gmt: '2004-09-20 09:44:41 +0200'
+  content: a ja dzisiaj po nieprzespanej nocy, spóźnieniu się do pracy po woli zaczynam
+    dzień od kawy. Jest tyle fascynujących rzeczy które można zrobić przez te 8h w
+    pracy i to w dodatku nie związanych stricte z pracą, że aż szkoda przesiedzieć
+    bezproduktywnie ten czas. :-) A tak na marginesie Patrys, twój jog jest świetnym
+    didatkiem do kawy i to bez wazeliny :&gt;
+- id: 326
+  author: DarkStar
+  author_url: ''
+  date: '2004-09-20 15:07:01 +0200'
+  date_gmt: '2004-09-20 15:07:01 +0200'
+  content: |-
+    krolik, a z wazelinka kawe pijasz? ;D
+    <br/>
+    <br/>Ja dzis jade na musujacych tabletkach z witamina C. :/
+- id: 327
+  author: e-krolik
+  author_url: ''
+  date: '2004-09-22 01:09:50 +0200'
+  date_gmt: '2004-09-22 01:09:50 +0200'
+  content: |-
+    bardziej preferuję śmietankę, wazelinka się waży w kawie ;D
+    <br/>No... ja dzisiaj przed snem (o ile pójdę spać) wezmę sobie profilaktycznie rutinoscorbin + Vit.C + wapno musujące. Zauważyłem niepokojące objawy przeziębienia, więc wolę stłamsić zarazka w zarodku ;&gt;
+- id: 328
+  author: DeeJay1
+  author_url: ''
+  date: '2004-09-22 22:24:55 +0200'
+  date_gmt: '2004-09-22 22:24:55 +0200'
+  content: Kurcze, pograłbym sobie w jakiś symulator, ciekawe czy F/A 18 Hornet lub
+    jakiś Falcon 3.0 ruszy pod Linuksem...
+---
+Jako, że od początku miesiąca pracuję już dla innej firmy, trochę humoru biurowo-geekowego na dobry początek. Właściwie, to moje wpisy ograniczą się teraz wyłącznie do humoru biurowego. Przynajmniej do czasu, aż ktoś z zarządu nowej firmy postanowi spłodzić i wychować latorośl, zwaną dalej synem. W każdym bądź razie, nowa ekipa jest bardzo sympatyczna.<br />
+<br />
+Po godzinach siedzimy w biurze, luźna dyskusja na temat linuksa:<br />
+<br />
+Px2: - Ja lubię używać Mutta i Pico.<br />
+Patrys: - Ja używam Evolution, Mutta się nie da obsługiwać, on ma obłożenie klawiatury jak symulatory lotu za czasów swojej świetności.<br />
+Jarv: - Ale to są proste skróty.<br />
+Patrys: - Prosta to jest obsługa vima.<br />
+Jarv: - Wiesz, jak dla mnie, vim ma obłożenie klawiatury jak symulatory lotu za czasów swojej świetności. :D<br />
+<br />
+Dzwoni klient, pyta o blokowanie spamu:<br />
+<br />
+Klient: - Mieliście podobno blokować spam, a mnie tu zasypują!<br />
+Px2: - Nasz serwer tylko oznacza spam, to pan decyduje, co z nim zrobić.<br />
+Klient: - A jak to zrobić?<br />
+Px2: - A jakiego klienta poczty pan używa?<br />
+Klient: - Outlook Express...<br />
+Px2: - To musi Pan znaleźć sobie filtry i tam dodać automatyczne usuwanie wiadomości z flagą "X-Spam: yes".<br />
+Klient: - Aha, dziękuję, do widzenia.<br />
+Roy: - Wiesz, w Outlook Express nie da się filtrować po nagłówkach, ale nie chciałem ci przerywać. :D

@@ -1,0 +1,184 @@
+---
+layout: post
+status: publish
+published: true
+title: Teoria względności upływu czasu
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 55
+date: 2005-02-19 01:34:03.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 610
+  author: jarv
+  author_url: ''
+  date: '2005-02-19 04:08:54 +0100'
+  date_gmt: '2005-02-19 04:08:54 +0100'
+  content: |-
+    &quot;- Stary... jeszcze dziś wieczorem zginiesz.&quot;
+    <br/>
+    <br/>rotfl! ;]
+    <br/>
+    <br/>a ogolnie - ty patrys nie sciemniaj - dobrze wiem, ze specjalnie Cache wyprowadziles na manowce... ;)
+- id: 611
+  author: Patrys
+  author_url: ''
+  date: '2005-02-19 04:16:28 +0100'
+  date_gmt: '2005-02-19 04:16:28 +0100'
+  content: 'jarv: a ty przypadkiem nie masz spalonego komputera? ;)'
+- id: 612
+  author: Smoothguy
+  author_url: ''
+  date: '2005-02-19 11:07:50 +0100'
+  date_gmt: '2005-02-19 11:07:50 +0100'
+  content: A mówiłem Ci kiedyś, że lepiej mieszkać w małym mieście. Wtedy nawet jak
+    się zgubisz, to i tak dojdziesz do każdego miejsca w mieście nie dłużej niż w
+    20 minut. :&gt;
+- id: 613
+  author: Igor
+  author_url: ''
+  date: '2005-02-19 13:02:06 +0100'
+  date_gmt: '2005-02-19 13:02:06 +0100'
+  content: "Hmmm... Takie spoznienie nie jest zle. Swego czasu posiadalem ukochana
+    w Szczecinie i pewnej upojnej niedzieli zle sprawdzilem pociag, okazalo sie ze
+    byl 16.40 a nie, 16.50 no i &#039;o maly wlos&#039;. \n<br/>\n<br/>Bylo bardzo
+    milo, tylko ukochana nie nauczyla sie na kolokwium ;-)\n<br/>\n<br/>Co do gubienia
+    sie we Wroclawiu... w takiej odleglosci od dworca to niemozliwe, bo ja mieszkam
+    10 minut od niego ;-) Ale zdarzyc, to mi sie zdarzylo (liczy sie na bance?)."
+- id: 614
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-19 13:08:14 +0100'
+  date_gmt: '2005-02-19 13:08:14 +0100'
+  content: |-
+    Ale właśnie w tym sęk że byliśmy całkowicie trzeźwi (przynajmniej jeśli chodzi o promile, bo określenie &quot;pijani szczęściem&quot; tu się chyba nie łapie ;) ).
+    <br/>Tak czy inaczej, ja na to spóźnienie nie narzekałam ;)
+- id: 615
+  author: Igor
+  author_url: ''
+  date: '2005-02-19 13:13:35 +0100'
+  date_gmt: '2005-02-19 13:13:35 +0100'
+  content: Człowiek pijany szczesciem zachowuje sie jeszcze gorzej niz pijany tradycyjnie.
+    Czlowieka pijanego tradycyjnie ograniczaja motorycznie/intelektualnie skutki owego
+    pijanstwa, czlowiek pijany szczesciem jest zdolny do wszystkiego!
+- id: 616
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-19 13:14:31 +0100'
+  date_gmt: '2005-02-19 13:14:31 +0100'
+  content: ;] No i mamy wytłumaczenie, a tak poważnie to moje wiedźmie talenta dały
+    znać - powiedziałam &quot;chciałabym nie dojść na ten dworzec&quot; - no i bach
+    ;)
+- id: 617
+  author: jarv
+  author_url: ''
+  date: '2005-02-19 14:21:41 +0100'
+  date_gmt: '2005-02-19 14:21:41 +0100'
+  content: |-
+    @patrys - mam... ;P wlasnie coraz bardziej sie zalamuje - jakies 1k pln&#039;ow w plecy bede - zgodnie z prognozami...&lt;br /&gt;&lt;br /&gt;
+    <br/>a wracajac do spoznien - skoro obydwoje jestescie raczej usatysfakcjonowani - to tylko sie cieszyc... ;] a co do teorii wzglednosci czasu - absolutnie sie zgadzam - czas to pojecie jak najbardziej wzgledne....
+- id: 618
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-19 14:23:52 +0100'
+  date_gmt: '2005-02-19 14:23:52 +0100'
+  content: '@jarv: a co się spsuło?'
+- id: 619
+  author: Bellois
+  author_url: ''
+  date: '2005-02-19 18:03:36 +0100'
+  date_gmt: '2005-02-19 18:03:36 +0100'
+  content: Czas... czas... Wedle mej ostatniej teorii czas tak naprawdę nie istenieje...
+- id: 620
+  author: jarv
+  author_url: ''
+  date: '2005-02-20 02:19:55 +0100'
+  date_gmt: '2005-02-20 02:19:55 +0100'
+  content: "poszedl zasilacz i pociagnal za soba mobo. mam tylko nadzieje, ze to wszystkie
+    straty - dzisiaj .... tak, juz dzisiaj, bede wiedzial jak ma sie grafika i procek...
+    a - i drugi dysk (glowny) - bo na szczescie dysk z projektami ocalal... \n<br/>\n<br/>w
+    efekcie mam do kupienia - mobo, pamiec (bo ta ze starej plyty to sdram jeszcze...)
+    i zasilacz. jest swietnie.\n<br/>\n<br/>ale wracajac do tematu - nie wydaje wam
+    sie, ze takie wlasnie zawirowania czasowe, to doskonaly wyznacznik  pewnych zaleznosci
+    pomiedzy ludzmi ? bo zazwyczaj gdy przebywamy z kims za kim za bardzo nie przepadamy,
+    to czas potrafi jakos tak... powiedzmy, ze minuta trwa prawie trzy. o czego zmierzam
+    - otoz, w gdybysmy spojrzeli na to z drugiej strony - zaczeli analizowac chwile
+    na podstawie tego ja postrzegamy w niej czas moglibysmy najprawdopodobniej....;]\n<br/>\n<br/>tia
+    - chyba juz jestem zmeczony, brakuje mi mojego kompa i bredze... dobranoc. ;)"
+- id: 621
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-20 11:23:32 +0100'
+  date_gmt: '2005-02-20 11:23:32 +0100'
+  content: |-
+    Uuuuj... to mniej więcej taka zabawa jak ja miałam w wakacje jakoś - tylko że u mnie nie było bardzo żal, bo procek to był celeron 450 czy coś koło, no i odpowiednia do niego płyta ;] I tak nosiłam się z zamiarem zmiany, tylko się przez to przyspieszyło - ale pamiętam ból związany z odcięciem od życia ;))) No i jednak bądź co bądź, przyzwoita płyta, pamięć i procek to dość konkretne koszty (zasilacz udało się &#039;ocalić&#039; bo zostały mu 2 tygodnie gwarancji ;] ).
+    <br/>
+    <br/>A że doskonały wyznacznik - owszem, wydaje nam.. y... mi się że masz 100% racji :) Jeszcze żaden facet nie słuchał mnie tak uważnie, żeby się gdzieś zapodział we własnym mieście... :)
+    <br/>Pozdry jarv i dużo sił w tych trudnych dniach.... ;)))
+    <br/>
+    <br/>
+- id: 622
+  author: Nina
+  author_url: ''
+  date: '2005-02-21 21:02:27 +0100'
+  date_gmt: '2005-02-21 21:02:27 +0100'
+  content: |-
+    Cieszę się, że nie mnie jednej zdarzają się takowe historie ;)
+    <br/>
+    <br/>Skoro żadna ze stron nie narzakała na dodatkową wspólną to może należy częściej organizować podobne &quot;gubienie trasy&quot; ;)
+- id: 623
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-21 21:03:07 +0100'
+  date_gmt: '2005-02-21 21:03:07 +0100'
+  content: heh, my nie narzekaliśmy, ale rodzinka Patrysowa pewnie jakby bardziej
+    ;))
+---
+<p>Jak to się dzieje, że czas, choć teoretycznie liniowy, zawsze płynie w złym tempie. Co gorsza, tempo zdaje się zawsze zmieniać przeciw proporcjonalnie do naszych oczekiwań, posiada w tym kierunku przerażające zdolności adaptacyjne. Im bardziej staramy się go zabić - tym bardziej się wlecze, im bardziej zależy nam na nim - tym szybciej ucieka. Oczywiście, ktoś może powiedzieć, że to wrażenie jest wywoływane nadmiernym skupianiem się nad upływem czasu (przez co tracimy cenny czas na myślenie o tym, że go tracimy lub też wyłączamy swoje podczaszkowe uzwojenie w oczekiwaniu na przeskok wskazówki sekundnika). Ostatnio jednak trafił mi się lepszy test-case w real-life niż ktokolwiek mógłby sobie wymyślić w warunkach laboratoryjnych.</p>
+
+<p>Przyszło mi bowiem odwiedzić pewną <a href="http://cachotterie.jogger.pl/" title="Cachotterie">przemiłą młodą damę</a>. Odwiedzanie się jest rzeczą naturalną, trochę tylko mniej naturalną, kiedy od celu dzieli cię lekko 165 kilometrów drogi, a nie dysponujesz żadnym pojazdem na własność (tudzież uprawnieniami do prowadzenia takiego pojazdu, nawet gdyby był). Z obserwacji moich wynika przeto niezbicie, że czas w sytuacjach wyjątkowo wyczekiwanych ma przebieg funkcji logarytmicznej. Mężczyzna jest jednak jednostką silną i odporną na ból (choć część kobiet twierdzi, że jest inaczej ze względu na poród - kochane, wasz poród jest niczym w porównaniu z tym, co prawdziwy mężczyzna przeżywa rano w toalecie po dobrze przepitej nocy), toteż doczekać udało się bez większych strat w pogłowiu jednoosobowego stada ze mną w składzie.</p>
+
+<p>Po przyjeździe czas postanowił nadrobić, tak jak nadrabiają kierowcy autobusów - nie bacząc na staruszki na pasach i wdzięczące się na chodnikach panie, prują na złamanie szyi przez środek wszystkich wypatrzonych kałuży (istnieje nawet teoria, która mówi, że woda wypełnia mikroszczeliny na poziomie atomowym pomiędzy oponą autobusu a ulicą, co poprawia jego warunki przyczepności - nie mogę tego zweryfikować do końca, choć polskie drogi faktycznie obfitują w szczeliny, a i przyczepności nie można odmówić substancji, którą zostajemy ochlapani przez mijający nas autobus). Z piątkowego wieczoru w okamngnieniu zrobiło się niedzielne popołudnie. Mimo szczerych deklaracji providerów hostingu, warunki zawodowe nie pozwoliły mi zapuścić w Poznaniu korzeni, zmuszon więc zostałem coby w drogę powrotną ruszyć. A i sam nei byłem, jako że towarzyszyć miała mi niejako w odwecie (za spustoszenie lodówki oraz próby instalacji Firefoksa pod Windows spowodowane padem tamtejszego dysku z PLD) sama <a href="http://cachotterie.jogger.pl/" title="Cachotterie">Lila Javovich</a>.</p>
+
+<p>Warto nadmienić przy okazji, że na samym poznańskim dworcu zaskarbiłem sobie znajomość z szefem lokalnej przestępczości zorganizowanej. Już po ustawieniu się w kolejce do kasy, podszedł do nas strojny w antyczne przebrania gitowców pan i, patrząc w przestrzeń, konspiracyjnym tonem wyszeptał hasło:</p>
+
+<p>- Do Wrocławia?<br />
+- Tia.<br />
+- Mam bilet.</p>
+
+<p>Sam fakt posiadania biletu był godzien podziwu, zwłaszcza w tak osobliwym miejscu, jak dworzec kolejowy. Nie odrzekłem więc nic na to, a on nie dał mi długo zastanawiać się nad celem tej - jakże ożywionej - dyskusji:</p>
+
+<p>- Do sprzedania! Studencki!</p>
+
+<p>Tu zrobiło mi się ciepło na sercu. Miło patrzeć, kiedy ludność nawet w takiej sytuacji dba o swoje wykształcenie i uzupełnia luki edukacyjne. Może ja nie wyglądam na typowego studenta (a już z pewnością nie na typowego studenta informatyki), ale mój rozmówca musiał robić wyjątkową furorę samym swoim pojawieniem się na wykładzie. Głównie ze względów aromatycznych.</p>
+
+<p>- Dziękuję, kupię sobie w kasie.<br />
+- Ale ja mam!<br />
+- Ale ja wolę nie ryzykować.<br />
+- Ale jakie ryzyko, ja zaraz potwierdzę w kasie, że ważny.</p>
+
+<p>I nieproszony poleciał potwierdzać. A niechby ten bilet i miał rezerwację na prywatny przedział z łazienką i kuchnią. Pozostałem nieugięty:</p>
+
+<p>- Dziękuję panu.</p>
+
+<p>Znieważony jegomość nie mógł przełknąć takiej hańby. Nie uniósł się ambicją i nie rozszarpał mnie na miejscu, miast tego pochylił się spokojnie i głosem Bogusława Lindy dokonującego kolejną egzekucję na ekranie, wycedził przez zęby:</p>
+
+<p>- Stary... jeszcze dziś wieczorem zginiesz.</p>
+
+<p>Po rytualnej wymianie uprzejmości pan raczył oddalić się w kierunku innych potencjalnych kontrahentów, my zaś z radością kupiliśmy bilety i zajęliśmy miejsca w pociągu.</p>
+
+<p>Plan wstępny: mamy caaaałe dwa dni, masa czasu, potem moja piękniejsza połowa wraca do swojego miasta. Plan tyle optymistyczny, co naiwny. Owe "całe" dwa dni minęły jak z bicza strzelił (pomijając czas, kiedy byłem w pracy), zmuszeni zostaliśmy wobec tego do podjęcia drastycznych środków - przedłużenia pobytu do środy. Środa była terminem ostatecznym, nic nie mogło już pokrzyżować naszych planów. Ustaliliśmy godzinę odjazdu z Wrocławia, umówiliśmy się u mnie w pracy, plan "B" był dopracowany do ostatniego szczegółu - nauczeni porażką planu "A" wzięliśmy pod rozwagę nieliniowy przebieg funkcji czasu i uwzględniliśmy wszelkie możliwe przeciwności losu, mogące powstrzymać nas przed realizacją. Plan był tak doskonały, że oczywiście poległ sromotnie w starciu z rzeczywistością. Nie będę tutaj zagłębiał się w zbytnie szczegóły, postaram się za to wypunktować kilka ważnych rzeczy, o których należy pamiętać:</p>
+
+<p>Po pierwsze - godzina czasu powinna na dotarcie do dworca wystarczyć każdemu (tak jak każdemu wystarcza 640 kB RAM), zwłaszcza, jeśli droga w normalnych warunkach zajmuje 20 minut;</p>
+
+<p>Po drugie, kiedy nie chce się czekać na autobus, zawsze należy skracać sobie oczekiwanie przez podróż pieszo na następny przystanek - można iść bez obawy, środki komunikacji miejskiej znane są z tego, że zawsze czekają na spóźnionych pasażerów nawet w połowie trasy;</p>
+
+<p>Po trzecie - w połowie pieszej wycieczki dobrze jest zażartować w tonie "wolałabym tak sobie z tobą spacerować i nigdy nie dojść na ten dworzec". A teraz wersja dla tych, którzy muszą mieć wesoły wątek na końcu każdego posta:</p>
+
+<p>Jak długo mieszkam we Wrocławiu (a jeszcze w tym roku stukną 23 lata), w życiu nie zdarzyło mi się jeszcze zgubić w tym mieście. Gdziekolwiek. Nigdy nie znalazłem się w sytuacji typu "jak ja się tu znalazłem". Do czasu. Gdy tak sobie spacerowaliśmy na ten dworzec, rozmawialiśmy sobie spokojnie, wymienialiśmy poglądy, mówiliśmy, słuchaliśmy. Było przepięknie, przynajmniej do czasu. Do czasu, kiedy podniosłem wzrok do góry i spytałem głośno "gdzie my jesteśmy?". Krótkie spojrzenie na zegarek ujawniło, że siedmiominutową trasę pokonujemy już prawie minut dwadzieścia, a dworca nie widać na horyzoncie, choć na początku trasy było go wyraźnie widać. Tak. Zgubiłem się, przez całą drogę ani razu nie zwróciłem uwagi na to, czy dorbze skręcamy i czy chociaż kierunek się zgadza. Oczywiście na pociąg nie było szans dotrzeć o czasie i moja elfia czarodziejka spędziła kolejną noc u mnie w domu (ku mojej uciesze wielkiej).</p>
+
+<p>I niech mi teraz ktoś powie, że faceci nie słuchają kobiet w czasie rozmowy. ;)</p>

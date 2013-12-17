@@ -1,0 +1,84 @@
+---
+layout: post
+status: publish
+published: true
+title: Standards versus reality, part 2
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 99
+date: 2005-06-05 20:09:08.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 1238
+  author: mroq
+  author_url: ''
+  date: '2005-06-06 01:03:27 +0200'
+  date_gmt: '2005-06-06 01:03:27 +0200'
+  content: Proponuje Ci Patrys zrobic z tego tutoriala. O ile wiem nie ma w polskim
+    internecie rzetelnych materiałów wyjaśniających problemy natury css&#039;owej.
+- id: 1239
+  author: Tomash
+  author_url: ''
+  date: '2005-06-06 19:52:21 +0200'
+  date_gmt: '2005-06-06 19:52:21 +0200'
+  content: Tutoriala? Książkę, panie, a nie tutoriala :) To smutne, że między standardami
+    a rzeczywistością jest taki rozdźwięk, ale - więcej odcinków tej serii!
+- id: 1240
+  author: futrzak
+  author_url: ''
+  date: '2005-06-06 22:15:27 +0200'
+  date_gmt: '2005-06-06 22:15:27 +0200'
+  content: Czy istnieje sposób, aby zrobić divy sąsiadujące (np. menu i wpisy), tak
+    aby każdy z nich wydłużał się wraz z drugim? (na swoim joggu obchodzę to przy
+    pomocy height)
+- id: 1241
+  author: Patrys
+  author_url: ''
+  date: '2005-06-06 22:17:23 +0200'
+  date_gmt: '2005-06-06 22:17:23 +0200'
+  content: |-
+    Wilq:
+    <br/>
+    <br/>Możesz zrobić tak, jak ma kubrick tutejszy: wspólny duży div z tłem dla obu kolumn, a wysokość DIVów już nie gra roli. W innych przypadkach tabela jest wymagana.
+- id: 1242
+  author: futrzak
+  author_url: ''
+  date: '2005-06-06 22:35:03 +0200'
+  date_gmt: '2005-06-06 22:35:03 +0200'
+  content: Dzięki. :)
+- id: 1243
+  author: riddle
+  author_url: ''
+  date: '2005-06-08 20:22:45 +0200'
+  date_gmt: '2005-06-08 20:22:45 +0200'
+  content: Co jeszcze jest bardzo ważne, a rzadko się o tym wspomina - należy wywalić
+    wszystkie białe znaki w &lt;ul&gt;&lt;/ul&gt; między poszczególnymi &lt;li&gt;.
+    Powoduje to cholerne skomplikowanie kodu, ale tylko tak IE nie doda sobie odstępów
+    od siebie.
+---
+<p>Dziś o listach. Listy niesortowane (<code>&lt;ul/&gt;</code>) są najczęściej wykorzystywanym typem wyliczeń w sieci, jeśli nie liczyć bulletów wstawianych jako <code>&lt;img/&gt;</code> na początku każdego akapitu (co jest naturalnie bez sensu).</p>
+
+<p>Pierwszy kłopot z listami polega na tym, że każda przeglądarka w inny sposób implementuje wcięcia. Jedne robią to za pomocą atrybutu <code>padding</code>, inne za pomocą <code>margin</code>. Jedyna uniwersalna metoda, to wyzerować jeden, a określić drugi parametr:</p>
+
+<blockquote><pre>ul.naszaLista li
+{
+	margin: 0;
+	padding: 2px 2px 2px 20px;
+}</pre></blockquote>
+
+<p>Druga sprawa to odległość pomiędzy bulletem, a tekstem. Teoretycznie istnieje w <abbr title="cascading Style Sheets">CSS</abbr> atrybut <code>marker-offset</code>, ale w praktyce nie istnieje dla niego wsparcie. W związku z tym, najlepszym wyjściem jest stworzyć własny obrazek dla bulleta i zadeklarować go jako <code>background</code> dla elementu listy:</p>
+
+<blockquote><pre>ul.naszaLista li
+{
+	background: url('img/bullet.png') no-repeat 0% 50%;
+	margin: 0;
+	padding: 2px 2px 2px 20px;
+}</pre></blockquote>
+
+<p>W tym wypadku lewy padding (kolejność podawania parametrów jest zdefiniowana według kierunku ruchu wskazówek zegarka - góra, prawo, dół, lewo) ustawiamy w tym przypadku na szerokość obrazka + wymaganą odległość pomiędzy obrazkiem a tekstem.</p>
+
+<p>Na koniec wspomnę jeszcze, że <abbr title="Internet Explorer">IE</abbr> ma problem z połączeniem <code>letter-spacing</code> i <code>line-height</code>. W przypadku, kiedy zostaną zadeklarowane oba, IE przestanie pokazywać co drugi znak łamania wiersza (<code>&lt;br/&gt;</code>). <a href="http://patrys.jogger.pl/comment.php?eid=97921&amp;startid=200502">Wspominałem o tym w lutym</a>, kiedy błąd został przypadkowo odkryty przez naszego klienta, który nadużywał znaczników <code>&lt;br/&gt;</code> do formatowania tekstu na stronie. Do dziś nie znaleźliśmy obejścia tego problemu, na szczęście <code>letter-spacing</code> jest relatywnie rzadko używany.</p>

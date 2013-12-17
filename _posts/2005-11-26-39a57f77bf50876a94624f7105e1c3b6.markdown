@@ -1,0 +1,860 @@
+---
+layout: post
+status: publish
+published: true
+title: Praca oferowana
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 187
+date: 2005-11-26 18:30:51.000000000 +01:00
+categories:
+- praca
+tags: []
+comments:
+- id: 2662
+  author: deadlink
+  author_url: ''
+  date: '2005-11-26 18:35:01 +0100'
+  date_gmt: '2005-11-26 18:35:01 +0100'
+  content: Keep&#039;em comin&#039;, ta jest 300km od mojego miejsca zamieszkania,
+    więc czekam na następne. ;)
+- id: 2663
+  author: jpc
+  author_url: ''
+  date: '2005-11-26 18:36:26 +0100'
+  date_gmt: '2005-11-26 18:36:26 +0100'
+  content: |-
+    Hehe... podoba mi się to o wieku i wykształceniu. ;]
+    <br/>Ostatnio właśnie przemyśliwałem rzucenie studiów. ;-)
+- id: 2664
+  author: deadlink
+  author_url: ''
+  date: '2005-11-26 18:37:23 +0100'
+  date_gmt: '2005-11-26 18:37:23 +0100'
+  content: Śmiej się, śmiej, z Gates&#039;a pewnie też się tak śmiali! ;&gt;
+- id: 2665
+  author: Patrys
+  author_url: ''
+  date: '2005-11-26 18:37:28 +0100'
+  date_gmt: '2005-11-26 18:37:28 +0100'
+  content: Prawda taka, że w branży IT faktycznie wiek i wykształcenie nie są istotne.
+    Liczą się umiejętności i chęć do dalszej nauki.
+- id: 2666
+  author: jpc
+  author_url: ''
+  date: '2005-11-26 18:39:58 +0100'
+  date_gmt: '2005-11-26 18:39:58 +0100'
+  content: 'Patrys: ale czy nie jest tak, że jak masz wykształcenie średnie, to jednak
+    w większości przypadków nie zaproszą Cię na rozmowę kwalifikacyjną... W końcu
+    head hunterzy każdej branży mają te same marketingowe śmieci w głowie... ;]'
+- id: 2667
+  author: Dulek
+  author_url: ''
+  date: '2005-11-26 19:38:50 +0100'
+  date_gmt: '2005-11-26 19:38:50 +0100'
+  content: |-
+    &quot;wiek i wykształcenie nie są istotne&quot;
+    <br/>Znaczy się, że ja - czternastolatek, też się łapię? ;)
+- id: 2668
+  author: dxOne
+  author_url: ''
+  date: '2005-11-26 20:03:03 +0100'
+  date_gmt: '2005-11-26 20:03:03 +0100'
+  content: 'Dulek: pokaz ze jestes lepszy od &quot;panuf magisteruf informatykuf&quot;,
+    a nie widze powodu bys mial pracy nie dostac.'
+- id: 2669
+  author: ehh
+  author_url: ''
+  date: '2005-11-26 20:15:38 +0100'
+  date_gmt: '2005-11-26 20:15:38 +0100'
+  content: Ciekawa propozycja ale pewnie praca w biurze a na to gorzej z czasem...
+- id: 2670
+  author: ehh
+  author_url: ''
+  date: '2005-11-26 20:18:16 +0100'
+  date_gmt: '2005-11-26 20:18:16 +0100'
+  content: To Oława, to tym bardziej odpada...
+- id: 2671
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2005-11-26 20:40:20 +0100'
+  date_gmt: '2005-11-26 20:40:20 +0100'
+  content: Poproś Sparrowa, żeby przypiął na głównej. Ogłoszenie z firmy, w której
+    pracuję, wisiało przez tydzień.
+- id: 2672
+  author: killy
+  author_url: ''
+  date: '2005-11-26 22:03:15 +0100'
+  date_gmt: '2005-11-26 22:03:15 +0100'
+  content: 'Patrys: to praca zdalna czy na miejscu?'
+- id: 2673
+  author: slav
+  author_url: ''
+  date: '2005-11-27 00:05:55 +0100'
+  date_gmt: '2005-11-27 00:05:55 +0100'
+  content: "praca na miejscu, zdalna praca sie nie sprawdza.\n<br/>\n<br/>wiek i wyksztalcenie
+    naprawde nie ma znaczenia - przynajmniej dla mnie jako pracodawcy. \n<br/>\n<br/>znam
+    15latkow ktorzy robia lepsze rzeczy niz &quot;informatycy z wyksztalceniem wyzszym&quot;...
+    \n<br/>\n<br/>faktem niestety jest ze w niektorych firmach gdzie rekrutacja prowadzona
+    jest na duza skale, robic sie glupia preselekcje przez co mozna odsiac wartosciowych
+    i zdolnych programistow :-|"
+- id: 2674
+  author: Riddle
+  author_url: ''
+  date: '2005-11-27 02:48:18 +0100'
+  date_gmt: '2005-11-27 02:48:18 +0100'
+  content: |-
+    Troszkę nie podoba mi się perspektywa oglądania takiego działu na Twoim blogu.
+    <br/>
+    <br/>I tu by się przydały kategorie i RSS dla nich.
+- id: 2675
+  author: jpc
+  author_url: ''
+  date: '2005-11-27 03:41:21 +0100'
+  date_gmt: '2005-11-27 03:41:21 +0100'
+  content: 'slav: dlaczego praca zdalna się nie sprawdza? mógłbyś coś więcej o tym
+    napisać? (próbowałeś i nie wyszło?)'
+- id: 2676
+  author: smk
+  author_url: ''
+  date: '2005-11-27 10:29:53 +0100'
+  date_gmt: '2005-11-27 10:29:53 +0100'
+  content: |-
+    jpc: Rzucenie studiów ma sens gdy zaczynają Ci one przeszkadzać w prowadzeniu biznesu.
+    <br/>Jeśli natomiast masz zamiar być pracownikiem etatowym bądź najemnym, to dość głupi pomysł.
+- id: 2677
+  author: Zakrn
+  author_url: ''
+  date: '2005-11-27 11:30:50 +0100'
+  date_gmt: '2005-11-27 11:30:50 +0100'
+  content: '@dxOne: Ciekawe jak połączyłbyś pracę na miejscu ze szkołą :P'
+- id: 2678
+  author: Tomash
+  author_url: ''
+  date: '2005-11-27 11:56:30 +0100'
+  date_gmt: '2005-11-27 11:56:30 +0100'
+  content: Jedno z niewielu sensownych ogłoszeń o poszukiwaniu programisty, jakie
+    ostatnio widziałem. Zdecydowana większość to ogłoszenia typu &quot;szukamy webmastera
+    ze znajomością html, css, sql, javascript, umiejętnością robienia ładnych designów,
+    obsługą corela, photoshopa, mile widziany autocad, mile widziane programowanie
+    w javie, także j2ee&quot;. Czyli &quot;szukamy jednoosobowej firmy, najlepiej
+    za 1k PLN miesięcznie&quot; ;)
+- id: 2679
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2005-11-27 12:22:44 +0100'
+  date_gmt: '2005-11-27 12:22:44 +0100'
+  content: |-
+    Ciekawy komentarz (w CW) do komentarza (na forum gazeta.pl) do wypowiedzi jednej pani o tym, że nie można znaleźć programistów do pracy widziałem niedawno.
+    <br/>Otóż, pani z jakiegoś pozarządowego ośrodka statystycznego określiła, że w tej chwili niedobór pracowników IT wynosi ok. 13%, w tym sieciowców z certyfikatem Cisco Systems 15%, a programistów około 18%. Podniósł się raban na forum, jak to ciężko znaleźć pracę w IT i że te wyniki to na pewno z kapelusza ktoś wyciągnął. Komentarz do tych komentarzy był taki: &quot;prawdopodobnie ci, którzy komentują w ten sposób, nie spełniają minimalnych wymagań&quot;.
+    <br/>A wspominam o tym dlatego, że firma, w której pracuję, także od pewnego czasu bezskutecznie poszukuje programisty. Wymagania nie są już teraz wygórowane: wyższe wykształcenie kierunkowe lub ekwiwalentne doświadczenie (w stosunku &quot;rok do roku&quot;), znajomość AS/400 na poziomie użytkownika, J2SE i fragmenty J2EE. I nie ma. Absolwentom się wydaje, że mogą żądać kokosów na początek (12k brutto miesięcznie to standard, &quot;bo tyle można dostać w UK&quot;), a goście z doświadczeniem stawiają inne warunki, których nie sposób spełnić (np. ścieżka certyfikacyjna w zakresie zupełnie dla nas nieprzydatnym w ciągu pierwszego roku pracy). Praca leży i czeka, a firma płaci zewnętrznym wykonawcom, coraz częściej spoza Polski. Jak tak dalej pójdzie, to w ogóle zrezygnujemy z produkcji oprogramowania we własnym zakresie.
+- id: 2680
+  author: misia
+  author_url: ''
+  date: '2005-11-27 14:32:43 +0100'
+  date_gmt: '2005-11-27 14:32:43 +0100'
+  content: 'zgoda: to sie chyba marnie reklamujecie... jestem gleboko utopiony w J2EE,
+    znam AS400 nie tylko na poziomie usera, ale i z punktu widzenia łączenia/migrowania
+    aplikacji RPG z/do J2EE. A tego ogloszenia to ja nigdzie nie widzialem ;)'
+- id: 2681
+  author: jpc
+  author_url: ''
+  date: '2005-11-27 15:08:53 +0100'
+  date_gmt: '2005-11-27 15:08:53 +0100'
+  content: |-
+    smk: może bardziej ścisły byłby podział na pracownika ambitnego (czy to we własnej firmie, czy u kogoś) i takiego, który chce jedynie odsiedzieć swoje 8 godzin i zainkasować pensum.
+    <br/>
+    <br/>zgoda: dlaczego wymagacie 5 lat doświadczenia lub studiów? W końcu ktoś z 5 letnim doświadczeniem będzie 10x tyle wart, co ktoś, kto po prostu skończył studia.
+- id: 2682
+  author: misia
+  author_url: ''
+  date: '2005-11-27 15:09:59 +0100'
+  date_gmt: '2005-11-27 15:09:59 +0100'
+  content: "jpc: \n<br/>\n<br/>* wiek: w liceum nie powiem, zeby nam z Patrysem zle
+    szlo programowanie ;), ale od tamtego czasu chyba obaj naprawde sporo sie nauczylismy.
+    Pewnych rzeczy bardzo trudno jest sie nauczyc w domu (np. projektowanie duzych
+    baz danych, UML), ale to juz zalezy od tego, co Cie interesuje. Studia umiejetnosci
+    programowania w PHP na pewno samoistnie nie podnosza.\n<br/>\n<br/>* praca zdalna:
+    pracowalem zdalnie przez kilka lat, prowadzilem tez kilka projektow... i wlasnie
+    z punktu widzenia PM widac, ze efektywna praca zdalna jest mozliwa tylko wtedy,
+    jesli nie bardzo nam sie spieszy i jestesmy w stanie wylonic jakis spojny podsystemik
+    do realizacji na zewnatrz. Co by nie mowic: komunikacja w zespole jest najwazniejsza,
+    a zdalna wspolpraca te efektywna komunikacje zaburza. \n<br/>\n<br/>studia: jesli
+    nie jestes super-specjalista w swojej dziedzinie (vide lcamtuf) to rzucanie studiow
+    jest bardzo krotkowzrocznym pomyslem. Poza tym... czy studia naprawde zabieraja
+    Ci tyle czasu?! No i pamietaj, ze to najlepsze lata Twojego zycia... potem piwko
+    przy sniadanku bedzie coraz rzadsze ;)"
+- id: 2683
+  author: misia
+  author_url: ''
+  date: '2005-11-27 15:14:21 +0100'
+  date_gmt: '2005-11-27 15:14:21 +0100'
+  content: |-
+    jpc:
+    <br/>
+    <br/>a nie znasz ludzi, którzy mają 5 lat studiów i 5 lat doświadczenia? :&gt; i jesteś absolutnie pewien, że bez dobrych studiów miałbyś takie podstawy, chociażby do pracy jako projektant, jak ktoś, kto przepracował w tym czasie 5 lat w małych firmach?
+- id: 2684
+  author: jpc
+  author_url: ''
+  date: '2005-11-27 15:17:18 +0100'
+  date_gmt: '2005-11-27 15:17:18 +0100'
+  content: |-
+    misia:
+    <br/>
+    <br/>wiek: to nie do mnie było, ale mniejsza o to ;] (żeby nie było, nie chodzę już od przeszło roku do liceum)
+    <br/>oczywiście, że są takie rzeczy, ale z moich obserwacji wynika, że równie trudno jest się ich nauczyć na studiach (poziom najbardziej prestiżowego kierunku mojej, bądź co bądź niezłej uczelni, jest conajmniej niezadowalający)
+    <br/>
+    <br/>praca zdalna: a jak w tym się odnajduje OpenSource i praca w nim właściwie wyłącznie zdalna?
+    <br/>
+    <br/>studia: zabierają mi dużo czasu, bo nie umiem odwalać fuszery, a jeśli czuje, że dany przedmiot rozumiem bardzo dobrze (nie spotkałem na razie inych przedmiotów), to nie umiem się pogodzić z faktem, że prowadzący mi postawi 3 (czy to przez to, że nie nasiedziałem się wystarczająco przed kolokwium, czy też dlatego, że po prostu się przyczepi do jakiejś pierdoły)
+    <br/>Piwa nie pijam, a ostre libacje jakoś nigdy nie były w moim stylu. ;P
+- id: 2685
+  author: jpc
+  author_url: ''
+  date: '2005-11-27 15:21:34 +0100'
+  date_gmt: '2005-11-27 15:21:34 +0100'
+  content: |-
+    misia: myślę, że po studiach miałbym zerowe podstawy jako projektant, więc cięzko byłoby mieć niższe przepracowując w małych firmach. ;]
+    <br/>
+    <br/>Widzę swoich kolegów na studiach (oczywiście nie wszystich, ale mówię o ogólnym wrażeniu), widzę ludzi, którzy z bardzo dobrymi wynikami skończyli studia i jeśli oni potrafią stworzyć taki bajer (jeden z nich):
+    <br/>
+    <br/>klasa PortSzeregowy (int numer_portu)
+    <br/>
+    <br/>co robi operator przypisania dla tej klasy? wybiera oczywiście numer potu! PRzecież to tak oczywiste...
+    <br/>
+    <br/>a drugie nie wie nic o XMLu (po kilku latach pracy w dużych firmach), to naprawdę zdanie o tym ile dają skończone studia (i jak się nadają jako kryterium oceny pracownika) mam mizerne.
+- id: 2686
+  author: misia
+  author_url: ''
+  date: '2005-11-27 15:23:40 +0100'
+  date_gmt: '2005-11-27 15:23:40 +0100'
+  content: |-
+    jpc:
+    <br/>
+    <br/>wiek: dochodzimy więc chyba obaj zgodnie (sorry Jarek :&gt;) do wniosku, ze praca w czasie studiow to rozwiazanie bliskie optymalnego
+    <br/>
+    <br/>praca zdalna: nie wiem, bo nigdy nie zajmowalem sie open source. Wiem, ze w RW (real world) pieniadze i terminy sa mocno ograniczone... i trzeba wegiel bardzo sprawnie przerzucac, zeby w piecu napalic.
+    <br/>
+    <br/>studia: nie mialem na mysli libacji, ale rozbudowane kontakty towarzyskie, swobode zycia, jakiej nie daje praca na pelnym etacie, i mimo wszystko spora dawke czasu wolnego, ktora pozwala rozwijac sie po zajeciach w pracy, czy w domu.
+- id: 2687
+  author: misia
+  author_url: ''
+  date: '2005-11-27 15:32:43 +0100'
+  date_gmt: '2005-11-27 15:32:43 +0100'
+  content: |-
+    jpc:
+    <br/>
+    <br/>Chyba musze troche zaburzyc Twoj swiatopoglad, bo znam kilku formalnych absolwentow (formalnych, bo z 5+ latami doswiadczenia), ktorzy pracuja jako projektanci przy naprawde duzych projektach i swietnie daja sobie rade. To, ile jest sie w stanie wyniesc wiedzy ze studiow, zalezy tez przede wszystkim od cech osobniczych, a nie samej uczelni. Jesli traktuje sie studia jak &quot;kurs przygotowujacy do pracy jako programista A, B lub C&quot; to rzeczywiscie mozna sie rozczarowac.
+    <br/>
+    <br/>A XML... wiedza o XML nie jest magiczna, wszystkiego mozna sie nauczyc. Znajdz wzietego programiste RPG czy choćby C, ktory zna dobrze XSLT... bedzie trudno :). Zreszta IMHO zadaniem uczelni nie jest uczenie konkretnych technologii, a sama znajomosc XML nie zaburza raczej spojrzenia na swiat informatyki :).
+- id: 2688
+  author: slav
+  author_url: ''
+  date: '2005-11-27 17:06:57 +0100'
+  date_gmt: '2005-11-27 17:06:57 +0100'
+  content: |-
+    praca zdalna... nie sprawdza sie, bo nie mam kontroli nad kodem i terminami. jesli ktos siedzi &quot;pod reka&quot; to widze jakie robi postepy i na co idzie jego czas za ktory place. probowalem z 3ma pracownikami zdalnymi i za kazdym razem byly problemy i przesuniecia terminow. a tak - mam programiste pod reka, widze co robi - moge w kazdej chwili powiedziec mu co robi nie tak, albo podsunac jakis pomysl...
+    <br/>zdalnie mozna kontrolowac prace przez CVS albo SVN, ale to zupelnie co innego gdy mozna porozmawiac, pokazac palcem itp, itd... przynajmniej takie sa moje doswiadczenia.
+    <br/>
+    <br/>jesli chodzi o studentow, wyksztalcenie i te sprawy to aktualnie mam dwoch studentow - jeden dzienny, drugi wieczorowy na 1/2 etatu i chlopaki radza sobie dobrze - nie nauczyli sie programowania na uczelni :)
+    <br/>
+    <br/>ktos tutaj dobrze napisal, ze jesli chce byc &quot;etatowcem&quot; albo &quot;najemnikiem&quot; to lepiej niech studia skonczy, freelancerowi do szczescia to nie potrzebne... ja studiowalem troche na PWR ale niewiele mi to dalo, teraz moj kierunek nie ma nic wspolnego z informatyka ale daje mi za to poglad na inne _wazniejsze dla wlasciciela_ sprawy niz programowanie
+    <br/>
+    <br/>watek sie zrobil potezny, mam nadzie ze Patrys sie nie pogniewa za zamieszanie jakie wywolalo moje skromne ogloszenie ;)
+- id: 2689
+  author: Patrys
+  author_url: ''
+  date: '2005-11-27 17:15:30 +0100'
+  date_gmt: '2005-11-27 17:15:30 +0100'
+  content: |-
+    Pewnie, że się nie pogniewa.
+    <br/>
+    <br/>Studia nie są od nauki programowania, administracji czy budownia systemów bazodanowych. Studia mają pokazać możliwe ścieżki rozwoju (informatyka ma setki specjalizacji) i nauczyć systematyczności, pokazać, gdzie szukać dalszej wiedzy i dać mgliste chociaż pojęcie o tym, czym człowiek będzie się na danym stanowisku zajmował.
+    <br/>
+    <br/>O ile można się samemu nauczyć programowania (ja jestem samoukiem, bo w czasach mojej zerówki jedynym dostępnym kursem były magazyny typu Bajtek), ciężko samemu nauczyć się matematyki. Nie po to przyznawane są nagrody za prace naukowe nad specyficznymi algorytmami, żeby programista musiał wymyślać drzewa przeszukiwań czy funkcje sortujące od zera.
+    <br/>
+    <br/>Oczywiście, wszystkie powyższe stwierdzenia są prawdziwe tylko dla studiów stacjonarnych. Jako student zaoczny (2,5 roku studiowałem na ii.uni.wroc.pl, ze względów zawodowych przeniosłem się na zaoczne studia do prywatnej uczelni) stwierdzam z pełną odpowiedzialnością, że jedyne, czego nauczyłem się przez ostatnie 1,5 roku to skuteczne unikanie WKU.
+    <br/>
+    <br/>Decyzji porzucenia magistratu dla lepszej pracy nie żałuję. Freelancing jest wesoły, ale ciężko żyć przy nieprzewidywalnych zarobkach. Praca stała nie daje tyle dochodów, ale daje pewne oparcie i komfort psychiczny.
+- id: 2690
+  author: Jajcus
+  author_url: ''
+  date: '2005-11-27 17:22:07 +0100'
+  date_gmt: '2005-11-27 17:22:07 +0100'
+  content: |-
+    „Freelancing jest wesoły, ale ciężko żyć przy nieprzewidywalnych zarobkach. Praca stała nie daje tyle dochodów, ale daje pewne oparcie i komfort psychiczny.”
+    <br/>No i kończy się robiąc i jedno, i drugie...
+- id: 2691
+  author: Patrys
+  author_url: ''
+  date: '2005-11-27 17:23:06 +0100'
+  date_gmt: '2005-11-27 17:23:06 +0100'
+  content: |-
+    Jajcus:
+    <br/>
+    <br/>Tak, ale gdy czas zaczyna zanikać, to szybciej rezygnuje się z freelancingu.
+- id: 2692
+  author: Jajcus
+  author_url: ''
+  date: '2005-11-27 17:23:53 +0100'
+  date_gmt: '2005-11-27 17:23:53 +0100'
+  content: 'Patrys: racja, chociaż to etatu ma się dość ;-)'
+- id: 2693
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2005-11-27 20:26:26 +0100'
+  date_gmt: '2005-11-27 20:26:26 +0100'
+  content: 'misia: ostatnie ogłoszenie było w jobpilot.pl, jakieś dwa miesiące temu.
+    Z prawie 200 kandydatów którzy się zgłosili, tylko 4 miało styczność z iSeries,
+    z tego 3 na studiach widziało terminal 5250, a 1 miał kurs operatorski i doświadczenie
+    programistyczne (choć z wykształcenia był elektronikiem). Nie mogliśmy przyjąć
+    żadnego. Następnego takiego ogłoszenia nie będzie, bo soft napiszą nam Węgrzy
+    na spółkę ze Słoweńcami.'
+- id: 2694
+  author: misia
+  author_url: ''
+  date: '2005-11-27 20:37:18 +0100'
+  date_gmt: '2005-11-27 20:37:18 +0100'
+  content: |-
+    jarek:
+    <br/>
+    <br/>przejrzalem Twojego joga i chyba kojarze ogloszenie na jobpilot. Wiesz, jak jest... o mlodych ze znajomoscia iSeries i RPG teraz bardzo trudno, nie kojarze zadnej uczelni (WAT?), ktora mialaby taka maszyne u siebie, w domu tez trudno sie tego nauczyc. We Wroclawiu jest kilka firm, ktore maja spore dzialy AS400 (powyzej 20 osob), ale za to znajomosc Java nie jest w tym srodowisku super powszechna. Anyway, jesli bardziej oplaca sie Wam outsourcing niz headhunting to chyba nie mozna narzekac...? ;)
+- id: 2695
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2005-11-27 21:07:09 +0100'
+  date_gmt: '2005-11-27 21:07:09 +0100'
+  content: Programisty w RPG nadal poszukujemy i nie zrezygnujemy tak łatwo. Gościa
+    do Javy szukaliśmy jakiś miesiąc wcześniej.
+- id: 2696
+  author: misia
+  author_url: ''
+  date: '2005-11-27 21:12:53 +0100'
+  date_gmt: '2005-11-27 21:12:53 +0100'
+  content: Nie wiem, czy korzystasz, ale warto dać cynk na pl.praca.oferowana i w
+    przypadku szukania speców od Java też na pl.comp.lang.java, no i siebie też autorekomenduję
+    ;). A RPG... jeśli będziecie oferowali atrakcyjne warunki to na pewno ściągnięcie
+    praktyka RPG/QL nawet spoza Warszawy.
+- id: 2697
+  author: jpc
+  author_url: ''
+  date: '2005-11-27 21:40:40 +0100'
+  date_gmt: '2005-11-27 21:40:40 +0100'
+  content: |-
+    misia: ja wiem, że można po studiach być specjalistą, ale nie z powodu studiów, a z powodu tego, że się jest dobrym i ambitnym. Po co w takim wypadku tracić czas na użeranie się z jakimiś durnymi wykładowcami.
+    <br/>
+    <br/>Apropo XMLa chodziło mi raczej o to, że on się od skończenia studiów za to nie wziął ni razu. Jakim sposobem ma podejmować decyzje jako programista (inna rzecz, że w dużych firmach nie programiści podejmują takie decyzje) o tym, jak rozwiązać dany problem, skoro nie ma nawet mglistego pojęcia o tym, jakie ma możliwości wyboru.
+- id: 2698
+  author: misia
+  author_url: ''
+  date: '2005-11-27 21:46:22 +0100'
+  date_gmt: '2005-11-27 21:46:22 +0100'
+  content: |-
+    jpc:
+    <br/>
+    <br/>I tu się nie zgadzamy - nie uważam, żeby dobre studia były czasem zmarnowanym, bo nauczyłem się wielu rzeczy, o których nie miałbym pojęcia pracując w tym czasie wyłącznie zawodowo.
+    <br/>
+    <br/>A z XML i kolegą to... no różni są ludzie, różne potrzeby. Jeśli zarówno on, jak i firma, nie widzą potrzeby, to chyba nie ma co robić wielkiego halo. Zresztą... życie zweryfikuje, a XML często bywa bezsensownie nadużywany, co bardzo odbija się potem na wydajności.
+- id: 2699
+  author: jpc
+  author_url: ''
+  date: '2005-11-27 21:52:04 +0100'
+  date_gmt: '2005-11-27 21:52:04 +0100'
+  content: "misia: a ja patrząc na kolegów równolegle studiujących informatykę widzę,
+    że na razie niewiele (jeśli w ogóle) uczą ich ponad to, co sam umiem, a nawet
+    to jest uczone dość byle jak. \n<br/>Gdyby zamiast robić dobre wykłady ktoś pisał
+    dobre książki, to świat byłby IMHO lepszy.\n<br/>\n<br/>Tak ogólnie, to chyba
+    chciałbym pójść na studia, a nie do szkółki z obowiązkowymi obecnościami i studentem
+    stojącym frontem do Sz.P.Wykładowcy, który łaskawie pozwala mi zaliczyć jego przedmiot.\n<br/>\n<br/>Ale
+    XML wypada znać i wiedzieć do czego warto go zastosować."
+- id: 2700
+  author: misia
+  author_url: ''
+  date: '2005-11-27 22:03:00 +0100'
+  date_gmt: '2005-11-27 22:03:00 +0100'
+  content: |-
+    jpc:
+    <br/>
+    <br/>Jesteś na pierwszym/drugim roku, tak? To cierpliwości może trochę... ;) A uczelnie... nie znam nikogo z Politechniki Łódzkiej (dobrze kojarzę?), na swoją nie narzekam. I żadne studia nie dadzą Ci bardzo praktycznego doświadczenia. Nie wiem, czym chcesz się zajmować w przyszłości (a Ty wiesz?), ale jest naprawdę wiele rzeczy, których trudno jest się nauczyć w domu, z książek albo w małej firmie. Potrzebny jest kompetentny feedback.
+    <br/>
+    <br/>I ten XML... no mówię Ci, że w wielu &quot;półświatkach IT&quot; jest zupełnie nieużywany. Jest pewna (starsza już) złota zasada, chyba nadal aktualna: &quot;jeśli nie masz danych w XML, które musisz przetwarzać, to nie stosuj XML tylko dlatego, że to modna technologia&quot; ;).
+- id: 2701
+  author: jpc
+  author_url: ''
+  date: '2005-11-27 22:09:29 +0100'
+  date_gmt: '2005-11-27 22:09:29 +0100'
+  content: |-
+    Dobrze kojarzysz. Właśnie martwie się tym, że zamiast tracić czas, mógłbym się zająć czymś bardziej ambitnym. To czego mnie uczą jest w gruncie rzeczy ciekawe i daje się w tym znaleźć dużo treści, ale sposób przekazania tego zostawia bardzo wiele do życzenia (istotne jest to, żeby nauczyć czegoś byle jak, tyle, żeby potem można było coś sprawdzić na egzaminie i wystawić z tego oceny, a nie to, żeby nauczyć czegoś porządnie),
+    <br/>
+    <br/>Right tool for the right job. To inna wersja tej samej zasady. ;]
+    <br/>Żeby wiedzieć, czy warto czegoś użyć, trzeba najpierw to znać, a jeśli się nie zna, to się traci. Ja oczywiście mimo znajomości XMLa (którego bynajmniej nie kocham) nie znam innych cennych narzędzi, ale staram się nadrabiać jak tylko mogę.
+- id: 2702
+  author: smk
+  author_url: ''
+  date: '2005-11-27 23:27:39 +0100'
+  date_gmt: '2005-11-27 23:27:39 +0100'
+  content: |-
+    jpc: Twój &quot;problem&quot; jest typowy dla kogoś, kto idzie na studia już z pewną wiedzą.
+    <br/>&quot;Przecież oni nic nowego nie mówią&quot;. Pochodź trochę i zobaczysz, że mówią...
+    <br/>Przede wszystkim wiedza podawana na studiacj ma jedną podstawową zaletę: jest uporządkowana. Nawet nie wiesz, ale Twoja wiedza zdobyta samodzielnie jest bardzo chaotyczna. Studia ją uporządkowują.
+    <br/>I przede wszystkim nie mają Cię nauczyć jak robić daną, jedną rzecz (od tego są podręczniki, kursy itp.), tylko dać pojęcie szerokie o temacie.
+- id: 2703
+  author: jpc
+  author_url: ''
+  date: '2005-11-27 23:31:06 +0100'
+  date_gmt: '2005-11-27 23:31:06 +0100'
+  content: |-
+    smk: wiem, że kiedyś mi powiedzą sporo nowego, ale czemu tak ciężko jest wiele z tych rzeczy znaleźć w książkach i czemu trzeba tyle cierpieć najpierw? ;]
+    <br/>
+    <br/>Właśnie takiego szerokiego pojęcia raczej nie widze... Jest za to mnóstwo: jak to zrobić, żeby na kolokwium była piątka (albo trójka, to już zależy od przypadku ;]).
+    <br/>
+    <br/>Nie twierdze, że studia to totalne dno, ale do najlepszej rzeczy od czasu krojonego pieczywa im daleko. ;]
+- id: 2704
+  author: smk
+  author_url: ''
+  date: '2005-11-27 23:35:56 +0100'
+  date_gmt: '2005-11-27 23:35:56 +0100'
+  content: |-
+    To trochę źle wiesz.
+    <br/>Nie powiedzą Ci wiele nowego. Ale te drobiny będą bardzo znaczące. ;-)
+- id: 2705
+  author: jpc
+  author_url: ''
+  date: '2005-11-27 23:37:37 +0100'
+  date_gmt: '2005-11-27 23:37:37 +0100'
+  content: No to czemu tych drobin nie da się gdzieś w jakiejś książce? ;]
+- id: 2706
+  author: Jan Prosiak Tucznikowski
+  author_url: ''
+  date: '2005-11-28 12:00:54 +0100'
+  date_gmt: '2005-11-28 12:00:54 +0100'
+  content: 'smk: na większości uniwerków/polibud na porządku dziennym jest zapełnianie
+    materiału niepotrzebną matematyką (tak jakby informatyka nie była wystarczająco
+    rozległa), uczenie złych nawyków pisania programów, projektowania ich, myślenia
+    wreszcie! Opisał to niedakh w jednej z ostatnich notek. Zgadzam się co do tego,
+    że wiedza przyswajana samodzielnie MOŻE być chaotyczna i jednocześnie zgadzam
+    się, że wiedza podana na studiach BĘDZIE chaotyczna, nieuporządkowana, masowa.
+    Natomiast nie spotkałem jeszcze szkoły prywatnej technicznej/informatycznej, która
+    nie byłaby wprawką do przeczytania grubej książki, czy uzupełnienia wiedzy na
+    paru wykładach na polibudzie. '
+- id: 2707
+  author: lego
+  author_url: ''
+  date: '2005-11-28 12:18:34 +0100'
+  date_gmt: '2005-11-28 12:18:34 +0100'
+  content: Heh u mnie na polibudzie (I rok - tzw. Informatyka:)) masowo nam upychają
+    matematykę, natomiast programowanie jest uczone wręcz że tak powiem komicznie
+    (wciskanie wszędzie goto, wychwalanie pascala pod niebiosa, do tego wykładowca
+    gubi się przy rozrysowaniu prostych pętli algorytmicznych etc). Widząc jednak
+    ludzi którzy są ze mną na roku, włos się jeży. Zero pojęcia o programowaniu, zero
+    wyobraźni. Większośc po prostu poszła na ten kierunek tylko i wyłącznie dlatego
+    aby mieć &quot;wyuczony zawód&quot; i zarabiacć po studiach zaraz 5cyfrowe sumki
+    miesięcznie.
+- id: 2708
+  author: Ktos
+  author_url: ''
+  date: '2005-11-28 21:24:28 +0100'
+  date_gmt: '2005-11-28 21:24:28 +0100'
+  content: |-
+    Ja także jestem na studiach. Na 1 roku tej tzw. Informatyki, ledwo drugi miesiąc i już mam tej cholernej matmy dosć. Ale nie o to chodzi.
+    <br/>
+    <br/>Pascal... będzie wprowadzony. A czy dobrze że go wychwalają? No cóż, do nauki jest stworzony. U mnie na razie schematy NS i dobre nawyki w programowaniu strukturalnym. Już usłyszeliśmy, ze &quot;instrukcje skoku są ZŁE&quot; :)
+- id: 2709
+  author: jpc
+  author_url: ''
+  date: '2005-11-28 21:29:22 +0100'
+  date_gmt: '2005-11-28 21:29:22 +0100'
+  content: |-
+    A potem krzyk jedynie, gdy w 3d trzeba coś policzyć i nagle okazuje się, że inżynierowie podstaw rachunku trygonometrycznego nie znają.
+    <br/>
+    <br/>Jedyna rzecz, na która na studiach narzekać nie mogę, to właśnie matematyka (no może tylko tyle, że mało jej). ;]
+- id: 2710
+  author: misia
+  author_url: ''
+  date: '2005-11-28 22:34:47 +0100'
+  date_gmt: '2005-11-28 22:34:47 +0100'
+  content: A to się zgadza, algebra zawsze aktualna.
+- id: 2711
+  author: djurban
+  author_url: ''
+  date: '2005-11-29 00:14:37 +0100'
+  date_gmt: '2005-11-29 00:14:37 +0100'
+  content: |-
+    zgoda,
+    <br/>ja sie nie zgadzam, moim zdaniem to sa spore warunki
+    <br/>
+    <br/># wykształcenie wyższe informatyczne lub pokrewne
+    <br/>To jeszcze ujdzie,chociaz eliminuje sporo mlodych zdolnych ludzi, a to prawdopodobnie Ci narzekaja na forach o tym ze te liczby z palca wyssane
+    <br/>
+    <br/># co najmniej 3-letnie doświadczenie w  programowaniu w środowisku AS/400
+    <br/># znajomość środowiska OS/400
+    <br/>
+    <br/>bez jaj, ile ludzi madostęp doAS/400? niby gdzie mialbym nabrac doswiadczenia na tym?
+    <br/>
+    <br/># umiejętność programowania w językach RPG, CL, SQL
+    <br/>
+    <br/>No ok, powiedzmy ze o CL i RPG nie slyszalem, jak wiekszosc ludzi ktorzy nie siedzieli nad */400 i/lub nie pamietaja czasow kiedy RPG sie uzywalo do kart dziurkowanych :)
+    <br/>
+    <br/># umiejętność pracy w zespole
+    <br/># zdolności analityczne
+    <br/># znajomość języka niemieckiego będzie dodatkowym atutem
+    <br/>
+    <br/>No ok, te warunki sa spelnialne izi, ale nie dotycza informatyki wlasciwie
+    <br/>
+    <br/>I tak generalnie jest z wiekszoscia warunkow, po za tym pozniej jak przychodzico doczego to wychodzi na jaw ze soft ktory jest do napisania jest paskudnie nudny, nie rozwija i wlasciwie polega na tym zeby sie pieprzyc z opakowanie starych technologii w nowe ficzery.
+- id: 2712
+  author: rachwal
+  author_url: ''
+  date: '2005-11-29 08:53:28 +0100'
+  date_gmt: '2005-11-29 08:53:28 +0100'
+  content: Najbardziej drazni mnie w pl-ogloszeniach o prace brak stawki za jaka mam
+    pracowac, na zachodzie jest to nie do pomyslenia ;-)
+- id: 2713
+  author: Jan Prosiak Tucznikowski
+  author_url: ''
+  date: '2005-11-29 12:09:10 +0100'
+  date_gmt: '2005-11-29 12:09:10 +0100'
+  content: 'jpc, misia: zgoda, matma się przydaje. Niestety, większość uczelni traktuje
+    to chyba zbyt dosłownie, co skutkuje tym, że matematyki jest więcej niż samej
+    informatyki. To idiotyzm, który uprawiają zwłaszcza uczelnie nagle wprowadzone
+    w XXI wiek przez dziekanów z PRLu.'
+- id: 2714
+  author: lego
+  author_url: ''
+  date: '2005-11-29 12:33:35 +0100'
+  date_gmt: '2005-11-29 12:33:35 +0100'
+  content: Heh u mnie są 4 przedmioty matematyczne i 2 informatyczne, tyle tylko że
+    te informatyczne są traktowane po &quot;macoszemu&quot;, a wykłady z tych przedmiotów
+    to juz czysta kpina...
+- id: 2715
+  author: Patrys
+  author_url: ''
+  date: '2005-11-29 13:42:49 +0100'
+  date_gmt: '2005-11-29 13:42:49 +0100'
+  content: |-
+    Matematyka ci się bardziej przyda niż informatyka. Jeśli znasz C++, to możesz właściwie od kopa programować w Pascalu (Delphi), Javie, C#, PHP, ADA, Pythonie, Perlu, wstaw-tu-swój-modny-język.
+    <br/>
+    <br/>Nie język tworzy programistę tylko znajomość nudnej matematyki właśnie (w tym rachunku macierzy, szacowania złożoności algorytmicznej, działania algebr i innych &quot;nikomu niepotrzebnych bzdur&quot;) i umiejętność programowania (pisanie czytelnego i zarządzalnego kodu, unikanie redundancji, wprowadzanie warstwy abstrakcji klasowej przez programowanie obiektowe, stosowanie optymalnych do danego zadania struktur spośród tych oferowanych przez język itp.).
+    <br/>
+    <br/>Napisać program, który da poprawny wynik w większości przypadków będzie w stanie wytresowana małpa (podobnie określa się studentów I roku informatyki, którzy &quot;za 50 PLN zrobią więcej niż Rumunka przy autostradzie&quot;). Napisać dobry program, który da ten sam (poprawny) wynik będzie potrafić tylko osoba mająca przynajmniej przeciętne pojęcie o architekturze kodu.
+- id: 2716
+  author: wb
+  author_url: ''
+  date: '2005-11-29 14:48:15 +0100'
+  date_gmt: '2005-11-29 14:48:15 +0100'
+  content: "Amen, Patrys. \n<br/>Powstrzymywałem się od dodania podobnego komentarza
+    nie chcąc rozdmuchiwać dalej tej dyskusji, wystarczająco mocno zeszła z tematu
+    notki. Wyjąłeś mi to z ust."
+- id: 2717
+  author: Jan Prosiak Tucznikowski
+  author_url: ''
+  date: '2005-11-29 15:59:37 +0100'
+  date_gmt: '2005-11-29 15:59:37 +0100'
+  content: "patrys: no toż niech uczą tej architektury kodu, niech uczą myślenia do
+    diaska, a nie obsługi gotowych rozwiązań. \n<br/>\n<br/>Przez takie właśnie myślenie
+    przeciętny absolwent może po otrzymaniu dyplomu magistra co najwyżej iść uczyć
+    matmy w liceum, bo pisane przez niego programy to żenada. "
+- id: 2718
+  author: eustachy
+  author_url: ''
+  date: '2005-11-29 16:20:45 +0100'
+  date_gmt: '2005-11-29 16:20:45 +0100'
+  content: "&gt; Matematyka ci się bardziej przyda niż informatyka. Jeśli znasz C++,
+    to możesz właściwie od kopa programować w Pascalu (Delphi), Javie, C#, PHP, ADA,
+    Pythonie, Perlu, wstaw-tu-swój-modny-język. \n<br/>\n<br/>Co to znaczy od kopa?
+    Pomijając już takie skrajności, jak inne paradygmaty, to akurat i ADA, i Python,
+    i Perl różnią się w stosunku do C++ nie tylko syntaktyką.\n<br/>\n<br/>&gt; Nie
+    język tworzy programistę tylko znajomość nudnej matematyki właśnie (w tym rachunku
+    macierzy, szacowania złożoności algorytmicznej, działania algebr\n<br/>\n<br/>Skąd
+    ten wniosek?\n<br/>\n<br/>W codziennej pracy programisty praktycznie nigdy nie
+    szacuje się złożoności algorytmicznej algorytmów, czy stosuje się rachunku macierzy.\n<br/>\n<br/>Mówiąc
+    o bardziej skomplikowanych rzeczach. Wątpliwe, by w Polsce było choć dziesięć
+    firm, w których wiedza na temat tego, czym są problemy NP-complete miała jakiekolwiek
+    zastosowanie.\n<br/>\n<br/>Można być doskonałym programistą pławiącym się we wzorcach
+    projektowym, modlącym się do DRY, nie mając najmniejszego pojęcia o trygonometrii,
+    analizie matematycznej, czy rachunku macierzy.\n<br/>\n<br/>&gt; abstrakcji klasowej\n<br/>\n<br/>Co
+    to jest?"
+- id: 2719
+  author: jpc
+  author_url: ''
+  date: '2005-11-29 16:43:44 +0100'
+  date_gmt: '2005-11-29 16:43:44 +0100'
+  content: 'eustachy (apropo przedostatniego akapitu): i do końca życia zajmującego
+    się tylko finansowo-księgowymi bazami danych, bo na więcej go nie stać z braku
+    wiedzy ogólnej.'
+- id: 2720
+  author: eustachy
+  author_url: ''
+  date: '2005-11-29 17:05:58 +0100'
+  date_gmt: '2005-11-29 17:05:58 +0100'
+  content: |-
+    &gt; eustachy (apropo przedostatniego akapitu): i do końca życia zajmującego się tylko finansowo-księgowymi bazami danych, bo na więcej go nie stać z braku wiedzy ogólnej.
+    <br/>
+    <br/>Raz. Napisanie 3/4 jądra dowolnego systemu operacyjnego nie wymaga żadnej znajomości matematyki. Co najwyżej, orientowania się która struktura danych jest bardziej adekwatna do sytuacji i wiedzy, kiedy zastosować muteksa, czy coś innego.
+    <br/>
+    <br/>Dwa. Tutaj dochodzimy do tego, czym jest w ogóle dobry programista. Jeżeli zakłądamy, że dobry programista to programista znający matematykę, to nie ma dyskusji.
+    <br/>
+    <br/>Jeżeli jednak, przyjmujemy, że dobry programista to programista piszący dobrej jakości kod to w większości wypadków, znajomość matematyki nie jest potrzebna do tego rodzaju czynności.
+    <br/>
+    <br/>I tak na marginesie. Gdy w grę wchodzą faktyczne problemy matematyczne, to nie rozwiązują ich zazwyczaj programiści, a projektanci lub innego rodzaju specjaliści.
+- id: 2721
+  author: jpc
+  author_url: ''
+  date: '2005-11-29 17:09:56 +0100'
+  date_gmt: '2005-11-29 17:09:56 +0100'
+  content: |-
+    Wiedza matematyczna generalnie poszerza możliwości intelektualne zgłębiającego ją.
+    <br/>Oczywiście rypania całek do kolokwium nie zaliczam do zgłębiania...
+    <br/>
+    <br/>Wydaje mi się, że o ile można dobrze kodować bez znajomości matematyki o tyle warto ją znać (oczywiście z sensem), bo to mimo wszystko podstawa inżynierii jako takiej, świetnie ćwicząca myślenie abstrakcyjne.
+- id: 2722
+  author: eustachy
+  author_url: ''
+  date: '2005-11-29 17:15:53 +0100'
+  date_gmt: '2005-11-29 17:15:53 +0100'
+  content: "&gt; Wiedza matematyczna generalnie poszerza możliwości intelektualne
+    zgłębiającego ją. \n<br/>\n<br/>Zgoda.\n<br/>\n<br/>Acz zdania:\n<br/>\n<br/>&gt;
+    Matematyka ci się bardziej przyda niż informatyka.\n<br/>\n<br/>(przyjmując, że
+    w pracy programisty)\n<br/>\n<br/>&gt; Nie język tworzy programistę tylko znajomość
+    nudnej matematyki właśnie\n<br/>\n<br/>(przyjmując, że programista to programista,
+    a nie projektant, czy coś innego)\n<br/>\n<br/>są fałszywe."
+- id: 2723
+  author: jpc
+  author_url: ''
+  date: '2005-11-29 17:19:12 +0100'
+  date_gmt: '2005-11-29 17:19:12 +0100'
+  content: Powiedzmy, że w połowie prawdziwe, bo funkcje programisty i projektanta
+    nie zawsze dają się rozdzielić (inna rzecz, że projektanctwa nie uczy się na studiach,
+    więc podapadają oni też pod infomratyków chyba ;]).
+- id: 2724
+  author: eustachy
+  author_url: ''
+  date: '2005-11-29 17:26:23 +0100'
+  date_gmt: '2005-11-29 17:26:23 +0100'
+  content: |-
+    Co to znaczy &quot;w połowie prawdziwe&quot;?
+    <br/>
+    <br/>Jeżeli chodzi o pierwsze zdanie. W kontekście tego, że firm wymagających faktycznej matematyki jest bardzo niewiele, można wnioskować, iż &quot;matematyka niekoniecznie ci się bardziej przyda&quot;.
+    <br/>
+    <br/>Jeżeli chodzi o drugie zdanie. Patrys nie mówił o informatykach, a o programistach, czyli o pewnym podzbiorze osób studiujących informatykę, których znajomość nudnej (jest taka?) matematyki &quot;nie tworzy&quot;.
+    <br/>
+    <br/>Poza tym. Gdy w grę wchodzą faktyczne problemy matematyczne, a nie miałpiarski wybór między dziesięcioma rodzajami list, hashów, czy locków, faktycznie zazwyczaj pojawia się projektant we własnej osobie.
+- id: 2725
+  author: Tomash
+  author_url: ''
+  date: '2005-11-29 17:48:58 +0100'
+  date_gmt: '2005-11-29 17:48:58 +0100'
+  content: "Polska duma programistyczna (wygrywający międzynarodowe konkursy studenci)
+    uczy się na MIMUWie, gdzie na kierunku informatyka jest JEDEN przedmiot informatyczny
+    i 6 matematycznych. \n<br/>To tylko informacja. \n<br/>Komentarz jest taki, że
+    jeśli ktoś chce być przyuczonym do zawodu matołkiem, niech nie robi wyższych studiów,
+    gdzie uczą go - jak oni mogą - matematyki (a i zdarza się gdzieniegdzie, że i
+    fizyki). Niech idzie do technikum, szkoły policealnej czy jednej z łatwiejszych
+    &quot;Wyższych Szkół Zarządzania, Ekonomii i Klikania Przy Kompie&quot; (niech
+    uważa z wyborem, bo coraz częściej zdarzają się dobre i wymagające prywatne szkoły
+    wyższe - a kto to słyszał uczyć i wymagać?).\n<br/>\n<br/>Matematyka jest potrzebna
+    chociażby do tego, co pisał Patrys. Stawiam dolary, że bohaterowie thedailywtf.com
+    to właśnie ludzie, w których procesie edukacyjnym matematyki brakowało. Bo ich
+    debilizmy nie są natury programistyczno-syntaktycznej (te wyłapuje kompilator),
+    tylko mają swoje źródło w nieumiejętności odpowiednio abstrakcyjnego myślenia.
+    Które wyrabia właśnie matematyka.\n<br/>\n<br/>Studiuję fizykę. Ludzi, którzy
+    narzekają na nadmiar matematyki w programie studiowania fizyki, zabija się śmiechem."
+- id: 2726
+  author: Tomash
+  author_url: ''
+  date: '2005-11-29 17:49:34 +0100'
+  date_gmt: '2005-11-29 17:49:34 +0100'
+  content: Errata do powyższego - pierwszy akapit powinien kończyć się słowami &quot;na
+    pierwszym roku&quot;.
+- id: 2727
+  author: jpc
+  author_url: ''
+  date: '2005-11-29 17:51:19 +0100'
+  date_gmt: '2005-11-29 17:51:19 +0100'
+  content: A miałem właśnie fizyke studiować, ale mi było trochę szkoda bezegzaminiastego
+    wjazdu na studia, żeby go użyć na kierunku, na którym jest 0,6 kandydata na miejsce
+    (wiem, że to dobre studia, po prostu mało popularne). ;]
+- id: 2728
+  author: Tomash
+  author_url: ''
+  date: '2005-11-29 17:53:03 +0100'
+  date_gmt: '2005-11-29 17:53:03 +0100'
+  content: "Rachwal: święta racja, na Zachodzie standardem jest podawanie miesięcznej
+    lub rocznej stawki w ogłoszeniu. \n<br/>W Polsce to wynika zapewne z tego, że
+    oczekiwania wielu pracodawców (stosunek kwalifikacje/wynagrodzenie) zasługują
+    na traktowanie wyłącznie w kategoriach dowcipu, ale oni na to tak nie patrzą -
+    bo a nuż znajdzie się student-frajer, który na to pójdzie."
+- id: 2729
+  author: Tomash
+  author_url: ''
+  date: '2005-11-29 17:53:43 +0100'
+  date_gmt: '2005-11-29 17:53:43 +0100'
+  content: 'JPC: A ja m.in. dlatego poszedłem własnie na fizykę, a nie informatykę
+    - taka indywidualistyczna przekora ;).'
+- id: 2730
+  author: Patrys
+  author_url: ''
+  date: '2005-11-29 20:00:28 +0100'
+  date_gmt: '2005-11-29 20:00:28 +0100'
+  content: |-
+    &gt;&gt; abstrakcji klasowej
+    <br/>&gt; Co to jest?
+    <br/>
+    <br/>Skrót myślowy, określający dodanie pomiędzy dwoma klasami dodatkowej warstwy w celu odforkowania klasy podobnej do dziedziczącej z minimalną redundancją kodu.
+- id: 2731
+  author: misia
+  author_url: ''
+  date: '2005-11-30 03:23:19 +0100'
+  date_gmt: '2005-11-30 03:23:19 +0100'
+  content: |-
+    jpc:
+    <br/>Zgadzam się z tym wyjątkiem, że projektowania zarówno od strony teoretycznej, jak i praktycznej, mimo wszystko uczy sie na dobrych studiach i to z cala pewnoscia solidniej niz programowania.
+    <br/>
+    <br/>eustachy:
+    <br/>Projektant nie zajmuje się raczej problemami matematycznymi (dla porządku: pomijając logikę, która obowiązywać powinna każdego). Do takich realnych problemów mogą należeć np. podsystemy do specjalizowanego data mining (przewidywanie żużycia energii), a tym zajmują się ludzie, którzy znają się po prostu na rzeczy. Nieźle opisane role członków zespołu, tu akurat dla RUP, można znaleźć np. tutaj:
+    <br/>http://www-128.ibm.com/developerworks/rational/library/apr05/crain/
+    <br/>I znam zdecydowanie 10+ firm (we WR, żeby nie szukać daleko), które stosują software do szukania rozwiązań problemów NP-trudnych, bo to w biznesie chleb powszedni - radziłbym zrewidywować poglądy i poczytać o TSP ;)
+    <br/>
+    <br/>Tomash:
+    <br/>Zgadzam się. Chociaż na thedailywtf pojawiają się czasem bardzo specyficzne kiksy związane po prostu z przejściem na dany językiem programowania, jak ostatnio:
+    <br/>http://thedailywtf.com/forums/51471/ShowPost.aspx
+    <br/>(btw, zresztą dlatego każdy programista .net powinien korzystać z naprawdę dobrego narzędzia, jakim jest fxcop).
+    <br/>
+    <br/>@all:
+    <br/>Jedno mnie trochę dziwi. Cała dyskusja odnośnie studiów informatycznych i pracy w firmie wytwarzającej oprogramowanie skupiła się wokół programistów. Tymczasem z tym stanowiskiem wiążą się raczej najniższe pieniądze, a i dobra sekretarka zarabia więcej niż koder. Zresztą nie bez powodu - przynosi firmie na pewno większą wartość biznesową niż ten pierwszy. A szeregowi programiści są w Polsce bardzo, bardzo tani.
+- id: 2732
+  author: misia
+  author_url: ''
+  date: '2005-11-30 03:28:36 +0100'
+  date_gmt: '2005-11-30 03:28:36 +0100'
+  content: 'errata: &quot;dobra sekretarka zarabia więcej niż koder&quot; -&gt; &quot;dobra
+    sekretarka zarabia *dużo* więcej niż koder&quot;'
+- id: 2733
+  author: eustachy
+  author_url: ''
+  date: '2005-11-30 14:47:49 +0100'
+  date_gmt: '2005-11-30 14:47:49 +0100'
+  content: |-
+    &gt; Projektant nie zajmuje się raczej problemami matematycznymi (dla porządku: pomijając logikę, która obowiązywać powinna każdego).
+    <br/>
+    <br/>Wcześniej napisałem o &quot;innych specjalistach&quot;.
+    <br/>
+    <br/>&gt; I znam zdecydowanie 10+ firm (we WR, żeby nie szukać daleko), które stosują software do szukania rozwiązań problemów NP-trudnych, bo to w biznesie chleb powszedni
+    <br/>
+    <br/>Czym innym jest używanie oprogramowania do rozwiązywania takiej klasy problemów, co nie musi wymagać specjalistycznej wiedzy matematycznej, a czym innym jest pisanie takiego oprogramowania.
+    <br/>
+    <br/>&gt; Zresztą nie bez powodu - przynosi firmie na pewno większą wartość biznesową niż ten pierwszy. A szeregowi programiści są w Polsce bardzo, bardzo tani.
+    <br/>
+    <br/>Owszem. Są tani i jest ich dużo, co oznacza, że nabycie umiejętności wymaganych w większości firm, czyli takich, które &quot;przydadzą się bardziej&quot;, nie jest szczególnie skomplikowane.
+    <br/>
+    <br/>Z pewnością też, siłą rzeczy, w ich skład nie wchodzi matematyka. Osób potrafiących ją opanować na jakimkolwiek poziomie i stosować jest na tyle zdecydowanie mniej, niż programistów.
+- id: 2734
+  author: misia
+  author_url: ''
+  date: '2005-11-30 15:28:11 +0100'
+  date_gmt: '2005-11-30 15:28:11 +0100'
+  content: |-
+    eustachy:
+    <br/>
+    <br/>Odnosnie oprogramowania - znam kilka duzych firm we WR, ktore same buduja podsystemy do data mining dla swoich produktow. Jesli chodzi o TSP to nie wiem, bo troche to nie moje zainteresowania, ale przypuszczam, ze tez w Polsce niejedna firme znajdziesz. Kilka moge spokojnie o to podejrzewac ;)
+    <br/>
+    <br/>A matematyka i programowanie... oczywiście, zgadzam się, tyle że wtedy  ponad pewien poziom nie wyskoczy. Jeśli komuś odpowiada pieprzenie się przez całe życie z produkcyjnym kodem za mocno takie sobie pieniądze to jest to, owszem, wymarzona praca ;).
+- id: 2735
+  author: eustachy
+  author_url: ''
+  date: '2005-11-30 16:50:54 +0100'
+  date_gmt: '2005-11-30 16:50:54 +0100'
+  content: |-
+    misia:
+    <br/>
+    <br/>Ostatni Twój komentarz jest bardzo mglisty.
+    <br/>
+    <br/>W skrócie:
+    <br/>
+    <br/>Założenie, że matematyka czy fizyka jest jedyną metodą na wyrobienie sobie abstrakcyjnego myślenia jest błędne.
+    <br/>
+    <br/>Mając więc na uwadze, że dobry programista to programista potrafiący myśleć abstrakcyjnie, stwierdzenie o &quot;takich sobie&quot; pieniądzach jest nieuprawnione.
+    <br/>
+    <br/>Co więcej, w branży informatycznej, pomijając specjalności takie, jak właśnie data mining, czy TSP, można z powodzeniem zarabiać duże pieniądzę nie znając matematyki.
+    <br/>
+    <br/>Czego przykładem jest chociażby sekretarka. ;&gt;
+    <br/>
+    <br/>&gt; Odnosnie oprogramowania - znam kilka duzych firm we WR, ktore same buduja podsystemy do data mining dla swoich produktow.
+    <br/>
+    <br/>Dobrze. Niech będzie więc kilka firm w największych miastach Polski.
+    <br/>
+    <br/>Przyjmując, że faktycznie w tych firmach z omówionymi problemami styka się zaledwie część osób, bardzo, ale to bardzo daleko stwierdzeniu &quot;matematyka przyda Ci się bardziej&quot; do prawdziwości.
+- id: 2736
+  author: Patrys
+  author_url: ''
+  date: '2005-11-30 19:39:21 +0100'
+  date_gmt: '2005-11-30 19:39:21 +0100'
+  content: |-
+    eustachy:
+    <br/>
+    <br/>Nie &quot;matematyka przyda ci się bardziej&quot; tylko &quot;matematyka, której cię nauczą przyda ci się bardziej niż programowanie, którego cię nauczą.&quot;
+- id: 2737
+  author: eustachy
+  author_url: ''
+  date: '2005-11-30 19:48:14 +0100'
+  date_gmt: '2005-11-30 19:48:14 +0100'
+  content: |-
+    Patrys:
+    <br/>
+    <br/>Wskaż konsekwencje merytoryczne, jakie niesie ta różnica i uściślij, w przyjętych wcześniej kryteriach, przydatność matematyki, której cię nauczą.
+    <br/>
+    <br/>Jeżeli poprzez matematykę, którą cię nauczą rozumiesz coś innego, niż rachunek macierzy, szacowanie złożoności, działanie algebr, także uściślij - co.
+    <br/>
+    <br/>Byłoby również dobrze, gdybyś wskazał konkretne sytuacje programistyczne, kiedy znajomość tej matematyki się przydaje.
+    <br/>
+    <br/>W przeciwnym razie dyskusja jest niemerytoryczna.
+- id: 2738
+  author: Patrys
+  author_url: ''
+  date: '2005-11-30 19:53:56 +0100'
+  date_gmt: '2005-11-30 19:53:56 +0100'
+  content: |-
+    Mówię tylko, że rzadko kiedy uczelnia jest w stanie przekazać ci cokolwiek z dziedziny programowania ponad składnię danego języka. Korzyści z tego raczej niewielkie, bo podobne umiejętności dobry programista posiądzie po weekendzie z książką, a konkretów i tak trzeba uczyć się samemu.
+    <br/>
+    <br/>Matematyka, choćby najbardziej okrojona przydaje mi się ciagle. Od samej logiki i zdolności prowadzenia logicznego wnioskowania, przez zdolność udowodnienia poprawności algorytmu przed jego zakodowaniem, przez umiejętność oszacowania, które rozwiązanie będzie mniej obciążało maszynę, a które zadziała szybciej. Do tego wszystkiego możesz dodać, że jakakolwiek praca z grafiką komputerową (a to najlepiej płatne ostatnio posady - lokalny przemysł tworzenia gier się w Polsce dopiero rozwija) wymaga znajomości trygonometrii, rachunku macierzy i zaawansowanych technik optymalizacji, a to wszystko dziedziny matematyki.
+- id: 2739
+  author: mhulboj
+  author_url: ''
+  date: '2005-11-30 19:57:13 +0100'
+  date_gmt: '2005-11-30 19:57:13 +0100'
+  content: 'Do tego: wspomaganie decyzji, optymalizacja, eksploracja danych, odkrywanie
+    wiedzy, algorytmy ewolucyjne, sterowanie, identyfikacja - to wszystko matematyka.'
+- id: 2740
+  author: mhulboj
+  author_url: ''
+  date: '2005-11-30 20:00:37 +0100'
+  date_gmt: '2005-11-30 20:00:37 +0100'
+  content: I jeszcze jedno - na jakie wydzialy przychodza zagraniczne instytucje finansowe
+    (np. Barclay&#039;s Capital) lowic ludzi w PL? Wydzialy fizyki i matematyki...
+---
+<p>Tym wpisem mam nadzieję rozpocząć większy cykl notek - związanych z zatrudnieniem.</p>
+
+<p>Sławomir Jasiński z zaprzyjaźnionej firmy <a href="http://www.gexit.pl/">GEX IT</a> poszukuje pracowników:</p>
+
+<blockquote><p>Aktualnie poszukujemy osoby na stanowisko <em>programista PHP</em>.</p>
+
+<p>Wymagania:</p>
+<ul>
+        <li>znajomość programowania obiektowego w PHP4, PHP5;</li>
+        <li>umiejętność tworzenia zapytań SQL;</li>
+        <li>umiejętność pracy w grupie;</li>
+        <li>chęć do pracy i punktualność;</li>
+        <li>mile widziana znajomość Smarty i ADOdb;</li>
+        <li>wiek i wykształcenie nie są istotne</li>
+</ul>
+<p>Oferujemy:</p>
+<ul>
+        <li>zdobycie doświadczenia;</li>
+        <li>liczne ciekawe projekty;</li>
+        <li>miłą atmosferę pracy;</li>
+        <li>praca na pół / cały etat</li>
+</ul></blockquote>
+
+<p>Kontakt: przez email na adres &lt;info at gexit pl&gt;.</p>

@@ -1,0 +1,124 @@
+---
+layout: post
+status: publish
+published: true
+title: Krótko o prehistorii
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 27
+date: 2004-06-06 21:49:58.000000000 +02:00
+categories:
+- varia
+- linux
+tags: []
+comments:
+- id: 77
+  author: bender
+  author_url: ''
+  date: '2004-06-06 23:56:25 +0200'
+  date_gmt: '2004-06-06 23:56:25 +0200'
+  content: |-
+    &quot;Nadmienię przy okazji, że pierwszy raz spotkałem się z bootmenu NT, które po wybraniu opcji uruchomienia linuksa, niezwłocznie włączyło mi LILO... gdzie opcja domyślna to start Windowsa.&quot;
+    <br/>Normalna sprawa jak się instaluje systemy w odpowiedniej kolejności. Tutaj pewnie było XP, Aurox, W2003. Instalator Autoxa i W2003 respektuje poprzednie ustawienia co się chwali.
+    <br/>
+    <br/>A co do &quot;włamania&quot; to ja w podstawówce musiałem się u dyrektora tłumaczyć że nie chciałem nic złego zrobić jak pewnego dnia stałem się supervisorem (chyba tak to się nazywało w NetWare). Przynajmniej u Ciebie staneło na adminie.
+- id: 78
+  author: Jajcus
+  author_url: ''
+  date: '2004-06-07 08:28:02 +0200'
+  date_gmt: '2004-06-07 08:28:02 +0200'
+  content: Ja miałem na studiach przedmiot &quot;Sieci komputerowe i systemy wielodostępne&quot;.
+    Gdy wszedłem do sali przed pierwszymi zajęciami i zobaczyłem obok PeCetów z jednej
+    strony kilka stacji roboczych Sun z drugiej to byłem w szoku. Oczywiście usiadłem
+    do Suna, a pozostali za mną. W końcu przyszedł prowadzący, kazał przesiąść się
+    do PeCetów i odpalić Windowsy (3.11)... (potem przez telneta logowaliśmy się na
+    jakiegoś Linuksa, ale co to zmienia?)
+- id: 79
+  author: mmazur
+  author_url: ''
+  date: '2004-06-07 09:42:45 +0200'
+  date_gmt: '2004-06-07 09:42:45 +0200'
+  content: |-
+    Ja mam prośbę - czy dałoby się wyłączyć ten bajer z najeżdżaniem myszką w celu przeczytania czegoś? Jest to dosyć irytujące, zwłaszcza, że ja nie przepadam za odrywaniem ręki od klawiatury.
+    <br/>
+    <br/>A co do reinstalacji z ghosta - to jest jak najbardziej normalne i bynajmniej nie widzę w tym nic dziwnego. Nauczyciel ma w szkole uczyć, a nie odpowiadać za niedoskonały software.
+- id: 80
+  author: Patrys
+  author_url: ''
+  date: '2004-06-07 09:54:22 +0200'
+  date_gmt: '2004-06-07 09:54:22 +0200'
+  content: Stawianie z Ghosta JEST normalną sprawą. Ja do tego używam partimage. Ale
+    to nie znaczy, że trzeba zostawiać otwartą na oścież furtkę do zepsucia systemu.
+    Dla mnie przywracania obrazu partycji jest ostatecznością i staram się tak skonfigurowac
+    system żebym nie musiał tego robić nigdy. Inna sprawa, że oni mają w tej szkole
+    Ghosty z momentu pierwszej instalacji systemu i nie robią regularnych backupów.
+    Dane użytkowników regularnie wędrują do /dev/drzewo.
+- id: 81
+  author: Jezuch
+  author_url: ''
+  date: '2004-06-07 10:59:48 +0200'
+  date_gmt: '2004-06-07 10:59:48 +0200'
+  content: |-
+    Popieram wniosek o wyeliminowanie czynnika gryzonicznego z czytania tego Jogga ;) (ja wiem, że jest ładny i w ogóle, ale mimo wszystko skoro już sam o tym piszesz... ;) )
+    <br/>Ja ostatnio zauważam, że moja precyzja poruszania mychą mocno spadła, od kiedy mam Debiana. Terminal rządzi, a w Quake&#039;a już dawno nie grałem ;]
+- id: 82
+  author: szszszzzzzzzz.....ej?
+  author_url: ''
+  date: '2004-06-07 16:07:13 +0200'
+  date_gmt: '2004-06-07 16:07:13 +0200'
+  content: jak terminal rzadzi to czytajcie w linksie, tam nie ma takich problemow...
+    pzdr
+- id: 83
+  author: Wystarczy odrzucić
+  author_url: ''
+  date: '2004-06-07 18:12:04 +0200'
+  date_gmt: '2004-06-07 18:12:04 +0200'
+  content: |-
+    CSSy i wszystko można łatwo przeczytać.
+    <br/>ja używam bardzo wygodnego JavaScriptu - można w przeglądarce ustawić do &#039;favorites&#039; - można też nastawić skrót - przydaje się nie tylko na tym tu blogu ;]
+    <br/>
+    <br/>
+    <br/>javascript:var%20i=0;if(document.styleSheets.length&gt;0){cs=!document.styleSheets[0].disabled;for(i=0;i&lt;document.styleSheets.length;i++)%20document.styleSheets[i].disabled=cs;};void(cs=true);
+- id: 84
+  author: Jezuch
+  author_url: ''
+  date: '2004-06-07 19:44:40 +0200'
+  date_gmt: '2004-06-07 19:44:40 +0200'
+  content: |-
+    E tam, co się bede babrać ;&gt;
+    <br/>Lubię terminal, ale nie aż tak ;)
+- id: 85
+  author: smoku
+  author_url: ''
+  date: '2004-06-08 13:26:48 +0200'
+  date_gmt: '2004-06-08 13:26:48 +0200'
+  content: 'mmazur: ja w takich przypadkach używam magicznego ^A'
+- id: 86
+  author: jpc
+  author_url: ''
+  date: '2004-06-15 17:28:36 +0200'
+  date_gmt: '2004-06-15 17:28:36 +0200'
+  content: Jak zobaczyłem Suny na Politechnice Łódzkiej, a potem stacje robocze na
+    Linuksie używane do nauki programowania mikroprocesorów, to też mi szczena opadła.
+    Uczelnie tą znam dość dobrze, ale niestety od strony wydziałów ,,windowsowych&#039;&#039;.
+    ,,Elektryczny&#039;&#039; mnie pozytywnie zaskoczył.
+---
+Jako student zaoczny większość weekendów spędzam w szkole. Tego malowniczego dnia również nawiedziłem swoją mekkę poznania. Pierwszy raz przypadły nam zajęcia w pracowni trzysystemowej, więc pomyślałem sobie "rewelacja, ciekawe jakie są te dwa systemy poza Windowsem?". Już po kilku minutach zrozumiałem błąd zawarty w tak postawionym pytaniu, jako że powinno ono brzmieć "jakie są te dwa Windowsy poza linuksem".<br />
+<br />
+Gdy tylko oczy me ujrzały menu bootowania, zadałem sobie jedno z wielu trudnych pytań, jakie filozofowie zadawali od wieków, tym samym napędzając ciężką maszynę ewolucji: "Po jaką cholerę instalować na jednej maszynie Windows XP i Windows 2003 Server?". Mój mózg był w stanie pojąć, że w pracowni odbywają się ćwiczenia z administracji systemem, ale nie wyobrażam sobie zastosowania dla dwóch, tak podobnych przecież, systemów? Być może uczniowie ustanawiali Windows 2003 kontrolerem domeny, a następnie uruchamiali ponownie komputer w Windows XP, próbując zalogować się do stworzonej właśnie domeny? A może poznawali niuanse pomiędzy błędami w RPC obu tych wersji? Wracając jednak do tematu, postanowiłem bliżej zaprzyjaźnić się z tym trzecim systemem.<br />
+<br />
+Kolejne filozoficzne pytanie na mej drodze ku światłości stanęło mi przed oczami. Dlaczego akurat Aurox 9.1? Ze wszystkich systemów świata, w których jest czym zarządzać (w systemach typu Mandrake można sobie pozarządzać zawartością pulpitu), administrator wybrał ten, który jest jednym wielkim kreatorem. "Przecież to nikogo nic nie nauczy?" - pomyślałem, jednak już wkrótce sytuacja miała stać się bardziej klarowna. Nie wyprzedzajmy jednak faktów.<br />
+<br />
+Na dobry początek dobrze byłoby się zalogować. Pięć sekund stukania w klawiaturę nauczyło mnie, że domena NIS działa wszędzie, tylko nie w Auroksie. Oczywiście, konta nie ma. A, tu zaznaczyć trzeba, wcześniej miałem okazję doznać zaszczytu wysłuchania prelekcji na temat bezpieczeństwa szkolnych komputerów. Oczywiście całość miała charakter nieoficjalny, bo odbyła się w trakcie przerwy między lekcjami w miejscu o najlepszej akustyce, czyli przed szkołą, tuż obok popielniczki. Jako że bezpośrednio nie uczestniczyłem w rozmowie, a tylko przysłuchiwałem się jej z boku, nie byłem w stanie dowiedzieć się żadnych szczegółów. Dość powiedzieć, że rozmowa była głównie na temat "jak najlepiej dodać prawa do audytu bezpieczeństwa sieci w Windows". Tak jest, nie "jak najlepiej przeprowadzić audyt", tylko "jak najlepiej dać komuś prawa do audytu". Z bardziej interesujących rzeczy na temat linuksa usłyszałem, że "nasz system jest zabezpieczony, graficzny boot chroni przed zmianą parametrów jądra". Aż chciałoby się rzec, "urzekła mnie twoja historia".<br />
+<br />
+Spowrotem w pracowni, bootmenu, Aurox 9.1. Nadmienię przy okazji, że pierwszy raz spotkałem się z bootmenu NT, które po wybraniu opcji uruchomienia linuksa, niezwłocznie włączyło mi LILO... gdzie opcja domyślna to start Windowsa. Brawo za koncept i innowacyjne podejście do tematu. W każdym razie administrator się nie mylił. Głównym zabezpieczeniem linuksa w szkole było graficzne LILO. Ctrl+X.<br />
+<br />
+boot> linux init=/bin/bash<br />
+<br />
+Jak już mówiłem, głównym i jedynym zabezpieczeniem linuksa było graficzne LILO. Poszedłem do administratora. Więcej się do niego nie odezwę. Oświecił mnie był bowiem w pewnych kwestiach organizacyjnych. Otóż jestem złym hakerem i ja to bym tylko psuł wszystko. To chyba dlatego, że to zgłosiłem. Był wkurzony, pomyślicie? Nie, wkurzony był dopiero jak go zapytałem, czemu przy wybieraniu pakietów do instalacji wybrał "zainstaluj wszystkie dostępne pakiety". Zachowując pozory zimnej krwi i tak zwaną "galarecianą powagę", niemal zakrzyknął do mnie w te słowy: "Mnie linux nie interesuje, ja mam sieć na Windowsach. A jak zepsujesz, to i tak nic. Włącze Norton Ghosta, dwa razy kliknę i system stoi." I przetłumacz takiemu, że lepiej system zabezpieczać niż doskonalić metody jego reinstalacji...<br />
+<br />
+Morał: podejrzane wydało mi się zwłaszcza słowo "klikać", które dość często przewijało się w wypowiedziach rzeczonego pana. Okazuje się, że współczesna psychologia określa takich ludzi jako "jednorękich". Jako, że mysz można obsługiwać tylko jedną ręką, druga ręka z braku aktywności z czasem zanika i ulega przykurczeniu. W końcu w NajlepszychSystemach&trade; wszystko można zrobić myszką. Literatura piękna od powyższego określenia woli termin "dinozaury XXI wieku", który związek ma nie tyle z niebywałym stażem obserwowanych, co z kształtem nieużywanej kończyny, która dość wiernie przypomina kończyny przednie tyronozaura królewskiego.<br />
+<br />
+Jak poznać administratora sieci szkolnej na ulicy? Często widuje się dwóch administratorów, jak na powitanie podają sobie rękę i po zwyczajowym uścisku dłoni wymieniają tylko krótkie "allright", co jest swego rodzaju procesem negocjacji połączenia i daje pewność, że u obu panów właśnie prawa część ciała przejęła wszystkie funkcje życiowe. Niestety, rynek administracji siecią jest obecnie wysoce przesycony, o czym świadczyć mogą licznie pojawiające się na stronach napisy "all rights reserved" (z angielskiego: "wszystkie posady dla praworęcznych zajęte"). :)

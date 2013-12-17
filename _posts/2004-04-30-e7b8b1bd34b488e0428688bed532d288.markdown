@@ -1,0 +1,59 @@
+---
+layout: post
+status: publish
+published: true
+title: Wpis testowy
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 2
+date: 2004-04-30 18:23:50.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 2
+  author: kaczy
+  author_url: ''
+  date: '2004-05-04 10:47:25 +0200'
+  date_gmt: '2004-05-04 10:47:25 +0200'
+  content: "jfjjghhrhurhfdfyrhf fefe efewfwwefr\n<br/>reewrrew\n<br/>erwe "
+- id: 3
+  author: kaczy
+  author_url: ''
+  date: '2004-05-04 10:48:12 +0200'
+  date_gmt: '2004-05-04 10:48:12 +0200'
+  content: "ppollki iikju jjhuj \n<br/>llokki\n<br/>olki\n<br/>\n<br/>"
+- id: 4
+  author: Bogas
+  author_url: ''
+  date: '2004-08-21 23:40:53 +0200'
+  date_gmt: '2004-08-21 23:40:53 +0200'
+  content: '...'
+- id: 6147
+  author: Viagra
+  author_url: ''
+  date: '2007-01-18 16:27:39 +0100'
+  date_gmt: '2007-01-18 15:27:39 +0100'
+  content: Viagra
+- id: 6195
+  author: asd
+  author_url: ''
+  date: '2007-01-20 22:18:43 +0100'
+  date_gmt: '2007-01-20 21:18:43 +0100'
+  content: test
+- id: 6196
+  author: Patrys
+  author_url: http://www.room-303.com/blog/
+  date: '2007-01-20 22:19:23 +0100'
+  date_gmt: '2007-01-20 21:19:23 +0100'
+  content: test2
+- id: 7176
+  author: Patryk Zawadzki
+  author_url: http://myid.pl/id/patrys
+  date: '2007-03-12 08:26:51 +0100'
+  date_gmt: '2007-03-12 07:26:51 +0100'
+  content: asd
+---
+Zobaczmy, jak to działa...

@@ -1,0 +1,127 @@
+---
+layout: post
+status: publish
+published: true
+title: mmCache na Home.pl
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 84
+date: 2005-05-07 11:13:34.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1007
+  author: Hawk
+  author_url: ''
+  date: '2005-05-07 13:54:39 +0200'
+  date_gmt: '2005-05-07 13:54:39 +0200'
+  content: Jakis czas temu trafil mi sie serwis zakodowany przez Turck mmCache. W
+    teorii nawet to dzialalo. Problemy zaczely sie przy przejsciu na php5. Otwarcie
+    czegokolwiek kodowanego mmCachem konczylo dzialanie na bledzie &quot;Incorrect
+    Zend engine version&quot; - i tyle. Jak dla mnie pakiet jest nie do uzytku jezeli
+    nie dziala z PHP5. Tak BTW, to nie wiem po co go budujemy dla HEADowego PHPa :)
+- id: 1008
+  author: mrman
+  author_url: ''
+  date: '2005-05-07 14:41:49 +0200'
+  date_gmt: '2005-05-07 14:41:49 +0200'
+  content: "standardowy mmcache nie obsluguje php5, obsluguje go natomiast jego &#039;nastepca&#039;
+    eaccelerator. \n<br/>patrys: napisalem Ci na priva, co powinienes zrobic :)"
+- id: 1009
+  author: Patrys
+  author_url: ''
+  date: '2005-05-07 14:45:03 +0200'
+  date_gmt: '2005-05-07 14:45:03 +0200'
+  content: 'Hawk: O PHP5 na Home.pl możesz raczej zapomnieć.'
+- id: 1010
+  author: mrman
+  author_url: ''
+  date: '2005-05-07 14:46:22 +0200'
+  date_gmt: '2005-05-07 14:46:22 +0200'
+  content: |-
+    Patrys: a mi sie wydawalo ze dziala? wszelkie pliki z rozszerzeniem php5? ;)
+    <br/>http://home.pl/files/phpinfo.php5 ? ;)
+- id: 1011
+  author: mrman
+  author_url: ''
+  date: '2005-05-07 14:48:40 +0200'
+  date_gmt: '2005-05-07 14:48:40 +0200'
+  content: |-
+    no wlasnie. przypomnialo mi sie:
+    <br/>http://home.pl/update :)
+- id: 1012
+  author: mrman
+  author_url: ''
+  date: '2005-05-10 23:07:18 +0200'
+  date_gmt: '2005-05-10 23:07:18 +0200'
+  content: "no i po ostatnie. w mmcache mozesz wylaczyc &quot;optimizer&quot;, zostawiajac
+    &quot;cache&quot;. \n<br/>W pliku php.ini w katalogu glownym konta, umieszczasz\n<br/>mmcache.optimizer=0\n<br/>mmcache.enable=1\n<br/>To
+    powinno pomoc ;)"
+- id: 1013
+  author: Patrys
+  author_url: ''
+  date: '2005-05-10 23:09:29 +0200'
+  date_gmt: '2005-05-10 23:09:29 +0200'
+  content: |-
+    mrman:
+    <br/>
+    <br/>Rozszerzenie .php5 jest dla mnie bezużyteczne, musiałbym cały kod przed skopiowaniem od siebie potraktować sedem.
+    <br/>
+    <br/>W mmCache zablokowane jest wszystko poza encoderem.
+- id: 1014
+  author: Patrys
+  author_url: ''
+  date: '2005-05-10 23:12:18 +0200'
+  date_gmt: '2005-05-10 23:12:18 +0200'
+  content: |-
+    mrman:
+    <br/>
+    <br/>Nie dostałem też żadnego priva, ani na maila ani na jabberze...
+---
+<p>Jeśli ktokolwiek zastanawia się nad używaniem <a href="http://turck-mmcache.sourceforge.net/">Turck mmCache</a>, a przynajmniej jego wersji proponowanej przez <a href="http://home.pl">Home.pl</a>, to niech lepiej zastanowi się jeszcze kilka razy.</p>
+
+<p>Problemy pierwszy raz pojawiły się jakieś pół roku temu, kiedy to przenosiłem serwis <a href="http://teatr-capitol.pl/">Teatru Muzycznego Capitol</a> (ja odpowiadam tam tylko za system ekstranetowy, więc proszę mnie nie posądzać o autorstwo kodu HTML strony) na serwery Home.pl. Zwykle kod PHP szyfrujemy za pomocą <a href="http://www.ioncube.com/">ionCube</a>, Home.pl nie udostępnia ichniego loadera, więc zmuszony byłem użyć wspieranego przez Home, darmowego mmCache.</p>
+
+<p>Z początku wszystko wydawało się działać, problem pojawił się dopiero drugiego dnia, kiedy to ktoś z pracowników Teatru postanowił wygenerować sobie plik PDF z planem zajęć. Skrypt zadyszał ciężko, parsknął błędem i legł w konwulsjach cyfrowego bólu w ostatnich stadiach komputerowej agonii. Innymi słowy, nie działało. Winna okazała się <a href="http://www.ros.co.nz/pdf/">biblioteka obsługi PDF</a>, która działa doskonale, lecz tylko do momentu jej zakodowania przez mmCache.</p>
+
+<p>Skończyło się więc na rozkodowaniu biblioteki, która i tak jest darmowa. Nic wielkiego. Problem powrócił jednak w lutym, kiedy to pisałem kolejne moduły dla Teatru i okazało się, że jakimś cudem encoder mmCache psuje obsługę tablic. Dynamicznie generowana tablica stringów przed zakodowaniem wyglądała tak:</p>
+
+<blockquote><pre>array
+(
+	0 => "lorem",
+	1 => "ipsum",
+	2 => "dolor",
+	3 => "sit",
+	4 => "amet"
+)</pre></blockquote>
+
+<p>Po zakodowaniu zaś:</p>
+
+<blockquote><pre>array
+(
+	0 => array
+	(
+		1 => "lorem"
+	),
+	1 => array
+	(
+		1 => "ipsum"
+	),
+	2 => array
+	(
+		1 => "dolor"
+	),
+	3 => array
+	(
+		1 => "sit"
+	),
+	4 => array
+	(
+		1 => "amet"
+	)
+)</pre></blockquote>
+
+<p>Nie wiem, z czego to wynika, czy błąd leży po stronie mmCache, czy jego konkretnej konfiguracji na serwerach Home.pl. Skończyło się na przepisywaniu części kodu do postaci przewidywalnej w działaniu po potraktowaniu encoderem. Zastanówcie się więc przed używaniem tego wynalazku, tylko pamiętajcie, że ostrzegałem.</p>

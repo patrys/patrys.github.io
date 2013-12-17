@@ -1,0 +1,131 @@
+---
+layout: post
+status: publish
+published: true
+title: Standards versus reality, part 3
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 105
+date: 2005-06-14 00:18:36.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 1275
+  author: Siergiej
+  author_url: ''
+  date: '2005-06-14 01:01:38 +0200'
+  date_gmt: '2005-06-14 01:01:38 +0200'
+  content: Zaznaczmy że w nadchodzącym XHTML2.0 zobaczymy już listy nawigacyjne &lt;nl&gt;
+    stworzone właśnie do tego.
+- id: 1276
+  author: Patrys
+  author_url: ''
+  date: '2005-06-14 01:02:34 +0200'
+  date_gmt: '2005-06-14 01:02:34 +0200'
+  content: Zaznaczmy, że temat to &quot;Standards versus reality&quot;, a w IE wsparcie
+    XHTML 1.x pojawi się za rok najwcześniej.
+- id: 1277
+  author: Siergiej
+  author_url: ''
+  date: '2005-06-14 01:03:41 +0200'
+  date_gmt: '2005-06-14 01:03:41 +0200'
+  content: O standardach w IE dawno przestałem dyskutować:)
+- id: 1278
+  author: eXtreme
+  author_url: ''
+  date: '2005-06-16 14:39:46 +0200'
+  date_gmt: '2005-06-16 14:39:46 +0200'
+  content: 'Ja zamiast &quot;display: inline;&quot; piszę &quot;float: left;&quot;
+    i działa ;]'
+- id: 1279
+  author: MySZ
+  author_url: ''
+  date: '2005-06-18 13:28:25 +0200'
+  date_gmt: '2005-06-18 13:28:25 +0200'
+  content: ale floaty sa znacznie mniej wygodne - nie rozciagaja same z siebie rodzica
+    (chyba ze rodzic tez jest floatem)
+- id: 1280
+  author: Patrys
+  author_url: ''
+  date: '2005-06-18 14:33:30 +0200'
+  date_gmt: '2005-06-18 14:33:30 +0200'
+  content: Pisałem o tym, jak rozciągać rodzica bez floatowania.
+- id: 1281
+  author: MySZ
+  author_url: ''
+  date: '2005-06-19 05:01:10 +0200'
+  date_gmt: '2005-06-19 05:01:10 +0200'
+  content: |-
+    ja wiem jak :) to byla moja odpowiedz na wpis eXtreme, ktory jak dla mnie komentowal uzycie display:inline dla li.
+    <br/>po prostu stwierdzilem, ze floaty sa mniej wygodne od display: inline (tam gdzie tego ostatniego mozna zastosowac)
+---
+<p>List ciąg dalszy.</p>
+
+<p>Niesortowana lista jest najlogiczniejszą metodą na strukturalne przedstawienie menu serwisu, stąd często do kontrukcji nawigacji używa się właśnie odpowiednio ostylowanych <code>&lt;ul/&gt;</code>. Na przykład:</p>
+
+<blockquote><pre>&lt;ul&gt;
+	&lt;li&gt;&lt;a href="lorem"&gt;Lorem&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="ipsum"&gt;Ipsum&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="dolor"&gt;Dolor&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="sit/amet"&gt;Sit amet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</pre></blockquote>
+
+<blockquote><pre>ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+ul li
+{
+	display: block
+	margin: 0;
+	padding: 0;
+}
+ul li a
+{
+	background: #eee;
+	color: #000;
+	display: block;
+	padding: 3px;
+}
+ul li a:hover
+{
+	background: #fff;
+}</pre></blockquote>
+
+<p>Tu pojawia się problem. Firefox (oraz inne pochodne silnika Gecko), Konqueror (i oparte na <code>KHTML</code>) i Opera wyświetlają wszystko prawidłowo. W <abbr title="Internet Explorer">IE</abbr> za to każda pozycja menu ma dodatkowy zapas przestrzeni na dole. Wygląda to tak, jakby na końcu każdego odnośnika wymusić złamanie wiersza. Problem leży w tym, że IE nieprawidłowo interpretuje białe znaki pomiędzy elementami listy. Problem znika (choć kod staje się nieczytelny) po całkowitym usunięciu odstępów pomiędzy elementami <code>&lt;li/&gt;</code>:</p>
+
+<blockquote><pre>&lt;li&gt;...&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;</pre></blockquote>
+
+<p>Inne zastosowanie niesortowanych list to tak zwane <q>okruszki</q> (ang. breadcrumbs), czyli element nawigacji pokazujący bieżącą pozycję w serwisie (choć oryginalnie okruszki służyły pokazaniu historii oglądanych stron serwisu):</p>
+
+<blockquote><pre>&lt;p&gt;Jesteś tutaj:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href="/"&gt;Lorem&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="/oferta/"&gt;Oferta&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="/oferta/czapki/"&gt;Czapki&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Kapelusz słomiany ZX64&lt;/li&gt;
+&lt;/ul&gt;</pre></blockquote>
+
+<blockquote><pre>ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+ul li
+{
+	display: inline;
+	padding: 0 15px 0 0;
+}
+ul li a
+{
+	background: url('bullet.png') no-repeat 100% 50%;
+}</pre></blockquote>
+
+<p>Tutaj objawia się problem IE w wersji 5.0 (poprawiono go w wersji 5.5, ale spora część użytkowników Windows 98 do dziś posiada wersję 5.0) - przeglądarka nie radzi sobie z paddingiem dla elementów wyświetlanych <code>inline</code>. Nie ma na to specjalnie rady, na szczęście przeglądarki te są na tyle marginalne, że na ogół można je pominąć. Jednym z działających obejść tego problemu jest nadanie elementom listy wyświetlania <code>block</code>, a następnie floatowanie ich do lewej strony, posiłkując się marginesami dla uzyskania odstępu.</p>

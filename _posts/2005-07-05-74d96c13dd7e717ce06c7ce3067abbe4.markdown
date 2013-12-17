@@ -1,0 +1,89 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #013: Lato, czas miłości'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 123
+date: 2005-07-05 23:03:34.000000000 +02:00
+categories:
+- comic
+tags: []
+comments:
+- id: 1570
+  author: Jezuch
+  author_url: ''
+  date: '2005-07-05 23:04:44 +0200'
+  date_gmt: '2005-07-05 23:04:44 +0200'
+  content: A co ona ma taki mało seksowny monitor?
+- id: 1571
+  author: iniside
+  author_url: ''
+  date: '2005-07-06 00:17:38 +0200'
+  date_gmt: '2005-07-06 00:17:38 +0200'
+  content: A dlaczegon ona nie ma LCD ? ;)
+- id: 1572
+  author: Patrys
+  author_url: ''
+  date: '2005-07-06 00:19:50 +0200'
+  date_gmt: '2005-07-06 00:19:50 +0200'
+  content: Bo ma komputer czteroletni.
+- id: 1573
+  author: 15katarzynek
+  author_url: ''
+  date: '2005-07-06 00:38:48 +0200'
+  date_gmt: '2005-07-06 00:38:48 +0200'
+  content: ochotę miała,ale się bała  :)
+- id: 1574
+  author: riddle
+  author_url: ''
+  date: '2005-07-06 01:34:01 +0200'
+  date_gmt: '2005-07-06 01:34:01 +0200'
+  content: |-
+    She frickin&#039; blocked me:
+    <br/>http://www.sinn-los.de/blockedme.html
+- id: 1575
+  author: rorio
+  author_url: ''
+  date: '2005-07-06 08:20:06 +0200'
+  date_gmt: '2005-07-06 08:20:06 +0200'
+  content: Zamiast tego kanciaka fajnie by tam jakaś szarlotka  pasowała....
+- id: 1576
+  author: Tomash
+  author_url: ''
+  date: '2005-07-06 10:20:39 +0200'
+  date_gmt: '2005-07-06 10:20:39 +0200'
+  content: 'Riddle: nieźle, przeczytanie w Twoim poście tytułu od razu nasunęło mi
+    skojarzenia z &quot;She fuckin&#039; hates me&quot; Puddle of Mudd i... bingo
+    :).'
+- id: 1577
+  author: Bad Kitty
+  author_url: ''
+  date: '2005-07-06 19:58:39 +0200'
+  date_gmt: '2005-07-06 19:58:39 +0200'
+  content: funny one darlin&#039;, funny... ide chyba w takim razie na bro
+- id: 1578
+  author: buggy
+  author_url: ''
+  date: '2005-07-09 12:50:07 +0200'
+  date_gmt: '2005-07-09 12:50:07 +0200'
+  content: rotfl :P jakbym siebie widziala ;)
+- id: 1579
+  author: cosmoz
+  author_url: ''
+  date: '2005-07-09 20:32:06 +0200'
+  date_gmt: '2005-07-09 20:32:06 +0200'
+  content: szklaneczka wody zamiast? ;D
+- id: 1580
+  author: Bad Kitty Meaaaaaaaaaaaaaw!
+  author_url: ''
+  date: '2005-07-10 16:09:19 +0200'
+  date_gmt: '2005-07-10 16:09:19 +0200'
+  content: grrrrrrrrrrrrrrrrrr...................
+---
+<p>Wiosna, lato, gorąco, duszno, podniesiona temperatura sprzyja buzowaniu hormonów. Rodzą się... wyższe uczucia... czy jakoś tak.</p>
+
+<p class="strip"><img src="http://comic.room-303.com/strips/013-summer.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks"/></p>

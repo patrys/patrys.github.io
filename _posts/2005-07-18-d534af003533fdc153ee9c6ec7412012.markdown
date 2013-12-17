@@ -1,0 +1,256 @@
+---
+layout: post
+status: publish
+published: true
+title: Rzecz o drukowaniu stron
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 132
+date: 2005-07-18 20:18:26.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 1818
+  author: ehh
+  author_url: ''
+  date: '2005-07-18 20:21:35 +0200'
+  date_gmt: '2005-07-18 20:21:35 +0200'
+  content: Dobre rozwiązanie, ale pierw muszę do końca przejść na xhtml i więcej class
+    używać...
+- id: 1819
+  author: Puck
+  author_url: ''
+  date: '2005-07-18 20:22:35 +0200'
+  date_gmt: '2005-07-18 20:22:35 +0200'
+  content: Czy nasza ulubiona przeglądarka obsługuje tą funkcję? Kiedyś tak zrobilem
+    i miałem wrażenie, ze niebardzo.
+- id: 1820
+  author: Patrys
+  author_url: ''
+  date: '2005-07-18 20:43:11 +0200'
+  date_gmt: '2005-07-18 20:43:11 +0200'
+  content: |-
+    Puck:
+    <br/>
+    <br/>Działa bez problemu.
+- id: 1821
+  author: m
+  author_url: ''
+  date: '2005-07-18 21:01:31 +0200'
+  date_gmt: '2005-07-18 21:01:31 +0200'
+  content: 'Troche przy okazji: warto zainteresowac sie niezle rozbudowanymi systemami
+    do prezentacji tresci, jak Apache Cocoon, czy Lenya - bazujacy na Cocoonie CMS.
+    Serializacja do roznych formatow jest tam bardzo ladnie wbudowana architektonicznie
+    i, o dziwo, nawet kilka wiekszych sajtow w kraju na tym chodzi. Chocby (kryptoreklama)
+    e-informatyka.pl ;). No i mocarne to, bo w srodku XML i XSL (co implikuje tez,
+    ze na domowej maszynce takiego sajtu stawiac nie warto). '
+- id: 1822
+  author: Patrys
+  author_url: ''
+  date: '2005-07-18 21:04:42 +0200'
+  date_gmt: '2005-07-18 21:04:42 +0200'
+  content: Nie widzę związku poza reklamą sajtu... Nie wiem też, jak masię używanie
+    XSL do stawiania tego na domowej maszynce, bo ja nie mam problemów z przetwarzaniem
+    XSL ma swoim notebooku.
+- id: 1823
+  author: Patrys
+  author_url: ''
+  date: '2005-07-18 21:08:51 +0200'
+  date_gmt: '2005-07-18 21:08:51 +0200'
+  content: Hmm, ani ten sajt się nie waliduje, ani nie używa styli wydruku. Pogubiłem
+    się zupełnie.
+- id: 1824
+  author: zdzichuBG
+  author_url: ''
+  date: '2005-07-18 21:25:44 +0200'
+  date_gmt: '2005-07-18 21:25:44 +0200'
+  content: |-
+    Nie ma nic bardziej irytujące niż strona, która na wydruku znienacka wygląda inaczej. W końcu po coś termin WYSIWYG został ukuty.
+    <br/>A w przypadku takiej ,,mądrej&#039;&#039; strony pozostaje tylko drukowanie screenshotów.
+    <br/>Znowu narzekam :(
+- id: 1825
+  author: Patrys
+  author_url: ''
+  date: '2005-07-18 21:26:57 +0200'
+  date_gmt: '2005-07-18 21:26:57 +0200'
+  content: |-
+    zdzichuBG:
+    <br/>
+    <br/>A czemu miałbyś chcieć drukować obrazek tła z jakiejś strony albo menu, które jest bezużyteczne, kiedy znajdzie się na kartce?
+- id: 1826
+  author: zdzichuBG
+  author_url: ''
+  date: '2005-07-18 21:28:25 +0200'
+  date_gmt: '2005-07-18 21:28:25 +0200'
+  content: "Właśnie po to, żeby mieć stronę tak jak w przeglądarce. Np. pokazać komuś.
+    \n<br/>Do selektywnego drukowania zawartości strony posiadam supermoce kopiuj-wklej."
+- id: 1827
+  author: Patrys
+  author_url: ''
+  date: '2005-07-18 21:29:55 +0200'
+  date_gmt: '2005-07-18 21:29:55 +0200'
+  content: Ja przecież mówię o stronach informacyjnych, a nie o portfolio grafika.
+    Pomijam fakt, że drukując stronę z zachowaniem jej szerokości z ekranu tracisz
+    kupę miejsca na kartce, albo - co gorsze - ucinasz sobie fragment tekstu.
+- id: 1828
+  author: m
+  author_url: ''
+  date: '2005-07-18 21:29:57 +0200'
+  date_gmt: '2005-07-18 21:29:57 +0200'
+  content: |-
+    Patrys, no luzuj - sajt jest masakrycznie noukomers: nie o promocje (ta Twoja wrodzona skromnosc;), ale o przyklad chodzilo, bo to naprawde technologiczne rodzynki. To, co przemawia do mnie, gdy ktos decyduje sie na Cocoona, to mozliwosc poteznego przetwarzania danych, ktora jest rdzeniem tego systemu, no i wlasnie latwosc podlaczania roznych serializatorow, np. fop do pdf. Tam sie to naprawde pysznie i elegancko robi. Pisales o zmianie formatowania html za pomoca podmieniania styli, to mi sie z ta serializacja do pdf skojarzylo, bo troche przy tym siedzialem.
+    <br/>
+    <br/>A XSL... no wiesz, pojedyncze transformatki tez u mnie smigaja, ale odpal no na swoim komputerze serwer aplikacyjny, zapusc wieksza aplikacyje na Cocoonie (DocBook, ktory mozna wykorzystac do trzymania bardziej rozbudowanego contentu w xml, to ponad 1 MB xsl w zipie), zrob ze 100 requestow jakism toolem do testowania obciazenia i mozesz spokojnie isc do kibla, zeby po powrocie przeczytac piekny stacktrace :). Malo mocy, malo mocy... Wszystkie wieksze sajty trzeba klastrowac, bo bida.
+- id: 1829
+  author: Patrys
+  author_url: ''
+  date: '2005-07-18 21:33:36 +0200'
+  date_gmt: '2005-07-18 21:33:36 +0200'
+  content: |-
+    DocBook akurat śmiga u mnie :]
+    <br/>
+    <br/>Dalej twierdzę, że to jest zupełny offtopic. A XSL tak samo łatwo podłącza się do dowolnego silnika, który dane w bazie trzyma w XML albo Textile.
+- id: 1830
+  author: m
+  author_url: ''
+  date: '2005-07-18 21:42:18 +0200'
+  date_gmt: '2005-07-18 21:42:18 +0200'
+  content: "@Patrys: ze sie nie waliduje to ju nou, zupelnie nie moja brocha - swoja
+    droga dzieki, bo siara. Podmiana styli jest bodajze przy wyswietlaniu artykulow
+    z czasopism.\n<br/>\n<br/>Offtopic jest bezdyskusyjnie, wiec i napisalem, ze uwaga
+    jest &quot;przy okazji&quot;. Nadal malo ludzi zna te technologie, a warte sa
+    chocby tego poznania. I takie bylo moje pierwsze skojarzenie, bo webdeveloper
+    w ujeciu html/css ze mnie zaden :).\n<br/>\n<br/>Odnosnie DocBooka: nie chcialbym
+    zaglebiac sie w mocno techniczne kwestie, ale serializacja rozbudowanego DocBookowego
+    dokumentu pomnozona przez zacna liczbe requestow (pojedynczo to wiesz - na maszynach
+    developerskich smiga) robi kuku Sun Fire. "
+- id: 1831
+  author: Patrys
+  author_url: ''
+  date: '2005-07-18 21:44:18 +0200'
+  date_gmt: '2005-07-18 21:44:18 +0200'
+  content: |-
+    Ja nie odpalam portali na miarę nieszczęsnego Onetu na domowym komputerze. Do obsługiwanego ruchu spokojnie wystarcza :)
+    <br/>
+    <br/>EOT, jak coś chcesz więcej to na jabbera zapraszam, JID jest na górze strony.
+- id: 1832
+  author: m
+  author_url: ''
+  date: '2005-07-18 21:56:46 +0200'
+  date_gmt: '2005-07-18 21:56:46 +0200'
+  content: No EOT, moze ktos akurat sie zainteresuje i poprzeglada, co dla web@Java
+    robi ASF. Dzieki za wymiane zdan.
+- id: 1833
+  author: Patrys
+  author_url: ''
+  date: '2005-07-18 21:57:41 +0200'
+  date_gmt: '2005-07-18 21:57:41 +0200'
+  content: Ja cie nie wyganiam, tylko wolalbym prowadzic dyskusje przez komunikatory
+    niz na blogu ;]
+- id: 1834
+  author: m
+  author_url: ''
+  date: '2005-07-18 22:00:22 +0200'
+  date_gmt: '2005-07-18 22:00:22 +0200'
+  content: ;)
+- id: 1835
+  author: rzyjontko
+  author_url: ''
+  date: '2005-07-18 22:03:00 +0200'
+  date_gmt: '2005-07-18 22:03:00 +0200'
+  content: |-
+    Skoro i tak już poszło w offtopic, to ja pozwolę sobie skrytykować zawartość portalu e-informatyka, który (tylko pobieżnie przejrzałem, więc może się mylę) służy pracownikom PWr. możliwości produkowania wątpliwej jakości &quot;publikacji naukowych&quot; (które, jak każdy wie są potrzebne pracownikom uczelni do otrzymywania kolejnych tytułów oraz władzom uczelni w wykazywaniu, że zajmują się badaniami naukowymi).
+    <br/>
+    <br/>Software Engineering Society?  WTF?  To ma być konkurencja dla ACM SIGSOFT, albo IEEE Computer?  Wybaczcie, ale pracę magisterską piszę z Software Engineering (http://www.st.cs.uni-sb.de) i się zbulwersowałem.  Brak umiejętności, żeby zgłosić publikację na ICSE albo ESEC/FSE?  Wstyd i żenada!
+- id: 1836
+  author: m
+  author_url: ''
+  date: '2005-07-18 22:13:42 +0200'
+  date_gmt: '2005-07-18 22:13:42 +0200'
+  content: |-
+    @rzyjontko: niewyspany? :)
+    <br/>
+    <br/>No wiec:
+    <br/>- ten portal nie sluzy pracownikom PWr (moglbys wskazac te watpliwej jakosci prace naukowe pochodzace akurat z PWr?), a same publikacje elektroniczne nie maja numerow ISSN/ISBN, ani tez nie sa uznawane przez KBN,
+    <br/>
+    <br/>- Software Engineering Society to kolo naukowe, takie wiesz - studenckie, akademickie, bez funduszy. Akurat obaj dobrze wiemy, ile kosztuje udzial w konferencji, gdzie proceedingsy publikowane sa w IEEE Computer Society Press. Akurat ludzie z tego srodowiska to zdecydowanie nie obiboki, wiec nie pekaj - chodzi raczej o stymulacje naukowa mlodszych studentow,
+    <br/>
+    <br/>- nie wiem, skad to podniecenie publikacjami w IEEE SC: akurat w tym wydawnictwie kilku studentow ma juz publikacje i powod do dumy to sredni, bo nikt do pisania do poduszki czy na krajowe konferencje sie nie ogranicza,
+    <br/>
+    <br/>- wiecej wiesz... luzu, bo w babilonie pokoj.
+    <br/>
+    <br/>
+- id: 1837
+  author: rzyjontko
+  author_url: ''
+  date: '2005-07-18 22:18:51 +0200'
+  date_gmt: '2005-07-18 22:18:51 +0200'
+  content: |-
+    Scientific Papers of the Institute of Applied Informatics of Wroclaw University of Technology, Series: Software Engineering to Twoim zdaniem publikacje studentów?
+    <br/>
+    <br/>An international journal that focuses on theoretical and practical issues pertaining development of software systems to jak rozumiem gazetka studencka?
+    <br/>
+    <br/>Ale faktycznie, niepotrzebnie się unoszę.  Niech sobie każdy robi, co mu się podoba i jak mu się podoba.
+- id: 1838
+  author: m
+  author_url: ''
+  date: '2005-07-18 22:37:10 +0200'
+  date_gmt: '2005-07-18 22:37:10 +0200'
+  content: |-
+    @rzyjontko: jakbys mial nizsze cisnienie krwi to na pewno doczytalbys do konca - &quot;SPSE aims at providing a platform for *young researchers*, scientists and practitioners to present their work within software engineering area.&quot; - tak, to sa (maja byc) publikacje przede wszystkim studentow i doktorantow. Naprawde, wyluzuj, znam pelno ludzi z Uni, bardzo lubie Wasza uczelnie zreszta i nie ma potrzeby doszukiwac sie brudnych podtekstow - nie znajdziesz ich. Z inzynierii oprogramowania robimy sporo ciekawych rzeczy - praktyczne eksperymenty badajace skutecznosc praktyk metodyk agile, rozwijana jest tez bardzo rozbudowana platforma do kontroli jakosci kodu w przeplywie implementacji na podstawie metryk zbieranych podczas buildow z ciaglej integracji. Co wiecej, wdrazamy to w roznych firmach. Moglbys wskazac cos rownie praktycznego z punktu widzenia przemyslowego wytwarzania oprogramowania ze swojego podworka? No dajmy spokoj.
+    <br/>
+    <br/>Spij dobrze. A jak jestes nadal w Niemczech to pozdrow Elsindela :)
+- id: 1839
+  author: wyzimir
+  author_url: ''
+  date: '2005-07-18 23:11:52 +0200'
+  date_gmt: '2005-07-18 23:11:52 +0200'
+  content: Daje podgląd wydruku strony http://pld-linux.org/ w FF i co widzę? Linki
+    nachodzą na tekst w tej samej linii...
+- id: 1840
+  author: cinnamon
+  author_url: ''
+  date: '2005-07-19 17:17:01 +0200'
+  date_gmt: '2005-07-19 17:17:01 +0200'
+  content: |-
+    wyzymir &gt;&gt; żartujesz ;-) u mnie wszystko gra.
+    <br/>Kolejny ciekawy artykuł :-)
+- id: 1841
+  author: PawelS
+  author_url: ''
+  date: '2005-07-19 18:22:27 +0200'
+  date_gmt: '2005-07-19 18:22:27 +0200'
+  content: |-
+    Bardzo przydatne, jeśli się posiada np.: portfolio, cv na stronie :D
+    <br/>
+    <br/>Odpisując na jakaś oferte pracy, łatwiej jest podać link, niż szukać jakiegoś *.doc-a, który często w Open Office wygląda zupełnie inaczej, niż w Word-zie. Z pomocą przychodzi format *.rtf (ale też ma on kilka wad), albo *.pdf, ale jakaś Sekretarka nie wie czym to ostatnie otworzyć, bo na swoim komputerze ma tylko XP i Office-a :/
+    <br/>Zresztą dobrze wykonana strona z takim bajerem lepiej świadczy o umiejętnościach pracownika, niż ładnie wyglądające CV w Word-zie.
+---
+<p>Serwisy typowo informacyjne, jak internetowe magazyny, duże portale czy sieciowe instrukcje obsługi są najczęściej drukowanymi stronami. Powinny oferować możliwość wydruku w wygodnej dla użytkownika formie, co oznacza, że powinny mieścić się w szerokości kartki i powiny marnować kartek jak najmniej. Stąd wszechobecne linki <q>wersja do wydruku</q> na wspomnianych sajtach.</p>
+
+<p>Z drugiej strony, nie ma nic bardziej irytującego niż trafienie z Googli na taką właśnie <q>stronę do wydruku</q>, pozbawioną jakiejkolwiek nawigacji czy chociażby odnośnika do oryginału. Kontynuacja lektury czy poszukiwanie dalszych informacji stają się niemożliwe.</p>
+
+<p>Również samo poszukiwanie przycisku odpowiadającego za wersję do wydruku jest często niewygodne, zwłaszcza, że webdesignerzy nagminnie wykazują się niezwykłą intuicją jeśli chodzi o dostępność i umieszczenie tej opcji.</p>
+
+<p>Co by było, gdyby zupełnie z niej zrezygnować? Niewiele osób zdaje sobie z tego sprawę, ale jest to całkiem realne i niezwykle proste do realizacji. Wystarczy przygotować dodatkowy arkusz <abbr title="Cascading Style Sheets">CSS</abbr> i nadać mu odpowiedni atrybut <code>media</code>.</p>
+
+<p>Można zrobić to na dwa sposoby. Pierwszy polega na podaniu atrybutu w elemencie <code>&lt;link/&gt;</code> już na etapie importu arkusza <abbr>CSS</abbr>:</p>
+
+<blockquote><pre>&lt;link rel="stylesheet" type="text/css"
+	href="print.css" media="print" /&gt;</pre></blockquote>
+
+<p>Metoda ta ma tę zaletę, że wyraźnie rozdziela style przeznaczone do wydruku od tych przeznaczonych dla innych <a href="http://www.w3.org/TR/REC-CSS2/media.html#media-types">typów mediów</a>. Druga metoda polega na zamknięciu reguł arkusza <abbr>CSS</abbr> przeznaczonych dla danego typu mediów w opisany blok:</p>
+
+<blockquote><pre>@media print
+{
+	/* tutaj reguly CSS */
+}</pre></blockquote>
+
+<p>Regułki specyficzne dla medium wydruku powinny ukryć zbędne elementy nawigacyjne i nieistotne dekoracje graficzne, jak bannery czy grafiki tła. Tutaj potęgę swą pokazują layouty zbudowane w oparciu o czysty <abbr title="(Extensible) HyperText Markup Language">(X)HTML</abbr>, gdzie sterowanie układem strony jest znacznie wygodniejsze niż w przypadku układów tabelkowych.</p>
+
+<p>Jeśli boisz się, że użytkownicy nadal będą szukać wersji <q>drukowalnej</q>, to zawsze możesz umieścić w serwisie dodatkowy (niezależny od arkusza dla wydruku) link wywołujący tę samą stronę ze zmienionym arkuszem ekranowym (media <em>screen</em>) <abbr>CSS</abbr>, a ponad to podłączyć odpowiednią akcję <abbr title="JavaScript">JS</abbr>, co pozwoli na przełączanie arkuszy w locie (i tym samym zaoszczędzi użytkownikom pobierania plików). Jakąkolwiek wersję wybierzesz, zaoszczędzi to masę kodu po stronie serwera i zwiększy użyteczność strony.</p>
+
+<p>Przykład tak skonstruowanego serwisu można oglądać na <a href="http://pld-linux.org/">oficjalnej stronie PLD</a>.</p>

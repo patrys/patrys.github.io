@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: Planet PLD i FTP Traffic
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 175
+date: 2005-11-08 19:44:22.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 2413
+  author: pbm
+  author_url: ''
+  date: '2005-11-08 20:32:59 +0100'
+  date_gmt: '2005-11-08 20:32:59 +0100'
+  content: Chyba zapomniales o title w abbr w GUID...
+- id: 2414
+  author: pbm
+  author_url: ''
+  date: '2005-11-08 20:33:44 +0100'
+  date_gmt: '2005-11-08 20:33:44 +0100'
+  content: O juz jest...
+- id: 2415
+  author: Patrys
+  author_url: ''
+  date: '2005-11-08 20:34:10 +0100'
+  date_gmt: '2005-11-08 20:34:10 +0100'
+  content: Za późno, bo już dopisałem w międzyczasie :&gt;
+---
+<p>Wszystkich czytelników <a href="http://planet.pld-linux.org/">Planety <abbr title="PLD Linux Distribution">PLD</abbr></a> przepraszam za chwilowy burdel, jaki powstał dziś na planecie - poprawiłem wszystkie błędy w składni generowanego <abbr title="Really Simple Syndication">RSS</abbr> i Planeta wciągnęła wpisy jako zmienione (zmieniły się <abbr title="Globally Unique Identifier">GUID</abbr>). Nie powinno się powtórzyć w przyszłości.</p>

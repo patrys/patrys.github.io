@@ -1,0 +1,36 @@
+---
+layout: post
+status: publish
+published: true
+title: Lekka nuta dekadencji, czyli Oldschool Kubrick theme dla Joggera
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 118
+date: 2005-06-29 20:59:29.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1521
+  author: zenon
+  author_url: ''
+  date: '2005-06-30 00:29:08 +0200'
+  date_gmt: '2005-06-30 00:29:08 +0200'
+  content: I o to chodzi - bomba!
+- id: 1522
+  author: DeeJay1
+  author_url: ''
+  date: '2005-06-30 20:07:46 +0200'
+  date_gmt: '2005-06-30 20:07:46 +0200'
+  content: |-
+    Mmm niezły :)
+    <br/>A teraz możesz zająć się szablonem dla planety :P
+    <br/>BP, PPNMSP
+---
+<p>Kolejny szablon, tym razem starsza wersja Kubricka, wykonana bez użycia grafik. Testować na żywo można na <a href="http://patrys-dev.jogger.pl/">blogu tymczasowym</a> (a uprzedzałem, że często się zmienia).</p>
+
+<p>Do pobrania <a href="http://wirusy.room-303.com/Jogger/OldschoolKubrick/">z mojego serwera</a>, tam też znajduje się <a href="http://wirusy.room-303.com/Jogger/OldschoolKubrick/OldschoolKubrick.png">zrzut ekranu</a> prezentujący szablon w działaniu.</p>
+
+<p>Przy okazji dodałem brakujące zrzuty ekranów do <a href="http://patrys.jogger.pl/comment.php?eid=128262">pozostałych szablonów</a>.</p>

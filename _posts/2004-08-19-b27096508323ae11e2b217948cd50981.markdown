@@ -1,0 +1,80 @@
+---
+layout: post
+status: publish
+published: true
+title: Lojalność nie popłaca
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 40
+date: 2004-08-19 12:31:57.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 207
+  author: Qwiat (MójWspółpracownik)
+  author_url: ''
+  date: '2004-08-19 12:50:15 +0200'
+  date_gmt: '2004-08-19 12:50:15 +0200'
+  content: Nie można pominąć reakcji naszego BezpośredniegoPrzełozonego™ na twoją
+    uwagę o konieczności podpisania umowy. Zdaje się że odpowiedział &quot;nie mam
+    czasu, ty ich załatwiłeś, powiedz niech spierdalają&quot;. Hmm... jak to było?
+    &quot;klient ma zawsze rację&quot;? :)
+- id: 208
+  author: remiq
+  author_url: ''
+  date: '2004-08-19 13:09:33 +0200'
+  date_gmt: '2004-08-19 13:09:33 +0200'
+  content: |-
+    &gt; &quot;nie mam czasu, ty ich załatwiłeś, powiedz niech spierdalają&quot;
+    <br/>yyyy, napiszesz kiedyś jaka to firma? Nie chcę tam pracować kiedykolwiek.
+- id: 209
+  author: Emboss
+  author_url: ''
+  date: '2004-08-19 13:13:49 +0200'
+  date_gmt: '2004-08-19 13:13:49 +0200'
+  content: ale hamy napisz nazwe tej firmy
+- id: 210
+  author: torero
+  author_url: ''
+  date: '2004-08-19 13:21:21 +0200'
+  date_gmt: '2004-08-19 13:21:21 +0200'
+  content: Na temat lojalności mam własną, jakże prywatną teorię... lojalność należy
+    okazywać, ale tylko tym, którzy umieją to docenić [i nie piszę tutaj wyłącznie
+    o gratyfikacji finansowej, ale również o prozaicznym nierobieniu z kogoś wała].
+- id: 211
+  author: Express
+  author_url: ''
+  date: '2004-08-19 15:00:08 +0200'
+  date_gmt: '2004-08-19 15:00:08 +0200'
+  content: |-
+    Serce się kraje. Z jednej strony - dla zdrowia powinieneś stamtąd spadać ,ale z drugiej - ta strona upadnie...
+    <br/>Może kiedyś opiszę parę historyjek z pracy Mojej Dziewczyny, ale to bardziej straszne, niż śmieszne, a ona tam jeszcze pracuje...
+- id: 212
+  author: julia
+  author_url: ''
+  date: '2004-09-03 22:03:36 +0200'
+  date_gmt: '2004-09-03 22:03:36 +0200'
+  content: 'Tak czytam i sie zastanawiam- czy Ty(Pan) taki twardy jeste(s), czy ja
+    naprawde zyje pod kloszem? A jesli tak (jedno z dwojga;), to  bron mnie boziu
+    przed ta dzungla odpowiedzialnego zycia '
+- id: 213
+  author: MALUTKA
+  author_url: ''
+  date: '2005-03-14 15:59:31 +0100'
+  date_gmt: '2005-03-14 15:59:31 +0100'
+  content: Praca git Serio jesteście wszyscy Bardzo mądży i inteligentni Oby tzk dalej
+    Kochani Papatki &lt;lol&gt;
+---
+Początek czerwca, jedno z centrów handlowych zgłosiło się do mnie z pytaniem, czy jestem w stanie przygotować dla nich profesjonalny serwis internetowy. Prywatnie. Odpowiedziałem, że bardzo chętnie, niestety praca pochłania zbyt wiele z mojego, i tak mocno ograniczonego, czasu. Dlatego zaproponowałem klientowi podpisanie umowy z moim pracodawcą, wtedy będę w stanie zbudować wspomnianą stronę w ramach moich obowiązków i w godzinach pracy. Błąd.<br />
+<br />
+Doszło do kilku spotkań, m.in. z wynajętym przez klienta architektem z biura projektowego, który odpowiadał za spójność designu z oprawą graficzną budynku i firmową kolorystyką. Uzgodniliśmy, że muszę wykonać około 12 zdjęć w konkretnych ujęciach, przygotować logo, oprawę graficzną strony, a następnie połączyć wszystko w całość i udekorować dostarczonymi tekstami. Około tygodnia pracy. Niestety, SamPrezes&trade; postanowił nie przeznaczać dodatkowego czasu na obsługę nowego klienta. Termin oddania projektu się zbiżał, a ja nie miałem na jego wykonanie nawet godziny czasu. Jako, że osobiście uzgadniałem wszystkie szczegóły i nie chciałem zniszczyć wizerunku PewnejFirmy&trade;, systematycznie pracowałem po godzinach, wracając do domu w okolicach północy. W końcu klient jest ważny i musi być zadowolony.<br />
+<br />
+Projekt został przeze mnie dostarczony na czas, klient zgłosił listę poprawek, które zostały naniesione tak szybko, jak było to możliwe. Oczywiście poza godzinami pracy, które nie przewidują wykonywania dochodowych dla firmy działań. Wszystko zostało dogadane do końca, strona uzyskała akceptację, a ja przygotowałem kosztorys. Ten ostatni wraz z niezbędną dokumentacją dostarczyłem zarządowi PewnejFirmy&trade;. Wydawałoby się, że wszystko zostało zapięte na ostatni guzik. Wystarczyło już tylko umówić spotkanie zarządów obu firm i podpisać umowę na wykonanie strony i umowę hostingową. Wystarczyło.<br />
+<br />
+Minęły ponad dwa miesiące, wczoraj prezes owego centrum handlowego zadzwonił do mnie i poprosił o spotkanie. Zadziwił ich profesjonalizm w podejściu do klienta ze strony naszej firmy. Strona jest gotowa, hosting jest utrzymywany i w dodatku nic nie trzeba płacić. Do dziś nikt nie podpisał z nimi umowy. O umowie przypominałem w tygodniowych odstępach czasu, niestety, najwyraźniej nikt nie był zainteresowany jej podpisaniem, w związku z czym właśnie dziś straciliśmy klienta. Grzecznie poproszono nas o wystawienie faktury za wykonanie strony, udostępnienie kodu źródłowego i, tym samym, zakończenie tej jakże owocnej współpracy.<br />
+<br />
+Morał: mądry Polak po szkodzie. Miałem możliwość zarobić około 700 złotych. W końcu i tak pracowałem poza godzinami pracy. Koniec końców klienta nie ma, a ja nie dostanę ani złotówki prowizji z tytułu jego znalezienia. Następnym razem stronę wykonam prywatnie, a jako firmę hostingową polecę kogoś z konkurencji. Może wynegocjuję chociaż parę procent prowizji z tego tytułu. Lojalność wobec firmy nie popłaca.

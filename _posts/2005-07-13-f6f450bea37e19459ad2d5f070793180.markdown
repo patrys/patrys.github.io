@@ -1,0 +1,156 @@
+---
+layout: post
+status: publish
+published: true
+title: Użyteczne formularze
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 130
+date: 2005-07-13 22:30:57.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 1784
+  author: riddle
+  author_url: ''
+  date: '2005-07-13 23:49:10 +0200'
+  date_gmt: '2005-07-13 23:49:10 +0200'
+  content: |-
+    &quot;Osoby starsze bardzo pozytywnie reagują na mały zabieg&quot; - wtf? :) Mam 19 lat i _kocham_ takie wyróżnienie.. pomaga _bardzo_.
+    <br/>
+    <br/>A tak poza tym to artykuł świetny. Byłby dla mnie odkryciem różnych fajnych rzeczy, gdyby nie art bhanga na NoFrontiers, przeczytany kiedys (choc tam troszke bledow bylo).
+    <br/>
+    <br/>Dzieki jeszcze raz :) - zwlaszcza za przyklady ze skryptami JS.
+- id: 1785
+  author: Jajcus
+  author_url: ''
+  date: '2005-07-14 08:50:37 +0200'
+  date_gmt: '2005-07-14 08:50:37 +0200'
+  content: Co do skryptów JS, to zapomniałeś napisać (dla Ciebie pewnie to oczywiste,
+    ale nie dla każdego), że formularz powinien być używalny także przy wyłączonym
+    JS. Nieźle muszę kombinować ze zmianą konfiguracji pewnych modemów (zarządzanych
+    przez WWW) z konsoli tekstowej, bo przycisk &quot;Send&quot; jest tam włączany
+    przez skrypt pod przyciskiem &quot;Verify&quot;... Swoją drogą, interfejsy WWW
+    do zarządzania sprzętem sieciowym zwykle są idealnymi przykładami jak nie robić
+    interfejsów użytkownika i w jaki sposób  nie należy używać JS ;-)
+- id: 1786
+  author: Patrys
+  author_url: ''
+  date: '2005-07-14 08:52:20 +0200'
+  date_gmt: '2005-07-14 08:52:20 +0200'
+  content: |-
+    Jajcuś:
+    <br/>
+    <br/>U mnie w przykładzie jest zwykły formularz z pełną funkcjonalnością. Skrypty JS podłączają się do niego same, więc jeśli ktoś nie ma JS to form będzie mu działał jak zwykły form ;]
+- id: 1787
+  author: Jajcus
+  author_url: ''
+  date: '2005-07-14 08:56:17 +0200'
+  date_gmt: '2005-07-14 08:56:17 +0200'
+  content: |-
+    Patrys: ja to wiedziałem, nawet nie oglądając tych przykładów. ;-)
+    <br/>Ale zapewniam Cię, że znalazło by się wielu, co by uznało, że skoro taki Patrys napisał („gdzieś w sieci było napisane”), że JS w formularzach to dobra rzecz, to jak ktoś może się potem czepiać, że JS jest wymagany przez jakiś formularz...
+- id: 1788
+  author: Puck
+  author_url: ''
+  date: '2005-07-14 09:46:46 +0200'
+  date_gmt: '2005-07-14 09:46:46 +0200'
+  content: |-
+    Żaden z przykładów nie działa w Operze. Nie wiem czy testowałeś, może to po prostu wina tego, że korzystam z wersji beta (czyt: 8.02), a innej nie mam pod ręką.
+    <br/>Konsola JavaScriptu nie pokazuje błedów.
+- id: 1789
+  author: Patrys
+  author_url: ''
+  date: '2005-07-14 11:35:19 +0200'
+  date_gmt: '2005-07-14 11:35:19 +0200'
+  content: Fakt, nie testowałem pod Operą, ale to prawdopodobnie błąd w addEvent()
+    jakiś - przykład jest żywcem wycięty z systemu CMS, nad którym pracujemy i tam
+    wszystko działa w Operze.
+- id: 1790
+  author: Taeril
+  author_url: ''
+  date: '2005-07-14 16:17:36 +0200'
+  date_gmt: '2005-07-14 16:17:36 +0200'
+  content: Na drugiej stronie demonstracyjnej jest denerwujący zabieg jak nie ma się
+    JS, bo trzeba ręcznie te podpowiedzi wymazywać. Można by się może pokusić o większy
+    skrypt, który weźmie opisy do tych pól z dokumentu, wstawi je do pola &lt;input&gt;
+    i ukryje orginał. Wtedy bez JS byłyby nieinwazyjne opisy :) Tylko czy warte aż
+    tyle zachodu?
+- id: 1791
+  author: Patrys
+  author_url: ''
+  date: '2005-07-14 16:49:51 +0200'
+  date_gmt: '2005-07-14 16:49:51 +0200'
+  content: Ale te opisy wstawia sam JS, więc jeśli go nie masz włączonego, to się
+    nie pojawią wcale.
+- id: 1792
+  author: Taeril
+  author_url: ''
+  date: '2005-07-14 16:52:23 +0200'
+  date_gmt: '2005-07-14 16:52:23 +0200'
+  content: A racja... nie wiem czemu mi Fx zostawił teksty po wyłączenu JS i przeładowaniu...
+    zwracam honor :)
+- id: 1793
+  author: MySZ
+  author_url: ''
+  date: '2005-07-15 05:59:06 +0200'
+  date_gmt: '2005-07-15 05:59:06 +0200'
+  content: '@Taeril: moze dlatego, ze firefox nigdy nie czysci tego co masz w polachformularza
+    po relaodzie, chyba ze mu kazesz za pomoca ctrl+shift+r'
+- id: 1794
+  author: Elsindel
+  author_url: ''
+  date: '2005-07-16 10:52:43 +0200'
+  date_gmt: '2005-07-16 10:52:43 +0200'
+  content: |-
+    Patrys - skad wiadomo, ze internauci nie wiedza, jak korzystac z komponentu &lt;select&gt; z wieloma wierszami?
+    <br/>
+    <br/>Taki komponent nalezy do standardowych komponentow GUI. Poza tym nikt nie kaze czynic tego komponentu multiselectem. Wreszcie mozna w ten sposob pokazac np. 5 z 30 opcji do wyboru, co jest odpowiednikiem &quot;ciagle rozwinietego&quot; selecta z size=1, a zajmuje mniej miejsca, niz 30 radiobuttonow.
+    <br/>
+    <br/>Jakis link, wyniki badan, chocby Alertbox Nielsena ;P, sugerujace, ze internauci nie rozumieja selecta z size&gt;1??
+- id: 1795
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-07-17 22:18:08 +0200'
+  date_gmt: '2005-07-17 22:18:08 +0200'
+  content: |-
+    Warto również przejrzeć sobie &quot;hall of shame&quot; z różnymi przykładami, jak nie należy robić interfejsu użytkownika (http://www.frankmahler.de/mshame/Termino.htm).
+    <br/>Polecam szczególnie ten obrazek:
+    <br/>http://www.frankmahler.de/mshame/TerminoGifs/cse60.gif
+- id: 1796
+  author: b3x
+  author_url: ''
+  date: '2005-07-24 03:46:19 +0200'
+  date_gmt: '2005-07-24 03:46:19 +0200'
+  content: http://nf.hyperreal.info/patrz/dostepne-formularze/
+---
+<p>Aplikacje sieciowe rządzą się swoimi prawami, jednym z nich jest niemożliwość uniknięcia formularzy. Te ostatnie można zaprojektować lepiej lub gorzej, zastanówmy się więc, co zrobić, aby były chociaż ciut wygodniejsze w użyciu.</p>
+
+<p>Przede wszystkim należy się wystrzegać układu wielokolumnowego. Schemat najwygodniejszy dla oka to dwie kolumny, gdzie jedna zawiera opisy pól, zaś druga to kontrolki niezbędne do wprowadzania danych. Kolumnę z nagłówkami można wyrównać - wedle uznania - do lewej lub prawej, jednak jej centrowanie jest raczej kiepskim pomysłem - zabija to ideę układu dwukolumnowego, gdzie wszystkie dane wyrównane są do jednej (w przypadku wyrównania nagłówków do prawej) lub dwóch (w przypadku wyrównania do lewej) osi. Może się wydawać, że zysk na czytelności jest niewielki, jednak badania prowadzone z udziałem ludzi po czterdziestym roku życia pokazują, że dla nich różnica jest znaczna.</p>
+
+<p>Należy grupować logicznie powiązane ze sobą dane w nazwane zestawy pól. Służy do tego element <code>&lt;fieldset/&gt;</code> w połączeniu z obowiązkowym elementem <code>&lt;legend/&gt;</code>. Zwiększa to czytelność formularza, usuwa wrażenie bezładu i uzasadnia taką a nie inną kolejność pól.</p>
+
+<p>Powinno się unikać nadmiarowych pól. Jeśli aplikacja nie wymaga poszczególnych składowych adresu (jak np. numer domu), to znacznie ułatwimy życie swoim gościom, jeśli skleimy pola typu <em>ulica</em>, <em>nr domu</em>, <em>nr lokalu</em>, <em>kod pocztowy</em> i <em>miasto</em> w jedno większe pole zatytułowane <em>adres</em>, podając pod spodem oczekiwany format adresu. Powód jest prosty - większość użytkowników do przełączania się pomiędzy polami formularza używa myszy, więc konieczność wypełnienia kilku pól więcej jest bardzo uciążliwa.</p>
+
+<p>Staraj się, aby wszystkie pola były podobnej długości, nie wprowadzaj więcej niż dwie - trzy różne długości pól, w ten sposób łatwiej podążać wzrokiem za nagłówkami, nie skupiając się na samych polach.</p>
+
+<p>Do reprezentacji alternatywy wybieraj odpowiednie kontrolki. Jeśli opcje są dwie, to odpowiedni będzie checkbox (dla odpowiedzi tak/nie) lub 2 radiobuttony (w pozostałych przypadkach), niedopuszczalne jest np. użycie checkboksa do wyboru pomiędzy dwoma kolorami (<q>zaznacz, jeśli produkt ma być czerwony, w przeciwnym wypadku będzie żółty</q>). Radiobuttony są najlepszym wyjściem, kiedy opcji jest więcej niż dwie - zapewniają największą czytelność, bo wszystkie opcje widoczne są jednocześnie. Mają jednak jedną wadę - zajmują dużo miejsca, co bardzo przeszkadza, kiedy opcji jest więcej. Wtedy lepiej użyć rozwijalnej listy, jednak powinna to być ostateczność, bo jej użycie wymaga dodatkowego kliknięcia, zanim pojawią się dostępne opcje. Wystrzegać za to należy się listy (selectbox z liczbą wierszy większą niż jeden) - internauci nie są przyzwyczajeni do tej kontrolki i często nie wiedzą, jak z niej korzystać.</p>
+
+<p>Do wyboru kilku spośród równorzędnych opcji zawsze najlepsza jest seria checkboksów. Niech nikomu nawet przez myśl nie przejdzie implementacja takiego wyboru za pomocą listy z włączoną opcją kilku wyborów. Lista jest przede wszystkim niewygodna - wymaga przewijania w celu dostania się do potrzebnych nam opcji. Jest też nieintuicyjna - wybranie kilku opcji wymaga przytrzymania klawisza Control (lub innego w przypadku architektur różnych od PC), z czego niewiele osób zdaje sobie sprawę. Ewentualne zaoszczędzone względem checkboksów miejsce trzebaby poświęcić na instrukcję obsługi korzystania z kontrolki listy.</p>
+
+<p>Nie ma nic bardziej denerwującego niż klikanie na wielki napis <q>tak, zgadzam się</q> tylko po to, żeby dowiedzieć się, że nie jest on klikalny i musimy celować w niewielkich rozmiarów biały kwadracik checkboksa znajdującego się obok. <strong>Należy korzystać z elementu <code>&lt;label/&gt;</code></strong>, pozwala on na uzyskanie fokusa przez kontrolkę po kliknięciu na jej opis i jest szalenie wygodne w przypadku każdego typu pól. Wystarczy atrybut <code>for</code> elementu <code>&lt;label/&gt;</code> ustawić na taką samą wartość, jak atrybutowi <code>id</code> odpowiedniej kontrolki.</p>
+
+<p>Osoby starsze bardzo pozytywnie reagują na mały zabieg, polegający na wyróżnieniu aktywnego pola za pomocą niewielkiej zmiany kolorów. Można to uzyskać przez odpowiednie reguły <abbr title="Cascading Style Sheets">CSS</abbr>, jednak efekt ten nie zadziała w <abbr title="Internet Explorer">IE</abbr>. Niestety, ta przeglądarka wymaga dodatkowych skryptów <abbr title="JavaScript">JS</abbr>.</p>
+
+<p>Na koniec najprostszy zabieg - zatrudnienie do pracy JavaScriptu. Pozwala to na przetworzenie i zweryfikowanie formularza jeszcze przed wysłaniem go na serwer. Jak często zdarzyło się wam klikać <q>wyślij</q> dziesiąty raz z rzędu, aby po minucie ładowania otrzymać kolejny komunikat o niewypełnionym polu? Jeśli przeglądarka wspiera <abbr>JS</abbr>, to można przygotować nieinwazyjny skrypt, który sam po cichu podłączy się do formularzy na stronie i przed ich wysłaniem upewni się, że wszystko wpisaliśmy zgodnie z intencjami autora serwisu. Tutaj uwaga - wyświetlenie komunikatu <q>nie wypełniłeś wymaganych pól</q> nie mówi użytkownikowi wiele. Należy przy okazji wskazać mu pola, o których zapomniał.</p>
+
+<p>Przykład zastosowania JavaScriptu do wstępnej walidacji formularza można znaleźć na <a href="http://patrys.icenter.pl/test/2005-07-13-form-enhancements/">mojej stronie demonstracyjnej</a>.</p>
+
+<p>Można tam też zobaczyć niewielki gadżet - pasek <q>postępu</q> wysyłania formularza, który daje użytkownikowi poczucie, że coś się dzieje, co jest szczególnie ważne w przypadku uploadu dużych plików za pomocą formularza na stronie.</p>
+
+<p>Na <a href="http://patrys.icenter.pl/test/2005-02-10-form-tips/">drugiej stronie demonstracyjnej</a> można zobaczyć przykład innego skryptu - wyświetlania podpowiedzi wewnątrz pól edycyjnych, co przydaje się szczególnie, jeśli na stronie nie ma miejsca na opis dla danego pola (np. mini-wyszukiwarki umieszczane w nagłówkach stron).</p>
+
+<p>Oczywiście, nie wyczerpałem tutaj tematu i nawet nie miałem takiego zamiaru - jest to tylko garść (mam nadzieję, że przydatnych) porad.</p>

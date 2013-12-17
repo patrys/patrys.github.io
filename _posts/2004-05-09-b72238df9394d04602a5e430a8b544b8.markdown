@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: NASK
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 15
+date: 2004-05-09 18:06:23.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 30
+  author: natas z pracy
+  author_url: ''
+  date: '2004-05-11 19:53:38 +0200'
+  date_gmt: '2004-05-11 19:53:38 +0200'
+  content: pod IE nie tylko sie nie podswietla, w ogole nie widac okienka z boku z
+    linkami :-)
+---
+Czas temu jakiś jeden z naszych Klientów zmienił nas na jakąś inną firmę hostingową, co już opisałem wcześniej. W czwartek jednak wynikła z tego bardzo wesoła sytuacja. Otóż okazało się, że po naszej zmianie ISP nasz klient wysłał do NASKu dwa zgłoszenia. Jedno podpisane przez właściciela firmy, które zlecało delegowanie domeny na nasz nowy adres serwera DNS, drugie, zdwudniowym opóźnieniem, podpisane przez głównego księgowego, przenoszące domenę na serwer DNS ich nowego opiekuna. Niestety, panowie w NASK po kilku dniach uznali, że pomimo kolejności numerowania zleceń i kolejności wpływania wniosków (które otrzymują faksem, więc natychmiast), ważniejsze jest zlecenie podpisane przez właściciela (w końcu on wie lepiej od jakiegoś tam księgowego). Efekt? Łatwo się domyśleć. Nasz serwer DNS nie trzymał już tej domeny i w efekcie przestała kompletnie działać. Odebraliśmy kilka telefonów z pogróżkami od byłego klienta (że celowo przejęliśmy tą domenę jakimś podstępem) i dobrowolnie zgodziliśmy się podnieść domenę ponownie i na czas naprawienia bałaganu w NASK przekierować ją na aktualny adres.<br />
+<br />
+Wniosek: panowie w NASK robią co im się podoba, ponadto dowolna osoba może od tak sobie relegować domenę jakiejś firmy na własne serwery.

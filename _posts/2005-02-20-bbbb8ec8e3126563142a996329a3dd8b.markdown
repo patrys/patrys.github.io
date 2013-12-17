@@ -1,0 +1,140 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #001: Nie drażnij lwa'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 57
+date: 2005-02-20 22:09:56.000000000 +01:00
+categories:
+- comic
+tags: []
+comments:
+- id: 627
+  author: da.killa
+  author_url: ''
+  date: '2005-02-20 22:19:46 +0100'
+  date_gmt: '2005-02-20 22:19:46 +0100'
+  content: ':D'
+- id: 628
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-20 22:27:16 +0100'
+  date_gmt: '2005-02-20 22:27:16 +0100'
+  content: Uderzające podobieństwo skarbie, uderzające ;)))
+- id: 629
+  author: Czajna
+  author_url: ''
+  date: '2005-02-20 23:31:28 +0100'
+  date_gmt: '2005-02-20 23:31:28 +0100'
+  content: Świetne! :D
+- id: 630
+  author: jpc
+  author_url: ''
+  date: '2005-02-20 23:37:45 +0100'
+  date_gmt: '2005-02-20 23:37:45 +0100'
+  content: Skąd to wziąłeś? Nie mów, że całość sam narysowałeś! :D
+- id: 631
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-20 23:39:49 +0100'
+  date_gmt: '2005-02-20 23:39:49 +0100'
+  content: Skoro on ma nie mówić, to ja powiem :P - tak, narysował sam :)
+- id: 632
+  author: jpc
+  author_url: ''
+  date: '2005-02-20 23:41:47 +0100'
+  date_gmt: '2005-02-20 23:41:47 +0100'
+  content: Eeeee.... Ja też tak chce!
+- id: 633
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-20 23:43:07 +0100'
+  date_gmt: '2005-02-20 23:43:07 +0100'
+  content: |-
+    Pokłóć się z Patrysem o przeglądarkę, to może zostaniesz ognistoczerwonym dyskutantem - chociaż sama sobie jestem winna, że dałam się skłonić do pofarbowania na taki kolor ;)))
+    <br/>
+    <br/>PiEs. A jeśli chodzi o &quot;ja też tak chcę umieć rysować&quot; - to ja też :&gt;
+- id: 634
+  author: da.killa
+  author_url: ''
+  date: '2005-02-21 00:40:21 +0100'
+  date_gmt: '2005-02-21 00:40:21 +0100'
+  content: Z myślą o następnych odcinkach chciałem zgósić, że literki są za małe :)
+- id: 635
+  author: Patrys
+  author_url: ''
+  date: '2005-02-21 00:41:05 +0100'
+  date_gmt: '2005-02-21 00:41:05 +0100'
+  content: Za późno ;]
+- id: 636
+  author: batou
+  author_url: ''
+  date: '2005-02-21 00:43:55 +0100'
+  date_gmt: '2005-02-21 00:43:55 +0100'
+  content: |-
+    Tak, wiemy, że wiesz, że nadal za małe. ;}
+    <br/>
+    <br/>Będzie więcej niż dwa?
+- id: 637
+  author: Patrys
+  author_url: ''
+  date: '2005-02-21 00:44:58 +0100'
+  date_gmt: '2005-02-21 00:44:58 +0100'
+  content: Jeśli będzie czas i pomysł (a raczej inspiracja chyba), to pewnie tak.
+    Muszę jeszcze się graficznie podszlifować, ale chyba jak na programistę, nie jest
+    najgorzej ;]
+- id: 638
+  author: da.killa
+  author_url: ''
+  date: '2005-02-21 00:46:58 +0100'
+  date_gmt: '2005-02-21 00:46:58 +0100'
+  content: Jak na programistę jest nieźle, ale jak na czytającego HIG, to skandalicznie
+    małe literki :)
+- id: 639
+  author: da.killa
+  author_url: ''
+  date: '2005-02-21 00:47:37 +0100'
+  date_gmt: '2005-02-21 00:47:37 +0100'
+  content: 'Batou: trzeba Cachotterie namawiać do dalszego inspirowania :)'
+- id: 640
+  author: Patrys
+  author_url: ''
+  date: '2005-02-21 00:47:58 +0100'
+  date_gmt: '2005-02-21 00:47:58 +0100'
+  content: W 200px ciężko zmieścić czcionkę 12. Zrobię, co w mojej mocy przy ewentualnych
+    przyszłych odcinkach.
+- id: 641
+  author: batou
+  author_url: ''
+  date: '2005-02-21 01:10:56 +0100'
+  date_gmt: '2005-02-21 01:10:56 +0100'
+  content: |-
+    da.killa: może mi się tylko wydaje, ale Oni chyba nie potrzebują pomocy z zewnątrz. ;)
+    <br/>
+    <br/>Patryś: może spróbuj czegoś, co dobrze wygląda w takich małych rozmiarach (np. silkscreen z kottke.org są fajne, tylko bez ogonków).
+- id: 642
+  author: marcoos
+  author_url: ''
+  date: '2005-02-21 01:52:29 +0100'
+  date_gmt: '2005-02-21 01:52:29 +0100'
+  content: Fajne. :)
+- id: 643
+  author: jarv
+  author_url: ''
+  date: '2005-02-21 04:06:15 +0100'
+  date_gmt: '2005-02-21 04:06:15 +0100'
+  content: a ja sobie gram ... ;) dobre.
+- id: 644
+  author: Nina
+  author_url: ''
+  date: '2005-02-21 21:05:07 +0100'
+  date_gmt: '2005-02-21 21:05:07 +0100'
+  content: Ja chcę taki kolor włosów jak ta Pani ;D
+---
+<p>Ktoś jeszcze ma w związku takie problemy, jak wybór przeglądarki? ;)</p>
+
+<p class="strip"><img src="http://patrys.icenter.pl/comic/001-opyra.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>

@@ -1,0 +1,96 @@
+---
+layout: post
+status: publish
+published: true
+title: Przypowieść o motywacji
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 39
+date: 2004-08-18 12:33:13.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 198
+  author: Edzio Kruszkowski
+  author_url: ''
+  date: '2004-08-18 12:42:22 +0200'
+  date_gmt: '2004-08-18 12:42:22 +0200'
+  content: hmmm...do glowy przyszedl mi pewien pomysl...moze by tak zrzutka na koszulke
+    dla syna prezesa...zgadnijcie jaka :)
+- id: 199
+  author: remiq
+  author_url: ''
+  date: '2004-08-18 12:44:33 +0200'
+  date_gmt: '2004-08-18 12:44:33 +0200'
+  content: Taka z zawiązywanymi z tyłu rękawami? (ot luźny pomysł, mniej by we wszystkim
+    przeszkadzał)
+- id: 200
+  author: maks-&gt;remiq
+  author_url: ''
+  date: '2004-08-18 22:20:19 +0200'
+  date_gmt: '2004-08-18 22:20:19 +0200'
+  content: '&quot;Panowie - to nie mój rozmiar. Rękawy są za długie&quot; :) Nie pamiętam
+    z jakiego to filmu.'
+- id: 201
+  author: DarkStar
+  author_url: ''
+  date: '2004-08-19 11:49:47 +0200'
+  date_gmt: '2004-08-19 11:49:47 +0200'
+  content: Czy Ty aby nie jestes informatykiem w szpitalu wojewodzkim... psychiatrycznym?
+    :D
+- id: 202
+  author: Krik
+  author_url: ''
+  date: '2004-08-19 12:54:25 +0200'
+  date_gmt: '2004-08-19 12:54:25 +0200'
+  content: Jeszcze na rynku szukają adminów. Człowieku zabieraj zabawki z tej nory
+    bo zdrowie, oczy i cierpliwość ma się jedne. Szkoda PLDowca :)
+- id: 203
+  author: Patrys
+  author_url: ''
+  date: '2004-08-19 12:55:56 +0200'
+  date_gmt: '2004-08-19 12:55:56 +0200'
+  content: Ale ile frajdy z możliwości prowadzenia takiej strony? W jakiej innej firmie
+    znajdę tyle radości?
+- id: 204
+  author: DarkStar
+  author_url: ''
+  date: '2004-08-19 16:10:29 +0200'
+  date_gmt: '2004-08-19 16:10:29 +0200'
+  content: 'Odp: Microsoft Corp. :P'
+- id: 205
+  author: DarkStar
+  author_url: ''
+  date: '2004-08-19 16:10:54 +0200'
+  date_gmt: '2004-08-19 16:10:54 +0200'
+  content: Albo Telekomunikacja Polska. Albo SCO.
+- id: 206
+  author: ROBI
+  author_url: ''
+  date: '2005-11-17 10:17:15 +0100'
+  date_gmt: '2005-11-17 10:17:15 +0100'
+  content: całkie niezłe szef to świnia:-)
+---
+Przełom lipca i sierpnia. Jak zwykle, siedzimy z MoimWspółpracownikiem&trade; w naszym biurze. Po pamiętnej rozmowie o złym wpływie na mnie, MójWspółpracownik&trade;, programista, dostał nagle niespodziewane polecenie od SamegoPrezesa&trade;.<br />
+<br />
+Primary objective: obrobić zdjęcia towarów do sklepu internetowego.<br />
+Secondary objective: składać co godzinę szczegółowy raport z postepu prac.<br />
+Additional conditions: zadanie jest na czas i ma na celu sprawdzenie wydajności pracy.<br />
+<br />
+Być może niektórzy z was gotowi pomyśleć, że firma ewidentnie stara się znaleźć powód do zwolnienia niewygodnego człowieka. Nic bardziej błędnego, przecież to tylko forma zmotywowania pracowników do pracy. Praca na czas niesie ze sobą element współzawodnictwa z samym sobą, cóż bowiem sprawia pracownikowi więcej radości niż pokonanie swojego własnego rekordu? SamPrezes&trade;, niczym troskliwy trener, siedział w swoim gabinecie ze stoperem w ręce i myślał, jak lepiej dostosować warunki pracy MojegoWspółpracownika&trade; do jego potencjalnych możliwości. I oto po dwóch dniach upokarzającej harówki pojawiła się nowa misja:<br />
+<br />
+Cel misji: przenieść się z komputerem piętro wyżej, do innego biura. Nadmienię tutaj, iż nowe biuro było znacznie mniejsze od poprzedniego, a ponadto pracowały tam już dwie osoby. MójWspółpracownik&trade; nie był w stanie wyobrazić sobie pracy programisty w pokoju handlowców, gdzie telefon dzwoni z częstotliwością porównywalną do częstotliwości powtarzania Rambo 3 na Polsacie. Naturalną reakcją było więc:<br />
+<br />
+- Mam to w dupie. Nigdzie nie idę.<br />
+<br />
+I nastał błogi spokój. W końcu jednak odwiedził nas BezpośredniPrzełożony&trade; i postawił sprawę w ten sposób:<br />
+<br />
+- Jak się nie przeniesiesz, to SamPrezes&trade; się wkurzy i nie da mi urlopu w poniedziałek. Proszę, przenieś się, to ponoć na góra dwa dni.<br />
+<br />
+I MójWspółpracownik&trade; posłuchał. Przeniósł się piętro wyżej, gdzie SamPrezes&trade; nareszcie mógł go mieć na oku. Permanentna inwigilacja. Biedak, dalej jednak nie wiedział, jak programista może się skupić w pokoju, gdzie telefon dzwoni nawet w święta?<br />
+<br />
+Wybawienie przyszło z góry. Nie jest już programistą. Umowa umową, a potrzeba matką wynalazku. Dwudniowe przenosiny trwają do dziś, a jeszcze niedawny programista pracuje teraz na stanowisku etatowego fotografa piłek, rękawic i gwizdków. Pasjonująca robota, niewątpliwie. Jeśli jest się informatykiem, warto mieć dobre referencje w tej dziedzinie. Nie każdy potrafi wykonać dobre zdjęcie starszym od siebie aparatem marki Olympus, wyposażonym w niebotyczne rozmiary pamięci, bo aż 4 megabajty.

@@ -1,0 +1,111 @@
+---
+layout: post
+status: publish
+published: true
+title: Troika.py
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 550
+wordpress_url: http://room-303.com/blog/?p=550
+date: 2009-03-11 13:57:19.000000000 +01:00
+categories:
+- web
+- software
+- code
+tags:
+- django
+- python
+comments:
+- id: 24327
+  author: opi
+  author_url: http://bronikowski.com
+  date: '2009-03-11 14:16:48 +0100'
+  date_gmt: '2009-03-11 13:16:48 +0100'
+  content: "Dobry framework bez przynajmniej 7 plików XML?\r\n\r\nUmpossible."
+- id: 24330
+  author: Ania
+  author_url: http://ania.jogger.pl
+  date: '2009-03-11 23:48:26 +0100'
+  date_gmt: '2009-03-11 22:48:26 +0100'
+  content: Zapomniałeś nadmienić, że współczujesz mi pracy z ASP 3.0 :P
+---
+<p>Dzisiaj na blipie kilka osób podzieliło się linkami do niesamowitego frameworku Troika.<abrr>ASP. <a href="http://www.troika-asp.com/tutorial-hello-world-application.html">Tutorial</a> bardzo mi się spodobał, więc natychmiast zechciałem przygotować swoją wersję.</abrr></p>
+
+<h4>Disclaimer</h4>
+
+<p>Osoby bez poczucia humoru powinny iść do domu na obiad, mama was przed chwilą wołała.</p>
+
+<h4>Tutorial</h4>
+
+<p>Napiszemy prostą aplikację za pomocą Troika.py. Celem jest pośmianie się.</p>
+
+<ol>
+<li><p>Tworzymy nowy projekt:</p>
+<blockquote><pre><code>$ django-admin.py startproject troikapy
+$ cd troikapy
+$ ls
+__init__.py  manage.py  settings.py  urls.py
+$ chmod +x manage.py</code></pre></blockquote>
+<p>Oto, co robi powyższa deklaracja:</p>
+<ul>
+<li>Tworzy nowy projekt o nazwie <q>troikapy</q>;</li>
+<li>Wchodzi do stworzonego katalogu;</li>
+<li>Drukuje listę plików;</li>
+<li>Nadaje plikowi <code>manage.py</code> atrybut <q>wykonywalny</q></li>
+</ul>
+</li>
+<li><p>Tworzymy nową aplikację:</p>
+<blockquote><pre><code>$ mkdir hello
+$ touch hello/__init__.py
+$ mkdir hello/templates</code></pre></blockquote></li>
+<li><p>Stwórzmy plik <code>hello/views.py</code>:</p>
+<blockquote><pre><code>from django import forms
+from django.views.generic.simple import direct_to_template
+
+class HelloForm(forms.Form):
+  name = forms.CharField(label = u'Name, bitch')
+
+def hello(request):
+  if request.method == 'POST':
+    form = HelloForm(request.POST)
+    if form.is_valid():
+      name = form.cleaned_data['name']
+      return direct_to_template(request, 'hello.html', {'form': form, 'name': name})
+  else:
+    form = HelloForm()
+  return direct_to_template(request, 'hello.html', {'form': form})</code></pre></blockquote></li>
+<li><p>Stwórzmy plik <code>hello/templates/hello.html</code>:</p>
+<blockquote><pre><code>{% raw %}&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01
+      Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"&gt;
+&lt;html&gt;
+        &lt;head&gt;
+                &lt;title&gt;Hello World Application&lt;/title&gt;
+        &lt;/head&gt;
+        &lt;body&gt;
+                &lt;h1&gt;Welcome to Hello World Application!&lt;/h1&gt;
+{% if name %}
+                &lt;h2&gt;Hello {{ name }}!&lt;/h2&gt;
+                &lt;p&gt;Date/time is {% now "r" %}&lt;/p&gt;
+{% endif %}
+                &lt;form method="post" action=""&gt;
+                        {{ form.as_p }}
+                        &lt;p&gt;&lt;input type="submit"&gt;&lt;/p&gt;
+                &lt;/form&gt;
+        &lt;/body&gt;
+&lt;/html&gt;{% endraw %}</code></pre></blockquote></li>
+<li><p>Modyfikujemy plik <code>urls.py</code> w celu <del>powiązania akcji HelloAction z komendą helloworld</del> <ins>przypisania widoku (kontrolera) do adresu:</ins></p>
+<blockquote><pre><code>from django.conf.urls.defaults import *
+
+urlpatterns = patterns('',
+    (r'^$', 'hello.views.hello'),
+)</code></pre></blockquote></li>
+<li><p>W pliku <code>settings.py</code> umieszczamy aplikację <code>hello</code> jako jedyną na liście <code>INSTALLED_APPS</code>:</p>
+<blockquote><pre><code>&hellip;
+
+INSTALLED_APPS = (
+    'hello',
+)</code></pre></blockquote></li>
+<li><p>Zauważamy, że prawie nic nie napisaliśmy, a mimo to skończyliśmy o 6 kroków za szybko. Ten i kilka kolejnych kroków przeznaczamy na wymyślanie zawiłych formatów aplikacji <abbr>XML</abbr> i separację <abbr>MVC</abbr> poprzez osadzanie kodu serwerowego w szablonach <abbr>HTML</abbr>. Powoli wracamy do zmysłów, zaczynamy zastanawiać się, czemu reszta świata nie chce używać Troika.<abbr>ASP</abbr>.</p></li>
+</ol>

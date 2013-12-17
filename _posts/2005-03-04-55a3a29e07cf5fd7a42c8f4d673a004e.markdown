@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: Dlaczego terminy są złe
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 64
+date: 2005-03-04 23:57:00.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 703
+  author: jarv
+  author_url: ''
+  date: '2005-03-05 03:49:22 +0100'
+  date_gmt: '2005-03-05 03:49:22 +0100'
+  content: sie pod tym podpisuje. ale mam wrazenie, ze pisales te slowa pod wplywem
+    wczorajszej dyskusji... ;)
+---
+<p>Niniejszy wpis jest owocem prac nad draftem specyfikacjy dla naszego systemu koordynacji projektu. Celowo nie mówię o <q>zarządzaniu projektem</q>, bo projekt nie powinien być zarządzany, tylko skutecznie realizowany. W skutecznym realizowaniu przeszkadzają między innymi właśnie narzucane z góry terminy wykonania, choć często sam nakład prac nie może być z góry znany. Stąd mój postulat:</p>
+
+<p>Zadania dla zespołu nie powinny mieć przypisanych sztywnych terminów godzinowych na realizację. Dlaczego? Odpowiedź jest prosta – programiści, graficy, cały zespół odpowiedzialny za fizyczne wykonanie zadania nie lubi rozliczania godzinowego. System taki jest nieelastyczny i obniża morale ekipy zaangażowanej w realizację projektu. Prowadzi też często do frustracji z powodu braku możliwości wykonania pracy w założonym terminie (np. przez nawał innych, pilniejszych zleceń, niezwiązanych bezpośrednio z projektem, przez co nieuwzględnionych w grafiku projektu). Pracownik nie powinien się czuć winien z powodu niezależnych od niego opóźnień. Dostateczną motywacją do pracy powinien być deadline dla całego etapu, ustalony przez zbliżający się milestone.</p>
+
+<p>Milestone (<q>kamień milowy</q>) to nazwa używana w odniesieniu do punktu zakończenia ważnego etapu w życiu projektu. Punktem takim może być moment wstępnej prezentacji draftów u klienta, moment zamknięcia specyfikacji technicznej (którego przekroczenie uniemożliwia wprowadzanie dalszych poprawek do założeń projektu), moment rozpoczęcia prac nad kodem, czy też finalny okres prób i końcowe wdrożenie projektu. W okresie pomiędzy kolejnymi kamieniami milowymi kolejność realizacji zadań jest właściwie obojętna. Najważniejsze jest bowiem zamknięcie wymaganej funkcjonalności na czas, klienta nie interesuje, czy prace nad jednym komponentem były zrealizowane przed pracami nad innym. Dlatego też uważam, że projekt nie powinien prowadzić sztywnego kalendarza prac (jak robi to phpCollab, gdzie każdemu zadaniu przypisujemy czas rozpoczęcia, szacowany nakład pracy i termin zakończenia). Zamiast tego powinien umożliwić stworzenie kilku kamieni milowych, a następnie pozwolić na wygodne przydzielenie zadań do milestone'ów. Niezrealizowane zadanie powinno mieć stan zadania blokującego, nie powinno dać się zamknąć etapu bez zamknięcia wszystkich zleceń przypisanych do danego okresu, bądź bez przesunięcia ich na jeden z dalszych <q>kamieni</q>. Taki system prac pozwala bardziej elastycznie zarządzać własnym czasem poszczególnym członkom zespołu, ewentualne zależności pomiędzy zadaniami przypisanymi do różnych osób powinny być rozwiązane na poziomie priorytetyzacji listy i podziału na niezależne etapy (np. w przypadku realizacji systemu CMS nie powinno się przystępować do programowania systemu przed zamknięciem prac nad grafiką i interfejsem użytkownika).</p>
+
+<p>Z tych samych przyczyn jestem za całkowitą likwidacją procentowych pasków postępu prac nad zadaniem. Obecność takich wskaźników wywiera presję na pracowników. Członkowie zespołu myślą (często słusznie), że zbyt rzadkie uaktualnianie takich informacji będzie postrzegane jak nicnieróbstwo. Z kolei konieczność ciągłego wprowadzania danych o postępie zbędnie wydłuża czas potrzebny na realizację zlecenia. Zgrany zespół nie potrzebuje nadzorcy - galernika, który z batem w ręku wybija rytm pracy. Zespół powinien być rozliczany z zamkniętych etapów, a nie z godzin pracy spędzonych na poszczególnych elementach całości.</p>
+
+<p>Co zatem, jeśli któreś zadanie okaże się trudne w realizacji (czasochłonne bądź niewykonalne)? System powinien umożliwić pozostawienie takiej informacji w postaci komentarza do zadania bądź jako notki widocznej dla całego zespołu na stronie podsumowującej. Mamy tu do czynienia z analogią do bloga, systemem opierającym wymianę informacji na notatkach i komentarzach. Dlaczego? Blogi są wygodne, intuicyjne, bajecznie proste w obsłudze i mają miliony użytkowników, czego nie można powiedzieć o wielkobiznesowych kombajnach do ucisku wykonawców projektu. Co więcej, udostępnienie tych samych notek (wybiórczo) klientowi nie będzie wymagało dalszej obróbki - dostanie do dyspozycji informacje tekstowe, łatwe do czytania, dające mu ogólne pojęcie o postępie, ale nie przytłaczające go rzędami cyfr i wykresów. Klient ma na ogół wiele ciekawszych spraw na głowie niż porównywanie zestawień pomiędzy wizytami na stronie projektu, nie do pominięcia jest też fakt, że informacja <q>procedura zakupu domeny się przedłuża</q> jest dalece więcej mówiąca niż fakt, że od dwóch tygodni proces realizacji utknął na poziomie 73%. Więcej grzechów nie pamiętam.</p>

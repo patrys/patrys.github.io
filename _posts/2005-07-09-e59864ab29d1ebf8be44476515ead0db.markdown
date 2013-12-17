@@ -1,0 +1,85 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #014: Król parkietu'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 126
+date: 2005-07-09 11:55:13.000000000 +02:00
+categories:
+- comic
+tags: []
+comments:
+- id: 1611
+  author: rorio
+  author_url: ''
+  date: '2005-07-09 12:11:10 +0200'
+  date_gmt: '2005-07-09 12:11:10 +0200'
+  content: No to masz prze*****!
+- id: 1612
+  author: HoBBit
+  author_url: ''
+  date: '2005-07-09 12:11:29 +0200'
+  date_gmt: '2005-07-09 12:11:29 +0200'
+  content: pierwszy :D
+- id: 1613
+  author: HoBBit
+  author_url: ''
+  date: '2005-07-09 12:12:01 +0200'
+  date_gmt: '2005-07-09 12:12:01 +0200'
+  content: |-
+    kurwa ;/
+    <br/>paaaaaatryyyyyyyyyyyyyyyysssssssss wykasuj go bo ja chce byc pierwszy! ;/
+- id: 1614
+  author: HoBBit
+  author_url: ''
+  date: '2005-07-09 12:13:31 +0200'
+  date_gmt: '2005-07-09 12:13:31 +0200'
+  content: a ja tam sie nie przejmuje... bo przeciez swietnie tancze  ;;;;;;;;;;;;;;;;;D
+- id: 1615
+  author: buggy
+  author_url: ''
+  date: '2005-07-09 12:51:17 +0200'
+  date_gmt: '2005-07-09 12:51:17 +0200'
+  content: 'eheh... znowu jakbym siebie widziała :P '
+- id: 1616
+  author: Elsindel
+  author_url: ''
+  date: '2005-07-09 20:36:04 +0200'
+  date_gmt: '2005-07-09 20:36:04 +0200'
+  content: Prosze wiecej takich sekretow :)
+- id: 1617
+  author: Bad Kitty Meaaaaaaaaaaaaaw!
+  author_url: ''
+  date: '2005-07-10 14:33:21 +0200'
+  date_gmt: '2005-07-10 14:33:21 +0200'
+  content: "Kurcze na serio nie tańczysz aż tak tragicznie...\n<br/>Daje rady\n<br/>Ja
+    się Ciebie nie wstydzę :) \n<br/>A ty Hobbit... Dla nas w głębi duszy zawsze będziesz
+    pierwszy :)"
+- id: 1618
+  author: Bad Kitty Meaaaaaaaaaaaaaw!
+  author_url: ''
+  date: '2005-07-10 16:10:48 +0200'
+  date_gmt: '2005-07-10 16:10:48 +0200'
+  content: btw just do her baby :]
+- id: 1619
+  author: HoBBit
+  author_url: ''
+  date: '2005-07-10 18:28:05 +0200'
+  date_gmt: '2005-07-10 18:28:05 +0200'
+  content: ufff... :) dzieki :D
+- id: 1620
+  author: Bad Kitty Meaaaaaaaaaaaaaw!
+  author_url: ''
+  date: '2005-07-10 20:12:14 +0200'
+  date_gmt: '2005-07-10 20:12:14 +0200'
+  content: do usług :D
+---
+<p>Oto najpilniej strzeżony sekret na świecie, a zarazem wyjaśnienie, dlaczego na parkiecie można mnie zobaczyć dopiero z odpowiednim stężeniem alkoholu we krwi. :)</p>
+
+<p class="strip"><img src="http://comic.room-303.com/strips/014-dancer.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks"/></p>
+
+<p>Czarny humor sponsorowany przez Wyższą Szkołę Informatyki i Zarządzania <q>Copernicus</q> we Wrocławiu, która to nie pozwoliła mi przystąpić do egzaminu poprawkowego z powodu urlopu pani księgowej.</p>

@@ -1,0 +1,183 @@
+---
+layout: post
+status: publish
+published: true
+title: MTV, pimp my site!
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 135
+date: 2005-07-25 21:31:12.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 1850
+  author: treacle
+  author_url: ''
+  date: '2005-07-25 21:51:37 +0200'
+  date_gmt: '2005-07-25 21:51:37 +0200'
+  content: Ta stronka Aurory robiona jest na bazie jakiegoś barzo popularnego szblonu
+    :/, niestety nie pamiętam nazwy. Ale prawie identyczne jedynie kolorki pozmieniane.
+- id: 1851
+  author: Hawk
+  author_url: ''
+  date: '2005-07-25 21:56:39 +0200'
+  date_gmt: '2005-07-25 21:56:39 +0200'
+  content: Nie lubie projektowac stron www. Jest to taka moja pieta achillesowa. Nie
+    mam wogole wyczucia estetyki, kolorystyki itp. Moje strony sa wizualnie denne
+    (merytorycznie zreszta pewnie tez), zazwyczaj zle zaprojektowane, pelne bledow
+    itp. Ale nie mozna byc dobrym we wszystkim :) Dobra, nie o tym mialem... Chcialem
+    jedynie dodac od siebie, ze rekami i nogami podpisuje sie pod teoria minimalizmu.
+    Jak dla mnie strona ma byc przede wszystkim funkcjonalna i przedstawiac interesujaca
+    mnie tresc w akceptowalnej (dla mnie) i latwej do przetworzenia formie. Strona
+    wizualna ma dlamnie drugorzedne, ba, trzeciorzedne znaczenie.
+- id: 1852
+  author: marcink
+  author_url: ''
+  date: '2005-07-25 22:50:17 +0200'
+  date_gmt: '2005-07-25 22:50:17 +0200'
+  content: |-
+    Świetny tekst.  Ja dodałbym jeszcze klasyczne &quot;nie zmuszaj
+    <br/>klikaczy do myślenia&quot;.  Prosty test: bierzesz człowieka z korytarza i
+    <br/>każesz coś znaleźć na stronie.  Jeśli konieczna okaże się podpowiedź
+    <br/>gdzie kliknąć, to znaczy że serwis jest zaprojektowany źle.
+    <br/>
+    <br/>Aha, jeszcze &quot;bez żenady kopiuj układ i rozwiązania z innych,
+    <br/>popularnych serwisów&quot;.  Nie bez powodu większość naprawdę popularnych
+    <br/>i lubianych stron wygląda bardzo podobnie -- układ &quot;na górze zakładki,
+    <br/>po lewej menu, a środkiem tekścik&quot; jest wygodny, a teraz przede
+    <br/>wszystkim znajomy.  Naprawdę niewiele stron zyskuje na eksperymentach
+    <br/>i zaskakiwaniu odwiedzających.
+    <br/>
+    <br/>Minimalizm jest bardzo fajny, ale tylko w przypadku stron, w których
+    <br/>przekazanie treści jest _jedynym_, a nie tylko _głównym_ celem.  I
+    <br/>fajnie, w takiej sytuacji podpisuję się pod tym oburącz.
+    <br/>
+    <br/>Problem w tym, że wiele stron oprócz przekazania tekstu ma też inne
+    <br/>cele -- najczęściej jest to budowanie wizerunku firmy, utrwalanie jej
+    <br/>nazwy i związanych z nią wrażeń, często też utwierdzenie klikacza że
+    <br/>serwis skierowany jest właśnie do niego.  Designu może nikt nie będzie
+    <br/>podziwiał, ale jego brak wielu ludzi zauważy na pewno i połączy (może
+    <br/>podświadomie) z brakiem profesjonalizmu.
+    <br/>
+    <br/>Dwie dobre książki jakie znalazłem na ten temat: Steve Krug, &quot;Don&#039;t
+    <br/>make me think!&quot; (wydana przez Helion jako &quot;Nie każ mi myśleć!&quot;) i
+    <br/>Douglas van Duyne i paru innych, &quot;The design of sites&quot; -- świetne
+    <br/>zestawienie gotowych wzorców, niestety dość drogie.
+    <br/>
+- id: 1853
+  author: Nivertius
+  author_url: ''
+  date: '2005-07-25 22:50:34 +0200'
+  date_gmt: '2005-07-25 22:50:34 +0200'
+  content: |-
+    Nie do końca się z Tobą zgadzam. Niestety strony &#039;minimalistyczne&#039; wydają się także puste. Jeżeli chcesz użytkownika przyciągnąć, to musisz przedstawić mu zasoby strony od razu, nie tak, że nasz drogi user bdzie szukał po podstronach o czym to tak naprawdę jest. Owszem - bez przesady, na stronie głównej nie musi być wszystkiego na raz, w pudełeczkach po 30px szerokości, to rozprasza uwage. Ale w drugą strone też nie można.
+    <br/>Niestety [?] Zwykli Użytkownicy [ZU] wolą jednak gdy ładne, &#039;pastelowe&#039; gradienty skupią ich na na kilku rzeczach, które Twoja strona oferuje.
+    <br/>Dlaczego niektóre dziewczyny w liceum robią notatki w kilku kolorach? Bo taki zeszyt wygląda schludniej, ładniej, przyciąga oko, jest dla niego miły. Dla kontrastu nawet czytelne, równe pismo jednokolorowe, monotematyczne wyglądowo jest po prostu nudne i odrzuca na wstępie.
+    <br/>Ja rozumiem, portale w stylu Interia, Onet przesadzają. Tam nie wiadomo na czym się zatrzymać, wszystko jest na raz. Owszem. Ale w drugą strone też nie można. Nikt przecież nie chce serwować dokumentu sematycznie poprawnego, ale bez stylu, który jest idealnie użyteczny, nie biorąc pod uwagę jakiegoś wypozycjonowania menu, żeby nie trzeba było &#039;scrollować&#039; na sam dół strony, żeby przejść do następnej, bo menu na początku strony to grzech przeciw dostępności.
+    <br/>Jak we wszystkim trzeba znaleść złoty środek, nie wolno przesadzać z minimalizmem, tak jak nie można przesadzać z bajerami.
+    <br/>Owszem, dla nas, geeków, strona Aurory jest ładna, użyteczna itp. Ale ZU przeskoczy nad nią, bo pomyśli sobie, że ktoś się nie postarał...
+    <br/>I jeszcze jedno - sam też wolałbym robić o wyglądzie np. tego joga, bo dla mnie są naprawdę ładniejsze, ale nie wszyscy lubią minimalizm.
+- id: 1854
+  author: paczor
+  author_url: ''
+  date: '2005-07-26 09:09:08 +0200'
+  date_gmt: '2005-07-26 09:09:08 +0200'
+  content: "Co do estetyki i ascezy piszesz kompletne bzdury! To się nie sprzedaje
+    w teorii, a zwłaszcza w praktyce!\n<br/>\n<br/>Tak się składa, że kilka dni temu
+    rozmawiałem o tym (designie) z żoną, która od ładnych paru lat &quot;siedzi&quot;
+    w biznesie WWW. W projektach zwłaszcza reklamowych, zarówno reklamie  koproracyjnej
+    jak i społecznej.\n<br/>\n<br/>I bazując na jej doświadczeniu mogę napisać, że:
+    minimalizm tu nie działa. Tak mówią badania i statystyki. Serwisy WWW wyglądające
+    jak choinka sprzedają się lepiej, i lepiej są znane.\n<br/>\n<br/>Masz mylny pogląd,
+    bo osobisty, bo jesteś programistą, bo tobie się zdaje. Ale niestety gówno byle
+    świecące od zarania dziejów sprzedaje się lepiej, vide Windows. Zresztą taki sam
+    pogląd miałem i ja, ale się wyprostowałem. To tacy jak ty lub ja instalują rozszerzenie
+    fo Firefoksa (bo wiedzą, że takie coś istnieje), które blokuje animacje Flash.
+    Ale jesteśmy w tym odosobnieni.\n<br/>\n<br/>Porady, które wypisałeś niestety
+    do odkrywczych nie należą, czytałem takie 8 lat temu. Nic się w tej dziedzinie
+    nie pojawiło nowego: czytelna nawigacja, strony wejściowe,... ktoś już to wymyślił.
+    \n<br/>\n<br/>Masz poglądy z początku lat 90-tych, kiedy, śmiem twierdzić, większość
+    użytowników Internetu stanowili ludzie jakoś z branżą informatyczną związani (patrz
+    np. The Well). Gdzie nikogo nie musiałeś przekonywać, że topposting jest beee,
+    że win-1250 jest beee, że NNTP to grupy, itd... \n<br/>\n<br/>Internetowa tłuszcza,
+    która obecnie odwiedza serwisy jest w tych sprawach nieoświecona, i taka chce
+    pozostać. En masse, ich nie obchodzi czytelność serwisu bo nie szukają informacji,
+    szukają rozrywki i kontaktu.\n<br/>\n<br/>A teraz rozerwijcie mnie na strzępy...
+    ;-)"
+- id: 1855
+  author: Patrys
+  author_url: ''
+  date: '2005-07-26 09:45:42 +0200'
+  date_gmt: '2005-07-26 09:45:42 +0200'
+  content: |-
+    Ja piszę o usability serwisów, a nie o marketingu. Czytelność a wciskanie klientowi &quot;choinki&quot; to dwie różne rzeczy.
+    <br/>
+    <br/>Klient kupi to, co oferuje rynek. Nie wiem, czy obserwujesz to, co dzieje się mniej-więcej od dwóch lat w branży serwisów korporacyjnych wielkiej Ameryki. Wraca moda na minimalizm, duży whitespace i usability. To samo będzie się niedługo działo i u nas, pierwsze kroki, mania walidacyjna i wsparcie dla Firefoksa, już za nami.
+- id: 1856
+  author: paczor
+  author_url: ''
+  date: '2005-07-26 12:10:07 +0200'
+  date_gmt: '2005-07-26 12:10:07 +0200'
+  content: A jakieś przykłady, bo szczerze mówiąc nie oglądam amerykańskich serwisów
+    korp.?
+- id: 1857
+  author: Qwiat
+  author_url: ''
+  date: '2005-07-27 21:47:35 +0200'
+  date_gmt: '2005-07-27 21:47:35 +0200'
+  content: |-
+    Masz rację Paczor, zasada popytu/podaży wygra zawsze z dobrym gustem, rozsądkiem i wygodą odwiedzających. To że klienci nie zechcą odwiedzać strony to już problem &quot;prezesa&quot;, jak kasa w kieszeni to możemy mieć wszytsko w dupie.
+    <br/>
+    <br/>Dla mnie to obojętne jak strona wygląda, byle by miała dobrą nawigację.
+    <br/>
+    <br/>Od wyglądu bardziej potrafią mnie zdenerwować małe czcionki. Na stronie Aurory mogły by mieć ze 150%-200% więcej wysokości, trzeba pamiętać że monitory mają w porywach do 90 DPI.
+    <br/>
+    <br/>Całe sczęście mam firefoxa i skrót &quot;ctrl&quot; + &quot;+&quot;, zwykle wtedy rozpada się layout, ale wto już problem twórcy strony :)
+- id: 1858
+  author: Mikołaj
+  author_url: ''
+  date: '2005-07-31 22:06:51 +0200'
+  date_gmt: '2005-07-31 22:06:51 +0200'
+  content: |-
+    Rzeczy naprawdę irytytujących (a przy okazji przeszkadzających użytkownikowi) jest sporo. Mnie wkurzają dwie:
+    <br/>
+    <br/>1. Za małe litery. Być może &#039;dizajn&#039; jest śliczny, ale wiele osób będzie miało problemy z przeczytaniem takiego tekstu. Firefox pozwala na szybkie jego powiększenie, ale nadal 75% rynku to IE.
+    <br/>BTW - komentarze tutaj mają zbyt małą czcionkę.
+    <br/>
+    <br/>2. Uzupełnieniem powyższego jest nagminnie stosowany zbyt mały kontrast między kolorami tła, a kolorami liter. Szare litery (#888888) na białym tle to naprawdę nie jest czytelny tekst.
+    <br/>
+    <br/>Oczywiście oczoj... kochliwe kolorki, animacje Flashowe, kretyńska nawigacja (kocham menu w Javie) etc. są drażniące, ale to temat na znacznie większą debatę.
+- id: 1859
+  author: Twoja Stara
+  author_url: ''
+  date: '2005-08-04 11:57:51 +0200'
+  date_gmt: '2005-08-04 11:57:51 +0200'
+  content: Chyba twoja !!!
+- id: 1860
+  author: jpc
+  author_url: ''
+  date: '2005-08-11 20:04:23 +0200'
+  date_gmt: '2005-08-11 20:04:23 +0200'
+  content: |-
+    Przykład? Może najpopularniejsza strona na świecie --- google.com (strzelam, ale wątpie, bym się mylił)?
+    <br/>
+    <br/>Ogólnie, wydaje mi się, że ta firma łamie wszystkie mity-uznawane-powszechnie-za-prawdę dotyczące marketingu.
+---
+<p>Jak najłatwiej poznać stronę, która była robiona dla właściciela a nie dla jego klientów? Przypomina kompostowisko. Znajdziesz tam wszystko, jest kolorowo, migocząco, tylko nikt nie chce tam chodzić. Całe szczęście, że internet jeszcze nie potrafi transportować zapachów. Przeprojektowane i przeładowane serwisy przytłaczają już po kilku sekundach od wejścia. Ich główny problem polega na tym, że jest tam tak dużo obiektów przyciągających oko, że w efekcie nie widzimy nic.</p>
+
+<p>Jak dobrze zaprojektować serwis? Najlepiej zacząć od projektu w programie obsługującym warstwy. Wśród zawodowych designerów dominują produkty Adobe i Macromedii (choć w tej chwili to już jedna firma). Wykonaj pełny projekt z rozwarstwieniem elementów graficznych (i tak jest to potrzebne do późniejszego pokrojenia projektu do <abbr title="HyperText Markup Language">HTML</abbr>), a następnie popatrz na efekt swojej pracy. Zapisz wynik i wykonaj jego kopię. Teraz w kopii po kolei wyłączaj wszystkie elementy dekoracyjne, jak gradienty czy obrazy tła. Najlepiej na tym etapie zaprosić do pomocy kogoś, kto nie ma zielonego pojęcia, że twój layout jest wspaniały. Porównując oryginał i kopię, ustalcie, które elementy są zbędne.</p>
+
+<p>Po kilku/kilkunastu takich podejściach nauczysz się myśleć w kategoriach użyteczności wizualnej, a nie samej estetyki. Popatrz, które elementy przyciągają wzrok i zastanów się, czy to właśnie one powinny skupiać na sobie uwagę odwiedzającego. Zastanów się, jakich informacji będzie szukał, bo zapewniam, że 99% gości nie wpadnie podziwiać designu. Pracuj nad jednolitą symboliką i kolorystyką. Fakt, że masz akurat pomysł na 25 świetnych bulletów nie oznacza, że każdy bullet na stronie powinien wyglądać inaczej. Unikaj zbędnych animacji, są jak płyta CD na przednim lusterku malucha - były modne w 1996, ale dziś tylko irytują.</p>
+
+<p>Pracuj nad układem informacji. Elementy zmieniające się najczęściej (jak aktualności na stronie głównej) powinny być łatwo zauważalne, a przede wszystkim powinny zaczynać się na pierwszym ekranie bez potrzeby przewijania. Jeśli strona na pierwszy rzut oka wygląda identycznie, odwiedzający założy, że nic się tam nie zmieniło.</p>
+
+<p>Stosuj spójną nawigację. Najlepiej, jeśli oddaje ona strukturę serwisu. Nie ma powodu, dla którego każda strona serwisu miałaby linkować do wszystkich pozostałych. Najważniejsze jednak, aby odwiedzający w każdym momencie wiedział, w jakim miejscu się znajduje.</p>
+
+<p>Myśl w kategoriach stron wejściowych. Goście będą odwiedzać twój serwis za pośrednictwem linków z wyszukiwarek, trafić mogą w dowolne miejsce i rzadko będzie to strona główna. Czy będą wiedzieć, gdzie się znajdują i gdzie szukać powiązanych informacji? Czy żadna ze stron nie jest ślepym zaułkiem?</p>
+
+<p>Jeśli dany dokument jest dostępny w kilku językach, to poinformuj o tym, nikomu nie będzie chciało się przejść na stronę główną w poszukiwaniu przełącznika wersji językowych, a przede wszystkim upewnij się, że przełączanie wersji językowych pozostawia użytkownika na tej samej stronie. Bardzo denerwują serwisy, gdzie klikamy link do polskiej wersji strony tylko po to, żeby znaleźć się nagle na stronie głównej serwisu, nie mając pojęcia o tym, jak dotrzeć do interesującego nas dokumentu.</p>
+
+<p>Podsumowując - postaw się na miejscu użytkownika odwiedzającego serwis, grafika pełni tu rolę drugoplanową i jej głównym zadaniem powinno być wyróżnienie poszczególnych elementów strony i kierowanie uwagą czytającego. Często sprawdza się w tej dziedzinie zupełny minimalizm, dowodem może być jeden z najczytelniejszych moim zdaniem serwisów - <a href="http://auroraproject.sourceforge.net/">Aurora Desktop</a>.</p>

@@ -1,0 +1,170 @@
+---
+layout: post
+status: publish
+published: true
+title: Nasz klient na szpan
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 154
+date: 2005-09-12 21:35:51.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 2113
+  author: Łukasz Grabuń
+  author_url: ''
+  date: '2005-09-12 21:48:56 +0200'
+  date_gmt: '2005-09-12 21:48:56 +0200'
+  content: |-
+    Patryk, miło, że i Ty się jakoś odnosisz do tego, co wypociłem.
+    <br/>
+    <br/>Kilka uwag, jeśli pozwolisz: po pierwsze, klient (och!) ma jak najbardziej prawo do tak wybrania środowiska programistycznego, jak i narzucenia technik implementacyjnych, bo mu, na przykład, kaskada się nie podoba, ma do tego kupionego RUP-a więc fajnie by było, jakby tworzyło się wszystko właśnie tak, w oparciu o Oracle, bo czemu nie. Porównując do kafelkarza: ma być Cekol, a krzyżyki na dwa milimetry i tak, przyjdę dopilnować. I kwiat główkami do siebie, a nie doniczkami.
+    <br/>
+    <br/>I nie, nie porównuję systemów CMS do tych czasu rzeczywistego.
+    <br/>
+    <br/>Czasem - wiem z doświadczenia - sam klient, nie, nie klient, już dosyć tego słowa, użytkownik podsyła gotowe rozwiązania, w formie, chociażby specyfikacji, przypadków użycia, zamodelowanym w Designerze procesów, i chce mieć coś zrobione tak i tak. To przypadek drugi z mojego wpisu. Ingerencja jest czasem konieczna, bo chyba nie powiesz, Patryk, że to wykonawca ma zawsze rację, bo to jest nieprawda. I nie chodzi o pieniądze, że niby kto płaci, ten wymaga, ale - jak już napisałem - często klient wie lepiej. Naprawdę.
+    <br/>
+    <br/>Cała reszta, w szczególności ostatni akapit, prawda, obiektywne fakty, może raczej, jako takie dyskusji nie podlegające.
+- id: 2114
+  author: Patrys
+  author_url: ''
+  date: '2005-09-12 21:56:42 +0200'
+  date_gmt: '2005-09-12 21:56:42 +0200'
+  content: |-
+    Klient - słowo jak najbardziej poprawne merytorycznie w kontekście kupowania usług bądź produktów.
+    <br/>
+    <br/>Co do use-case - oczywiście, klient może ci powiedzieć i upewnić cię w przekonaniu, że tak będzie lepiej, jednak większość przychodzi ze słowami &quot;jeszcze większe logo&quot;, &quot;nagłówek na 2/3 strony&quot;, &quot;newsy niżej&quot;, &quot;menu ma błyskać i robić DING&quot;. To z takich klientów się webdeweloperzy śmieją i to o nich krążą legendy.
+    <br/>
+    <br/>Jeśli klient faktycznie pomaga nam w procesie budowy, to nikt złego słowa o nim nie powie, denerwujący są tylko tacy, którzy &quot;gdzieś usłyszeli&quot; albo &quot;czytali, że to jest na topie&quot; (&quot;a mój siostrzeniec też kiedyś zrobił stronę we FrontPage&quot;).
+- id: 2115
+  author: shadzik
+  author_url: ''
+  date: '2005-09-12 22:03:56 +0200'
+  date_gmt: '2005-09-12 22:03:56 +0200'
+  content: Masz rację. Tyle, że widzisz... nowobogacki klient (a jest ich w ch** i
+    troche) wmawia kafelkarzowi jak ma kłaść kafelki i to jemu nie wmówisz żeby zatkał
+    ryj :( ale są też normalni :)
+- id: 2116
+  author: Łukasz Grabuń
+  author_url: ''
+  date: '2005-09-12 22:26:47 +0200'
+  date_gmt: '2005-09-12 22:26:47 +0200'
+  content: '@Patryk: zapomniałem dodać - udana trawestacja.'
+- id: 2117
+  author: nbw
+  author_url: ''
+  date: '2005-09-12 22:30:13 +0200'
+  date_gmt: '2005-09-12 22:30:13 +0200'
+  content: Cóż, u mnie klient zapytał, czy ogłoszenie na stronie możemy zrobić czcionką
+    &quot;półgrubą&quot;, bo gruba jest za gruba.
+- id: 2118
+  author: Patrys
+  author_url: ''
+  date: '2005-09-12 22:33:27 +0200'
+  date_gmt: '2005-09-12 22:33:27 +0200'
+  content: |-
+    nbw:
+    <br/>
+    <br/>A to akurat będzie do zrobienia, jak tylko silniki renderujące zaczną prawidłowo wspierać font-weight (w tej chwili awykonalne ze względu na ograniczone możliwości Windows i biblioteki freetype) :D
+- id: 2119
+  author: nbw
+  author_url: ''
+  date: '2005-09-12 22:34:42 +0200'
+  date_gmt: '2005-09-12 22:34:42 +0200'
+  content: |-
+    Jasne, wiem. Ale on chciał to _TERAZ_ a nie za x czasu :)
+    <br/>
+    <br/>Chociaż z drugiej strony, to przydałaby się wyższa rozdzielczość.
+- id: 2120
+  author: kiesiu
+  author_url: ''
+  date: '2005-09-12 22:40:48 +0200'
+  date_gmt: '2005-09-12 22:40:48 +0200'
+  content: |-
+    Myślę, że ci wszyscy klienci o których opowiada się anegdoty i z którymi były &quot;problemy&quot; to tak naprawdę niewielka w sumie grupa ludzi, którzy właściwie nie wiedzą czego by chcieli. Ale bardzo często uważają, że zdecydowanie znają się na tym co zlecają innym.
+    <br/>Ale to chyba taka polska przypadłość... Każdy jest lekarzem, politykiem, trenerem polskich piłkarzy... a w niedalekiej przyszłości także informatykiem... no i zdecydowanie wie lepiej niż inni.
+- id: 2121
+  author: Woo
+  author_url: ''
+  date: '2005-09-12 23:02:51 +0200'
+  date_gmt: '2005-09-12 23:02:51 +0200'
+  content: |-
+    &quot;Kiedy zamawiam do domu kafelkarza (...) Wierzę, że efekt będzie taki, jaki zamówiłem. &quot;
+    <br/>
+    <br/>Yhm... Kumpel też wierzył... teraz skuwa dwie ściany i podłogę łazienki...
+- id: 2122
+  author: littleb
+  author_url: ''
+  date: '2005-09-13 21:17:20 +0200'
+  date_gmt: '2005-09-13 21:17:20 +0200'
+  content: '&quot;Dystansowniki&quot; sa dla amatorów ;P'
+- id: 2123
+  author: jarv
+  author_url: ''
+  date: '2005-09-13 21:23:02 +0200'
+  date_gmt: '2005-09-13 21:23:02 +0200'
+  content: heh - Woo - kwestia trafienia kafelkarza, a nie fuszera.
+- id: 2124
+  author: Elsindel
+  author_url: ''
+  date: '2005-09-14 15:34:52 +0200'
+  date_gmt: '2005-09-14 15:34:52 +0200'
+  content: 'Właściwie, Patrys, to w jakiej firmie robicie coś z usability? I co konkretnie:
+    konsulting, czy po prostu podczas tworzenia serwisu zwracasz (zwracacie) uwagę
+    na to, co trzeba? Jakieś testy z uzytkownikami? A przewodniki stylu kiedyś wykorzystywałeś?'
+- id: 2125
+  author: mroczek złocisty
+  author_url: ''
+  date: '2005-09-15 13:15:27 +0200'
+  date_gmt: '2005-09-15 13:15:27 +0200'
+  content: "A co jesli większa firma programistyczna zleci mniejszej podwykonawstwo
+    według ściśle określonego projektu? W końcu to też klient, a na pewno będzie się
+    czepiał formy wykonania.\n<br/>\n<br/>Pojawiają się wtedy rozbieżności w tym co
+    dobre dla mniejszej firmy jako &quot;nowatorskiego lelka wśród firm webdeweloperskich&quot;,
+    a oczekiwaniami klienta. \n<br/>\n<br/>Oczywiście nie zmienia to wszystko faktu,
+    że Łukasz Grabuń poczucia humoru chyba nie posiada.."
+- id: 2126
+  author: Patrys
+  author_url: ''
+  date: '2005-09-15 22:45:06 +0200'
+  date_gmt: '2005-09-15 22:45:06 +0200'
+  content: |-
+    Elsindel:
+    <br/>
+    <br/>Jako niedużej (w sensie zatrudnienia) firmy, nie stać nas na testy terenowe z użytkownikami, więc dokładamy (ja i grafik) wszelkich starań, żeby śledzić na bieżąco wyniki badań prowadzonych przez większe firmy i instytuty. Myślę, że lepsze to niż nic.
+- id: 2127
+  author: jarv
+  author_url: ''
+  date: '2005-09-15 22:56:02 +0200'
+  date_gmt: '2005-09-15 22:56:02 +0200'
+  content: najlepsze jest to, ze ostatnio gdzies czytalem , ze stwierdzenie - &#039;nie
+    stac nas na testy terenowe&#039; jest wymowka....ale z drugiej strony - to nie
+    tyle kwestia naszej woli, ile woli Gory. a Gora - jak zwykle - chce szybko, o
+    czym obaj doskonale wiemy - i w efekcie, za kroliki estowe rzeczy, ktore sami
+    wymyslilismy, robimy sami.
+- id: 2128
+  author: Warlock
+  author_url: ''
+  date: '2005-09-26 18:46:21 +0200'
+  date_gmt: '2005-09-26 18:46:21 +0200'
+  content: '&quot;Ufam temu, że on - będąc kafelkarzem od X lat - wie, co ma zrobić
+    i jak. Wierzę, że efekt będzie taki, jaki zamówiłem.&quot; - inteligetny klient
+    by sie tak zachował, ale nie miałes chyba jeszcze doczynienia z bardzo topornymi
+    klientami'
+---
+<p>Pozwolę sobie publicznie polemizować z <a href="http://grabun.com/blog/2005/09/klient-nasz-pan/">komentarzem kolegi Grabunia</a> odnośnie <a href="http://patrys.jogger.pl/comment.php?eid=145849">innej mojej notki</a>. Łukasz zdaje się nie przejawiać poczucia humoru albo też nie pracuje z klientami tego typu.</p>
+
+<p>Nazwy typu <em>masta-hacka</em> pominę, jako że śmiać się umiem, nie zgodzę się jednak z głównym przesłaniem notki - klientowi wszystko wolno. Oczywiście, że klient płaci i klient może wymagać, ale z całą pewnością nie ma prawa wymagać formy implementacji.</p>
+
+<p>Kiedy zamawiam do domu kafelkarza (A czemu zamawiam? Bo sam nie potrafię), daję mu kafelki i oczekuję, że je położy. Nie stoję nad nim i nie mówię mu, że dystansowniki są krzywo, że klej nie taki, a fuga za grubo położona i pewnie nie zejdzie po zaschnięciu. Ufam temu, że on - będąc kafelkarzem od X lat - wie, co ma zrobić i jak. Wierzę, że efekt będzie taki, jaki zamówiłem.</p>
+
+<p>Porównywanie systemów <abbr title="Content Management System">CMS</abbr> do systemów czasu rzeczywistego to raczej chybiony dowcip, bo to jak powiedzenie, że wspomniany kafelkarz powinien zamknąć dziób i słuchać klienta - wszak nie stawia on elektrowni atomowych. Co zaś się tyczy teorii, że powinniśmy się cieszyć z faktu, że klient do nas trafił - bzdura, często zdarza nam się odrzucać zlecenia, a głodem jakoś nie przymieramy. Nie prowadzimy agencji towarzyskiej i nie każdy musi zostać obsłużony, zapychanie swojego portfolio serwisami za 100 złotych nie poprawia niczyjego wizerunku.</p>
+
+<p>Ustalenia z klientami i customer-driven-development - jak najbardziej, pod warunkiem, że obie strony nie ingerują wzajemnie w swoje strefy kompetencji. Klient bardzo często zapraszany jest do testów na wielu etapach realizacji i zawsze ma możliwość zgłoszenia swoich uwag, jednak my dbamy o znalezienie złotego środka pomiędzy jego wizją, a tym, czego oczekują internauci i co mieści się w normach web usability.</p>
+
+<p>Co tyczy się standardów - ostatnio jest o tym dość głośno i fakt, że realizujemy systemy zgodne z nowoczesnymi przeglądarkami i przy zachowaniu standardów, jest naszym atutem przy negocjacjach. Ta część nie podlega nawet negocjacjom.</p>
+
+<p>To tyle, jeśli chodzi o komentarz, zgodzę się z tym, że do projektowania serwisów bardziej przydają się zdolności graficzne niż programistyczne, ale do budowania prawdziwych serwisów <abbr title="World Wide Web">WWW</abbr> potrzeba dużo więcej niż ładny projekt - technologie server-side, projektowanie systemów bazodanowych, semantyczna składnia (nie tylko jako sztuka dla sztuki, ale dająca wymierne korzyści w wyszukiwarkach i w łatwości zarządzania serwisem), czy technologie wspierające (JavaScript, <abbr title="Simple Object Access Protocol">SOAP</abbr>, <abbr title="Asynchronous JavaScript And XML">AJAX</abbr>). Jeśli czyjeś umiejętności webdeweloperskie kończą się na ładnym splashu i kilku linijkach <abbr title="PHP Hypertext Preprocessor">PHP</abbr> z kodem <abbr title="HyperText Markup Language">HTML</abbr> generowanym inline, to z niego jest za przeproszeniem dupa, nie webdeveloper.</p>

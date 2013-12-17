@@ -1,0 +1,50 @@
+---
+layout: post
+status: publish
+published: true
+title: Miłośnicy Uniksów
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 133
+date: 2005-07-19 19:59:53.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1842
+  author: Jajcus
+  author_url: ''
+  date: '2005-07-19 20:11:03 +0200'
+  date_gmt: '2005-07-19 20:11:03 +0200'
+  content: Fuj... Flash. :-(
+- id: 1843
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2005-07-19 21:27:06 +0200'
+  date_gmt: '2005-07-19 21:27:06 +0200'
+  content: Fuj... Co za pr0n... :)
+- id: 1844
+  author: Wampirek
+  author_url: ''
+  date: '2005-07-19 22:21:47 +0200'
+  date_gmt: '2005-07-19 22:21:47 +0200'
+  content: No panie, takie rzeczy na joggu... ;)
+- id: 1845
+  author: shadzik
+  author_url: ''
+  date: '2005-07-20 00:02:10 +0200'
+  date_gmt: '2005-07-20 00:02:10 +0200'
+  content: Hehe, no cóż, widocznie Unix znaczy po francusku sex lub coś w tym stylu
+    :)
+- id: 1846
+  author: rorio
+  author_url: ''
+  date: '2005-07-20 13:26:26 +0200'
+  date_gmt: '2005-07-20 13:26:26 +0200'
+  content: 'Znam coś lepszego: Hot Hat.... Google it!'
+---
+<p>Dokonywałem właśnie przed chwilą rutynowego przeglądu swojego MLDonkeya (pomińmy tu względy moralne tej wypowiedzi), upewniając się, że wśród połączonych serwerów znajduje się Razorback. Uwagę mą przykuł jednak jeden z pozostałych serwerów, o bardzo wdzięcznej nazwie domeny.</p>
+
+<p>Wszystkich równie ciekawych od razu uprzedzam, że wbrew swojej nazwie, serwis <a rel="nofollow" href="http://www.unixlovers.net/">www.unixlovers.net</a> zawiera... francuskie materiały o charakterze wysoce erotycznym (żeby nie powiedzieć, że zwykłe porno).</p>

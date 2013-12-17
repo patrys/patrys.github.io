@@ -1,0 +1,194 @@
+---
+layout: post
+status: publish
+published: true
+title: Praca z klientami
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 152
+date: 2005-09-04 13:07:06.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 2082
+  author: Adam Woś
+  author_url: ''
+  date: '2005-09-04 13:10:36 +0200'
+  date_gmt: '2005-09-04 13:10:36 +0200'
+  content: ":] \n<br/>Ty tłumaczyłeś? Jeśli tak, to 75 stóp = 25 metrów ;)"
+- id: 2083
+  author: Reinmar
+  author_url: ''
+  date: '2005-09-04 13:12:21 +0200'
+  date_gmt: '2005-09-04 13:12:21 +0200'
+  content: |-
+    Kiedyś bardzo podobny tekst czytałem w CD-Action, ale tytuł brzmiał mniejwięcej: Co by było, gdyby architekci pracowali tak jak programiści?
+    <br/>
+    <br/>I teraz, i wtedy nieźle się uśmiałem :D
+- id: 2084
+  author: Dentharg
+  author_url: ''
+  date: '2005-09-04 13:35:39 +0200'
+  date_gmt: '2005-09-04 13:35:39 +0200'
+  content: To tylko świadczy o tym, jak architekci mają łatwo ;)
+- id: 2085
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-09-04 13:55:31 +0200'
+  date_gmt: '2005-09-04 13:55:31 +0200'
+  content: |-
+    :)
+    <br/>To też jest dobre:
+    <br/>http://www.uoregon.edu/~ftepfer/SchlFacilities/TireSwingTable.html
+- id: 2086
+  author: Adam Woś
+  author_url: ''
+  date: '2005-09-04 13:57:53 +0200'
+  date_gmt: '2005-09-04 13:57:53 +0200'
+  content: 'Ooo, a to znam jeszcze po polsku, tyle że z dodatkowym slajdem: &quot;za
+    co klient zapłacił&quot; - i obok wielki merry-go-round ;)'
+- id: 2087
+  author: siwa
+  author_url: ''
+  date: '2005-09-04 16:13:17 +0200'
+  date_gmt: '2005-09-04 16:13:17 +0200'
+  content: To dotyczy również DTPu :/
+- id: 2088
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-09-04 16:18:26 +0200'
+  date_gmt: '2005-09-04 16:18:26 +0200'
+  content: |-
+    @siwa: Więc pewnie znasz te prawa ;)
+    <br/>http://www.murphys-laws.com/murphy/murphy-Graphic_Design.htm
+- id: 2089
+  author: TOR
+  author_url: ''
+  date: '2005-09-04 17:34:26 +0200'
+  date_gmt: '2005-09-04 17:34:26 +0200'
+  content: ROTFL. Patrys, możesz podać linka do oryginału?
+- id: 2090
+  author: Patrys
+  author_url: ''
+  date: '2005-09-04 17:37:04 +0200'
+  date_gmt: '2005-09-04 17:37:04 +0200'
+  content: http://www.derailer.org/clientquotes/ - numeru nie pamiętam, kiedyś to
+    widziałem na forum, które teraz tam jest mirrorowane (sam wątek o klientach) z
+    tego, co przeczytałem w stopce.
+- id: 2091
+  author: DarkStar blog.krakowiacy.info
+  author_url: ''
+  date: '2005-09-04 21:32:12 +0200'
+  date_gmt: '2005-09-04 21:32:12 +0200'
+  content: Ja widząc słowo &#039;architekt&#039; pomyślałem właśnie o programiście
+    projektującym systemy informatyczne. Zboczenie zawodowe, cóż.
+- id: 2092
+  author: ramzes
+  author_url: ''
+  date: '2005-09-05 18:07:57 +0200'
+  date_gmt: '2005-09-05 18:07:57 +0200'
+  content: Po szkole sredniej zaczalem studiowac architekture, ale po kilku latach
+    wyobrazilem sobie taki scenariusz. Zmienilem uczelnie i skonczylem grafike. Projektuje
+    wiec grafike, ale... czuje sie jak taki wlasnie architekt. To przykry przyklad
+    na typowego klienta w wiekszosci branz :(
+- id: 2093
+  author: mig
+  author_url: ''
+  date: '2005-09-07 11:40:02 +0200'
+  date_gmt: '2005-09-07 11:40:02 +0200'
+  content: |-
+    Mnie rozbawil wczoraj ten komiks:
+    <br/>http://images.ucomics.com/comics/nq/2005/nq050906.gif
+    <br/>
+- id: 2094
+  author: mormir
+  author_url: ''
+  date: '2005-09-19 22:32:49 +0200'
+  date_gmt: '2005-09-19 22:32:49 +0200'
+  content: 'chciało by się aż dodac: Proszę Pana - takie rzeczy to tylko w erze mają
+    ;)'
+- id: 2095
+  author: dxOne
+  author_url: ''
+  date: '2005-10-07 06:13:45 +0200'
+  date_gmt: '2005-10-07 06:13:45 +0200'
+  content: i zasmażka
+- id: 2096
+  author: YaaL
+  author_url: ''
+  date: '2005-10-21 17:40:00 +0200'
+  date_gmt: '2005-10-21 17:40:00 +0200'
+  content: |-
+    Oryginał chyba tutaj:
+    <br/>http://diffidence.org/wp/archives/2004/10/if-architects-worked-like-web-designers/
+- id: 2097
+  author: Patrys
+  author_url: ''
+  date: '2005-10-21 19:22:28 +0200'
+  date_gmt: '2005-10-21 19:22:28 +0200'
+  content: YaaL, masz rację, dzięki.
+- id: 3717
+  author: fuutott
+  author_url: http://fuutott.net
+  date: '2006-05-18 10:53:09 +0200'
+  date_gmt: '2006-05-18 09:53:09 +0200'
+  content: "a tutaj rzeczona lodówka gibsona\r\nhttp://www.adclassix.com/images/47gibson.jpg"
+- id: 3718
+  author: marmez
+  author_url: ''
+  date: '2006-05-18 12:05:41 +0200'
+  date_gmt: '2006-05-18 11:05:41 +0200'
+  content: "świetne. \r\n\r\nale z którejś tam strony gdyby projekty stron interntowych
+    musialy spełniać tyle norm co projekty budowni, i przechodzić przez tyle urzędów
+    i posiadać tyle zgód, to by działały pożądnie ale bylo by ich ze 100 tys razy
+    mniej. :) no i o ile droższe..."
+- id: 3720
+  author: radzio
+  author_url: http://radziu.jogger.pl
+  date: '2006-05-18 13:23:41 +0200'
+  date_gmt: '2006-05-18 12:23:41 +0200'
+  content: "genialne!\r\n\r\njeszcze tylko brakuje W3H (W3Home) :]"
+- id: 4568
+  author: matheooosh
+  author_url: http://www.karasinski.org
+  date: '2006-09-02 16:03:26 +0200'
+  date_gmt: '2006-09-02 15:03:26 +0200'
+  content: "skąd ja to znam ;]\r\n\r\nsłów mi brak. sama prawda! :)"
+- id: 6345
+  author: łii
+  author_url: ''
+  date: '2007-01-25 23:43:56 +0100'
+  date_gmt: '2007-01-25 22:43:56 +0100'
+  content: "tutaj pełen proces dla huśtawki: \r\nhttp://img183.imageshack.us/img183/7606/35117gc.jpg
+    ;)"
+---
+<p>Wczoraj przypadkiem trafiłem na tekst, który kiedyś rozbawił mnie do łez. Co by było, gdyby architekci pracowali tak jak firmy webdesignerskie? Poniżej luźne tłumaczenie na polski:</p>
+
+<blockquote><p>Drogi Panie Architekcie,</p>
+
+<p>Proszę zaprojektować i zbudować dla mnie dom. Nie jestem jeszcze zupełnie pewien, czego dokładnie potrzebuję, więc proszę oprzeć się na swoim doświadczeniu. Mój dom powinien mieć gdzieś pomiędzy dwoma a czterdziestoma pięcioma sypialniami. Planując, proszę upewnić się, że sypialnie mogą być w łatwy sposób dodawane i usuwane. Kiedy przyniesie Pan gotowe plany, podejmę ostateczną decyzję. Proszę też o dokładny kosztorys każdej konfiguracji, żebym mógł wybrać właściwie.</p>
+
+<p>Proszę pamiętać, że dom, na który się zdecyduję, musi kosztować mniej niż ten, w którym obecnie mieszkam. Proszę również mieć na uwadze, że chciałbym pozbyć się wszelkich wad, jakimi obarczony jest mój obecny dom.</p>
+
+<p>W czasie planowania powinien Pan mieć na względzie fakt, że chciałbym zachować roczne koszty utrzymania tak nisko, jak to tylko możliwe. Powinno to oznaczać zastosowanie droższych technologii, jak aluminium czy winyl. Jeśli nie zdecyduje się Pan na zastosowanie aluminium, proszę przygotować się na to, że będę oczekiwał wyczerpujących wyjaśnień dotyczących podłoża tej decyzji.</p>
+
+<p>Proszę upewnić się, że najnowsze trendy i najnowocześniejsze materiały zostaną użyte przy konstrukcji, jako że chcę aby mój dom stał się synonimem nowoczesności i bycia na czasie. Powinien wiedzieć Pan jednak, że kuchnia musi pasować do wielu z moich mebli, w tym do lodówki Gibsona z 1952. roku.</p>
+
+<p>Aby upewnić się, że buduje Pan najlepszy dom dla całej naszej rodziny, musi Pan z pewnością skontaktować się z każdym z naszych dzieci i z naszymi teściami. Moja teściowa będzie z pewnością miała własne wyobrażenie o tym, jak dom powinien wyglądać, gdyż odwiedza nas przynajmniej raz do roku. Powinien Pan upewnić się, że przy podejmowaniu decyzji weźmie pod uwagę wszystkie te opinie. Zastrzegam sobie jednak prawo do zmiany każdej podjętej przez Pana decyzji.</p>
+
+<p>Niech Pan nie zawraca mi głowy detalami na tym etapie projektowania. Pańska praca polega na wykonaniu ogólnych planów domu. Jest jeszcze za wcześnie na podejmowanie decyzji np. odnośnie koloru dywanu. Proszę jednak mieć na uwadze, że moja żona lubi niebieskie.</p>
+
+<p>Proszę również nie przejmować się organizacją materiałów, maszyn i siły roboczej. Głównym priorytetem jest w tej chwili wykonanie szczegółowych planów i specyfikacji. Kiedy jednak zaakceptuję plany, oczekuję, że nie będzie stanowić problemu zakończenie budowy w ciągu następnych 48 godzin.</p>
+
+<p>Kiedy projektuje Pan ten dom dla mnie, proszę pamiętać, że prędzej czy później, będę zmuszony sprzedać go komuś innemu. Musi on więc być atrakcyjny dla każdego potencjalnego nabywcy. Przed zamknięciem planów, powinien się Pan zatem upewnić, że dom podoba się bezwzględnej większości mieszkańców mojej okolicy. Zachęcam również do obejrzenia domu zbudowanego w zeszłym roku przez mojego sąsiada. Bardzo nam się podoba i posiada wiele dodatków, które z radością powitamy w naszym nowym domu, zwłaszcza basen długości 75 stóp. Posługując się inżynierią z wprawą i delikatnością, wierzę, że uda się Panu wpleść go do projektu bez wpływu na koszt całości.</p>
+
+<p>Proszę przygotować komplet planów architektonicznych. W tym momencie szczegółowe plany wnętrza nie są konieczne, gdyż plany posłużą tylko do wyceny kosztów konstrukcji. Niech będzie Pan jednak świadom, że pokryje Pan wszelkie dodatkowe koszty konstrukcji wymuszone przez ewentualne zmiany projektu wnętrza.</p>
+
+<p>Z pewnością jest Pan podekscytowany, mogąc pracować przy tak interesującym projekcie! Ma Pan teraz możliwość skorzystania z najnowszych rozwiązań i materiałów, a jednocześnie zachowuje Pan tak ogromną swobodę działania, co nie jest zbyt częste. Proszę skontaktować się ze mną tak szybko, jak tylko będzie Pan gotów przedstawić komplet swoich planów i pomysłów.</p>
+
+<p>PS: Moja żona właśnie powiedziała mi, że zupełnie nie zgadza się z dużą częścią powyższych instrukcji i wymagań. Jako że jest Pan architektem, do Pana obowiązków będzie należało rozstrzygnięcie tej różnicy zdań. Sam wielokrotnie próbowałem w przeszłości, jednak nigdy mi się nie udało. Jeśli nie potrafi Pan podjąć się tego, poszukam innego architekta.</p>
+
+<p>PPS: Właściwie, może ja wcale nie potrzebuję domu, tylko chodzi mi o przyczepę kempingową? Jeśli tak, to proszę mnie o tym powiadomić tak szybko, jak to możliwe.</p></blockquote>

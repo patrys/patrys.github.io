@@ -1,0 +1,123 @@
+---
+layout: post
+status: publish
+published: true
+title: Human Condition - kolejny wolnodostępny szablon dla Joggera
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 117
+date: 2005-06-28 22:27:56.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1507
+  author: riddle
+  author_url: ''
+  date: '2005-06-28 22:31:45 +0200'
+  date_gmt: '2005-06-28 22:31:45 +0200'
+  content: Nice, nice... i ten duch współpracy i dawania z siebie kocham w necie.
+    :) Zacredituję Cię w moim poradniku do szablonów Joggera. :&gt;
+- id: 1508
+  author: Egree
+  author_url: ''
+  date: '2005-06-28 22:34:23 +0200'
+  date_gmt: '2005-06-28 22:34:23 +0200'
+  content: Czy tekst ma być wysunięty z prawej strony w stosunku do  niebieskiego
+    paska zawierającego godzinę i datę wpisu?
+- id: 1509
+  author: Reinmar
+  author_url: ''
+  date: '2005-06-28 22:37:11 +0200'
+  date_gmt: '2005-06-28 22:37:11 +0200'
+  content: "Hym...\n<br/>Mało czytelne to to. Wszystko jest o ciupinkę za małe...
+    Ja bym zwiększył trochę rozmiary czcionek. \n<br/>Chociaż, to może jest spowodowane
+    tym, że nie mam czcionkek wymienianych przez Ciebie jako pierwsze."
+- id: 1510
+  author: Bellois
+  author_url: ''
+  date: '2005-06-28 23:50:12 +0200'
+  date_gmt: '2005-06-28 23:50:12 +0200'
+  content: Szablon jest ładny, to prawda, lecz troszeczkę trudno się w nim zorientować...
+    takie osobiste wrażenie. Wymagałby pewnych poprawek. Zresztą, na jakich zasadch
+    można w nim dokonywać zmian?
+- id: 1511
+  author: Patrys
+  author_url: ''
+  date: '2005-06-29 00:46:42 +0200'
+  date_gmt: '2005-06-29 00:46:42 +0200'
+  content: |-
+    Szablon jest na GPL - tak go udostępnił autor, a mi nie wolno zmienić licencji.
+    <br/>
+    <br/>Nagłówki w oryginale też są krótsze niż tekst.
+- id: 1512
+  author: Klepa
+  author_url: ''
+  date: '2005-06-29 11:14:32 +0200'
+  date_gmt: '2005-06-29 11:14:32 +0200'
+  content: Dzięki Patrys :)
+- id: 1513
+  author: zenon
+  author_url: ''
+  date: '2005-06-29 14:21:40 +0200'
+  date_gmt: '2005-06-29 14:21:40 +0200'
+  content: |-
+    niestety dla mnie jest kompletnie nieczytelny [nie wiem dlaczego]. Brak antyaliasingu... Zresztą sam zobacz:
+    <br/>http://img262.echo.cx/img262/5126/zrzutekranu6uw.png
+    <br/>
+    <br/>Obecny design jest ładny:)
+- id: 1514
+  author: Reinmar
+  author_url: ''
+  date: '2005-06-29 14:28:50 +0200'
+  date_gmt: '2005-06-29 14:28:50 +0200'
+  content: 'Zenon: mam dokładnie to samo...'
+- id: 1515
+  author: Mleczarz
+  author_url: ''
+  date: '2005-06-29 19:12:04 +0200'
+  date_gmt: '2005-06-29 19:12:04 +0200'
+  content: moim zdaniem ładny. przynajmniej narazie wrzuciłem sobie.
+- id: 1516
+  author: vrok
+  author_url: ''
+  date: '2005-06-29 19:37:38 +0200'
+  date_gmt: '2005-06-29 19:37:38 +0200'
+  content: A dodać to do reszty dostępnych standardowo szablonów da się? :)
+- id: 1517
+  author: Patrys
+  author_url: ''
+  date: '2005-06-29 19:38:45 +0200'
+  date_gmt: '2005-06-29 19:38:45 +0200'
+  content: 'Da się, jeśli uda mi się wyczyścić kod do tego stopnia, że zmieści się
+    w szablonie uproszczonym (bez dodatkowych tagów w nagłówkach). Póki co, taki jest
+    wymóg odnośnie standardowych szablonów - źródło: Sparrow.'
+- id: 1518
+  author: Paool
+  author_url: ''
+  date: '2005-06-29 21:17:43 +0200'
+  date_gmt: '2005-06-29 21:17:43 +0200'
+  content: Sorki ale nie chce mi się szukać notki w której udostępniałeś kubricka
+    więc spytam tutaj :P Trzeba Cię powiadamiać jak się użyje szablonu? Mój uznałem
+    za brzydki i sobie pożyczyłem ten a jako że gpl to go przemalowałem. :) Ok? :)
+- id: 1519
+  author: Patrys
+  author_url: ''
+  date: '2005-06-29 21:19:03 +0200'
+  date_gmt: '2005-06-29 21:19:03 +0200'
+  content: Jasne, że nie trzeba. Szablony są darmowe i można je sobie wykorzystywać
+    i przerabiać do woli.
+- id: 1520
+  author: Paool
+  author_url: ''
+  date: '2005-06-29 21:20:52 +0200'
+  date_gmt: '2005-06-29 21:20:52 +0200'
+  content: tak też myślałem ale wolałem zapytać. ;) dobra robota, dzięki. :)
+---
+<p>Właśnie skończyłem konwersję kolejnego z bardzo ładnych moim zdaniem szablonów WordPress. Tym razem jest to Human Condition, do zobaczenia - oczywiście na żywo - <a href="http://patrys-dev.jogger.pl/">na moim blogu eksperymentalnym</a> (przynajmniej do czasu, kiedy skonwertuję kolejny szablon).</p>
+
+<p>Do pobrania <a href="http://wirusy.room-303.com/Jogger/HumanCondition/">z mojego serwera</a>.</p>
+
+<p>Poprzednio skonwertowany Kubrick (używam go tutaj) nadal jest <a href="http://wirusy.room-303.com/Jogger/Kubrick/">dostępny do pobrania</a>.</p>

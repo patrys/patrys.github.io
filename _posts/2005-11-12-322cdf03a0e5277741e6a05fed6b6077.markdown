@@ -1,0 +1,56 @@
+---
+layout: post
+status: publish
+published: true
+title: Jedna miłość
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 179
+date: 2005-11-12 18:16:37.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 2459
+  author: pmz
+  author_url: ''
+  date: '2005-11-12 18:20:40 +0100'
+  date_gmt: '2005-11-12 18:20:40 +0100'
+  content: Ehh..., gdyby tylko bilety były tańsze (choćby po 20 PLN), na pewno bym
+    się dwa razy nie zastanawiał.
+- id: 2460
+  author: Bad Kitty
+  author_url: ''
+  date: '2005-11-12 18:54:33 +0100'
+  date_gmt: '2005-11-12 18:54:33 +0100'
+  content: |-
+    PMZ: było do zrobienia, tylko wystarczyło dać ochroniarzowi, dosłownie mój człowiek za 20 pln tam wlazł
+    <br/>a koncertoss faktycznie był srogi tylko nogi do dupy wchodziły (i dalej to robią :/) bo ciężko było siedzieć przy tak zajebistej muzyce
+- id: 2461
+  author: Patrys
+  author_url: ''
+  date: '2005-11-12 18:56:38 +0100'
+  date_gmt: '2005-11-12 18:56:38 +0100'
+  content: |-
+    Mnie kolano ciągle boli (ale bolało i 2 tygodnie wcześniej, więc jest w porządku).
+    <br/>
+    <br/>NDK trochę spsuli koncert, bo wszystkie bujające kawałki zagrali na początek.
+    <br/>
+    <br/>BTW: każdy koncert trwał ponad godzinę.
+- id: 2462
+  author: Ja-Joanna
+  author_url: ''
+  date: '2005-11-12 19:43:04 +0100'
+  date_gmt: '2005-11-12 19:43:04 +0100'
+  content: Ja się wybieram na początku grudnia na Winterreggae do Gliwic (http://www.winterreggae.win.pl/),
+    myślę, że będzie świetnie! :)
+---
+<p>Jeszcze dziś nad ranem miałem okazję uczestniczyć w największym festiwalu muzyki reggae i pochodnych - <a href="http://www.onelove.pl/">One Love Sound Fest</a>. Wrażenia bardzo mieszane.</p>
+
+<p>Część artystyczna bez zarzutów (wręcz genialnie!). Stage of Unity, jako gospodarze, porządnie rozruszali widownię, tym samym otwierając muzyczną część One Love. Z niecierpliwością czekałem na wejście swojego faworyta - Irie Mafia. Panowie z Węgier bez trudu sprawili, że ludzie zaczęli skakać - zdecydowanie polecam. Potem wystąpiła jedyna tego wieczoru kapela dubowa - Wszystkie Wschody Słońca. Muzyka nieco monotonna, ale pełna energii. Oczywiście, z Irie Mafią nie mieli się co mierzyć ;). Zaraz po nich scenę przejęli trzej rasta z Natural Dread Killaz - zespołu bardzo młodego nawet jak na polskie realia, ale bez problemu rozpoznawanego także poza granicami Wrocławia. Zaserwowali nam potężną dawkę pozytywnych emocji, bujali tłumem, a jako zespół o korzeniach hiphopowych, nie mogli obyć się bez ponarzekania na policję ;). Koncert Indios Bravos odpuściłem sobie planowo i z wolałem czas ten spędzić na świeżym powietrzu - nie mam nic do zarzucenia Gutkowi i jego kolegom, ale z powodu swojej popularności zwyczajnie spowszednieli. Po zakończeniu ich występu, nie trzeba było nam dwa razy powtarzać, żeby wracać pod scenę - oto na scenę weszła gwiazda wieczoru - Abassi All Stars. Wystarczyło pierwszych kilka taktów muzyki, żeby pierwsze rzędy ludzi zamieniły się w młyn znany z najmroczniejszych koncertów bogów metalu. Zdecydowanie warto było czekać do wczesnych godzin rannych, by zobaczyć choćby tylko ten występ. Ból w nogach i brak tlenu nie były żadnym usprawiedliwieniem - bawili się wszyscy. Zmęczenie dało się za to zauważyć po zakończeniu występu - sala szybko opustoszała i na ostatni koncert - czeskiego Hypnotix - czekały już tylko nieliczne grupki niedobitków. Ze względu na problemy transportowe, sami opuściliśmy budynek i udaliśmy się w poszukiwaniu środków komunikacji miejskiej.</p>
+
+<p>Od strony organizacyjnej było tragicznie. Toalety umieszczono przy samych szatniach, na końcu korytarza o szerokości dwóch metrów. Proponuję wyobrazić sobie dwa tysiące osób, tłoczące się w kilkudziesięciometrowym korytarzu. Wycieczka do toalety zabierała jakieś 40 minut. Do szatni dłużej, gdyż trzeba było dopchać się najpierw do toalet na końcu korytarza, a następnie tam zawrócić i ustawić się w powrotnej kolejce do szatni - zawrócić w tłumie nie było szans.</p>
+
+<p>Mimo wszystko, kto nie był, niech żałuje.</p>

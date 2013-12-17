@@ -1,0 +1,137 @@
+---
+layout: post
+status: publish
+published: true
+title: Anaconda update
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 82
+date: 2005-04-29 00:10:27.000000000 +02:00
+categories:
+- linux
+tags: []
+comments:
+- id: 986
+  author: Spider
+  author_url: ''
+  date: '2005-04-29 10:16:26 +0200'
+  date_gmt: '2005-04-29 10:16:26 +0200'
+  content: krzymam kciuki :)
+- id: 987
+  author: Hawk
+  author_url: ''
+  date: '2005-04-29 10:21:26 +0200'
+  date_gmt: '2005-04-29 10:21:26 +0200'
+  content: 'Informacyjnie tylko: nasz tekstowy instalator tez uzywa paczek RPM do
+    zbudowania, a nie biezacego systemu :) RAM dysk 10000? W teorii powinno przy tej
+    wielkosci starczyc 16 MB RAM. Ciekawe. Installer Fedory o ile mnie pamiec nie
+    myli nie ruszy na mniej niz 32 a moze i 64 :)'
+- id: 988
+  author: Patrys
+  author_url: ''
+  date: '2005-04-29 12:59:13 +0200'
+  date_gmt: '2005-04-29 12:59:13 +0200'
+  content: 16 raczej nie wystarczy - pierwszy ramdysk zjada samo initrd. Oprócz tego
+    trzeba jeszcze załadować busyboksa, pythona i (później) rpm.
+- id: 989
+  author: Spider
+  author_url: ''
+  date: '2005-04-29 21:41:28 +0200'
+  date_gmt: '2005-04-29 21:41:28 +0200'
+  content: nawet tekstowa instalacja debiana wymaga &gt;=32 M wiec co tu mowiec o
+    fedorze ;)
+- id: 990
+  author: Hawk
+  author_url: ''
+  date: '2005-04-29 21:45:14 +0200'
+  date_gmt: '2005-04-29 21:45:14 +0200'
+  content: Jak sobie przypomne, ze czulem sie winny tych wszystkich biednych userow
+    ktorzy juz nie beda mogli z instalatora PLD skorzystac... :-)  (bo zwiekszylem
+    wymagania z 8 do 12 MB)
+- id: 991
+  author: Spider
+  author_url: ''
+  date: '2005-04-29 21:49:23 +0200'
+  date_gmt: '2005-04-29 21:49:23 +0200'
+  content: e nie przeadzajmy :) o wymaganiach instalatorwo pisalem jakis czas temu
+    na liste :)
+- id: 992
+  author: Hawk
+  author_url: ''
+  date: '2005-04-29 21:50:43 +0200'
+  date_gmt: '2005-04-29 21:50:43 +0200'
+  content: Wiem. Tez pisalem :)
+- id: 993
+  author: Spider
+  author_url: ''
+  date: '2005-04-29 21:51:51 +0200'
+  date_gmt: '2005-04-29 21:51:51 +0200'
+  content: wiem, tez czytalem :P ale tak btw to proponuje eot, bo sie robi zbyt oftopikowo
+    i zasmiecamy tu patrysowi joga :)
+- id: 994
+  author: Tomash
+  author_url: ''
+  date: '2005-04-30 00:09:48 +0200'
+  date_gmt: '2005-04-30 00:09:48 +0200'
+  content: |-
+    Po tym zaczyna się zwykła procedure bootowania dystrybucyjnego jądra, umiera ona jednak przy próbie podmontowania roota:
+    <br/>[ciach]
+    <br/>Update: wrzuciłem aktualny screen, kernel wykłada się teraz na montowaniu roota.
+    <br/>
+    <br/>Zadanie: znajdź zmianę wprowadzoną przez update :P
+- id: 995
+  author: Patrys
+  author_url: ''
+  date: '2005-04-30 09:15:58 +0200'
+  date_gmt: '2005-04-30 09:15:58 +0200'
+  content: Wcześniej był screen wykładania się na montowaniu initrd.
+- id: 996
+  author: Raven
+  author_url: ''
+  date: '2005-04-30 15:43:20 +0200'
+  date_gmt: '2005-04-30 15:43:20 +0200'
+  content: anaconda wymaga do uruchomienia się w trybie tekstowym 64 MB RAMU-u :)
+- id: 997
+  author: rorio
+  author_url: ''
+  date: '2005-05-04 10:57:01 +0200'
+  date_gmt: '2005-05-04 10:57:01 +0200'
+  content: A czemu anakonda? może lepiej zająć się instalatorem mandagory? jest (podobno)
+    w całości w perlu.
+- id: 998
+  author: mormir
+  author_url: ''
+  date: '2005-05-11 21:46:05 +0200'
+  date_gmt: '2005-05-11 21:46:05 +0200'
+  content: Jeszcze chyba YaST byłby dobrym wyjściem, tylko nie orientuje się w koncu
+    czy go udostępnili na OpenSource czy, nie. Bo mieli.
+---
+<p>Minęło trochę czasu, od kiedy pierwszy raz siadłem nad <a href="http://fedora.redhat.com/projects/anaconda-installer/">Anacondą</a>. Przedstawiam zatem postęp w pracach - wiele się nie zmieniło, ale parę rzeczy pozmieniałem.</p>
+
+<p>Wstępne uwagi - Anaconda do zbudowania wymaga kilkunastu przeniesionych z RedHata lub podbitych przeze mnie pakietów. W tym <code>kudzu</code>, które kategorycznie odmawia zbudowania się za pomocą <code>gcc4</code>. Póki co, pozostaje praca na <code>gcc</code> w wersji 3.x.</p>
+
+<p>Największym bólem jest konieczność każdorazowego przebudowania pakietów Anacondy, przy choćby najdrobniejszej modyfikacji skryptów basha czy Perla wchodzących w jej skład. Z drugiej strony jest to jedną z większych zalet Anacondy na tle innych instalatorów - do zbudowania instalatora używa pakietów RPM, a nie bieżącej zawartości systemu. Między innymi używa własnych pakietów RPM, więc te przebudowuję średnio kilkanaście razy na godzinę - na szczęście prace idą do przodu.</p>
+
+<p>Dużo problemów przysparza mi obecnie kernel. Poprawiłem Anacondę, żeby wypakowywała dodatkowe paczki (pcmcia), bo użycie <code>kernel24-BOOT</code> w grę nie wchodzi - choćby podsystemy SerialATA zmieniły zasadniczo swoje działanie od czasów 2.4 i instalacja ze starego jądra spowoduje zgon systemu przy bootowaniu nowego (to co kiedyś było <code>/dev/hdX</code>, teraz nazywa się <code>/dev/sdX</code>). Martwi mnie spory rozmiar <code>initrd</code> budowanego przez Anacondę z naszego 2.6.11 - ma około 8 MB, czyli sporo więcej niż pozwala bez problemu załadować kernel.</p>
+
+<p class="strip"><img src="http://wirusy.room-303.com/PLD/2005-04-28-anaconda-booting.png" alt="screenshot" /><br />
+Anaconda radzi sobie z wygenerowaniem obrazu isolinuksa</p>
+
+<p>Po zbootowaniu obrazu wygenerowanego przez Anacondę, pojawia się bootsplash isolinuksa. Proszę o wybaczenie, ale nie miałem czasu malować logo PLD, więc jest taki - nazwijmy to - <q>placeholder</q>.</p>
+
+<p>Na tym etapie do zbootowania niezbędne jest dopisanie do kernela parametru <code>ramdisk_size</code> (ze względu na wspomniane kolosalne <code>initrd</code>):</p>
+
+<blockquote><pre>boot: linux ramdisk_size=10000</pre></blockquote>
+
+<p>Po tym zaczyna się zwykła procedure bootowania dystrybucyjnego jądra, umiera ona jednak przy próbie podmontowania roota:</p>
+
+<p class="strip"><img src="http://wirusy.room-303.com/PLD/2005-04-28-anaconda-kernel-panic.png" alt="screenshot" /><br />
+<code>Kernel panic</code> przy próbie montowania roota</p>
+
+<p>Niestety, nie mam czasu teraz debugować tego dalej. Do głowy przychodzą mi dwie opcje: albo nasz kernel nie ma wkompilowanej obsługi cramfs (a za ładowanie modułów odpowiedzialny jest <code>initrd</code>, co jest nieco kłopotliwe w sytuacji, gdy on sam spakowany jest cramfs) albo ja coś skopałem na etapie generowania <code>vmlinuz</code>/<code>initrd</code>.</p>
+
+<p>Jeśli to możliwe, to prosiłbym o kontakt kogoś lepiej zaprzyjaźnionego z naszym jądrem, najlepiej kogoś, kto używał już dystrybucyjnych kerneli do generowania bootowalnych płyt. Wolałbym uniknąć sytuacji, kiedy do zbudowania instalatora PLD będzie potrzebne jądro Fedory, a na moim notebooku kompilacja kernela trwa około dwóch godzin, więc nie chcę robić tego na oślep.</p>
+
+<p><strong>Update:</strong> wrzuciłem aktualny screen, kernel wykłada się teraz na montowaniu roota.</p>

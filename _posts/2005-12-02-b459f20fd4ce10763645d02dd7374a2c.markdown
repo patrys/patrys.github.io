@@ -1,0 +1,252 @@
+---
+layout: post
+status: publish
+published: true
+title: Drag to scroll
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 190
+date: 2005-12-02 01:22:36.000000000 +01:00
+categories:
+- web
+tags: []
+comments:
+- id: 2787
+  author: alberht
+  author_url: ''
+  date: '2005-12-02 01:28:47 +0100'
+  date_gmt: '2005-12-02 01:28:47 +0100'
+  content: ciekawe:] jeszcze tylko zmień strzałke na &#039;łapkę&#039; i będzie super;)
+- id: 2788
+  author: Patrys
+  author_url: ''
+  date: '2005-12-02 01:36:27 +0100'
+  date_gmt: '2005-12-02 01:36:27 +0100'
+  content: W Firefoksie jest łapka. W Operze jest problem z odświeżaniem kursorów
+    przez JS. W IE nie testowałem wcale, bo nie mam.
+- id: 2789
+  author: dxOne
+  author_url: ''
+  date: '2005-12-02 02:15:55 +0100'
+  date_gmt: '2005-12-02 02:15:55 +0100'
+  content: z pewnoscia sie przyda
+- id: 2790
+  author: s
+  author_url: ''
+  date: '2005-12-02 02:20:14 +0100'
+  date_gmt: '2005-12-02 02:20:14 +0100'
+  content: ani to fajne, ani wygodne ;P dobranoc :)
+- id: 2791
+  author: ramzes
+  author_url: ''
+  date: '2005-12-02 02:31:23 +0100'
+  date_gmt: '2005-12-02 02:31:23 +0100'
+  content: a ja uwazam, ze to calkiem ciekawe.
+- id: 2792
+  author: s
+  author_url: ''
+  date: '2005-12-02 02:42:12 +0100'
+  date_gmt: '2005-12-02 02:42:12 +0100'
+  content: zart. to byl zart. chociaz osobiscie wole rolke niz urywanie sobie reki,
+    ale przesz to kwestia gustu jest. niektorzy wszak pewnie maja dobrze opanwane
+    ruchy posuwistozwrotne reki. dobranoc po raz wtory :&gt;
+- id: 2793
+  author: zar
+  author_url: ''
+  date: '2005-12-02 03:53:12 +0100'
+  date_gmt: '2005-12-02 03:53:12 +0100'
+  content: Bardzo ciekawe, acz za zbyt dużą cenę. Zaznaczanie tekstu to podstawa :)
+- id: 2794
+  author: sprae
+  author_url: ''
+  date: '2005-12-02 04:03:37 +0100'
+  date_gmt: '2005-12-02 04:03:37 +0100'
+  content: Od biedy zaznaczyc mozna wszystko przez ctrl+a.
+- id: 2795
+  author: zar
+  author_url: ''
+  date: '2005-12-02 04:07:19 +0100'
+  date_gmt: '2005-12-02 04:07:19 +0100'
+  content: Niestety, od biedy :/
+- id: 2796
+  author: ramzes
+  author_url: ''
+  date: '2005-12-02 04:08:05 +0100'
+  date_gmt: '2005-12-02 04:08:05 +0100'
+  content: albo kopiowac txt ze zrodla strony :)
+- id: 2797
+  author: Jam Łasica
+  author_url: ''
+  date: '2005-12-02 04:08:44 +0100'
+  date_gmt: '2005-12-02 04:08:44 +0100'
+  content: |-
+    A można w ten sposób scrollować duże obrazki,
+    <br/>czy włącza się od razu drag&amp;drop?
+- id: 2798
+  author: Dulek
+  author_url: ''
+  date: '2005-12-02 07:35:22 +0100'
+  date_gmt: '2005-12-02 07:35:22 +0100'
+  content: W IE też działa, nie blokuje tylko zaznaczania.
+- id: 2799
+  author: Patrys
+  author_url: ''
+  date: '2005-12-02 09:45:42 +0100'
+  date_gmt: '2005-12-02 09:45:42 +0100'
+  content: |-
+    Jam Łasica:
+    <br/>
+    <br/>Powinno się dać bez problemu scrollować. Proponuję sprawdzić, nie mam nic dużego pod ręką.
+- id: 2800
+  author: deadlink
+  author_url: ''
+  date: '2005-12-02 14:55:40 +0100'
+  date_gmt: '2005-12-02 14:55:40 +0100'
+  content: Fajnie, ale w FF1.5 pl @ win32 jest strzałka, zamiast łapki. :)
+- id: 2801
+  author: Aule
+  author_url: ''
+  date: '2005-12-02 15:02:41 +0100'
+  date_gmt: '2005-12-02 15:02:41 +0100'
+  content: Heh, troche ala Black&amp;White ;)
+- id: 2802
+  author: alberht
+  author_url: ''
+  date: '2005-12-02 15:32:45 +0100'
+  date_gmt: '2005-12-02 15:32:45 +0100'
+  content: |-
+    @Patrys:
+    <br/>mam dokładnie to samo co deadlink;)
+- id: 2803
+  author: Mzz
+  author_url: ''
+  date: '2005-12-02 16:00:10 +0100'
+  date_gmt: '2005-12-02 16:00:10 +0100'
+  content: |-
+    Jeżeli wyjedzie się za okno przeglądarki podczas przeciągania, po powrocie (nawet bez przyciśniętego lpm) strona dalej się przeciąga. Można zrobić 10-cio pikselowe obramowanie dla całej strony, tak aby po najechaniu na nie wyłączało się przeciąganie.
+    <br/>
+    <br/>Hm... Ciekawe i b.intuicyjne. Roxxorz.
+- id: 2804
+  author: Patrys
+  author_url: ''
+  date: '2005-12-02 16:53:40 +0100'
+  date_gmt: '2005-12-02 16:53:40 +0100'
+  content: |-
+    Fifefox 1.5, oficjalne wydanie, pl_PL @ Linux/i686.
+    <br/>
+    <br/>Kursor jest prawidłowy, po wyjechaniu za okno nie ma problemów.
+    <br/>
+    <br/>Dodam wyłączanie scrolla po opuszczeniu okna przeglądarki, z kursorami wiele więcej zrobić nie mogę raczej.
+- id: 2805
+  author: Mzz
+  author_url: ''
+  date: '2005-12-02 16:58:50 +0100'
+  date_gmt: '2005-12-02 16:58:50 +0100'
+  content: Czyli to Windows ssie, no ale kompatybilne ze wszystkim powinno być.
+- id: 2806
+  author: psz
+  author_url: ''
+  date: '2005-12-02 19:50:07 +0100'
+  date_gmt: '2005-12-02 19:50:07 +0100'
+  content: Na http://i-serwis.action.pl/ takie coś przewija popupy z fotkami... miłe
+    :)
+- id: 2807
+  author: mcv
+  author_url: ''
+  date: '2005-12-02 21:01:15 +0100'
+  date_gmt: '2005-12-02 21:01:15 +0100'
+  content: Hmm, dobre do toczpadów, jak komuś nie chciało się szukać sterowników Synapticsa
+    :Þ IMVVVHO można by to żywcem w samym FF zaimplementować. Czy nie?
+- id: 2808
+  author: Patrys
+  author_url: ''
+  date: '2005-12-03 11:16:33 +0100'
+  date_gmt: '2005-12-03 11:16:33 +0100'
+  content: Możnaby, jako extension.
+- id: 2809
+  author: Cleriic
+  author_url: ''
+  date: '2005-12-03 16:18:16 +0100'
+  date_gmt: '2005-12-03 16:18:16 +0100'
+  content: Hmmm... ciągle otrzymuję &quot;Połaczenie zostało zresetowane&quot; :(
+- id: 2810
+  author: Patrys
+  author_url: ''
+  date: '2005-12-03 16:51:43 +0100'
+  date_gmt: '2005-12-03 16:51:43 +0100'
+  content: A mi ciągle działa.
+- id: 2811
+  author: medyk
+  author_url: ''
+  date: '2005-12-03 16:58:54 +0100'
+  date_gmt: '2005-12-03 16:58:54 +0100'
+  content: Działa bardzo ok (poza brakiem łapki pod windą).. a swoją drogą świetnie
+    w tej roli się sprawdza scroll myszy, nie odczuwam braku tego rozwiązania w przeglądarce
+    internetowej. Nawet w readerze preferuję scroll&#039;a
+- id: 2812
+  author: Jan Prosiak Tucznikowski
+  author_url: ''
+  date: '2005-12-03 17:24:23 +0100'
+  date_gmt: '2005-12-03 17:24:23 +0100'
+  content: Może być przydatne, jeszcze nie wiem gdzie, ale kto wie ;]
+- id: 2813
+  author: misia
+  author_url: ''
+  date: '2005-12-04 01:06:17 +0100'
+  date_gmt: '2005-12-04 01:06:17 +0100'
+  content: 'totally off-topic: nie wiem, komu to wysłać... chodzą słuchy na mieście,
+    że joggerowcy to l33t hax0rzy ;), a w komentarz linki do stron autorów nie mają
+    nofollow: http://googleblog.blogspot.com/2005/01/preventing-comment-spam.html'
+- id: 2814
+  author: Patrys
+  author_url: ''
+  date: '2005-12-04 14:20:16 +0100'
+  date_gmt: '2005-12-04 14:20:16 +0100'
+  content: |-
+    misia:
+    <br/>
+    <br/>Ale ty nie możesz dodawać tu linków. A nofollow używam nawet we wpisach czasami, jeśli nie chcę komuś nabijać PR.
+    <br/>
+    <br/>Co do zarejestrowanych użytkowników, nie mam wpływu na to, jak wygląda link. To gotowa pozycja w szablonie.
+- id: 2815
+  author: misia
+  author_url: ''
+  date: '2005-12-04 15:40:27 +0100'
+  date_gmt: '2005-12-04 15:40:27 +0100'
+  content: 'Patrys: fakt fakt! dzięki i sorry, chyba musze spac czesciej. Opinia z
+    miasta utrzymana ;)'
+- id: 2816
+  author: bela
+  author_url: ''
+  date: '2005-12-05 23:30:33 +0100'
+  date_gmt: '2005-12-05 23:30:33 +0100'
+  content: 'Przecież w Acrobat Readerze też nie ma od razu włączonego zaznaczania
+    tekstu, można by dodać taki pasek z position: fixed, co byłby na górze i tam opcje
+    typu &quot;włącz zaznaczanie&quot; etc.'
+- id: 2817
+  author: Mzz
+  author_url: ''
+  date: '2005-12-06 11:42:06 +0100'
+  date_gmt: '2005-12-06 11:42:06 +0100'
+  content: Albo skrótem klawiszowym...
+- id: 2818
+  author: '|.-.|---|.-.|..|---|'
+  author_url: ''
+  date: '2005-12-07 14:48:50 +0100'
+  date_gmt: '2005-12-07 14:48:50 +0100'
+  content: Fajne to jest!
+- id: 2819
+  author: wb
+  author_url: ''
+  date: '2005-12-07 19:51:43 +0100'
+  date_gmt: '2005-12-07 19:51:43 +0100'
+  content: "Fajne, ale szkoda, że tak późno ;-) \n<br/>Nikt się teraz do tego nie
+    przyzwyczai, nie zmienisz nawyków użytkowników.\n<br/>"
+---
+<p><a href="http://www.adobe.com/products/acrobat/readermain.html">Adobe Reader</a> ma bardzo wygodną i intuicyjną funkcję przewijania tekstu za pomocą myszy. Wystarczy <q>złapać</q> kartkę i przesunąć ją ruchem myszy. Jako, że nie sypiam, wymyśliłem sobie zadanie - zaimplementować to samo w <abbr title="HyperText Markup Language">HTML</abbr>.</p>
+
+<p>Efekt kilkunastominutowego starcia z <abbr title="JavaScript">JS</abbr> można zobaczyć na <a href="http://patrys.icenter.pl/test/2005-12-01-drag-to-scroll/">stronie testowej</a>. Jedyny problem jest taki, że musiałem wyłączyć zaznaczanie tekstu - działało niespecjalnie intuicyjnie, bo tekst przewijał się razem z kursorem. Nie powinno to przeszkadzać tam, gdzie przewijanie takie może się w ogóle przydać (na przykład w prezentacjach).</p>
+
+<p>Rozwiązanie, póki co, jest zrobione na szybko i daleko mu do wzorcowej implementacji. Poprawię przy najbliższej okazji, jeśli będą zainteresowani.</p>

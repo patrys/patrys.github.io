@@ -1,0 +1,521 @@
+---
+layout: post
+status: publish
+published: true
+title: 'RAD: CRUD'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 228
+wordpress_url: http://www.room-303.com/blog/2006/02/05/rad-crud/
+date: 2006-02-05 14:39:40.000000000 +01:00
+categories:
+- web
+- software
+- code
+tags: []
+comments:
+- id: 3222
+  author: Maciej Litwiniuk
+  author_url: http://blog.litwiniuk.net
+  date: '2006-02-05 14:59:53 +0100'
+  date_gmt: '2006-02-05 13:59:53 +0100'
+  content: "tja, scaffolding rządzi :)\r\na co do frameworków w php - ostatnio urzegło
+    mnie symfony (http://www.symfony-project.com/)"
+- id: 3223
+  author: mig
+  author_url: ''
+  date: '2006-02-05 16:23:20 +0100'
+  date_gmt: '2006-02-05 15:23:20 +0100'
+  content: Chyba jeszcze bardziej podobne do Rails jest <a href="http://phpontrax.com/"
+    rel="nofollow">TRAX</a>, chociaz odnosze wrazenie, ze projekt jest troche mniej
+    dojrzaly od CakePHP. Zdecydowanie brakuje tez dokumentacji.
+- id: 3225
+  author: krzak
+  author_url: http://www.hakore.com
+  date: '2006-02-05 17:19:16 +0100'
+  date_gmt: '2006-02-05 16:19:16 +0100'
+  content: Czemu mam wrażenie że właśnie przeczytałem jakieś farmazony ? To o czym
+    piszesz jest od dawna znane, ogólnie przyjęte i usystematyzowane, a Ruby on Rails
+    nie był żadną pod tym względem innowacją.CRUD od "Create, Read, Update, Delete"
+    to też nie jest nic, co wprowadziłby Ruby on Rails. Nie rozumiem tego tekstu.
+- id: 3226
+  author: parapsychopatolog lamalutomski radzi
+  author_url: ''
+  date: '2006-02-05 17:51:09 +0100'
+  date_gmt: '2006-02-05 16:51:09 +0100'
+  content: 'Rany boskie, Krzak! I ty ten belkot wklejasz na kanalii? RoR wymyślił
+    CRUD? Frameworki CRUD? CRUD separuje warstwy aplikacji? Przezroczysty silnik?
+    ;-) A komentarzach dodatkowo: scaffolding == CRUD. Jeszcze napiszcie, że wam ten
+    CRUD robi, za przeproszeniem, laske.'
+- id: 3227
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-02-05 18:10:50 +0100'
+  date_gmt: '2006-02-05 17:10:50 +0100'
+  content: "krzak:\r\n\r\nGdzie ja napisałem, że CRUD wymyślił RoR. Czytanie ze zrozumieniem
+    nie boli - Rails rozpoczął manię CRUD tak jak AJAX rozpoczął manię XMLHttpRequest.
+    Z całym szacunkiem, od czytających oczekuję minimum zdolności do parsowania tekstu
+    pisanego.\r\n\r\nA rola CRUD jest dokładnie taka, żeby był przezroczysty, więc
+    nie wiem, do czego pijesz.\r\n\r\nO Ajaksie też nie wolno mi pisać, bo Garrett
+    nie wynalazł XML? Ja prowadzę bloga o sieci, a nie o innowacjach technologicznych
+    wynalezionych minutę temu."
+- id: 3228
+  author: mcv
+  author_url: http://mcv.jogger.pl/
+  date: '2006-02-05 18:22:59 +0100'
+  date_gmt: '2006-02-05 17:22:59 +0100'
+  content: 'Ja już sam nie wiem: laske w sensie laskę, czy łaskę, bo piszesz bez pl-literek?
+    ;-þ'
+- id: 3229
+  author: krzak
+  author_url: http://www.hakore.com
+  date: '2006-02-05 19:30:28 +0100'
+  date_gmt: '2006-02-05 18:30:28 +0100'
+  content: "Patrys:\r\nZ calym szacunkiem, ale zastanow przy czym obstajesz. Nie masz
+    racji.  RoR nie rozpoacza zadnej manii CRUD. Pozatym za CRUD nie kryje się żadna
+    idea, żadna głębsza myśl. To jest akronim i nic więcej. Proponuję poczytaj o MVC
+    na początek, i ogólnie o design patterns i odkryjesz że to co ty nazywasz CRUD
+    to jest czym innym, i że zanim pojawil sie RoR to te metody były już bardzo szeroko
+    wykorzystywane."
+- id: 3230
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-02-05 19:37:02 +0100'
+  date_gmt: '2006-02-05 18:37:02 +0100'
+  content: "krzak:\r\n\r\nBzdura. CRUD to akronim, za którym kryje się przezroczysty
+    silnik storage. Nic więcej. Ma to się nijak do MVC, bo model, widok i kontroler
+    znajdują się ponad wartswą składowania danych. Model korzysta z silnika bazy danych,
+    ale nie musi go zawierać i właśnie czwarta warstwa, storage, się tutaj pojawia.
+    A czy używająć dynamicznego skryptowania bazy na podstawie jej struktury, zdecydujesz
+    się na oddzielenie od siebie warstw MVC ma się nijak do tego, czy musisz w kodzie
+    preparować zapytania do bazy. Dlatego też twoje powyższe komentarze i komentarz
+    o scaffoldingu mają się nijak do notki."
+- id: 3231
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-02-05 19:39:30 +0100'
+  date_gmt: '2006-02-05 18:39:30 +0100'
+  content: A zanim znów mnie wyślesz na poszukiwania definicji MVC -- od lat żyję
+    z budowania aplikacji webowych i od lat używam silników templatowych i routingu
+    do oddzielenia tych trzech warstw.
+- id: 3232
+  author: parapsychopatolog lamalutomski radzi
+  author_url: ''
+  date: '2006-02-05 19:51:05 +0100'
+  date_gmt: '2006-02-05 18:51:05 +0100'
+  content: "Ano, za CRUD nie kryje się nic więcej poza czterema wyrazami rozwinięcia.
+    A to że modne ostatnio webowe frameworki MVC -- a raczej o/r mappery, z których
+    korzystają -- siłą rzeczy CRUD implementują, do tego epatują demami, które scaffoldując
+    kontrolery, budują \"aplikacje\" z prędkością niewiele mniejszą od prędkości operacji
+    na dysku, nie czyni z CRUD idei rewolucyjnej. Ba, nawet trudno chyba mówić w tym
+    kontekscie o jakiejkolwiek znaczącej idei.\r\nW tej \"rewolucji\" już bardziej
+    chodzi o sam scaffolding, czyli to co sprawia, że można przypiąć tym frameworkom
+    etykietkę \"rapid developement\" (przynajmniej w zamierzeniu autorów), ale to
+    o wiele więcej niż CRUD.\r\n\r\nIMHO drugi akapit (a może nawet cały artykuł)
+    miałby trochę sensu, gdyby podmienić CRUD na MVC.\r\n\r\nmcv: Oczywiście, że laskę
+    -- synonim panaceum na wszelkie bolączki tego świata. ;-P"
+- id: 3233
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-02-05 19:58:00 +0100'
+  date_gmt: '2006-02-05 18:58:00 +0100'
+  content: "I CRUD i MVC jako pomysły są o lata starsze od Railsa i jego naśladowców.
+    Ale o ile MVC każdy sobie jakoś implementował, to niewiele języków/silników/szkieletów
+    pozwalało na tak wygodne zarządzanie bazą danych. Kiedyś szukałem podobnego narzędzia
+    i byłem zmuszony napisać sobie brzydki component factory, który do konstrukcji
+    klas używał eval().\r\n\r\nRazem z RoR, oprócz wodotrysków, Ajaksa i powszechnego
+    scaffoldingu przyszedł bardzo wygodny silnik do obsługi baz danych. Dowolne dane
+    można sobie pobrać, zmienić i zapisać, operując tylko i wyłącznie na instancjach
+    klas, bez pisania zapytań. To też nie jest rewolucyjna idea, ale od tego czasu
+    nowe jej implementacje powstają jak grzyby po deszczu, nie tylko w klonach Railsa.\r\n\r\nI
+    tylko o tym jest powyższy tekst."
+- id: 3234
+  author: m
+  author_url: ''
+  date: '2006-02-05 20:12:46 +0100'
+  date_gmt: '2006-02-05 19:12:46 +0100'
+  content: "Wprawdzie wprowadzaniu systematyki blizej jest zwykle do teorii niz praktyki,
+    ale CRUD to raczej pewien stereotyp use-case'a(*), który sprowadza się do wykonania
+    operacji C/R/U/D [1] i zdecydowanie może być implementowany w jakikolwiek sposób
+    (abstrakcja obsługi trwałości danych to inna bajka).  Przeźroczystość obsługi
+    warstwy danych to raczej wzorzec projektowy DAO (Data Access Object [2]), który
+    często i gęsto występuje w samej specyfikacji J2EE, ale jest popularny także w
+    innych technologiach. Temu, o czym piszesz, czyli generowaniu SQL w dialekcie
+    wybranego RDBMS na podstawie mapowania klas i relacji na tabele najbliższe jest
+    pojęcie O/R mapping, które w J2EE ma już za sprawą EJB, Hibernate, JDO i wielu,
+    wielu innych rozwiązań kilka ładnych lat i jest niezwykle często stosowane, ale
+    choć jest elastyczne (przede wszystkim w miarę niezależne od dialektu SQL, więc
+    i wyboru samego RBMDS), to są przypadki, gdy rozwiązanie odwrotne, czyli tworzenie
+    struktury obiektowej na podstawie struktury relacyjnej jest po prostu lepsze -
+    zwykle wtedy, gdy migrujemy jakąs rozbudowaną aplikację z rozwijaną przez lata
+    bazą produkcyjną na nową technologię, na przykład bazę DB2 z aplikacji RPG na
+    J2EE. Z drugiej strony nadal ma sie dobrze \"klasyczna szkoła\", czyli pure SQL
+    po stronie aplikacji i procedury składowane na serwerze bazy danych - zdecydowana
+    większość aplikacji .NET jest tak realizowana, przede wszystkim z uwagi na dobrze
+    zgraną parę .NET &amp; SQL Server, poza tym spadek wydajności w przypadku zupełnego
+    niewykorzystywania procedur składowania może czasem być niedopuszczalny.\r\n\r\n(*)
+    jeśli CRUD wśród ludzi związanych z php oznacza jednak coś innego to proszę o
+    zwrócenie uwagi, bo ja nie znaju tego gaju\r\n\r\n[1] informatyczne definicje
+    w wikipedii są beznadziejne, ale:  http://en.wikipedia.org/wiki/CRUD_%28acronym%29\r\n[2]
+    http://java.sun.com/blueprints/corej2eepatterns/Patterns/DataAccessObject.html"
+- id: 3235
+  author: m
+  author_url: ''
+  date: '2006-02-05 20:14:37 +0100'
+  date_gmt: '2006-02-05 19:14:37 +0100'
+  content: '@parapsychopatolog lamalutomski radzi: ale CRUD za diabła nie ma nic wspólnego
+    z O/R mapperami oprócz tego, że O/R mappery, podobnie jak bezpośrednie zapytania
+    SQL, mogą implementować operacje CRUD'
+- id: 3236
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-02-05 20:17:24 +0100'
+  date_gmt: '2006-02-05 19:17:24 +0100'
+  content: Być może nie jest do definicja książkowa, ale CRUD przyjęło się określać
+    w skrócie wrappery silników baz danych.
+- id: 3237
+  author: parapsychopatolog lamalutomski radzi
+  author_url: ''
+  date: '2006-02-05 20:29:04 +0100'
+  date_gmt: '2006-02-05 19:29:04 +0100'
+  content: 'm: toż piszę, że jedyne co ma wspólnego CRUD z "rewolucją" modnych frameworków,
+    to to, że został tam gdzieś zaimplementowany. Z konieczności zresztą. Trudno w
+    takim razie posądzać CRUD o bycie siłą napędową tej "rewolucji" albo umieszczać
+    go na jej sztandarach. Poza tym pisałem, że uważam, iż ten piękny akronim został
+    niefortunnie użyty, bo cały sens artykułu jakoś tam do mnie przemawia, jeżeli
+    zmodyfikuje sobie część użytego nazewnictwa.'
+- id: 3238
+  author: m
+  author_url: ''
+  date: '2006-02-05 20:33:15 +0100'
+  date_gmt: '2006-02-05 19:33:15 +0100'
+  content: "Patrys:\r\n\r\nA mógłbyś jakiegoś linka zapodać? Skrót CRUD od wielu lat
+    stosowany jest właśnie na etapie specyfikacji przypadków użycia do kategoryzacji
+    use case'a jako operacji c/r/u/d na pewnym zakresie danych - o technologii czy
+    implementacji na tym etapie nie ma mowy, anale takie rzeczy klepią. Jeśli te wrappery,
+    o których mówisz, realizują dostęp do danych, a wypluwają obiekty, to jest to
+    DAO. Jeśli ten dostęp jest realizowany poprzez SQL z wykorzystaniem mapowania
+    obiektowo-relacyjnego to mamy wtedy O/R mappera, którego stosowanie może mieć
+    wiele zalet, ale też wiele wad w zależności od wymagań i specyfiki rozwiązania.
+    Największy ból przy stosowaniu O/R mapperów pojawia się przy rozbudowanych systemach,
+    bo po pierwsze ich interfejsy udostępniają dużo mniejsze możliwości filtrowania
+    danych i ich wstępnego przetwarzania niż RDBMS-dependent SQL, po drugie spada
+    wydajność, po trzecie w przypadku konieczności wykorzystania istniejącej bazy
+    gra przestaje być warta świeczki. Ale zalety, szczególnie w przypadku mniejszych
+    systemów, są naprawdę ogromne. Fajnie, że w php pojawiają się takie rozwiązania
+    i że o nich piszesz, bo porządkują one bardzo implementację, a php zachęca trochę
+    do śmiecenia w kodzie. Być może właśnie dzięki upowszechnieniu się  O/R mappingu
+    w php wiele aplikacji pisanych dotąd wyłącznie dla MySQL zacznie być dostępnych
+    także z innymi silnikami baz danych? Byłoby super!"
+- id: 3239
+  author: parapsychopatolog lamalutomski radzi
+  author_url: ''
+  date: '2006-02-05 20:37:10 +0100'
+  date_gmt: '2006-02-05 19:37:10 +0100'
+  content: 'm: zupełnie się zgadzam. I jednoczeście stanowczo protestuję przeciwko
+    przypinaniu etykietki CRUD do wszystkiego, co się nawinie a dotyczy z grubsza
+    przekrojowi MVC, O/R mapping i scaffolding. Sorry, ale jeżeli czytam, że CRUD
+    separuje warstwy i zapewnia "przeźroczysty silnik", to to ewidentnie zajeżdża
+    egzaltacją PHP-owca, który nagle odkrył, że nie musi już przeklejać tego samego
+    zapytania w dziesięciu plikach swojej "aplikacji".'
+- id: 3240
+  author: m
+  author_url: ''
+  date: '2006-02-05 20:40:43 +0100'
+  date_gmt: '2006-02-05 19:40:43 +0100'
+  content: "parapsychopatolog lamalutomski radzi:\r\nale funkcjonalność CRUD była
+    implementowana z powodzeniem 30 lat temu w COBOL, bo nie sprowadza się do abstrakcji
+    dostępu do danych, ale do stworzenia w jakikolwiek sposób funkcjonalności służącej
+    do wykonania operacji c/r/u/d..."
+- id: 3241
+  author: parapsychopatolog lamalutomski radzi
+  author_url: ''
+  date: '2006-02-05 20:40:48 +0100'
+  date_gmt: '2006-02-05 19:40:48 +0100'
+  content: Oops. s/dotyczy z grubsza przekrojowi/odpowiada z grubsza przekrojowi/
+    :-)
+- id: 3242
+  author: m
+  author_url: ''
+  date: '2006-02-05 20:42:14 +0100'
+  date_gmt: '2006-02-05 19:42:14 +0100'
+  content: "parapsychopatolog lamalutomski radzi:\r\n\r\nsorry za ostatni comment
+    skierowany prosto w Ciebie - pomyłeczka ;)"
+- id: 3243
+  author: parapsychopatolog lamalutomski radzi
+  author_url: ''
+  date: '2006-02-05 20:43:05 +0100'
+  date_gmt: '2006-02-05 19:43:05 +0100'
+  content: 'm: nie mów tego mi, tylko autorowi artykułu, który stara się nas przekonać,
+    że CRUD odkryto dwa lata temu, a do tego zapoczątkowano tym jakąś rewolucję. ;-)'
+- id: 3244
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-02-05 20:48:00 +0100'
+  date_gmt: '2006-02-05 19:48:00 +0100'
+  content: "Dobra, zgadzam się, CRUD to zbyt ogólne pojęcie, ale nie jest to też MVC,
+    bo leży gdzieś na dnie modelu, a z widokiem i kontrolerami nie ma związku wcale.\r\n\r\nTak,
+    znam pojęcia CRUD i DAO na poziomie planowania logiki. W mowie potocznej (może
+    kwestia środowiska -- nie, nie żyję w kraju pehapowców) CRUDem oznacza się właśnie
+    dynamiczne budowanie klas dostępu dla obiektów danych.\r\n\r\nWypraszam sobie
+    <q>egzaltację PHP-owca, który nagle odkrył, że nie musi już przeklejać tego samego
+    zapytania w dziesięciu plikach.</q> Poziom intelektualny dyskusji utrzymajmy powyżej
+    twojego komentarza."
+- id: 3245
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-02-05 20:49:31 +0100'
+  date_gmt: '2006-02-05 19:49:31 +0100'
+  content: "<blockquote>m: nie mów tego mi, tylko autorowi artykułu, który stara się
+    nas przekonać, że CRUD odkryto dwa lata temu, a do tego zapoczątkowano tym jakąś
+    rewolucję. ;-)</blockquote>\r\n\r\nGdzie ty byłeś, że nauczyli cię pisać, a czytać
+    nie uczyli?"
+- id: 3246
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-02-05 20:59:01 +0100'
+  date_gmt: '2006-02-05 19:59:01 +0100'
+  content: "m:\r\n\r\nCo do nazewnictwa: spora część grona webdevów nie studiowała
+    kierunków stricte pozwiązanych ze składowaniem i przetwarzaniem informacji, dlatego
+    nie zastrzegam sobie słuszności nazywania tego w ten czy inny sposób. To trochę
+    jak z Ajaksem, który sam nie znaczy nic, a w praktyce nazywa się tak XmlHttpRequest."
+- id: 3247
+  author: m
+  author_url: ''
+  date: '2006-02-05 21:07:54 +0100'
+  date_gmt: '2006-02-05 20:07:54 +0100'
+  content: "@parapsychopatolog lamalutomski radzi:\r\n\r\nHeh, wiesz... wytwarzanie
+    oprogramowania to ogromny kocioł, do którego ciągle dorzucane są nowe rzeczy,
+    a stare zlepiają się w nowe. Człowiek uczy sie całe życie. Sam zajmuję się na
+    codzień rozwiązaniami J2EE, ale staram się poznawać pomysły architektoniczne stosowane
+    w dużych aplikacjach .NET, czytać niusy związane z innymi branżami, subskrybuję
+    też w ramach ciekawostek wiecznie żywą comp.lang.cobol :). Mignęło mi też jakos
+    rok temu kilka informacji popularyzujących O/R mappery w php i to świetny news,
+    bo może wreszcie pehapowcy dostrzegą potrzebe wspierania innych silników niż MySQL,
+    który pomalutku jest podkupowany przez Oracle.\r\n\r\nA sformułowanie \"zajeżdża
+    egzaltacją PHP-owca\" jest akurat nietrafione, bo Patrys z niejednej technologicznej
+    rzeki wodę pił, swoją wiedzę ma, o inteligencji potwornej nie wspomnę. Osobistych
+    uwag warto unikać, bo się może w każdej dyskusji nieprzyjemnie zrobić.\r\n\r\n@Patrys:\r\n\r\nThat's
+    true. Warstwę DAO lokuje się właśnie na dnie Modelu, między logiką biznesową a
+    bazą danych, między którymi przelatują klasy trwałe.\r\n\r\nI zupełnie inna kwestia:
+    korzystałeś kiedyś z Zend Studio? Dobre to? Może mógłbyś o tym napisać i wypunktować
+    miejsca przewagi nad vi? ;)"
+- id: 3248
+  author: m
+  author_url: ''
+  date: '2006-02-05 21:10:26 +0100'
+  date_gmt: '2006-02-05 20:10:27 +0100'
+  content: 'Patrys: no szur, jasna sprawa - wszystko jedno, jak ona sie nazywa, wazne,
+    zebysmy wiedzieli, co nam moze dac ;)'
+- id: 3249
+  author: parapsychopatolog lamalutomski radzi
+  author_url: ''
+  date: '2006-02-05 21:15:52 +0100'
+  date_gmt: '2006-02-05 20:15:53 +0100'
+  content: "Patrys, a coś mówiłeś o poziomie. ;-) Nie wycofuj się. :-) W wizji świata,
+    którą przedstawiłeś, idea CRUD tkwiła w uśpieniu aż odkryto ją wzniecając rewolucję
+    nowych, wspaniałych \"frameworków CRUD\". Tak pisałeś jeszcze chwilę temu w artykule.
+    Nie przekonuje mnie to. Podałem parę powodów i wątpliwości, m.in niefortunne nazewnictwo.
+    To co poźniej napisałeś w komentarzach na temat \"epoki pre-RoR\" zabrzmiało tak,
+    jakbyś utkwił w geccie pewnego języka i paradygmatu budowania aplikacji webowych
+    i stąd to nagłe zachłyśnięcie. Nie znam Cię, mogę się mylić, ale tak to zabrzmiało.
+    No offence.\r\n\r\nZ mojej strony EOT, M wyczerpująco wyjaśnił istotę CRUD."
+- id: 3250
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-02-05 21:17:02 +0100'
+  date_gmt: '2006-02-05 20:17:02 +0100'
+  content: "m:\r\n\r\nTak, jasne że używałem, ale nie miałem -- niestety -- możliwości
+    skorzystania z enterprise'owego serwera analizy kodu z debuggerem, który jest
+    tylko w najdroższej wersji. A bez niego to tylko taki ładniejszy notatnik i zajmuje
+    więcej miejsca na ekranie.\r\n\r\nMożliwości ma dużo, ale interfejs jest strasznie
+    nieprzystępny i toporny. Trzeba się na początku przymuszać, żeby się nauczyć go
+    używać. Nie wspomnę o używaniu efektywnym. Z niewątpliwych zalet -- wieloplatformowość,
+    ale to ma też jEdit."
+- id: 3251
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-02-05 21:22:30 +0100'
+  date_gmt: '2006-02-05 20:22:30 +0100'
+  content: "parapsychopatolog lamalutomski radzi:\r\n\r\nNie tak napisałem, tylko
+    tak chciałeś to zrozumieć. Krzak też. W moim tekście o <q>wynalezieniu</q> ani
+    <q>odkryciu</q> nic nie ma. Jest za to o ewolucji frameworków do szybkiej budowy
+    aplikacji webowych."
+- id: 3252
+  author: parapsychopatolog lamalutomski radzi
+  author_url: ''
+  date: '2006-02-05 21:31:37 +0100'
+  date_gmt: '2006-02-05 20:31:37 +0100'
+  content: "Ech, miało być EOT, ale nie mogę się powtrzymać zanaczyć po raz kolejny,
+    iż od pewnego momentu odnosiłem się do Twojego komentarza, bo temat nazewnictwa
+    CRUD uznałem za wyczerpany. Poza tym o odkryciu pisałem tylko w kontekście implementacji
+    CRUD (zaznaczam: w Twoim rozumieniu, nie wracamy już do dyskusji na temat nazewnictwa),
+    której Twoim zdaniem przed RoR nie było.\r\n\r\nEOTEOTEOT"
+- id: 3253
+  author: parapsychopatolog lamalutomski radzi
+  author_url: ''
+  date: '2006-02-05 21:34:42 +0100'
+  date_gmt: '2006-02-05 20:34:42 +0100'
+  content: A jeżeli chodzi o początki tej dyskusji, to oczywiście, że się perfidnie
+    czepiliśmy z krzakiem tego CRUDa ;-P
+- id: 3254
+  author: m
+  author_url: ''
+  date: '2006-02-05 21:36:14 +0100'
+  date_gmt: '2006-02-05 20:36:14 +0100'
+  content: "Zmieniając nudny temat...  fajnie, że wspominasz o rekrutacji do ICP polegającej
+    m.in. na napisaniu kawałka kodu, który coś robi. Kiedyś dyskutowaliśmy tutaj o
+    różnych metodach rekrutacji, o pomysłach Joela Spolskyego, który uważa napisanie
+    kawałka kodu podczas rozmowy za konieczność [1]. Ostatnio czytałem polskie wydanie
+    jego książki \"Zarządzanie projektami informatycznymi. Subiektywne spojrzenie
+    programisty\" [2] i choć nie zgadzam się w pełni ze wszystkimi \"poradami\", to
+    jest to miła lektura do kibelka, która przydałaby się wielu project managerom,
+    szeregowym developerom także - Joel pracował w Microsoft, ma wiele ciekawych spostrzeżeń.
+    Tyle, że Joel jest fanatykiem C i jego fascynacja wskaźnikami jest co najmniej
+    zastanawiająca - choćby dla mnie napisanie kawałka bardziej sytego kodu w C byłoby
+    problemem, bo gcc odpalałem ostatnio ze 3 lata temu. Z drugiej strony dużym problemem
+    podczas pracy zespołowej są ci programiści, którzy tworzą śmietnikowy kod, z którym
+    po jakimś czasie zrobić nie da się zrobić nic więcej niż napisać od nowa. Może
+    by więc podczas rekrutacji dawać kandydatom kawałki takiego gównianego kodu do
+    refaktoryzacji, żeby zobaczyć, jakie mają wyobrażenie o \"dobrym kodzie\" i jak
+    ich znajomość języka pozwala na analizę kodu?\r\n\r\nAle i pomysł z napisaniem
+    większego kawałka kodu, który coś robi, choć wymaga większej ilości czasu (ile
+    zajęło to w ICP?) bardzo mi się podoba, bo lepiej sprawdza wszystkie aspekty tworzenia
+    kodu.\r\n\r\n[1] http://www.joelonsoftware.com/articles/fog0000000073.html\r\n[2]
+    http://www.merlin.com.pl/frontend/towar/409105"
+- id: 3255
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-02-05 21:43:56 +0100'
+  date_gmt: '2006-02-05 20:43:56 +0100'
+  content: "Offtopic:\r\n\r\nm:\r\n\r\n<blockquote>Mignęło mi też jakos rok temu kilka
+    informacji popularyzujących O/R mappery w php i to świetny news, bo może wreszcie
+    pehapowcy dostrzegą potrzebe wspierania innych silników niż MySQL, który pomalutku
+    jest podkupowany przez Oracle.</blockquote>\r\n\r\nJest nawet lepiej -- w PHP
+    5.1 wbudowana jest nowa warstwa dostępu do baz danych, <a href=\"http://pl.php.net/pdo\"
+    rel=\"nofollow\">PHP Data Objects</a>, która nie tylko wrapuje poszczególne silniki
+    do wspólnego interfejsu, ale dodatkowo wymusza na sterownikach emulację funkcji,
+    których nie wspierają same silniki baz danych. Dzięki temu można sobie na przykład
+    korzystać do woli z preparowanych zapytań.\r\n\r\nProblemy tutaj to nie tylko
+    sam język i jego funkcjonalność. Spora część programistów PHP to tak zwani <q>script
+    kiddies</q>, którzy znają trzy konstrukcje językowe na krzyż i jedyną słuszną
+    metodę dostępu do danych. Spora część programistów nie zna nawet podstaw projektowania
+    systemów bazodanowych -- spróbuj spytać się kogoś, w której postaci normalnej
+    jest jego baza danych? Problemem jest też sama popularność języka -- PHP zaczynał
+    jako bardzo prosty język nastawiony na pisanie prostych scriptletów inline w kodzie
+    HTML. Z czasem stał się potężną platformą do programowania obiektowego, ale po
+    sieci i po księgarniach ciągle krąży bardzo marna literatura. Większość książek
+    jest albo zdezaktualizowana, albo pisana przez ludzi, którzy wychowali się na
+    PHP 3 i utknęli na tym etapie. Zmienne globalne, programowanie proceduralne, tona
+    <q>includów</q> i obejścia na problemy, które od lat nie istnieją.\r\n\r\nTo samo
+    powoli zaczyna dotyczyć .NET i ASP.NET -- wyszukaj sobie dziesięć serwisów opartych
+    na tej platformie i spróbuj pobawić się URLami albo formularzami -- co najmniej
+    połowa jest podatna na SQL injection, bo nikt nigdy nie nauczył tych ludzi, po
+    co się cytuje i escapuje zapytania bezpośrednie i dlaczego lepiej zastąpić je
+    preparowanymi."
+- id: 3256
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-02-05 21:47:24 +0100'
+  date_gmt: '2006-02-05 20:47:24 +0100'
+  content: "Na <q>Joel on software</q> zaglądam regularnie :)\r\n\r\nCo do egzaminu
+    - ja miałem na to jakieś trzy godziny i trochę więcej wymagań niż obsługiwanie
+    dodawania, edycji i usuwania rekordów. Trochę czasu zajęło mi też upodobnienie
+    KDE do GNOME, żebym mógł w ogóle patrzeć na monitor ;)"
+- id: 3257
+  author: m
+  author_url: ''
+  date: '2006-02-05 22:18:08 +0100'
+  date_gmt: '2006-02-05 21:18:08 +0100'
+  content: "Patrys:\r\n\r\n<blockquote>\r\nJest nawet lepiej — w PHP 5.1 wbudowana
+    jest nowa warstwa dostępu do baz danych, PHP Data Objects, która nie tylko wrapuje
+    poszczególne silniki do wspólnego interfejsu, ale dodatkowo wymusza na sterownikach
+    emulację funkcji, których nie wspierają same silniki baz danych. Dzięki temu można
+    sobie na przykład korzystać do woli z preparowanych zapytań.</blockquote>\r\n\r\nSuper
+    sprawa - świetnie, że włączyli to standardowo do języka, to najszybszy sposób
+    na popularyzację. Byłoby naprawdę bardzo fajnie, gdyby z czasem najbardziej znane
+    aplikacje pehapowe zaczęły być migrowane do tego rozwiązania. Przywiązanie pehapowców
+    do MySQL nadal wydaje się ogromne.\r\n\r\n<blockquote>\r\nTo samo powoli zaczyna
+    dotyczyć .NET i ASP.NET — wyszukaj sobie dziesięć serwisów opartych na tej platformie
+    i spróbuj pobawić się URLami albo formularzami — co najmniej połowa jest podatna
+    na SQL injection, bo nikt nigdy nie nauczył tych ludzi, po co się cytuje i escapuje
+    zapytania bezpośrednie i dlaczego lepiej zastąpić je preparowanymi.</blockquote>\r\n\r\nDługo
+    też tak myślałem, ale w ostatnim czasie Microsoft naprawdę się zmienia. Z ich
+    ostatnich produktów naprawdę spodobało mi się Visual Studio Team System [1], które
+    jest zintegrowaną platformą do testowania aplikacji, obsługi błędów, kontroli
+    wersji i zarządzania projektem, mającą gonić funkcjonalnością IBM-owskiego Rationala.
+    ASP.NET 2.0 i sam .NET 2.0, a przede wszystkim IIS 6 i Visual Studio 2005 kosmicznie
+    upraszczają autoryzację i autentyfikację, po prostu zarządzanie bezpieczeństwem
+    - samo tworzenie aplikacji webowych też staje się arcyproste, bo sporą część wykonuje
+    się wizualnie. A sam Microsoft, obiecując kilka lat temu zadbanie o bezpieczeństwo,
+    coś stara się jednak w tym kierunku rzeczywiście robić, nie zostawia też developerów
+    samych sobie z codziennymi problemami i publikuje wiele \"best practices\" [2].
+    \ To chyba nie problem technologii, a generalnie świadomości istnienia pewnych
+    problemów - akurat ASP.NET jest niezwykle popularną technologią do rozwiązań intranetowych,
+    gdzie kwestie bezpieczeństwa są traktowane mniej poważnie niż w przypadku otwartych
+    systemów. Z drugiej strony Microsoft na swoich konferencjach często mówi o bezpieczeństwie,
+    wykłady o zapobieganiu SQL Injection też się pojawiały, a to naprawdę budujące,
+    że Oni widzą taki problem. W każdym razie - warto o tym wszystkim rozmawiać, warto
+    mówić, bo podręczniki uczące pisania bezpiecznych aplikacji czy poświęcone projektowaniu
+    nadal są pewną egzotyką w porównaniu z podstawowymi podręcznikami do języków programowania.
+    A nauka na poznaniu języka przecież się nie kończy. Ewangalizatorów nam trzeba.
+    Dlatego fajnie, że piszesz :).\r\n\r\nbtw, zdjęcie z dwoma księgami mojżeszowymi,
+    które kiedyś wrzuciłeś, było arcyzajebiste :)\r\n\r\n[1] http://msdn.microsoft.com/vstudio/teamsystem/\r\n[2]
+    http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetsec/html/SecNetch12.asp\r\n[3]
+    http://msdn.microsoft.com/practices/"
+- id: 3258
+  author: 'NuLL'
+  author_url: http://www.null.avx.pl
+  date: '2006-02-05 22:19:09 +0100'
+  date_gmt: '2006-02-05 21:19:09 +0100'
+  content: "<blockquote cite='Patrys'>Być może nie jest do definicja książkowa, ale
+    CRUD przyjęło się określać w skrócie wrappery silników baz danych.</blockquote>\r\nBzdura.
+    CRUD to jak wiemy akronim od create, read, update, delete. I nie jest to wrapper
+    bazy danych. CRUD to nazwa zestawu operacji na rekordach i wiekszosc tekstow z
+    wpisu to powazne farmazony jak wspomnieli poprzednicy. Najprostszym przykladem
+    idei pod nazwa CRUD sa obiekty oparte o wzorzec ActiveRecord badz genericObject
+    gdzie kazdy obiekt reprezentuje pojedynczy wiersz w tabeli bazy danych. I takowy
+    obiekt ma wbudowane metody do dodawania, usuwania, update i innych bajerow. To
+    jest CRUD !!  Wzorce AC oraz GO sa znane od dosc dawna - miejscami sie kryja pod
+    inna nazwa, ale tak czy tak to jest wlasnie CRUD."
+- id: 3259
+  author: m
+  author_url: ''
+  date: '2006-02-05 22:19:42 +0100'
+  date_gmt: '2006-02-05 21:19:42 +0100'
+  content: "autopoprawka:\r\n\r\n[2] = [2,3]\r\nksięgami = tablicami (czy jakoś)\r\n\r\n;)"
+- id: 3260
+  author: m
+  author_url: ''
+  date: '2006-02-05 22:21:55 +0100'
+  date_gmt: '2006-02-05 21:21:55 +0100'
+  content: "NuLL:\r\n\r\nSprawa już dawno wyjaśniona, spojrzenia na problem zintegrowane
+    - nie ma co się burzyć, lepiej kolację zjeść niż nic nowego do dyskusji nie wnosić."
+- id: 3422
+  author: xyh
+  author_url: ''
+  date: '2006-03-02 23:35:46 +0100'
+  date_gmt: '2006-03-02 22:35:46 +0100'
+  content: "wszyscy sie mylicie\r\n<a href=\"http://www.crud.org/\" title=\"crud.org\"
+    rel=\"nofollow\"></a>"
+- id: 3423
+  author: xyh
+  author_url: ''
+  date: '2006-03-02 23:42:01 +0100'
+  date_gmt: '2006-03-02 22:42:01 +0100'
+  content: "mialo byc:\r\n\r\nwszyscy sie mylicie\r\n<a href=\"http://www.crud.org/\"
+    rel=\"nofollow\">crud.org</a>"
+---
+<p>Kiedy starałem się o pracę w <a href="http://prodesign.pl/">Internet Center Polska</a> półtora roku temu, w ramach kwalifikacji zostałem posadzony przed komputerem i dostałem za zadanie napisanie w <abbr title="PHP Hypertext Preprocessor">PHP</abbr> panelu do zarządzania prostą, jednotabelową bazą danych. Dziś byłbym w stanie to zrobić w ciągu kilkunastu minut i całość zawrzeć w pięciu liniach kodu.</p>
+
+<p>Od roku coraz większą popularnością cieszą się frameworki implementujące <abbr title="Create, Read, Update, Delete">CRUD</abbr> jako przezroczystą automatykę, rewolucję zaczął znany dziś wszystkim silnik <a href="http://rubyonrails.pl/">Ruby on Rails</a>. Cała idea polega na odseparowaniu właściwego kodu aplikacji (model, kontroler) od warstwy najniższego rzędu, odpowiadającej za przechowywanie danych (storage). Ta ostatnia jest obsługiwana automatycznie przez silnik, wystarczy zatem stworzyć odpowiednie tabele w bazie danych i zadeklarować wzajemnie relacje pomiędzy obiektami &mdash; sprowadza się to do dopisania właściwych słów kluczowych do klasy modelu.</p>
+
+<p>Po krótkim prototypowaniu połączeń, silnik staje się zupełnie przezroczysty. Można wykonywać dowolne operacje na instancjach poszczególnych klas, a każda zmiana zostanie natychmiast odzwierciedlona w zawartości bazy danych. Odpada konieczność pisania zawiłych zapytań <abbr title="Structured Query Language">SQL</abbr>, wzrasta też elastyczność kodu (staje się niezależny od struktury poszczególnych tabel &mdash; po dodaniu nowego pola, nie ma potrzeby modyfikacji kodu odpowiedzialnego za obsługę tabeli).</p>
+
+<p>Oczywiście, Rails nie jest jedynym frameworkiem tego typu. W jego ślady poszli deweloperzy korzystający z innych języków programowania. Dziś szkielety podobnych lub identycznych rozwiązań dostępne są dla większości z popularnych języków. Najczęściej stosowany w aplikacjach małego i średniego kalibru, <abbr>PHP</abbr>, ma ich nawet kilka. Szczególnie interesujący jest jednak jeden z pierwszych, dostępny od zeszłego roku <a href="http://cakephp.org/">CakePHP</a> &mdash; tutaj nawet słowa kluczowe (w <abbr>PHP</abbr> reprezentowane przez zmienne) są żywcem zaczerpnięte z pierwowzoru.</p>
+
+<p>Kiedy warto stosować <abbr>CRUD</abbr>? Odpowiedź jest prosta &mdash; kiedy tylko się da. Oczywiście, nikt nie zbuduje w ten sposób wydajnego systemu bankowego, ale większość tworzonych aplikacji to rozwiązania z niższej półki &mdash; aplikacje ekstra-/intranetowe, systemy <abbr title="Content Management System">CMS</abbr> i dynamiczne witryny internetowe. Biorąc pod uwagę, że proces tworzenia oprogramowania ulega kilkunastokrotnemu skróceniu i staje się bardziej odporny na błędy, korzyści są nie do odrzucenia.</p>
+
+Technorati Tags: <a href="http://technorati.com/tag/webapp" rel="tag">webapp</a>, <a href="http://technorati.com/tag/code" rel="tag">code</a>, <a href="http://technorati.com/tag/crud" rel="tag">crud</a>, <a href="http://technorati.com/tag/ruby" rel="tag">ruby</a>, <a href="http://technorati.com/tag/rails" rel="tag">rails</a>, <a href="http://technorati.com/tag/php" rel="tag">php</a>, <a href="http://technorati.com/tag/framework" rel="tag">framework</a>

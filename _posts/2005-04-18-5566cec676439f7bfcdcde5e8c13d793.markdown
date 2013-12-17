@@ -1,0 +1,136 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #011: Untitled Comics part 2'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 80
+date: 2005-04-18 21:48:03.000000000 +02:00
+categories:
+- comic
+tags: []
+comments:
+- id: 952
+  author: Nina
+  author_url: ''
+  date: '2005-04-18 21:49:42 +0200'
+  date_gmt: '2005-04-18 21:49:42 +0200'
+  content: A ja znowu rozrabiam ;)
+- id: 953
+  author: Sky Ace
+  author_url: ''
+  date: '2005-04-18 21:51:10 +0200'
+  date_gmt: '2005-04-18 21:51:10 +0200'
+  content: |-
+    Hehe.
+    <br/>
+    <br/>Nina the Destroyerka. ;)
+- id: 954
+  author: jpc
+  author_url: ''
+  date: '2005-04-18 22:10:48 +0200'
+  date_gmt: '2005-04-18 22:10:48 +0200'
+  content: Trzeci!
+- id: 955
+  author: Patrys
+  author_url: ''
+  date: '2005-04-18 22:11:36 +0200'
+  date_gmt: '2005-04-18 22:11:36 +0200'
+  content: '@JPC: pragnę przypomnieć, że to mój blog, a nie kanał #pld ;]'
+- id: 956
+  author: jpc
+  author_url: ''
+  date: '2005-04-18 22:12:34 +0200'
+  date_gmt: '2005-04-18 22:12:34 +0200'
+  content: 'Ja nic nie wiem o #PLD. Nie byłem tak od roku a może dwóch! ;D'
+- id: 957
+  author: Patrys
+  author_url: ''
+  date: '2005-04-18 22:13:01 +0200'
+  date_gmt: '2005-04-18 22:13:01 +0200'
+  content: To co to za &quot;trzeci&quot;, hmm? :D
+- id: 958
+  author: jpc
+  author_url: ''
+  date: '2005-04-18 22:15:09 +0200'
+  date_gmt: '2005-04-18 22:15:09 +0200'
+  content: 'Ty mi wyjaśni co to mogłoby mieć wspólnego z #PLD, a ja Ci powiem, że
+    masz mój wybryk traktować jako swego rodzaju SlashdotEffect.'
+- id: 959
+  author: Sky Ace
+  author_url: ''
+  date: '2005-04-18 22:16:07 +0200'
+  date_gmt: '2005-04-18 22:16:07 +0200'
+  content: Chyba raczej blog.pl efekt. ;)
+- id: 960
+  author: Patrys
+  author_url: ''
+  date: '2005-04-18 22:16:24 +0200'
+  date_gmt: '2005-04-18 22:16:24 +0200'
+  content: |-
+    /. effect to może mieć sajt, który czyta &gt;100 osób dziennie.
+    <br/>
+    <br/>A na #pld jest zwyczaj, że około 6 rano ktoś rzuca &quot;pierwszy&quot; w ramach dowcipu.
+- id: 961
+  author: jpc
+  author_url: ''
+  date: '2005-04-18 22:19:11 +0200'
+  date_gmt: '2005-04-18 22:19:11 +0200'
+  content: |-
+    Patrys: No dobra --- SlashdotCommentsEffect. ;]
+    <br/>Apropos #PLD --- fakt, coś mi się kojarzy. ;]
+- id: 962
+  author: DeeJay1
+  author_url: ''
+  date: '2005-04-18 22:57:50 +0200'
+  date_gmt: '2005-04-18 22:57:50 +0200'
+  content: Ostatni! (przynajmniej na razie :P)
+- id: 963
+  author: Sky Ace
+  author_url: ''
+  date: '2005-04-18 22:59:07 +0200'
+  date_gmt: '2005-04-18 22:59:07 +0200'
+  content: Nie możesz być ostatni. :P
+- id: 964
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-04-19 00:26:27 +0200'
+  date_gmt: '2005-04-19 00:26:27 +0200'
+  content: Przedostatni (niech ktoś doda komentarz, żebym nie wyglądał głupio)
+- id: 965
+  author: batou
+  author_url: ''
+  date: '2005-04-19 01:42:57 +0200'
+  date_gmt: '2005-04-19 01:42:57 +0200'
+  content: Dobra, Łasica, ale stawiasz piwo. ;D
+- id: 966
+  author: Jezuch
+  author_url: ''
+  date: '2005-04-19 20:49:26 +0200'
+  date_gmt: '2005-04-19 20:49:26 +0200'
+  content: |-
+    A co jeśli ktoś dorzuci jeszcze jeden...
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>Uhm....
+    <br/>
+    <br/>Chyba coś popsułem ;&gt;
+- id: 967
+  author: Patrys
+  author_url: ''
+  date: '2005-04-19 20:50:01 +0200'
+  date_gmt: '2005-04-19 20:50:01 +0200'
+  content: Przestańcie do cholery robić wioskę w komentarzach bo wyrezam całość do
+    zera.
+---
+<p>Jako, że pracuję właśnie nad mega wielkim i poważnym CMS-em dla klienta w PHP, mój mózg krąży po wszystkich możliwych pomysłach poza tymi przydatnymi w programowaniu. Przy okazji zaplątał się też ponownie w okolice UC.</p>
+
+<p class="strip"><img src="http://comic.room-303.com/strips/011-untitled-2.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>

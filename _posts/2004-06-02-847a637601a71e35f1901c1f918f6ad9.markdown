@@ -1,0 +1,167 @@
+---
+layout: post
+status: publish
+published: true
+title: Mamo, goni mnie potwór zwany lagiem
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 24
+date: 2004-06-02 19:15:54.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 48
+  author: mrman
+  author_url: ''
+  date: '2004-06-02 19:23:59 +0200'
+  date_gmt: '2004-06-02 19:23:59 +0200'
+  content: i słusznie ;]
+- id: 49
+  author: remiq
+  author_url: ''
+  date: '2004-06-02 21:11:07 +0200'
+  date_gmt: '2004-06-02 21:11:07 +0200'
+  content: Przyznaj się, Ty wymyślasz tego SynaPrezesa. POWIEDZ! Proszę... ;-)
+- id: 50
+  author: mrman
+  author_url: ''
+  date: '2004-06-02 23:53:37 +0200'
+  date_gmt: '2004-06-02 23:53:37 +0200'
+  content: patrys... nie wiem czy to fikcja... ale chcemy wiecej... duzo wiecej....
+- id: 51
+  author: Patrys
+  author_url: ''
+  date: '2004-06-03 10:15:49 +0200'
+  date_gmt: '2004-06-03 10:15:49 +0200'
+  content: Niestety, on jest prawdziwy. :)
+- id: 52
+  author: Mariola
+  author_url: ''
+  date: '2004-06-03 10:24:36 +0200'
+  date_gmt: '2004-06-03 10:24:36 +0200'
+  content: Tego nie da się wcale przeczytać. Za ciemno tu jest. :-(
+- id: 53
+  author: Patrys
+  author_url: ''
+  date: '2004-06-03 10:25:16 +0200'
+  date_gmt: '2004-06-03 10:25:16 +0200'
+  content: Używaj dalej IEplore. Gratulacje. :)
+- id: 54
+  author: Cachotterie
+  author_url: ''
+  date: '2004-06-03 16:17:42 +0200'
+  date_gmt: '2004-06-03 16:17:42 +0200'
+  content: Używam opery, mozilli, konquerora, wszędzie ciemno dopóki się nie najedzie
+    myszką, a to średnio wygodne... Nie rozumiem skąd się wziął komentarz o IE?
+- id: 55
+  author: Patrys
+  author_url: ''
+  date: '2004-06-03 16:23:03 +0200'
+  date_gmt: '2004-06-03 16:23:03 +0200'
+  content: Bo pod IE sie nie zapala wcale. Taka przeglądarka.
+- id: 56
+  author: Cachotterie
+  author_url: ''
+  date: '2004-06-03 17:09:14 +0200'
+  date_gmt: '2004-06-03 17:09:14 +0200'
+  content: Ups. To rzeczywiście kiepsko ;) A to wyciemnienie to tak żeby odzwyczaić
+    ludzi od IE czy tak Ci się podoba? Bo praktyczne to na pewno nie jest ;)
+- id: 57
+  author: Patrys
+  author_url: ''
+  date: '2004-06-03 17:11:04 +0200'
+  date_gmt: '2004-06-03 17:11:04 +0200'
+  content: Żeby strona była w jakimś stopniu oryginalna. Miałem zmienić, ale okazało
+    się, że w IE nie działa CSS, więc na złość jest jak jest ;]
+- id: 58
+  author: Cachotterie
+  author_url: ''
+  date: '2004-06-03 17:29:35 +0200'
+  date_gmt: '2004-06-03 17:29:35 +0200'
+  content: |-
+    Eh, i my biedni też za to cierpimy ;)))
+    <br/>A tak serio - świetnie piszesz i to będzie mnie tu trzymać mimo pewnych niedogodności. :)
+- id: 59
+  author: Express
+  author_url: ''
+  date: '2004-06-03 17:50:27 +0200'
+  date_gmt: '2004-06-03 17:50:27 +0200'
+  content: |-
+    Ale jakie to niedogodności? Zmień przeglądarkę na lepszą i tyle. Same korzyści.
+    <br/>
+- id: 60
+  author: remiq
+  author_url: ''
+  date: '2004-06-03 17:55:11 +0200'
+  date_gmt: '2004-06-03 17:55:11 +0200'
+  content: W Firefoxie trzeba najeżdzać myszą na każdy komentarz. Kłopoty są wtedy,
+    jak człowiek czyta szybciej niż biega myszą między wpisem, a suwakiem.
+- id: 61
+  author: Patrys
+  author_url: ''
+  date: '2004-06-03 17:59:34 +0200'
+  date_gmt: '2004-06-03 17:59:34 +0200'
+  content: Kółeczko na myszce :). Albo 3 guzik + autoscroll :).
+- id: 62
+  author: Cachotterie
+  author_url: ''
+  date: '2004-06-03 18:00:44 +0200'
+  date_gmt: '2004-06-03 18:00:44 +0200'
+  content: Takie że muszę cały czas jeździć myszką po stronie, zamiast otworzyć i
+    ew. z klawiatury przesunąc na następny duży kawałek... Da się wytrzymać, ale jest
+    to niewygodne. Po prostu. Ja w ogóle (stosunkowo) mało z myszki korzystam.
+- id: 63
+  author: Cachotterie
+  author_url: ''
+  date: '2004-06-03 18:08:11 +0200'
+  date_gmt: '2004-06-03 18:08:11 +0200'
+  content: Przy scrollowaniu samym mi się nie zmieniają kolorki, dopiero jak troszkę
+    nad tym ruszę mychą...
+- id: 64
+  author: szszszzzzzzzz.....ej?
+  author_url: ''
+  date: '2004-06-03 21:20:32 +0200'
+  date_gmt: '2004-06-03 21:20:32 +0200'
+  content: |-
+    no przyznam, ze przy komentarzach jest to opierdliwe
+    <br/>przy postach nie, tam jest okay i powinno tak pozostac (po pohybel IE :)
+    <br/>ale na stronie z komentarzami mogloby byc je ladnie widac bez macania ich
+- id: 65
+  author: Patrys
+  author_url: ''
+  date: '2004-06-04 09:44:33 +0200'
+  date_gmt: '2004-06-04 09:44:33 +0200'
+  content: Your wish is my command... :)
+- id: 66
+  author: Cachotterie
+  author_url: ''
+  date: '2004-06-04 16:30:22 +0200'
+  date_gmt: '2004-06-04 16:30:22 +0200'
+  content: Brawo dla Patrysia :D Dziękujemy &lt;dyg&gt; ;)
+- id: 67
+  author: qwiat
+  author_url: ''
+  date: '2004-06-04 17:19:48 +0200'
+  date_gmt: '2004-06-04 17:19:48 +0200'
+  content: |-
+    Jestem znany tutaj jako &quot;MójWspółpracownik™&quot; i mogę potwierdzić że niejaki SynPrezesa™ jest postacią prawdziwą.
+    <br/>
+    <br/>Pozdro!
+---
+Godzina 18:00. Przychodzi SynPrezesa&trade; i mówi, że coś z siecią jest nie tak i trzeba sprawdzić. Pytam więc, jak zwykle uprzejmie, jaka jest natura problemu.<br />
+<br />
+- Mam straszne lagi do rutera. Ponad sekundę, jak coś ściągam.<br />
+- No to nie ściągaj.<br />
+- A w ogóle wczoraj jak ściągałem plik to miałem transfer 3,3 kilobajta na sekundę.<br />
+- To dobrze.<br />
+- Jak dobrze, przecież wcześniej było 200 kilo?<br />
+- Ale jak podniosłeś sto dwadzieścia osiem firmowych adresów IP na swoim komputerze, to ci obciąłem transfer do 32 kilobitów.<br />
+- No nie rób jaj! Daj mi minimum na 128.<br />
+- Przynieś mi polecenie od prezesa, to ci dam nawet całe dwa mega.<br />
+- No bez przesady, to jak na to ludzie będą się logować na shelle?<br />
+<br />
+Nie będą? Morał: dziś dowiedzieliśmy się, że jako jedna z pierwszych firm we Wrocławiu wprowadziliśmy darmowe konta shellowe bez limitu sesji i łącza. Wystarczy poprosić SynaPrezesa&trade; i nawet Staś Kowalski może mieć konto na firmowym serwerze. I to z własnym vhostem, w końcu po coś te 128 adresów IP. A mi się kiedyś wydawało, że jeden publiczny adres IP na maszynę, która nie ma nawet serwera www, to już sporo...

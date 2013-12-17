@@ -1,0 +1,138 @@
+---
+layout: post
+status: publish
+published: true
+title: Trup
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 153
+date: 2005-09-10 19:13:05.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 2098
+  author: cenebris
+  author_url: ''
+  date: '2005-09-10 19:35:54 +0200'
+  date_gmt: '2005-09-10 19:35:54 +0200'
+  content: To boli - nie zazdroszczę...
+- id: 2099
+  author: Movi
+  author_url: ''
+  date: '2005-09-10 19:36:28 +0200'
+  date_gmt: '2005-09-10 19:36:28 +0200'
+  content: i właśnie dlatego piekło musiało by się zamrozić żebym kupił PCtowego Laptopa.
+- id: 2100
+  author: Krymzon
+  author_url: ''
+  date: '2005-09-10 23:00:03 +0200'
+  date_gmt: '2005-09-10 23:00:03 +0200'
+  content: |-
+    Ajwaj, to aż taka jatka.. =(
+    <br/>Współczucia, sprzęt na gwarancji to jedno, ale dane to zupełnie inne kalosze...
+- id: 2101
+  author: cenebris
+  author_url: ''
+  date: '2005-09-11 01:46:28 +0200'
+  date_gmt: '2005-09-11 01:46:28 +0200'
+  content: Movi - z tego rozumiem, że makówki się nigdy nie psują? :)
+- id: 2102
+  author: tas
+  author_url: ''
+  date: '2005-09-11 10:57:37 +0200'
+  date_gmt: '2005-09-11 10:57:37 +0200'
+  content: |-
+    aj, współczuje dysku... Backupy masz chociaż porobione?
+    <br/>
+- id: 2103
+  author: Patrys
+  author_url: ''
+  date: '2005-09-11 14:22:01 +0200'
+  date_gmt: '2005-09-11 14:22:01 +0200'
+  content: |-
+    Dane danymi, kod można napisać od zera. Problem w tym, że nie mam komputera, na którym mógłbym to zrobić (notebook to moja jedyna stacja robocza), a terminy lecą.
+    <br/>
+    <br/>A co do jabłek - wczoraj kumplowi padł PowerBook G4.
+- id: 2104
+  author: cenebris
+  author_url: ''
+  date: '2005-09-11 17:00:10 +0200'
+  date_gmt: '2005-09-11 17:00:10 +0200'
+  content: Tak mi się pomyślało - jeśli &quot;tylko&quot; dysk umarł, a do naprawy
+    nie wzięli Ci całego notebooka, to może da się podłączyć sam &quot;desktopowy&quot;
+    dysk? Widziałem gdzieś przelotki do podłączenia dysku notebookowego do desktopa
+    - może da się też na odwrót?
+- id: 2105
+  author: Patrys
+  author_url: ''
+  date: '2005-09-11 19:17:08 +0200'
+  date_gmt: '2005-09-11 19:17:08 +0200'
+  content: Komputer jest zamkniętą całością na gwarancji. Nie mogę nawet go otworzyć.
+- id: 2106
+  author: Hawk
+  author_url: ''
+  date: '2005-09-11 21:13:03 +0200'
+  date_gmt: '2005-09-11 21:13:03 +0200'
+  content: Au. Takie cos boli. Cala sprawa przypomniala, ze (1) powinienem zbackupowac
+    swoje dane. Tylko jak pomysle ile by trwalo zgrywanie ~150GB na DVD-RW to mi sie
+    odechciewa. I tu jest goto (1).
+- id: 2107
+  author: input
+  author_url: ''
+  date: '2005-09-12 09:58:24 +0200'
+  date_gmt: '2005-09-12 09:58:24 +0200'
+  content: |-
+    Ja miałem jedną poważna awarię dysku [jakieś 5-6 lat temu]... Po 2 latach padła mi barakuda - a z nią danę od początku mojej przygody z pc [od pierwszego xt, które miałem]. Nawet jak sobie teraz przypominam to mnie cholera bierze... Teraz regularne backupy to podstawa.
+    <br/>A braku narzędzia pracy bardzo współczuję.
+- id: 2108
+  author: Jezuch
+  author_url: ''
+  date: '2005-09-12 10:37:23 +0200'
+  date_gmt: '2005-09-12 10:37:23 +0200'
+  content: Ja robię backupy na komputer mamy przez sieć ;) [i odwrotnie, rzecz jasna]
+- id: 2109
+  author: Enleth
+  author_url: ''
+  date: '2005-09-12 18:07:18 +0200'
+  date_gmt: '2005-09-12 18:07:18 +0200'
+  content: |-
+    Heh. A mi wczoraj wieczorem tablica partycji poszła się [...] i nadpisało spory kawał /...
+    <br/>O tyle dobrze, że reiserfsck nawet z tej tragedii coś właśnie próbuje zrobić, po podaniu --rebuild-tree...
+- id: 2110
+  author: Enleth
+  author_url: ''
+  date: '2005-09-12 18:11:35 +0200'
+  date_gmt: '2005-09-12 18:11:35 +0200'
+  content: BTW, jeśli w dysku zdechła elektronika, a talerze i głowica są całe, da
+    się go jeszcze przywrócić do świata żywych.
+- id: 2111
+  author: mcv
+  author_url: ''
+  date: '2005-09-16 21:30:08 +0200'
+  date_gmt: '2005-09-16 21:30:08 +0200'
+  content: |-
+    Kuuur, a ja dawno backupu nie robiłem. Powiesiłbym się chyba (choć niewielką część odtworzyłbym z backupu w Sieci).
+    <br/>
+    <br/>Kur. No nawet sam fakt zniknięcia danych może trochę wkurzyć. No nawet nie moje to dane, a jednak się wkurzam. Może dlatego, że mój dysk to samo, ot tak, może spotkać?
+    <br/>
+    <br/>PS: Na moim notebooku nie ma naklejek ani żadnych zabezpieczeń i sobie spokojnie dysk i proca już oglądałem :-)
+- id: 2112
+  author: Tomash
+  author_url: ''
+  date: '2005-09-21 00:29:53 +0200'
+  date_gmt: '2005-09-21 00:29:53 +0200'
+  content: |-
+    Dzięki za przypomnienie. Dziś zrobiłem backup najważniejszego stuffu, jedna kopia na domowy ruterek, druga na płytę i pad mi niestraszny.
+    <br/>
+    <br/>Przy okazji - Snap Backup: ładny, prosty (wręcz debilny), darmowy i w javie, co jest nie do przecenienia dla multiplatformowców :).
+---
+<p>Lepiej być nie może. W <a href="http://www.prodesign.pl/">ICenter</a> pracuję właśnie nad nowym modułem do swojego <abbr title="Content Management System">CMS</abbr>, z <a href="http://www.activnet.pl/">Activnetem</a> buduję system webowy do zarządzania produkcją w jednej z włoskich fabryk, <a href="http://www.techland.pl/">Techland</a> zamówił u mnie strony dla dwóch nowych gier. Wszystko pięknie.</p>
+
+<p>We wtorek komputer spowolnił do żółwiego tempa. Mysz poruszała się w trybie skokowym, wskaźniki obciążenia twierdziły, że przeciętnie wynosi 15%, <code>dmesg</code> milczał niczym grób (nie mylić z Grubem). Odpaliłem <code>top</code> i ustawiłem opóźnienie odświeżania na 0,1 sekundy. Winnym okazał się <code>hald</code>, który generował szpilki po 100%. Ki czort? Ustaliłem, że proces zaczyna się od apletu monitorującego stan akumulatora - każde pytanie o stan powodowało zatkanie się systemu, co więcej, to samo powodowała próba czytania z <code>/proc/acpi</code>, więc problem nie leżał po stronie demona <abbr title="Hardware Abstraction Layer">HAL</abbr>.</p>
+
+<p>Wyjąłem przeto akumulator, a problem mój jako objawił się był błyskawicznie, tako też zniknął. Ponowne podłączenie winnego pozwoliło odczytać producenta i typ, jednak napięcie znamionowe, poziom naładowania i pozostałe wskaźniki pozostawały dla systemu zagadką. Powróciła czkawka systemu. Sprzęt na gwarancji, więc kiedyś się odda, póki co - komputer potrzebny mi jest bez przerwy.</p>
+
+<p>Dziś spotkała mnie niespodzianka dalece bardziej niemiła. Próba włączenia laptopa zakończyła się na komunikacie układu <abbr title="Self-Monitoring Analysis and Reporting Technology">SMART</abbr>, który w wypowiedzi tyle lakonicznej co smutnej, poinformował mnie, że dysk mogę sobie przerobić na przycisk do papieru. 40 gigabajtów pracy i zabawy przesunęło się w odmęty niebytu.</p>

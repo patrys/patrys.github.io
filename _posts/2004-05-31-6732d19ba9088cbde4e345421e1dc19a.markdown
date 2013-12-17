@@ -1,0 +1,52 @@
+---
+layout: post
+status: publish
+published: true
+title: Wdrożenie i ofiary
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 21
+date: 2004-05-31 20:40:29.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 45
+  author: Express
+  author_url: ''
+  date: '2004-05-31 23:53:42 +0200'
+  date_gmt: '2004-05-31 23:53:42 +0200'
+  content: |-
+    Patrys, nie powinien być to przypadkiem blog Syna Prezesa? Tyle, że TPP, zamiast FPP...
+    <br/>Można to potem w książeczkę zebrać, bo powiastki są przedniej marki...
+    <br/>
+    <br/>PS: czemu nie działa mi otwieranie linków Środkowym-Klawiszem-Myszy? Tylko na tej stronie to zaobserwowałem.
+---
+Dziś przyszedł do nas mój BezpośredniPrzełożony&trade; w sprawie kontroli przebiegu prac nad systemem sprzedaży. Pierwszy etap miał się zakończyć w tym tygodniu, dlatego przyszedł rozliczyć nas z terminów. Zbiegło się to akurat z doroczną wizytą SynaPrezesa&trade; w naszych coraz skromniejszych progach, jako że sprzętu nam jakoś z czasem ubywa. Okazało się też, że przechwałki dotyczące wcześniejszego ukończenia prac przez sami wiecie kogo były równie przedwczesne.<br />
+<br />
+BezpośredniPrzełożony&trade; zapoznawszy się ze stanem faktycznym, rzekł do nas w te słowy:<br />
+<br />
+- No dobra chłopaki, to określcie mi jakiś konkretny termin.<br />
+- Hmm, to będzie c&nbsp;i&nbsp;ę&nbsp;ż&nbsp;k&nbsp;o określić...<br />
+<br />
+Po tych słowy wskazałem byłem nieśmiało palcem w kierunku SynaPrezesa&trade;.<br />
+<br />
+- Tak, zdaję sobie sprawę z tego, że ta zakała tu siedzi. Ale musicie mi dać jakiś termin, bo coś muszę SamemuPrezesowi&trade; powiedzieć.<br />
+<br />
+Na to SynPrezesa&trade; z entuzjazmem rzecze:<br />
+<br />
+- Ja mogę się od poniedziałku zająć wdrożeniem.<br />
+- Ale chyba trzeba mieć najpierw co wdrażać...<br />
+- Eee... yyy... no tak. Marudzisz.<br />
+<br />
+Czas jakiś później przyszedł, obejrzał półkę ze sprzętem, wziął jakąś płytę z Pentium 2 pod pachę i zaczął chodzić po biurze.<br />
+<br />
+- Co ty robisz?<br />
+- No mówiłem ci, że stawiam ruter z firewallem w piwnicy.<br />
+- No i?<br />
+- No i będę potrzebował jakiś komputer do tego chyba, nie?<br />
+<br />
+Na szczęście nie zabrał nam zasilacza, pamięci i obudowy. Pomyślicie, że to z dobroci serca i ulitowania nad firmą? Otóż on ich po prostu nie znalazł.

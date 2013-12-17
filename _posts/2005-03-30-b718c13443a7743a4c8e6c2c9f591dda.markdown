@@ -1,0 +1,152 @@
+---
+layout: post
+status: publish
+published: true
+title: Sprawny host w pigułce
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 73
+date: 2005-03-30 23:40:43.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 813
+  author: queer
+  author_url: ''
+  date: '2005-03-30 23:49:35 +0200'
+  date_gmt: '2005-03-30 23:49:35 +0200'
+  content: I dlatego kocham tego joga. Patrys, może tak wydasz książkę? :)
+- id: 814
+  author: harnir
+  author_url: ''
+  date: '2005-03-30 23:54:11 +0200'
+  date_gmt: '2005-03-30 23:54:11 +0200'
+  content: Hmm, a może lepiej nie iść w kierunku admina/programisty tylko kopać rowy?
+    Praca pewniejsza (przyzerowe zagrożenie patentami) i mniej stresująca... Hmm...
+    ;)
+- id: 815
+  author: Bender
+  author_url: ''
+  date: '2005-03-31 00:06:58 +0200'
+  date_gmt: '2005-03-31 00:06:58 +0200'
+  content: Też raz miałem &quot;wolną&quot; konsole bo ktoś się pomylił i postfix
+    miał w kolejce z 15 tysięcy wiadomości przez co zabierał całą moc procesory i
+    zajmował całą dostępną pamięć łącznie ze swapem...
+- id: 816
+  author: futrzak
+  author_url: ''
+  date: '2005-03-31 00:08:01 +0200'
+  date_gmt: '2005-03-31 00:08:01 +0200'
+  content: Świetne :D
+- id: 817
+  author: Patrys
+  author_url: ''
+  date: '2005-03-31 00:08:40 +0200'
+  date_gmt: '2005-03-31 00:08:40 +0200'
+  content: Widzisz, tylko oprócz stu tysięcy maili w przetwarzanej w kółko kolejce,
+    ten host wyświetlał na konsoli zrzut wszystkich ramek sieciowych.
+- id: 818
+  author: jpc
+  author_url: ''
+  date: '2005-03-31 00:19:58 +0200'
+  date_gmt: '2005-03-31 00:19:58 +0200'
+  content: |-
+    Najłatwiej było go chyba zdjąć i naprawić z LiveCD. Tak zrobiłeś, czy musieliście się dłubać inaczej? ;]
+    <br/>
+    <br/>W każdym razie --- tak poryte, że aż nieprawdopodobne (a jednak jakiś wewnętrzny głos podpowiada mi, że prawdziwe).
+- id: 819
+  author: Hawk
+  author_url: ''
+  date: '2005-03-31 01:07:49 +0200'
+  date_gmt: '2005-03-31 01:07:49 +0200'
+  content: 'jpc: nieprawdopodobne? Powiedzialbym, ze bardzo prawdopodobne. Nurtuje
+    mnie tylko pytanie, dlaczego myslalem, ze takie historie to juz historia? :-)
+    Pewnie dlatego, ze ostatni raz zetknalem sie z podobna historia jakies 2 lata
+    temu. Chociaz, jezeli prywatne kompy sie tez licza, to laptopa potraktowanego
+    wg identycznej idei spotkalem raptem gdzies pol roku temu.'
+- id: 820
+  author: Patrys
+  author_url: ''
+  date: '2005-03-31 01:30:54 +0200'
+  date_gmt: '2005-03-31 01:30:54 +0200'
+  content: '@jpc: nie da rady, bo nie ma tam napędu. Reanimacja przebiegła z palca.
+    Najchętniej to byśmy tam PLD postawili zamiast tych zabytków, część hostów już
+    chodzi na PLD.'
+- id: 821
+  author: Jajcus
+  author_url: ''
+  date: '2005-03-31 08:25:23 +0200'
+  date_gmt: '2005-03-31 08:25:23 +0200'
+  content: Aby był lepszy efekt logów z iptables wysyłanych na konsolę, to _koniecznie_
+    należy włączyć konsolę szeregową. Efekt gwarantowany, wtedy już nikt, nawet z
+    dostępem do konsoli, nie zrobi nic złego systemowi (Alt-SysRq-B nie zadziała).
+    ;-)
+- id: 822
+  author: olaf
+  author_url: ''
+  date: '2005-03-31 11:25:52 +0200'
+  date_gmt: '2005-03-31 11:25:52 +0200'
+  content: wymiata ;]
+- id: 823
+  author: Cachotterie
+  author_url: ''
+  date: '2005-03-31 16:40:42 +0200'
+  date_gmt: '2005-03-31 16:40:42 +0200'
+  content: 'A ja tylko chciałam spytać: cośtykocie zrobił z tłem tego jogga?? :&gt;'
+- id: 824
+  author: jarv
+  author_url: ''
+  date: '2005-04-01 00:26:16 +0200'
+  date_gmt: '2005-04-01 00:26:16 +0200'
+  content: '@Cachotterie - dobral kolor zgodny z doktryna Maćkizmu (tak - wyjatkowo
+    uzylem polskiego znaku... by podkreslic powage sytuacji.)'
+- id: 825
+  author: bmalkow
+  author_url: ''
+  date: '2005-04-01 06:59:14 +0200'
+  date_gmt: '2005-04-01 06:59:14 +0200'
+  content: |-
+    E! Co to ma być?
+    <br/>Znalazłem w domu płytki z Debianem SID z połowy 2001 roku (mogą być?) ale tam na żadnej nie ma setup.exe???
+    <br/>Do bani ten tutorial!
+    <br/>
+    <br/>
+- id: 826
+  author: Cachotterie
+  author_url: ''
+  date: '2005-04-01 18:47:43 +0200'
+  date_gmt: '2005-04-01 18:47:43 +0200'
+  content: Mać-czego? ;)
+- id: 827
+  author: jarv
+  author_url: ''
+  date: '2005-04-01 22:34:55 +0200'
+  date_gmt: '2005-04-01 22:34:55 +0200'
+  content: '@Cachotterie - zapytaj Patrys&#039;a - na pewno ci wyjasni. w koncu to
+    on nazwal ten specyficzny kierunek filozoficzno-polityczno-zyciowy - po imieniu...
+    ;)'
+---
+<p>Wielu początkujących administratorów przeczesuje zasoby sieci w poszukiwaniu stron z opisami poprawnej konfiguracji serwerów usług bądź w poszukiwaniu znajomych taką wiedzę posiadających. Nauczony doświadczeniami płynącymi ze współpracy z jednym panem, postanowiłem opisać dokładnie proces konfiguracji idealnego środowiska produkcyjnego.</p>
+
+<p>Na początek, jako że pierwszy odcinek kursu, nie bądźmy zbyt ambitni i zacznijmy od zwykłego serwera proxy.</p>
+
+<p>Potrzebny będzie nam nosiciel (host) i dystrybucja linuksa. Linux jest najlepszym wyborem, bo jest bardzo modny i fajnie zasłynąć w światku znajomych swoimi pierwszymi doświadczeniami w tym kierunku. Oczywiście w domu lepiej mieć Windowsa, więc serwer produkcyjny nadaje się na poligon idealnie. Do naszych testów wybrałem skwapliwie najstabilniejsze środowisko produkcyjne. Musicie więc znaleźć gdzieś płytki zawierające Debian Unstable/Testing z archiwum pakietów z okolic sylwestra 2002. A może to był styczeń? Tuż po nowym roku wszystko się człowiekowi miesza.</p>
+
+<p>Uzbrojeni w aparaturę i software przystępujemy do instalacji. Niektórzy znani mistrzowie techniki zen doradzają w tym momencie, aby na czuja zainstalować wszystko. Od przybytku głowa nie boli. Ja pozwolę sobie ograniczyć się do pakietów squida, mini-httpd i iptables. Reszta pociągnie się po zależnościach. Byle nie za dużo, bo nasza precyzyjnie spartycjonowana maszyna ma na rootsystem przewidziane całe 10 giga przestrzeni (jako że posiadałem kiedyś Amigę 500, zapewniam że 10 giga to niewyobrażalnie dużo). Nie dzielimy dysku na partycje, bo właściwie to nie jest już trendy. I tak nikt nie będzie nam umiał wytłumaczyć jak przełączyć się na inny dysk pod midnightem (Alt + F1 nie działa). Nie zapominajmy też o pakiecie lm_sensors. Jako, że sensory są bardzo czułe, pakiet ten ma kluczową wartość na naszym serwerze proxy.</p>
+
+<p>Gdy wszystko stoi, przystępujemy do konfiguracji squida. Zależy nam na przepustowości sieci, więc dla pewności cache'ujemy wszystko. Tak, koniecznie zaznaczamy flagę "ignoruj nagłówek <code>Expires</code>", w praktyce nikt przecież go nie czyta. Katalog ze stronami tymczasowymi ustawiamy w katalogu <code>/var/spool/squid</code> na głównej partycji (mi też <code>\var\spool\squid</code> nie chciało działać). 10 giga to zapas na lata, przecież nikt nie widział takiej dużej strony. Proxy jest już gotowe, ale ale, zanim je włączymy, ustawiamy nasze błyszczące i nowe mini-httpd na wyświetlanie generowanych przez squida statystyk. W końcu nie poto trzymamy je w nieskończoność, żeby leżały odłogiem na dysku.</p>
+
+<p>Po konfiguracji tej części przyjdzie nam najtrudniejsze, zabezpieczanie serwera. Jak mówi stare japońskie przysłowie, dobry serwer jest jak dobry ninja. Można go zabić jednym ciosem, ale pozostaje niewykrywalny. Kierując się tą maksymą ustawiamy domyślną politykę wszystkich potoków ruchu na <q>accept</q>, ale już w pierwszej regule odrzucamy prośby o ping kierowane na adres rozgłoszeniowy naszej podsieci (broadcast). Haha! To dopiero przebiegłość, nikt go nie znajdzie! Do tego dopisujemy kilka dodatkowych reguł z polityką <q>accept</q> dla podstawowych protokołów (czyli dla zwykłego pinga i traceroute - tego fajnego narzędzia do śledzenia kumpli z gadu-gadu). Dla zwiększonego bezpieczeństwa resztę pakietów przekierowujemy żywcel do sysloga z poziomem raportowania 4. Teraz nic nam nie umknie, żadna próba włamania nie pozostanie niezauważona. Tym bardziej, że w syslogu usuwamy wpis przesyłający logi iptables do pliku, przez co są bardziej widoczne niż kiedykolwiek, na żadnej konsoli się przed nimi nie ukryjesz! Toż ci dopiero majstersztyk!</p>
+
+<p>Krokiem drugim powinno być zwiększenie niezawodności naszej sieci przez instalację bardzo popularnego narzędzia, jakim jest Nagios. Nie wiemy do końca, co on robi, ale fajnie wygląda na screenach i ma tam dużo ładnych ikon. Dziwne, bo po instalacji nie widać ikon, tylko jakieś śmieci na konsoli, że coś nieustawione niby. Bzdura. Aha, jednak. Zmieniamy adresy z przykładowej konfiguracji na dane osobe sąsiada, który parkuje nam pod domem (używa mało na topie Outlook Expressa, to niech się męczy ze spamem). Działa. Dalej nic nie rysuje na ekranie, ale screeny pewnie podrobione w Photoshopie, mniejsza o to. Podobno trzeba mieć jakiś serwer poczty tam do tego Nagiosa, więc instalujemy szybko NullMailer. Do tego jakiś szybki soft do rozsyłkim np. exim3 w trybie bezdemonowym (bo nie chcemy duchów na serwerze było nie było publicznym, mogą wystraszyć potencjalnych użytkowników). Demona nie ma, więc i konfigurować pewnie nie trzeba. Odpalamy i zapominamy.</p>
+
+<p>Powiadomienia nie przychodzą, więc wszystko jest w porządku. Spokojnie pracujemy dalej. Zależy nam na niezawodności systemu, więc co kilka tygodni uruchamiamy <code>apt-get upgrade</code> w poszukiwaniu krytycznych poprawek. Zależy nam również na przepustowości łącza, więc unikamy stosowania <code>apt-get update</code>, które generuje tylko zbędny ruch, a przecież wszystko mamy na płytkach. Ignorujemy też maile od klientów, ze względów bezpieczeństwa. W końcu pod wiadomością podpisać może się każdy, nie możemy ufać każdemu. Kontakt z klientami nawiązujemy dopiero w momencie, kiedy szef danej firmy zadzwoni do nas osobiście, to pozwala dokładnie potwierdzić tożsamość rozmówcy i jego dobre intencje.</p>
+
+<p>Gdy po kilku miesiącach pracy klienci zaczynają spamować naszą prywatną skrzynkę do tego stopnia, że spamassassin pochłania sporą część czasu procesora, bierzemy ich metodą <q>na przetrzymanie</q>. Na dwa dni znikamy bez słowa, śmiejąc się w duchu z ich dziecięcej bezradności.</p>
+
+<p>Po powrocie do pracy ze zdumieniem dostrzegamy, że szef w międzyczasie zatrudnił nowego administratora, który wraz z programistą próbuje dojść, jakim cudem statystyki dysków na systemie squidowym pokazują 100% wykorzystania miejsca. Wkrótce dochodzą do tego, że Nagios nie miał prawa wykonywania binarki <code>/bin/ping</code>, wskutek czego wygenerował słuszną liczbę 110 tysięcy powiadomień o martwych hostach. Niestety, z powodu błędnej konfiguracji exima, połowa z tych maili nie dotarła do jednego z adresatów (powiadomienia dostawał szef firmy, ale nie administrator). Może to i dobrze, bo każdy wysłany pomyślnie mail generował kilkadziesiąt stron zrzutu stosu TCP/IP w logu podstawowym, który wkrótce (mimo codziennej rotacji) przepełnił 10-gigowy dysk (<q>nie do zapełnienia</q>). Nie wspomnę, jaki jest komfort pracy na konsoli, przez którą przewija się bez przerwy ramka za ramką cały ruch TCP i UDP wychodzący z maszyny.</p>
+
+<p>Na dziś to tyle, do zobaczenia w kolejnym odcinku, gdzie nauczymy się równie pożytecznych i przydatnych umiejętności.</p>

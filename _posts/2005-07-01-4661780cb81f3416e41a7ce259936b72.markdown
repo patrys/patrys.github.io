@@ -1,0 +1,85 @@
+---
+layout: post
+status: publish
+published: true
+title: Keep it dynamic fool!
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 120
+date: 2005-07-01 03:02:23.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 1529
+  author: riddle
+  author_url: ''
+  date: '2005-07-01 03:11:04 +0200'
+  date_gmt: '2005-07-01 03:11:04 +0200'
+  content: No pewnie! Tak samo jak do loga czy bannera w PS nie daje się wszystkich
+    efektów jakie znamy z tutoriali.
+- id: 1530
+  author: Patrys
+  author_url: ''
+  date: '2005-07-01 08:37:21 +0200'
+  date_gmt: '2005-07-01 08:37:21 +0200'
+  content: Do logotypu to się żadnych efektów nie daje, on ma mieć jak najmniej kolorów
+    i ostre krawędzie :P
+- id: 1531
+  author: bazyl
+  author_url: ''
+  date: '2005-07-01 08:49:04 +0200'
+  date_gmt: '2005-07-01 08:49:04 +0200'
+  content: Nie powiem. Ciekawe
+- id: 1532
+  author: rorio
+  author_url: ''
+  date: '2005-07-01 09:18:06 +0200'
+  date_gmt: '2005-07-01 09:18:06 +0200'
+  content: "Jakoś nie mam zaufania do js... To inna filozofia: efekciarstwo zamiast
+    prostoty. Troszkę jak flash. Po co to komu???\n<br/> "
+- id: 1533
+  author: Patrys
+  author_url: ''
+  date: '2005-07-01 09:19:08 +0200'
+  date_gmt: '2005-07-01 09:19:08 +0200'
+  content: Aautomatyczną walidację formularzy też nazwiesz efekciarstwem? Wolisz jak
+    ci się strona przeładuje?
+- id: 1534
+  author: iniside
+  author_url: ''
+  date: '2005-07-01 14:04:10 +0200'
+  date_gmt: '2005-07-01 14:04:10 +0200'
+  content: Mi sie wydaje czy na startowy.com jest użyta idetyczna technika.
+- id: 1535
+  author: C.
+  author_url: ''
+  date: '2005-07-01 15:37:53 +0200'
+  date_gmt: '2005-07-01 15:37:53 +0200'
+  content: Ciekawa godzina wpisu :] Rzeczywiście Ci się nudzi ;]
+- id: 1536
+  author: Tomash
+  author_url: ''
+  date: '2005-07-02 14:47:17 +0200'
+  date_gmt: '2005-07-02 14:47:17 +0200'
+  content: Patrys, Twoje notki o webdesignie powinny zostać zebrane, wydrukowane i
+    sprzedawane każdemu średniozaawansowanemu w HTML i CSS :)
+- id: 1537
+  author: Yano
+  author_url: ''
+  date: '2005-07-02 18:17:48 +0200'
+  date_gmt: '2005-07-02 18:17:48 +0200'
+  content: 'Tomash: lepiej wypluj te słowa, bo jeszcze zobaczysz na Alledrogo zestaw
+    porad w PDFie ;) i się będzie Patrys męczył z jakimś młokosem… :\'
+---
+<p>Coraz częściej mówi się o <abbr title="JavaScript">JS</abbr> w kontekście zwiększenia użyteczności serwisu, powstają coraz zmyślniejsze metody podłączania naszego kodu do elementów w dokumencie. W idealnej sytuacji plik z kodem <abbr title="HyperText Markup Language">HTML</abbr> nie zawiera ani linijki skryptów, a wszystko odbywa się za pomocą nieinwazyjnego (czyli pozwalającego na pracę ludziom z wyłączonymi skryptami) skryptu zewnętrznego.</p>
+
+<p>Dla lepszego zrozumienia proponuję przeanalizować metodę działania prostego <a href="http://patrys.icenter.pl/test/2005-02-19-automatic-rollover/">skryptu do podświetlania obrazków</a>. Ma on nad czystym <abbr title="Cascading Style Sheets">CSS</abbr> taką przewagę, że pozwala również na podświetlanie dynamicznie wstawianych obrazków.</p>
+
+<p>Szczytem techniki jest jednak według mnie <a href="http://www.ripcord.co.nz/behaviour/">Behaviour</a> - skrypt łączący strukturę <abbr>CSS</abbr> z mocą <abbr>JS</abbr>. Z jego pomocą możemy z łatwością utworzyć arkusz skryptów w zapisie bardzo podobnym do arkusza styli i podłączyć go automatycznie do swojej witryny.</p>
+
+<p>Największą popularnością cieszą się z kolei ostatnio stosunkowo nowe skrypty spod znaku <a href="http://script.aculo.us/">script.aculo.us</a>. I nic dziwnego, skoro pozwalają one na bajecznie łatwą implementację dowolnie rozbudowanych efektów, a dodatkowo umożliwiają bardzo łatwe dodanie do serwisu funkcjonalności <em>drag'n'drop</em>. Pięć minut pracy i przykład można zobaczyć <a href="http://patrys.icenter.pl/test/2005-07-01-script.aculo.us/">w moim laboratorium</a>.</p>
+
+<p>Powstaje tylko pytanie - czy jeśli <em>da się</em> coś zrobić łatwo oznacza, że <em>powinniśmy</em> tego używać? Oczywiście, że nie. Takie rozwiązania mają bardzo wąskie pole zastosowania, niewiele jest bowiem stron, które nie tylko coś zyskają, ale dodatkowo nie ucierpią od takich atrakcji. Pamiętajmy, że zawsze najważniejszy jest fallback do wersji czysto statycznej.</p>

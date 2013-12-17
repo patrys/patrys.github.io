@@ -1,0 +1,228 @@
+---
+layout: post
+status: publish
+published: true
+title: Etatami sypiąc z rękawa
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 31
+date: 2004-07-19 12:42:05.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 109
+  author: Milex
+  author_url: ''
+  date: '2004-07-19 18:37:51 +0200'
+  date_gmt: '2004-07-19 18:37:51 +0200'
+  content: Super się czyta... Ale za taką szatę graficzną powinno się obcinać kciuk
+    prawej dłoni. Nie bardzo rozumiem, dlaczego autor tak bardzo chce utrudnić życie
+    czytelnikowi. Przez te znikające okienka nawigacja na stronie jest delikatnie
+    mówiąc upierdliwa... Jak mawia pewnien czerwonowłosy, sprytny inaczej  &quot;artysta&quot;
+    - Powiedz, powiedz czemu... ;)))
+- id: 110
+  author: Patrys
+  author_url: ''
+  date: '2004-07-19 18:39:37 +0200'
+  date_gmt: '2004-07-19 18:39:37 +0200'
+  content: Żeby zmusić ludzi do nieużywania Internet (tfu) Explorera.
+- id: 111
+  author: Milex
+  author_url: ''
+  date: '2004-07-19 19:04:56 +0200'
+  date_gmt: '2004-07-19 19:04:56 +0200'
+  content: hmm... no tak, bardzo szczytna idea, ale obawiam się że Twoje narzędzia
+    perswazji nikogo nie zmuszą do instalacji Firefoxa, lub innej alternatywnej przeglądarki,
+    nie mówiąc już o Linuksie. Za bardzo wierzysz w siłę intelektu polskiego społeczeństwa.
+    TypowyUserPC™ ;) nie skuma faktu, że przeglądarka której używa jest do bani, tylko
+    skieruje strumień mało cenzuralnych słów w atmosferę, mając nadzieję, że autora
+    strony pochłoną siły piekielne, a na jego dom spadnie porwany przez Arabów samolot.
+    Następnie wpisze w okienko adresowe przeglądarki jedyny adres jaki zna… i zainstaluje
+    najnowszą wersję jedynej na świecie, najlepszej przeglądarki. Potem stwierdzi,
+    że strona jest źle zrobiona, autora trzeba wsadzić do domu wariatów, bo to jakiś
+    margines społeczny, a na końcu postanowi że nigdy więcej tu nie zajrzy. P.S. Przepraszam
+    Arabów, nic do was nie mam :))
+- id: 112
+  author: qwiat
+  author_url: ''
+  date: '2004-07-19 19:14:37 +0200'
+  date_gmt: '2004-07-19 19:14:37 +0200'
+  content: Są tacy, którzy nie mając pojęcia o robieniu stron WWW robią trudne do
+    strawienia potworki. Są dobrze wyświetlane tylko pod IE, ludzi używających innych
+    programów mają w dupie. Nie wiedzę osobiście powodu dla którego nie można by przynajmniej
+    raz zrobić na odwrót.
+- id: 113
+  author: Jajcus
+  author_url: ''
+  date: '2004-07-19 19:18:02 +0200'
+  date_gmt: '2004-07-19 19:18:02 +0200'
+  content: Ale ta strona nie nadaje się do oglądania także w moim Firefoksie. Żeby
+    przeczytać zawsze robię &quot;Disable all styles&quot;. Ale chyba nie o to chodziło?
+- id: 114
+  author: Patrys
+  author_url: ''
+  date: '2004-07-19 19:19:49 +0200'
+  date_gmt: '2004-07-19 19:19:49 +0200'
+  content: Ale mimo wszystko czytasz... Miło to widzieć ;].
+- id: 115
+  author: Chojnac
+  author_url: ''
+  date: '2004-07-19 19:50:55 +0200'
+  date_gmt: '2004-07-19 19:50:55 +0200'
+  content: 'Dla tych opowiesci warto sie pomeczyc nad uwidocznieniem tekstu :) '
+- id: 116
+  author: Express
+  author_url: ''
+  date: '2004-07-19 21:01:35 +0200'
+  date_gmt: '2004-07-19 21:01:35 +0200'
+  content: |-
+    Faktycznie męczące...
+    <br/>CTRL+A jest bardzo skomplikowanym zestawem komend.
+    <br/>I jak &quot;nie działa&quot; na ff?
+- id: 117
+  author: Maszczuha
+  author_url: ''
+  date: '2004-07-19 21:31:28 +0200'
+  date_gmt: '2004-07-19 21:31:28 +0200'
+  content: Też czytam, klnąc po cichutku ;-) bo mi się nie chce tekstowej przegladarki
+    odpalac ;-)
+- id: 118
+  author: Cachotterie
+  author_url: ''
+  date: '2004-07-19 21:39:56 +0200'
+  date_gmt: '2004-07-19 21:39:56 +0200'
+  content: Dobrze że chociaż komentarze już są user-friendly ;)
+- id: 119
+  author: Wampirek
+  author_url: ''
+  date: '2004-07-19 22:41:54 +0200'
+  date_gmt: '2004-07-19 22:41:54 +0200'
+  content: Jakoś nie mam problemów z odczytaniem notek :) Może nie wszyscy wpadli
+    na to, że uzywając NormalnejPrzeglądarki™ wystarczy najechać na treść notki kursorem?
+    ;)
+- id: 120
+  author: Jajcus
+  author_url: ''
+  date: '2004-07-19 22:44:47 +0200'
+  date_gmt: '2004-07-19 22:44:47 +0200'
+  content: Dla mnie nie jest normalne to, że muszę myszą machać, żeby tekst przeczytać.
+    Szczególnie, że na ciemnym monitorze to nawet nie wiem gdzie mam tym kursorem
+    najechać (najgorzej to było kiedyś z komentarzami).
+- id: 121
+  author: Maszczuha
+  author_url: ''
+  date: '2004-07-19 22:46:17 +0200'
+  date_gmt: '2004-07-19 22:46:17 +0200'
+  content: 'Wampirek: wpadli, wpadli... aż taką masochistką nie jestem ;-) ale wygodne
+    toto nie jest...'
+- id: 122
+  author: Greybrow
+  author_url: ''
+  date: '2004-07-19 23:25:14 +0200'
+  date_gmt: '2004-07-19 23:25:14 +0200'
+  content: |-
+    a ja zatwardziale używam (my)IE :P
+    <br/>może dlatego, że mam pacha
+- id: 123
+  author: Wampirek
+  author_url: ''
+  date: '2004-07-20 00:29:51 +0200'
+  date_gmt: '2004-07-20 00:29:51 +0200'
+  content: |-
+    Maszczucha &gt;
+    <br/>E tam niewygodne ;) Żeby tu wejść i tak muszę kliknąć na odnośniku, więc myszkę mam już w ręku. Przesunięcie jej kilka centymetrów w bok nie robi już żadnej różnicy :)
+- id: 124
+  author: mmazur
+  author_url: ''
+  date: '2004-07-20 13:17:38 +0200'
+  date_gmt: '2004-07-20 13:17:38 +0200'
+  content: Ja tutaj odpalam &#039;Ctrl+A&#039; i problem z głowy. Co nie zmienia faktu,
+    że jest toto strasznie upierdliwe.
+- id: 125
+  author: bmalkow
+  author_url: ''
+  date: '2004-07-20 19:16:56 +0200'
+  date_gmt: '2004-07-20 19:16:56 +0200'
+  content: |-
+    A ja deklaruję, że nawet jak to będą czerne litery na czarnym tle to i tak będe czytał!
+    <br/>W najgorszym wypadku będę czytał w źródle HTML.
+- id: 126
+  author: Greybrow
+  author_url: ''
+  date: '2004-07-21 11:52:45 +0200'
+  date_gmt: '2004-07-21 11:52:45 +0200'
+  content: |-
+    warto :)
+    <br/>to jedyny &quot;blog&quot; jaki w ogóle czytam
+- id: 127
+  author: Patrys
+  author_url: ''
+  date: '2004-07-21 17:58:00 +0200'
+  date_gmt: '2004-07-21 17:58:00 +0200'
+  content: Pod naciskiem tłumów dodałem alternatywny stylesheet &quot;flat&quot; -
+    bez podświetleń. ;)
+- id: 128
+  author: Express
+  author_url: ''
+  date: '2004-07-22 13:16:24 +0200'
+  date_gmt: '2004-07-22 13:16:24 +0200'
+  content: |-
+    Salomonowe rozwiązanie :)
+    <br/>IEuserom dużo nie pomoże :)
+- id: 129
+  author: Krymzon
+  author_url: ''
+  date: '2004-08-02 19:31:45 +0200'
+  date_gmt: '2004-08-02 19:31:45 +0200'
+  content: |-
+    Heh, ja nawet nie bylem swiadom jak ten jogger wyglada na exploderze, az usiadlem do kompa w hotelu (znaczy sie do dzis) :D
+    <br/>Dobra rzecz, chwala Patrysowi;D
+---
+Środa, ja i MójWspółpracownik&trade; idziemy poprosić SamegoPrezesa&trade; o zwolnienie z pracy w piątek. Cel: wyjazd do Warszawy na zlot PLD.<br />
+<br />
+(puk, puk)<br />
+<br />
+- Można?<br />
+- Tak, oczywiście.<br />
+- Chcieliśmy prosić o wolny piątek.<br />
+- A co się stało?<br />
+- Chcemy jechać na zlot PLD do Warszawy.<br />
+- A o której jedziecie?<br />
+- Myślę, że z samego rana.<br />
+- Uuuu, szkoda... bo mamy w piątek inwentaryzację magazynu i miałem dla was zajęcie przy inwentaryzacji na piątek i sobotę.<br />
+- Uhm.<br />
+- No ale jedźcie, uczcie się tego linuksa. Mam też dla was dobrą wiadomość.<br />
+- Oj...<br />
+- Będziecie mogli odpocząć od tego ślęczenia przy komputerze całymi dniami.<br />
+- ...<br />
+- Wyznaczymy wam terminy i będziecie pomagać BezpośredniemuPrzełożonemu&trade; wydawać klientom towar w magazynie.<br />
+- Ja muszę obejrzeć swoją umowę.<br />
+- Czemu?<br />
+- Bo tam chyba jest napisane "administrator sieci".<br />
+- No tak.<br />
+- No to trzeba będzie dopisać "magazynier".<br />
+- No możemy dopisać.<br />
+<br />
+Tak oto SamPrezes&trade; uraczył nas chwilą odpoczynku od trudów codziennej pracy. I to wszystko za darmo, nic nie trzeba dopłacać. Drugi szczęścia próbował MójWspółpracownik&trade;:<br />
+<br />
+- Jak tam postępy nad StarSystemem?<br />
+- A jak tam postępy nad moją umową?<br />
+- No przecież masz umowę.<br />
+- Jakoś jej nie widzę...<br />
+- Wy młodzi to tacy jesteście przywiązani do tych papierków. Papier mogę podrzeć i powiedzieć, że nie było żadnej umowy, a jak dam słowo to masz jak w banku. Skoro powiedziałem, że jest umowa, to jest.<br />
+<br />
+Na to wszystko odezwała była się PaniPrezesowa&trade;:<br />
+<br />
+- Ja nie rozumiem, jak to jest, że siedzi dwóch informatyków, a mój mąż musiał cały weekend siedzieć w domu i poprawiać produkty w sklepie internetowym?<br />
+- Bo nas jest tylko dwóch?<br />
+- Bo my się nie zajmujemy produktami w sklepie internetowym?<br />
+<br />
+Podbudowani całą sytuacją udaliśmy się na słuszny spoczynek w blasku ekranów przy naszych biurkach. Niestety, organizm ludzki - rzecz słaba, więc w połowie drogi padliśmy obaj na kolana zanosząc się salwami śmiechu. A to wszystko oczywiście za sprawą niebywałego optymizmu, jakim przepełniła nas perspektywa pracy w magazynie.<br />
+<br />
+Dzień nie byłby jednak do końca stracony, gdyby nie odwiedził nas SynPrezesa&trade; w towarzystwie UtalentowanegoKolegi&trade;. Ten ostatni jest już światowej sławy specjalistą w każdej materii, głównie za sprawą swych błyskotliwych opinii w stylu "teraz jest bluetooth i nie trzeba już mieć CD-ROMu". Dwóch rzeczonych panów otrzymało od SamegoPrezesa&trade; trudną misję na terenach wroga: sfotografować piłki, których nawet mnie nie udało się uwiecznić na zdjęciach (wspominałem o tym parę wpisów wcześniej). W tym celu przynieśli 8 reflektorów halogenowych, metalowe szyny, szklanki i kartony. Już po 4 godzinach udało im się zbudować zupełnie zbędne rusztowanie, wyciąć otwór w kartonie po monitorze, wyścielić go dokładnie białymi kartkami, zapchać reflektorami, wstawić tam szklankę i umieścić na niej piłkę do koszykówki. Już po kolejnej godzinie wykonali pierwsze zdjęcia. Były wprost idealne... do Strefy 11. Czarna piłka z jasnymi krawędziami na świetliście białym tle. Efekt przypominał to, co można zauważyć w momentach restrospekcji w tak popularnych serialach produkcji brazylijskiej. Więcej grzechów nie pamiętam...<br />
+<br />
+Post scriptum: agencja Reuters donosi, że dwaj porwani przez Irakijczyków Amerykanie są poddawani torturom i zmuszani do ciężkiej pracy po 12 godzin w nieludzkich warunkach w jednej z wrocławskich firm. Sprawą zainteresowało się ONZ i wysłało tam swoich inspektorów. Próba przeprowadzenia badań krwi wypadła negatywnie, znaleziono tylko ciemnobrunatny płyn o wysokiej zawartości kofeiny. Obaj osobnicy mamrotali coś bełkotliwie pod nosem. Brzmiało to jak "NEI MAM PACHA".

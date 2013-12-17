@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: Koniec "długiego" weekendu
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 4
+date: 2004-05-04 12:03:36.000000000 +02:00
+categories:
+- varia
+tags: []
+comments: []
+---
+Weekend był cholernie długi. Całe 3 dni. Ale w końcu nie mam na co narzekać. To mój pierwszy wolny weekend od miesiąca.
+
+Dziś znów w pracy, na dobry początek telefon na przebudzenie i "możesz przyjechać wcześniej, serwer poczty nie działa?". Rewelacja.
+
+Do tego jest gorąco, duszno, a sytuację ratuje tylko ustawiony na mnie wielki wiatrak Airmate. Brakuje klimatyzacji do kompletu. Zastanawiam się, kiedy serwery zaczną się gotować, bo nie wolno nam zostawiać otwartych okien na czas zamknięcia biura.

@@ -1,0 +1,60 @@
+---
+layout: post
+status: publish
+published: true
+title: e-siedemnastka
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 70
+date: 2005-03-25 22:57:55.000000000 +01:00
+categories:
+- linux
+tags: []
+comments:
+- id: 794
+  author: nbw
+  author_url: ''
+  date: '2005-03-26 01:07:55 +0100'
+  date_gmt: '2005-03-26 01:07:55 +0100'
+  content: |-
+    E był moim ulubionym WM&#039;em nim przeszło mi &quot;rulezowanie&quot;. Ukazanie się E17 wywołało spore poruszenie i w sumie nie dziwię się. Pokazuje, że desktop na linuksie może być bardzo szybki i bardzo ładny.
+    <br/>
+    <br/>Dla mnie jest to na pewno krok w dobrą stronę, choć sam również zapewne pozostanę przy zintegrowanych środowiskach.
+- id: 795
+  author: riddle
+  author_url: ''
+  date: '2005-03-26 01:51:10 +0100'
+  date_gmt: '2005-03-26 01:51:10 +0100'
+  content: Zawsze mnie zastanawiało skąd Ci graficy biorą natchnienie. Bo jak patrzę
+    na coraz to nowe układy graficzne (jeśli to tak się nie nazywa to sory, ale sam
+    się już gubię :D) to widzę albo eyecandy gloss na glass albo gradientową brzydotę.
+    :/ Rozumiem, że stworzyć coś ala Aqua jest trudno, ale przecież nikt ich nie pogania.
+- id: 796
+  author: zdzichuBG
+  author_url: ''
+  date: '2005-03-26 15:20:57 +0100'
+  date_gmt: '2005-03-26 15:20:57 +0100'
+  content: Szybkie? Ale pisane w assemblerze? Jak działa na innych architekturach
+    sprzętowych? Bo to chyba jest ważne w *niksach - przenośność.
+- id: 797
+  author: Jajcus
+  author_url: ''
+  date: '2005-03-26 16:24:15 +0100'
+  date_gmt: '2005-03-26 16:24:15 +0100'
+  content: To ciekawe... pamiętam (jednak nie jestem pewien czy dobrze), że jak pierwszy
+    raz pojawiał się Enlightenment, to był wzorcem „ciężkiego” środowiska, a teraz
+    gdy wszystkie inne po trochu utyły, to E zaczyna być lekki :)
+---
+<p>Pisząc o Luminocity przypomniałem sobie o nie tak dawnych eksperymentach z innym oprogramowaniem dla dotkniętych problemem młodzieńczego trądziku. Chodzi mi o <a href="http://www.enlightenment.org/">Enlightenment</a> w swojej siedemnastej odsłonie.</p>
+
+<p><q>Siedemnastka</q> zawiera przepisany od zera manager okien, nowy zestaw widgetów (lub kontrolek, jak kto woli), własny moduł logowania i to, co fani Enlightenment zawsze sobie chwalili - maksymalnie zoptymalizowany kod. Środowisko nie ma jeszcze pełnej funkcjonalności (choć przyznaję, że do testów używałem snapshotu sprzed miesiąca), za to powala setką małych, cieszących oko detali. Wszystko jest animowane, błyszczy, świeci, tylko śpiewu brak (ale od czego jest ikona XMMS w domyślnym ustawieniu docka).</p>
+
+<p>O ile większość z efektów można z punktu widzenia używalności pominąć, kilka rzeczy cieszy więcej niż oko. Przede wszystkim dostarczone przez autorów testy z setką latających po ekranie widgetów pokazały u mnie trochę ponad 160 klatek na sekundę. Wynik tyle oszałamiający co niemożliwy do uzyskania w żadnym z konkurencyjnych środowisk desktopowych (zaznaczam, że obiekty to między innymi antyaliasowane teksty, gradientowane boksy - w tym do przezroczystości, obrazki z kanałem alfa).</p>
+
+<p>Drugi ciekawy pomysł, to rozwiązanie trybu edytora pulpitu jako przełącznika w menu kontekstowym. Po jego aktywacji możemy dowolnie skalować i przemieszczać składające się na nasz pulpit aplety (zegarki, wskaźniki, paski menu). Po dezaktywacji trybu edycyjnego, pulpit zostaje na powrót zamrożony i nie grozi nam przypadkowe uszkodzenie tak pieczołowicie przygotowanej kompozycji.</p>
+
+<p>Ja pozostanę przy Gnome, bo cenię sobie zintegrowane środowisko pracy, ale część z użytkowników <q>lekkich</q> pulpitów w rodzaju Xfce4 czy FWM może już dziś zacząć zastanawiać się nad przyszłą przesiadką ;).</p>
+
+<p>Na koniec jeszcze obowiązkowy <a href="http://www.lo3.wroc.pl/~pdebski/patrys/index.php">zestaw screenów pokazujących e17 w działaniu</a>.</p>

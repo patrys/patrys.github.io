@@ -1,0 +1,155 @@
+---
+layout: post
+status: publish
+published: true
+title: Niedoszły artysta
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 30
+date: 2004-06-30 18:52:51.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 99
+  author: remiq
+  author_url: ''
+  date: '2004-06-30 19:24:02 +0200'
+  date_gmt: '2004-06-30 19:24:02 +0200'
+  content: |-
+    Właśnie to jest informatyka! Jesteś jak lekarz. Powinieneś wiedzieć jak operować, leczyć dziąsła i w mgnieniu oka odpowiadać na pytanie &quot;dlaczego mój pies robi się zielony po zjedzeniu marchewki&quot; :)
+    <br/>
+    <br/>A swoją drogą, zawsze można się oderwać od komputera na kilka zdjęć :)
+- id: 100
+  author: Jajcus
+  author_url: ''
+  date: '2004-06-30 20:14:10 +0200'
+  date_gmt: '2004-06-30 20:14:10 +0200'
+  content: Ja, administrator sieci, kiedyś musiałem zrobić logo dla naszej firmy.
+    Nie przejawiam żadnych talentów plastycznych, więc teraz to logo straszy na stronie,
+    na wizytówkach i na wszelkich reklamach. :-)
+- id: 101
+  author: Patrys
+  author_url: ''
+  date: '2004-07-01 10:05:56 +0200'
+  date_gmt: '2004-07-01 10:05:56 +0200'
+  content: Żebym to ja jedno logo robił... Ale jakie piękne loga robi SynPrezesa&amp;trade;...
+    ;D
+- id: 102
+  author: qwiat
+  author_url: ''
+  date: '2004-07-01 15:59:12 +0200'
+  date_gmt: '2004-07-01 15:59:12 +0200'
+  content: Ooo taaak z log SynaPrezesa można by zrobic galerię osobliwości. Jego ostatni
+    wymysł (ten z człowiekiem spadającym głowę) pobił wszystko co do tej pory widziałem.
+    :)
+- id: 103
+  author: Milex
+  author_url: ''
+  date: '2004-07-01 16:00:00 +0200'
+  date_gmt: '2004-07-01 16:00:00 +0200'
+  content: Zawsze możesz zostać pisarzem, bo fajowo sie to czyta :) Pozdrawiam!
+- id: 104
+  author: NecroX
+  author_url: ''
+  date: '2004-07-04 19:01:08 +0200'
+  date_gmt: '2004-07-04 19:01:08 +0200'
+  content: Wlasnie ;) Poprostu jest cos w tym :) dla mnie super ! :)
+- id: 105
+  author: siara
+  author_url: ''
+  date: '2004-07-10 01:15:49 +0200'
+  date_gmt: '2004-07-10 01:15:49 +0200'
+  content: kurwa, a ciemniejszej czcionki nie bylo? :) moze w ogole daj kolor tekstu
+    na czarno, przynajmniej bedzie oryginalniej :)
+- id: 106
+  author: YamroZ
+  author_url: ''
+  date: '2004-07-10 12:27:40 +0200'
+  date_gmt: '2004-07-10 12:27:40 +0200'
+  content: Oj biedny Ty, a w techlandzie dalej poszukują testerów. Przyjmą Cię z otwartymi
+    ramionami ;] A BTW pozdrów samego SynPrezesa™, bo nawet niewiem czy to powinno
+    się odmieniać. Co do czcionki to cóż, Patrys od długotrwałego wystawiania sie
+    na promieniowanie elektromagnetyczne działa elektronowego swojego monitora wykształcił
+    umiejętność przewidywania wzoru który zostanie narysowany na luminoforze kineskopu
+    już w momencie gdy sygnał sterujący jest emitowany z karty graficznej. Dzięki
+    temu nie musi patrzeć na ekran, ale jednocześnie nie zawsze udaje mu się odgadnąć
+    barwę jaka pojawi się na ekranie i w związku z tym ta stronka wygląda jak wygląda.
+    Zjawisko powyższe jest znane pod nazwą Administratozis Monitorus Rex i zwiastuje
+    rychłe przejście na emeryturę. Zawsze jednak pozostaje praca jako przenośny wykrywacz
+    anomalii magnetycznych, tak przydatny przy wykrywaniu łodzi podwodnych...
+- id: 107
+  author: Bor-Suk-A
+  author_url: ''
+  date: '2004-07-23 20:39:13 +0200'
+  date_gmt: '2004-07-23 20:39:13 +0200'
+  content: "Dopsze YamroZ gado!\n<br/>\n<br/>Idz ty szybko do jakiejkolwiek INNEJ
+    firmy :\n<br/>1.)Czy wiesz ze miejscami placa za nadgadziny\n<br/>2.)Nikt nie
+    kaze ci robic czego innego niz robisz, bo wie ze to marnowanie Twojego czasu &amp;
+    umiejetnosci a takze marnowanie pieniedzy SamegoPrezesa™ \n<br/>3.)Robieniem obrazkow
+    loga firmy itp zajmuja sie graficy \n<br/>4.)wpisywanie tekstow spada na testerow
+    (bo oni sie zawsze obijają ;) \n<br/>5.)Obrazki piłek sciaga sie z netu ew ma
+    sie 700MB high quality zdjec o sportowej tematyce\n<br/>6.)AdMinister™(rator)
+    nie robi nic tylko siedzi i administruje. \n<br/>...\n<br/>InnaFirma™ jest rozwiazaniem
+    jedynym. I na pewno nie wlasna bo to wiecej zmartwien i za nadgadziny nikt nie
+    placi i trzeba tych gamoni informatykow/programistow itp gonic do pracy.\n<br/>\n<br/>Aha
+    - do wsyztkich wynalazcow czekam na wynalazek : przeksztalcanie promieniowanie
+    dzialek elektronowych na biurkach na promieniowanie jak w solarium zebym opalenizny
+    troche zlapal tego lata. I takie same cos do flata (bo takiego (19&quot;) w nowej
+    firmie dostalem - i takiego tobie Patrys i YamroZowi zycze :)\n<br/>"
+- id: 108
+  author: ':)'
+  author_url: ''
+  date: '2005-11-06 19:56:55 +0100'
+  date_gmt: '2005-11-06 19:56:55 +0100'
+  content: beznadzieja
+---
+Nie tak znowu dawno temu, za siedmioma terminalami, za siedmioma ruterami, siedziałem sobie w biurze, jak zwykle nudząc się strasznie, jak to nudzić się mieli w zwyczaju ludzie od dawien dawna pracujący za trzech. Sielankę mą przerwał był niestety BezpośredniPrzełożony&trade;, który przyszedł do nas i rzecze:<br />
+<br />
+- Patrys, trzeba coś pilnie zrobić!<br />
+- A co trzeba tak pilnie zrobić, że aż muszę przerwać wpisywanie artykułów na stronę klienta, co jest piorytetem i zajmie mi co najmniej tydzień, po czym planowałem innemu klientowi stronę internetową skończyć?<br />
+- Ale to jest pilne i musisz przerwać. I to teraz, bo na popołudnie musi być gotowe.<br />
+- A o co chodzi?<br />
+- Trzeba zrobić zdjęcia tych oto piłek do sklepu internetowego.<br />
+- To ja poproszę o to polecenie na piśmie.<br />
+- Patrys, nie rób sobie jaj.<br />
+- Proszę o polecenie na piśmie.<br />
+<br />
+A treść owego polecenia brzmiała mniej-wiecej tak:<br />
+<br />
+"Patrys!<br />
+<br />
+Masz zrobić pilnie zdjęcia piłek do sklepu.<br />
+<br />
+Koszykówka: 100x100px<br />
+Piłka nożna: 100x100px<br />
+Siatkówka: 90x90px<br />
+<br />
+-- BezpośredniPrzełożony&trade;"<br />
+<br />
+Pod spodem umieściłem stosowne:<br />
+<br />
+"Jestem administratorem sieci, programistą i webdesignerem.<br />
+Nie jestem fotografem.<br />
+Mam już trzy etaty, dziękuję za czwarty.<br />
+Jak rozumiem moja pensja teraz właśnie wzrasta?"<br />
+<br />
+A dodać trzeba, że pracuję za trzy osoby, ale pieniądze dostaję tylko za niecałą jedna od czasu, kiedy to zarząd obniżył wszystkim pensje o 1/3. Grunt, że o fotografowaniu mogłem przez chwilę zapomnieć. Radość jako jedno z ulotnych uczuć jest dość krótkotrwała, więc po chwili przyszedł ponownie BezpośredniPrzełożony&trade;:<br />
+<br />
+- Ej, czemu nie chcesz porobić zdjęć piłek.<br />
+- Bo to nie moja działka, mam pilniejsze rzeczy na głowie.<br />
+- A co ci za różnica, przecież firma płaci ci za czas, to możesz robić wszystko.<br />
+<br />
+Argument ten był mnie powalił. Że też nie wpadłem na to wcześniej. Ludzie idą studiować informatykę, pracują w zawodzie, robią sobie hobby z komputerów właśnie ze względu na tę zawodową swobodę gwarantowaną przez stanowisko informatyka. Bo przecież firma płaci za czas, a nie za wiedzę. Można sobie zdjęcia porobić, dywany wyprać, piec kaflowy zbudować, fantazja zalezy tylko od zarządu. Czyż zna ktoś bardziej urozmaiconą i nieprzewidywalną pracę? Czysta radość.<br />
+<br />
+A żeby nie było tak przytłaczająco: dziś od rana wprowadzam dalej artykuły na stronę jednego z klientów. Mam już dosyć otwierania dokumentów Worda w OpenOffice po to, by przepisać je ręcznie do HTML. Na wymioty mi się zbiera, jak sobie pomyślę, że roboty mam jeszcze luźno do piątku. Głowa mnie boli. Dzwoni telefon, ludzie z biur na wyższym piętrze proszą, żebym naprawił nasz firmowy faks. Z radością oderwałem się więc od mojej arcyciekawej pracy z myślą, że choć przez chwilę porobię coś odpowiadającego moim kompetencjom i nie będę robił za maszynistkę. Udałem się więc na górę, naprawiłem faks. Pocierając bolące oczy i ledwo powłócząc nogami udałem się w kierunku drzwi z nadzieją, że wrócę na dół i uda mi się wyjść chociaż o jakiejś sensownej porze. Chodzi oczywiście o zminimalizowanie nadgodzin, a nie o wyjście przed czasem. Głowy już prawie nie czuję, żołądek niebezpiecznie straszy cofnięciem ostatnich commitów, już-już miałem złapać za klamke kiedy zza pleców dobiegł mnie głos SamegoPrezesa&trade;. Popatrzyłem na niego jak przez mgłę, a uszu moich dobiegły te słowy:<br />
+<br />
+- Co ty tak marnie wyglądasz, chory jesteś?<br />
+- Nie... głowa mnie strasznie boli...<br />
+<br />
+Tutaj chciałem dodać, że 20 bezpłatnych nadgodzin tygodniowo to dla mnie za dużo, ale SamPrezes&trade; mnie ubiegł.<br />
+<br />
+- Znów za dużo piwa wypiłeś.

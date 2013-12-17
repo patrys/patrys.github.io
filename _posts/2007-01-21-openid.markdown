@@ -1,0 +1,455 @@
+---
+layout: post
+status: publish
+published: true
+title: OpenID
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 334
+wordpress_url: http://www.room-303.com/blog/2007/01/21/openid/
+date: 2007-01-21 00:00:41.000000000 +01:00
+categories:
+- web
+- software
+tags: []
+comments:
+- id: 6198
+  author: mcv
+  author_url: http://myid.pl/id/mcv
+  date: '2007-01-21 00:28:15 +0100'
+  date_gmt: '2007-01-20 23:28:15 +0100'
+  content: Czy to jest coś w rodzaju Passport Microsoftu, tylko takie — rozproszone?
+- id: 6200
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2007-01-21 00:34:54 +0100'
+  date_gmt: '2007-01-20 23:34:54 +0100'
+  content: Dokładnie - można dowolnie zmieniać dostawcę.
+- id: 6201
+  author: ciastek
+  author_url: http://ciastek.openid.pl/
+  date: '2007-01-21 00:42:39 +0100'
+  date_gmt: '2007-01-20 23:42:39 +0100'
+  content: świetnie! openid wydaje się naprawdę dobrym pomysłem.
+- id: 6202
+  author: http://getopenid.com/didimos
+  author_url: http://getopenid.com/didimos
+  date: '2007-01-21 00:50:36 +0100'
+  date_gmt: '2007-01-20 23:50:36 +0100'
+  content: Jeszcze będzie z tego afera... ;)
+- id: 6203
+  author: da.killa
+  author_url: http://golf-olszewka.pl/blog/
+  date: '2007-01-21 00:56:57 +0100'
+  date_gmt: '2007-01-20 23:56:57 +0100'
+  content: Mam nieodparte wrażenie, że openid.pl nie za bardzo radzi sobie z moim
+    nickiem z kropką. Owszem, założyłem to konto, mogę się na nie zalogować, ale gdy
+    przychodzi do podpisu, to marudzi, że to nie moje konto... Lipa, nie? :)
+- id: 6204
+  author: mcv
+  author_url: http://mcv.openid.pl/
+  date: '2007-01-21 01:08:17 +0100'
+  date_gmt: '2007-01-21 00:08:17 +0100'
+  content: Może dlatego, że normalnie kropka rozdziela subdomeny (da.killa.openid.pl)?
+    Mają tam oni jakiegoś buggera? ;-)
+- id: 6206
+  author: http://losamorales.com/
+  author_url: http://losamorales.com/
+  date: '2007-01-21 01:29:48 +0100'
+  date_gmt: '2007-01-21 00:29:48 +0100'
+  content: musze to u siebie na yashke tez podlaczyc. w sumie probowalem nawet ale
+    jakos sie nie udalo jeszcze ;)
+- id: 6207
+  author: mexa
+  author_url: http://mexa.openid.pl/
+  date: '2007-01-21 07:31:45 +0100'
+  date_gmt: '2007-01-21 06:31:45 +0100'
+  content: Dosyć ciekawe, nie powiem :)
+- id: 6208
+  author: zx
+  author_url: http://www.gate.piasta.pl
+  date: '2007-01-21 08:09:15 +0100'
+  date_gmt: '2007-01-21 07:09:15 +0100'
+  content: Hyh, jak ja bym chciał, żeby przestano olewać nicki dwuznakowe. Co to komu
+    przeszkadza i co to za głupi pomysł, żeby nick musiał mieć min. trzy znaki.
+- id: 6209
+  author: reod
+  author_url: http://ra.jogger.pl
+  date: '2007-01-21 09:28:22 +0100'
+  date_gmt: '2007-01-21 08:28:22 +0100'
+  content: Trzeba lobbować na rzecz joggera...
+- id: 6210
+  author: krzak
+  author_url: ''
+  date: '2007-01-21 09:54:38 +0100'
+  date_gmt: '2007-01-21 08:54:38 +0100'
+  content: Czy jest jakiś centralny punkt w którym te bazy potrafią uwierzytelnić
+    użytkowników z innej bazy ?
+- id: 6211
+  author: Michał Siek
+  author_url: http://siek.pl
+  date: '2007-01-21 09:57:52 +0100'
+  date_gmt: '2007-01-21 08:57:52 +0100'
+  content: "&gt; W momencie, kiedy powstawał, miał być pierwszym polskim dostawcą
+    tożsamości, w praktyce wyprzedził nas Marcin Jagodziński\r\n\r\nTeż chcieliśmy
+    być pierwsi, a teraz wychodzi, że \"walczymy\" o drugą pozycję. Przynajmniej pod
+    względem chronologicznym. ;]"
+- id: 6214
+  author: matipl
+  author_url: http://matipl.pl/
+  date: '2007-01-21 11:07:59 +0100'
+  date_gmt: '2007-01-21 10:07:59 +0100'
+  content: "U mnie już o dwóch tygodni działa inny plugin do Wordpress, mniej ingerujący
+    w system.\r\nhttp://matipl.pl/index.php/2007/01/08/openid-i-blog/"
+- id: 6217
+  author: Piotr Szymczak
+  author_url: http://szymczak.jogger.pl
+  date: '2007-01-21 12:49:52 +0100'
+  date_gmt: '2007-01-21 11:49:52 +0100'
+  content: Teraz nie pozostało nic innego jak propagować i propagować ;-)
+- id: 6220
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2007-01-21 14:08:37 +0100'
+  date_gmt: '2007-01-21 13:08:37 +0100'
+  content: Hmm, widzę, że Wordpress dziwne rzeczy wyświetla przy wizytówkach XRI.
+- id: 6222
+  author: Kamik
+  author_url: ''
+  date: '2007-01-21 14:22:06 +0100'
+  date_gmt: '2007-01-21 13:22:06 +0100'
+  content: "Tak się zastanawiam i trochę myślę, że ściema jakaś z tym OpenID (jak
+    i z Pa$$portem)\r\nLudzie jeszcze się nie nauczyli z fingerprintów pgp korzystać
+    a tu kolejna zabawa. W dodatku ciemna strona sieci (złamasy od spamu itp) dosyć
+    szybko nauczy się tego używać.\r\nNo nie jestem przekonany...\r\n\r\n...i obym
+    był złym prorokiem"
+- id: 6223
+  author: Kamik
+  author_url: ''
+  date: '2007-01-21 14:25:51 +0100'
+  date_gmt: '2007-01-21 13:25:51 +0100'
+  content: "Tak się zastanawiam i trochę myślę, że ściema jakaś z tym OpenID (jak
+    i z Pa$$portem)\r\nLudzie jeszcze się nie nauczyli z fingerprintów pgp korzystać
+    a tu kolejna zabawa. W dodatku ciemna strona sieci (złamasy od spamu itp) dosyć
+    szybko nauczy się tego używać nie tak jak chciał \"producent\".\r\nNo nie jestem
+    przekonany...\r\n\r\n...i obym był złym prorokiem"
+- id: 6224
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2007-01-21 14:29:23 +0100'
+  date_gmt: '2007-01-21 13:29:23 +0100'
+  content: "Kamik:\r\n\r\nOdciski kluczy PGP/GPG raczej niespecjalnie nadają się dla
+    zwykłych użytkowników, bo nie ma dla nich wygodnych i popularnych narzędzi.\r\n\r\nOpenID
+    po prostu działa."
+- id: 6225
+  author: kabturek
+  author_url: http://kabturek.info/
+  date: '2007-01-21 14:56:41 +0100'
+  date_gmt: '2007-01-21 13:56:41 +0100'
+  content: "dobrze widziec ze blogow (i serwisow) wspierajacych OpenID przybywa :)\r\n\r\npozdrawiam,\r\nMarcin
+    Domanski"
+- id: 6226
+  author: krzak
+  author_url: ''
+  date: '2007-01-21 16:06:19 +0100'
+  date_gmt: '2007-01-21 15:06:19 +0100'
+  content: OpenID może i działa, tylko nie przekonuje mnie cel tego działania. Bo
+    to raczej nie jest narzędzie do autoryzacji użytkownika, tylko zabawka dla tych
+    co im się nie chce wpisywać loginów na blogach. Użytkownik nadal pozostaje anonimowy
+    i nieweryfikowalny, a i bezpieczeństwo nie jest nijak zabezpieczane. Nie do końca
+    rozumiem czemu tracić energię na takie bzdety skoro można rozwinąć infrastrukturę
+    x509 i mieć takie "openid" niejako przy okazji, z tą tylko różnicą że nadające
+    się do używania również poza blogami :)
+- id: 6228
+  author: da.killa
+  author_url: http://myid.pl/id/da.killa
+  date: '2007-01-21 17:20:41 +0100'
+  date_gmt: '2007-01-21 16:20:41 +0100'
+  content: Ciekawe czy MyID sobie poradzi...
+- id: 6229
+  author: da.killa
+  author_url: http://myid.pl/id/da.killa
+  date: '2007-01-21 17:21:28 +0100'
+  date_gmt: '2007-01-21 16:21:28 +0100'
+  content: O, miło. MyID sobie radzi z loginami z kropką :)
+- id: 6231
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2007-01-21 17:34:30 +0100'
+  date_gmt: '2007-01-21 16:34:30 +0100'
+  content: "krzak:\r\n\r\nx509 nie daje możliwości zachowania anonimowości :)"
+- id: 6232
+  author: http-myid.pl-id-adi
+  author_url: http://myid.pl/id/adi
+  date: '2007-01-21 18:44:18 +0100'
+  date_gmt: '2007-01-21 17:44:18 +0100'
+  content: "Test ;]\r\nTak OpenID to jest to!"
+- id: 6242
+  author: yZZuF
+  author_url: ''
+  date: '2007-01-21 23:03:58 +0100'
+  date_gmt: '2007-01-21 22:03:58 +0100'
+  content: "Patrys:\r\nBo x509 to nie zabawka. OpenID gdy nie będzie zapewniał wiarygodności
+    weryfikacji będzie niczym więcej niż zabaweczką, a wydaje mi się, że twórcy tego
+    systemu mierzą trochę wyżej."
+- id: 6243
+  author: Nivertius
+  author_url: http://Nivertius.openid.pl/
+  date: '2007-01-21 23:16:42 +0100'
+  date_gmt: '2007-01-21 22:16:42 +0100'
+  content: Niezłe, niezłe, trzeba będzie zaimplementować na Jabbie jak najszybciej
+    ;-)
+- id: 6245
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2007-01-21 23:29:32 +0100'
+  date_gmt: '2007-01-21 22:29:32 +0100'
+  content: "yZZuF:\r\n\r\nOpenID to wizytówka, pełni podobną funkcję jak BugMeNot.
+    Nie ma nic wspólnego z podpisem elektronicznym i służy do czego innego."
+- id: 6250
+  author: seban
+  author_url: http://seban.openid.pl/
+  date: '2007-01-22 00:27:12 +0100'
+  date_gmt: '2007-01-21 23:27:12 +0100'
+  content: "Działa? Działa!\r\nTak Nivertius - trzeba"
+- id: 6254
+  author: malin.net.pl - książka, informacja, biblioteki, technologie &raquo; Archiwum
+    &raquo; Trochę zmian na stronie
+  author_url: http://www.malin.net.pl/troche-zmian-na-stronie
+  date: '2007-01-22 01:26:28 +0100'
+  date_gmt: '2007-01-22 00:26:28 +0100'
+  content: '[...] Dla entuzjastów nowych technologii jest również coś ciekawego: możliwość
+    logowania się za pomocą OpenID. Patryk napisał, że nie miał praktycznie żadnego
+    problemu z instalacją wtyczki, więc pomyślałem, że można spróbować. Faktycznie,
+    to była kwestia kilku minut, najwięcej czasu zajęło dostosowanie szablonu. Dzięki
+    temu jestem jedną z niewielu w Polsce osób (wg wiki na stronie Identity 2.0 istnieje
+    obecnie dziewięć zarejestrowanych blogów), które udostępniają możliwość logowania
+    się za pomocą OpenID. Mam nadzieję, że to się wkrótce zmieni, że więcej osób będzie
+    korzystać z tego sposobu identyfikacji cyfrowej. [...]'
+- id: 6256
+  author: liDEL
+  author_url: http://liDEL.openid.pl/
+  date: '2007-01-22 03:27:23 +0100'
+  date_gmt: '2007-01-22 02:27:23 +0100'
+  content: może ktoś szepnie dobre słowo w sprawie implementacji na jogger.pl ? ^^
+- id: 6259
+  author: Azrael Nightwalker
+  author_url: http://kni.ae.krakow.pl/~azrael/techblog/
+  date: '2007-01-22 10:31:48 +0100'
+  date_gmt: '2007-01-22 09:31:48 +0100'
+  content: "http://usablesecurity.com/2007/01/20/phishing-and-openid/\r\nJednak miałem
+    nosa że nie warto się w to pchać... :]"
+- id: 6260
+  author: =marcin
+  author_url: http://=marcin
+  date: '2007-01-22 10:32:45 +0100'
+  date_gmt: '2007-01-22 09:32:45 +0100'
+  content: Aczkolwiek nic stoi na przeszkodzie, by zbudować serwer OpenID uwierzytelniający
+    na podstawie np. badania DNA :)
+- id: 6261
+  author: Olgierd
+  author_url: http://olgierd.bblog.pl
+  date: '2007-01-22 10:46:59 +0100'
+  date_gmt: '2007-01-22 09:46:59 +0100'
+  content: Chciałem powiedzieć, że 2 moje komentarze podpisane OpenID wpadły do spamu
+    i ze 2 dni już tam leżą.
+- id: 6263
+  author: http://marcin.jagodzinski.openid.pl/
+  author_url: http://marcin.jagodzinski.openid.pl/
+  date: '2007-01-22 11:19:22 +0100'
+  date_gmt: '2007-01-22 10:19:22 +0100'
+  content: Chyba rozwiązaliśmy problem z kropką :)
+- id: 6265
+  author: Jajcuś
+  author_url: http://blog.jajcus.net
+  date: '2007-01-22 13:48:29 +0100'
+  date_gmt: '2007-01-22 12:48:29 +0100'
+  content: 'Azrael Nightwalker: tak to jest jak się "dzieciaki" biorą za "bezpieczeństwo"...
+    Nawet całkiem niegłupi pomysł (jakim IMHO jest OpenID) można idiotycznie zaimplementować,
+    czy wdrożyć... Że ludziom, bawiącym się we wdrażanie OpenID, nawet nie przyjdzie
+    do głowy, że coś jest nie tak w tym, że user po kliknięciu na jednej stronie ma
+    wpisać hasło do innej...'
+- id: 6268
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2007-01-22 15:36:43 +0100'
+  date_gmt: '2007-01-22 14:36:43 +0100'
+  content: "Azrael:\r\n\r\nCzy ten problem dotyczy OpenID w ogóle, czy konkretnego
+    serwera? Bo nie widzę, jak to się ma do idei."
+- id: 6269
+  author: drzewko
+  author_url: http://drzewko.openid.pl/
+  date: '2007-01-22 15:39:03 +0100'
+  date_gmt: '2007-01-22 14:39:03 +0100'
+  content: "hmmm.. dodawanie komentarza, autoryzacja jako drzewko.openid.pl w efekcie
+    komunikat:\r\n\r\nSorry, but your comment has been flagged by the spam filter
+    running on this blog: this might be an error, in which case all apologies. Your
+    comment will be presented to the blog admin who will be able to restore it immediately.\r\nYou
+    may want to contact the blog admin via e-mail to notify him.\r\n\r\n(komentarz
+    oczywiscie nie zostal dodany)"
+- id: 6270
+  author: Azrael Nightwalker
+  author_url: http://kni.ae.krakow.pl/~azrael/techblog/
+  date: '2007-01-22 16:19:56 +0100'
+  date_gmt: '2007-01-22 15:19:56 +0100'
+  content: "Problem dotyczy OpenID w ogóle.\r\nChodzi o to żeby nie dawać phisherom
+    swoich haseł na tacy."
+- id: 6271
+  author: http://marcin.jagodzinski.openid.pl/
+  author_url: http://marcin.jagodzinski.openid.pl/
+  date: '2007-01-22 16:45:39 +0100'
+  date_gmt: '2007-01-22 15:45:39 +0100'
+  content: "zapraszam do dyskusji z dzieciakami z microsoftu, google'a, mozilli, verisignu
+    i paru jeszcze innych przedszkoli na listach dyskusyjnych poświęconych security
+    w openid. \r\n\r\ntrwa tam właśnie intensywna debata na temat phishingu. wszyscy
+    czekają na pana jajcusia, który przyjdzie i powie im, jacy są głupi. mam zapowiedzieć?
+    za chwile przyjdzie pan jajcuś i was zawstydzi, smarkacze?"
+- id: 6283
+  author: brocha
+  author_url: http://brocha.openid.pl/
+  date: '2007-01-22 22:18:12 +0100'
+  date_gmt: '2007-01-22 21:18:12 +0100'
+  content: Moja dwa komentarze wpadły do spamu. Może z tym się uda?
+- id: 6284
+  author: http://olgierd.openid.pl/
+  author_url: http://olgierd.openid.pl/
+  date: '2007-01-22 22:28:24 +0100'
+  date_gmt: '2007-01-22 21:28:24 +0100'
+  content: Brosze się udało to może i w moim przypadku sprawdzi się zasada "do 3 razy
+    sztuka".
+- id: 6286
+  author: Olgierd
+  author_url: http://olgierd.bblog.pl
+  date: '2007-01-22 22:37:48 +0100'
+  date_gmt: '2007-01-22 21:37:48 +0100'
+  content: Sprawdziła się :-)
+- id: 6287
+  author: ida
+  author_url: ''
+  date: '2007-01-22 22:52:07 +0100'
+  date_gmt: '2007-01-22 21:52:07 +0100'
+  content: "to może i mi zadziała?\r\n\r\na komentarz miał brzmieć:\r\nczemu do diabła
+    *.ppt ;-)"
+- id: 6308
+  author: Jajcuś
+  author_url: http://blog.jajcus.net/
+  date: '2007-01-23 17:31:50 +0100'
+  date_gmt: '2007-01-23 16:31:50 +0100'
+  content: "\"zapraszam do dyskusji z dzieciakami z microsoftu, google’a, mozilli,
+    verisignu\" \r\n\r\nTo oni wszyscy to tak zrobili (klikasz na cudzej stronie i
+    dostajesz formularz do wprowadzenia hasła)? A może sama specyfikacja OpenID tego
+    wymaga (dawno ją przeglądałem, nie pamiętam)? I dopiero teraz ktoś widzi w tym
+    problem? To może ja rzeczywiście jestem paranoikiem... ale cóż... podobno czasem
+    jest to zaleta..."
+- id: 6310
+  author: Tomash
+  author_url: http://Tomash.openid.pl/
+  date: '2007-01-23 22:30:44 +0100'
+  date_gmt: '2007-01-23 21:30:44 +0100'
+  content: Właśnie zaintygowany tematem (dzięki, Patrys!) założyłem sobie konto i
+    sprawdzam OpenID na tym blogu. Raz, dwa, trzy, czy państwo mnie słyszą?
+- id: 6312
+  author: maniel
+  author_url: http://maniel.openid.pl/
+  date: '2007-01-24 00:12:03 +0100'
+  date_gmt: '2007-01-23 23:12:03 +0100'
+  content: to ja pozwolę se „zatestować” openid, tak w ogóle to fajna technologia
+    ten openid, podoba mi się, fajnie że ma.gnolia z tego korzysta, bardzo bym chcial
+    zobaczyć to w flickr czy innym popularnym serwisie:)
+- id: 6313
+  author: maniel
+  author_url: http://openid.xmpp.za.net/manieljabber.autocom.pl
+  date: '2007-01-24 00:20:23 +0100'
+  date_gmt: '2007-01-23 23:20:23 +0100'
+  content: a, i jeszcze polecam http://openid.xmpp.za.net , serwis openid oparty o
+    xmpp:), znaczy zamiast loginu trzeba potwierdzić wiadomość jabberową;-)
+- id: 6317
+  author: Ameros
+  author_url: http://www.designbystudio.info
+  date: '2007-01-24 10:39:55 +0100'
+  date_gmt: '2007-01-24 09:39:55 +0100'
+  content: Czy sprawa braku logo jest wciaz aktualna znaczy jestescie zainteresowani
+    jakimis propozycjami?
+- id: 6319
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2007-01-24 12:45:24 +0100'
+  date_gmt: '2007-01-24 11:45:24 +0100'
+  content: "Ameros:\r\n\r\nTak, to dalej aktualne."
+- id: 6347
+  author: http-szymczak.jogger.pl-
+  author_url: http://szymczak.jogger.pl/
+  date: '2007-01-26 00:03:55 +0100'
+  date_gmt: '2007-01-25 23:03:55 +0100'
+  content: się komentarzy namnożyło
+- id: 6354
+  author: Roberto
+  author_url: http://roberto.ovh.org/blog/
+  date: '2007-01-26 14:13:36 +0100'
+  date_gmt: '2007-01-26 13:13:36 +0100'
+  content: To OpenID jest jednak całkiem fajne - chyba to wprowadzę u siebie
+- id: 6356
+  author: pogrążony w hałasie entropii — ziewnik lemiela
+  author_url: http://lemiel.jogger.pl/2007/01/26/openid-i-odnosnik-do-wlasnego-joggera/
+  date: '2007-01-26 15:23:34 +0100'
+  date_gmt: '2007-01-26 14:23:34 +0100'
+  content: |-
+    <strong>OpenID i odnośnik do własnego joggera...</strong>
+
+    Pojawiły się polskie serwisy umożliwiające uwierzytelnianie za pomocą OpenID: OpenID.pl i MyID.pl. Chyba obydwa znalazłem u Patrysa i w komentarzach tam serwer z RPA openid.xmpp.za.net umożliwiający uwierzytelnienie za pomocą jabbera. Zarej[.....
+- id: 6358
+  author: http://nic-nac-project.org/~opod/MyID.php
+  author_url: http://nic-nac-project.org/~opod/MyID.php
+  date: '2007-01-26 15:55:03 +0100'
+  date_gmt: '2007-01-26 14:55:03 +0100'
+  content: nawet działa
+- id: 6393
+  author: AvantaR
+  author_url: http://avantar.openid.pl/
+  date: '2007-01-28 13:26:23 +0100'
+  date_gmt: '2007-01-28 12:26:23 +0100'
+  content: Test OpenID raz jeszcze :)
+- id: 6402
+  author: gregbdg
+  author_url: http://gregbdg.openid.pl/
+  date: '2007-01-31 13:41:51 +0100'
+  date_gmt: '2007-01-31 12:41:51 +0100'
+  content: i jeszcze jeden komentarz tylko sprawdzajacy openId :)
+- id: 6574
+  author: lemiel
+  author_url: http://lemiel.jogger.pl/
+  date: '2007-02-09 13:01:43 +0100'
+  date_gmt: '2007-02-09 12:01:43 +0100'
+  content: "Coś dziwnego wypisuje test\r\nhttp://www.openidenabled.com/resources/openid-test/checkup/\r\ndla
+    mojej tożsamości na MyID.pl:\r\nhttp://www.openidenabled.com/resources/openid-test/checkup/start?openid_url=http%3A%2F%2Fmyid.pl%2Fid%2Flemiel"
+- id: 6578
+  author: bmalkow
+  author_url: http://bmalkow.jogger.pl/
+  date: '2007-02-10 08:40:26 +0100'
+  date_gmt: '2007-02-10 07:40:26 +0100'
+  content: O co dokładnie chodzi z phishingiem bo jakoś nie łapię w czym jest problem...
+- id: 6603
+  author: Siergiej
+  author_url: http://siergiej.pl/openid/
+  date: '2007-02-11 16:05:50 +0100'
+  date_gmt: '2007-02-11 15:05:50 +0100'
+  content: A może by tak MyID wzięło przykład z openid.xmpp.za.net
+- id: 6660
+  author: jachacy
+  author_url: http://jachacy.net/
+  date: '2007-02-14 20:19:24 +0100'
+  date_gmt: '2007-02-14 19:19:24 +0100'
+  content: "Interesujące, postanowiłem sobie założyć konto(m.in. testowy komentarz).
+    Jednak mam pytanie:\r\nCzy istnieje jakaś czarna/biała lista \"dostawców\" openID,
+    pozwalająca uchronić się przed spamem, bo jeśli każdy może być \"dostawcą\" to
+    także i spamerzy?"
+---
+<p>Skończyłem testy i blog obsługuje już podpisywanie komentarzy wizytówkami <a href="http://blog.identity20.pl/">cyfrowej tożsamości</a>.</p>
+
+<p>Minie jeszcze pewnie trochę czasu, zanim <a href="http://www.grillit.pl/">Grill IT</a> udostępni nagranie mojej <a href="http://www.room-303.com/blog/2007/01/17/getting-grill-30/">prezentacji o OpenID</a>, ale już teraz namawiam gorąco do uruchomienia na swoich blogach wsparcia dla tej technologii. Jeśli rozpowszechni się w blogosferze, to prędzej czy później, portale będą zmuszone wprowadzić to do swojej oferty.</p>
+
+<p>Wsparcie w najbliższej przyszłości deklarują <a href="http://traduko.info/">Traduko</a>, <a href="http://7thguard.net/">7<sup>th</sup>Guard</a> i <a href="http://www.spinacz.pl/">Spinacz</a>. Z czasem dołączą kolejni. W przypadku Wordpressa, wystarczy instalacja <a href="http://verselogic.net/projects/wordpress/wordpress-openid-plugin/">wtyczki VerseLogic</a> i ewentualne dostosowanie szablonu.</p>
+
+<p>Są też realne szanse, że niebawem ruszy <a href="http://myid.pl/">MyID.pl</a>. W momencie, kiedy powstawał, miał być pierwszym polskim dostawcą tożsamości, w praktyce wyprzedził nas Marcin Jagodziński z <a href="http://openid.pl/">OpenID.pl</a>. My <em>ciągle nie mamy logo</em> (jesteś grafikiem — <strong>pomóż</strong>).</p>

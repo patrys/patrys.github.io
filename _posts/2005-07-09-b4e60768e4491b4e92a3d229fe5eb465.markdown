@@ -1,0 +1,683 @@
+---
+layout: post
+status: publish
+published: true
+title: Okiem ekstremisty
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 127
+date: 2005-07-09 19:10:05.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 1621
+  author: Paool
+  author_url: ''
+  date: '2005-07-09 19:15:29 +0200'
+  date_gmt: '2005-07-09 19:15:29 +0200'
+  content: Głupie aż przykre :/ no i co tu robić z takimi ignorantami... :/
+- id: 1622
+  author: riddle
+  author_url: ''
+  date: '2005-07-09 19:16:10 +0200'
+  date_gmt: '2005-07-09 19:16:10 +0200'
+  content: jajebe™
+- id: 1623
+  author: meak
+  author_url: ''
+  date: '2005-07-09 19:16:51 +0200'
+  date_gmt: '2005-07-09 19:16:51 +0200'
+  content: Kiedyś szukałem czegoś i trafiłem na tę stronę. Niestety,  można tam znaleźć
+    jedynie nawiedzone bzdury świadczące o chorej psychice autora, nic więcej.
+- id: 1624
+  author: riddle
+  author_url: ''
+  date: '2005-07-09 19:20:36 +0200'
+  date_gmt: '2005-07-09 19:20:36 +0200'
+  content: 'Paool: Jakbym znalazł chwilę czasu to udowodniłbym idocie, że się da napisać
+    kod obsługujący ramki. Albo pokazać mu inkludowanie przez Apache.'
+- id: 1625
+  author: Paool
+  author_url: ''
+  date: '2005-07-09 19:21:56 +0200'
+  date_gmt: '2005-07-09 19:21:56 +0200'
+  content: Po tym co zaprezentował swoją postawą, wydaje mi się że i tak zostałby
+    przy swoim...
+- id: 1626
+  author: Patrys
+  author_url: ''
+  date: '2005-07-09 19:22:47 +0200'
+  date_gmt: '2005-07-09 19:22:47 +0200'
+  content: |-
+    Paool:
+    <br/>
+    <br/>To nie jest ignorancja. Ignorancją byłoby pozwolenie na przeglądanie mimo błędów JS. To jest świadome blokowanie rozwoju.
+- id: 1627
+  author: Paool
+  author_url: ''
+  date: '2005-07-09 19:24:08 +0200'
+  date_gmt: '2005-07-09 19:24:08 +0200'
+  content: Ignorant w sensie że tłumaczy mu się a on dalej swoje :P
+- id: 1628
+  author: Jaras
+  author_url: ''
+  date: '2005-07-09 19:26:06 +0200'
+  date_gmt: '2005-07-09 19:26:06 +0200'
+  content: czego się spodziewałeś po katoliku...
+- id: 1629
+  author: Mr_Frodo
+  author_url: ''
+  date: '2005-07-09 19:26:12 +0200'
+  date_gmt: '2005-07-09 19:26:12 +0200'
+  content: a to polska własnie:(
+- id: 1630
+  author: Cachotterie
+  author_url: ''
+  date: '2005-07-09 19:33:34 +0200'
+  date_gmt: '2005-07-09 19:33:34 +0200'
+  content: Hyhy, dobry koleś :] Swoją drogą biedak zapomniał żeby pod operą też wyblokować
+    i przekierować ;]
+- id: 1631
+  author: Patrys
+  author_url: ''
+  date: '2005-07-09 19:35:06 +0200'
+  date_gmt: '2005-07-09 19:35:06 +0200'
+  content: |-
+    Cachotterie:
+    <br/>
+    <br/>On faszystowską metodą wyszukuje słowo &quot;Netscape&quot; w wersji przeglądarki.
+- id: 1632
+  author: Cachotterie
+  author_url: ''
+  date: '2005-07-09 19:38:33 +0200'
+  date_gmt: '2005-07-09 19:38:33 +0200'
+  content: Może mu podpowiedzieć że biedactwo jeszcze nie cały nie-IE świat wycina?
+    :]
+- id: 1633
+  author: Patrys
+  author_url: ''
+  date: '2005-07-09 19:39:17 +0200'
+  date_gmt: '2005-07-09 19:39:17 +0200'
+  content: |-
+    Cachotterie:
+    <br/>
+    <br/>A kolorują ci się paski przewijania? Bo bez tego to pogubić się idzie na każdej stronie.
+- id: 1634
+  author: Cachotterie
+  author_url: ''
+  date: '2005-07-09 19:41:34 +0200'
+  date_gmt: '2005-07-09 19:41:34 +0200'
+  content: No właśnie się nie kolorują, aż zobaczyłam pod IE o co mu chodzi, bo dotąd
+    nigdy nie trafiłam na stronę robioną przez tak genialnego webmastera żeby ten
+    zdumiewający efekt umiał wykorzystać ;]
+- id: 1635
+  author: sharnik
+  author_url: ''
+  date: '2005-07-09 19:46:04 +0200'
+  date_gmt: '2005-07-09 19:46:04 +0200'
+  content: "Powinieneś się raczej cieszyć. Widziałem tą stronę i jestem zdania, że
+    on raczej chce być miły dla użytkowników nie-IE oszczędzając im tego potworka.
+    \n<br/>Strasznego zarówno wizualnie, jak i treściowo."
+- id: 1636
+  author: Dexter (MG)
+  author_url: ''
+  date: '2005-07-09 20:07:54 +0200'
+  date_gmt: '2005-07-09 20:07:54 +0200'
+  content: |-
+    Konquerora biedak też nie blokuje... Hmm, pewnie nie wie co to jest :P
+    <br/>
+    <br/>Inna sprawa, że wszystko działa &quot;normalnie&quot; (chyba, nie mam możliwości obejrzeć na IE), a i pasek potrafi czasem pokolorować (wiem, fuj, niedługo pokombinuję co zrobić żeby tego nie robił ;) )...
+- id: 1637
+  author: Dexter (MG)
+  author_url: ''
+  date: '2005-07-09 20:14:09 +0200'
+  date_gmt: '2005-07-09 20:14:09 +0200'
+  content: PS. i żeby nie było - nie, nie bronię dizajnu tej strony. :]
+- id: 1638
+  author: meak
+  author_url: ''
+  date: '2005-07-09 20:39:21 +0200'
+  date_gmt: '2005-07-09 20:39:21 +0200'
+  content: 'No, mojego FF też nie blokuje. &quot;User Agent&quot; pomaga. Gdybym miał
+    scyzoryk wyciąłbym mu napis: &quot;Byłem tu  - Firefox&quot; ;)'
+- id: 1639
+  author: cinnamon
+  author_url: ''
+  date: '2005-07-09 21:37:27 +0200'
+  date_gmt: '2005-07-09 21:37:27 +0200'
+  content: A czytał ktoś te pierdoły w &quot;szczegóły&quot; (po kiego diabła komuś
+    suwaki po lewej stronie?!?) ? :&gt;
+- id: 1640
+  author: iniside
+  author_url: ''
+  date: '2005-07-09 23:23:48 +0200'
+  date_gmt: '2005-07-09 23:23:48 +0200'
+  content: Takie coś określa sie dosyć nanzym słowem Lamerstwo. Gość udaje, że pozjadał
+    wszelkie rozumy...
+- id: 1641
+  author: Jaras
+  author_url: ''
+  date: '2005-07-09 23:30:32 +0200'
+  date_gmt: '2005-07-09 23:30:32 +0200'
+  content: odbiegając od tematu strona jest o wiele lepsza od JoeMonster -&gt; &quot;Onanizm
+    jest grzechem ciężkim i po jego odbyciu nie można przyjmować komunii.&quot; -
+    prawicowcy przed wyborami powinni nakłaniać ludzi to trzepania konia, a nóż widelec
+    jakiś burak pomyli komunię z komuną. KOOOOLOOROOOOOOWYYYYCH SUUUUUUUUWAAAAAAAAACZKÓÓÓÓÓÓW
+    tam ta ram tam tam...
+- id: 1642
+  author: Krystian
+  author_url: ''
+  date: '2005-07-09 23:35:58 +0200'
+  date_gmt: '2005-07-09 23:35:58 +0200'
+  content: "Jaras: A co to ma wspólnego z byciem katolikiem? Są ludaie i ludziska,
+    a światopogląd nie ma z tym żadnego związku...\n<br/>Z ciekawości tetowałem tą
+    stronę w dillo ;) wyniki przesłałem do autora strony. "
+- id: 1643
+  author: Patrys
+  author_url: ''
+  date: '2005-07-10 00:54:29 +0200'
+  date_gmt: '2005-07-10 00:54:29 +0200'
+  content: Update - autor odpisał.
+- id: 1644
+  author: AlienJr
+  author_url: ''
+  date: '2005-07-10 03:27:18 +0200'
+  date_gmt: '2005-07-10 03:27:18 +0200'
+  content: |-
+    autentycznie strasznie mi się przykro zrobiło, że ludzie są tak uprzedzeni do nowych rzeczy.. taka jakas chora mentalnosc..
+    <br/>
+    <br/>Najgorsze, ze ten koles nie potrafi sobie przetlumaczyc nic.. Ma ostre klapki na oczach.. i nie potrafi szerzej spojrzec na swiat.. ale to jest w sumie ludzkie, bo takie zachowanie jest czeste wsrod ludzi.. Takie zycie.. :/
+- id: 1645
+  author: AlienJr
+  author_url: ''
+  date: '2005-07-10 03:31:41 +0200'
+  date_gmt: '2005-07-10 03:31:41 +0200'
+  content: |-
+    &quot;że pozjadał wszelkie rozumy...&quot;
+    <br/>
+    <br/>dokladnie.. niezwykle czeste zachowanie..
+    <br/>az czasami przerazony sie zastanawiwam.. czy ja tez tak nie robie ..
+- id: 1646
+  author: tylkoPOco?
+  author_url: ''
+  date: '2005-07-10 03:46:45 +0200'
+  date_gmt: '2005-07-10 03:46:45 +0200'
+  content: Czytam Was tak czytam i dziwi mnie to wszystko. Czy ktos moglby mi wyjasnic
+    jaki ma sens slanie maili do autora tamtej strony? Gosc robi to hobbystycznie,
+    za darmo i uwazam ze nie macie prawa miec pretensji ze robi to zle. Jesli bardzo
+    interesuje Cie co tam napisane to odpalisz sobie IE i przeczytasz. Jak xeruje
+    czyjes notatki to nigy mi nie przyszlo do glowy narzekac ze niecyztelnie pisze
+    i opierdalac go za to. Czyzbym byl dziwny?
+- id: 1647
+  author: Patrys
+  author_url: ''
+  date: '2005-07-10 07:51:51 +0200'
+  date_gmt: '2005-07-10 07:51:51 +0200'
+  content: |-
+    tylkoPOco:
+    <br/>
+    <br/>Ja mu chciałem pomóc, stąd wysłałem mu linki do rozwiązań jego problemów. Nie wiem jak ty, ale ja nie przechodzę obojętnie obok człowieka, który w czasie burzy stoi na metalowej drabinie opartej o druty wysokiego napięcia, trzymając w ręce latawiec na stalowej lince.
+- id: 1648
+  author: RedHand
+  author_url: ''
+  date: '2005-07-10 09:15:19 +0200'
+  date_gmt: '2005-07-10 09:15:19 +0200'
+  content: |-
+    A na lince powinien wisieć kluczyk :-)
+    <br/>
+    <br/>A tak poza tym ten gość to leń patentowany. Skoro prowadzi stronę dosyć długo i przekracza się limitu transferu to powinno się wyjść do ludzi i przepisać ten kod. A po drugie to nie wierzę, żeby tylu ludzi próbowało przenieść kod i im się to nie udawało.
+- id: 1649
+  author: Patrys
+  author_url: ''
+  date: '2005-07-10 10:48:26 +0200'
+  date_gmt: '2005-07-10 10:48:26 +0200'
+  content: |-
+    RedHand:
+    <br/>
+    <br/>Jeśli korespondował z nimi w podobnym tonie, to jakoś mnie to nie dziwi.
+- id: 1650
+  author: iniside
+  author_url: ''
+  date: '2005-07-10 11:13:51 +0200'
+  date_gmt: '2005-07-10 11:13:51 +0200'
+  content: |-
+    Poprostu ktoś jest odporny na wiedze. I nie pomyśał że przepisanie serwisu na CSS+XHTML mgloby chociać troche zmieniszyć transfer. &lt;br /&gt;
+    <br/>Dla jak już ktoś zaczyna robić WWW niech chociaż zrobi to porządnie pod względem technicznym i nic mie nie obchodzi czy robi to hobbystycznie czy nie. &lt;br /&gt;
+    <br/>encyklopedia http://pl.wikipedia.org ja zaglądam tylko tam i do angielskiej wersji... &lt;br /&gt;
+    <br/>BTW 10k odwiedzin. Jak by pomyśał to by sie postarał o reklamy na swojej stronie...
+- id: 1651
+  author: RedHand
+  author_url: ''
+  date: '2005-07-10 11:17:16 +0200'
+  date_gmt: '2005-07-10 11:17:16 +0200'
+  content: No właśnie o tym mówię. Jak się ma tylu odwiedzających to się robi wszystko
+    aby im życie umilić.
+- id: 1652
+  author: Draakhan
+  author_url: ''
+  date: '2005-07-10 12:27:14 +0200'
+  date_gmt: '2005-07-10 12:27:14 +0200'
+  content: |-
+    Patrys, a weź go zgłoś do osiołków, przy takim podejściu jak jego na korespondencję to jest raczej pewne, że dostanie &quot;super osiołka&quot; :D A jak nie chcesz go zgłaszać, to powiedz, to sam mogę go zgłosić też ;)
+    <br/>
+    <br/>Tak swoją drogą, to korespondowałem z nim jakiś rok temu. Pojawił się na pewnym forum link do niego i zobaczyłem piękny komunikat o tym, żebym sobie użył badzIEwia. Koleś też w podobnym stylu mi odpowiadał i dałem sobie spokój z nim po dwóch jego mailach :]
+- id: 1653
+  author: Tomash
+  author_url: ''
+  date: '2005-07-10 15:41:17 +0200'
+  date_gmt: '2005-07-10 15:41:17 +0200'
+  content: Jego sprawność językowa jest bliskia sprawności webdeveloperskiej. O zawartości
+    strony się nie wypowiadam, bo już mnie takie katoprawicowe wynurzenia nawet nie
+    śmieszą :]. Osiołki jak nic!
+- id: 1654
+  author: Malin
+  author_url: ''
+  date: '2005-07-10 15:47:33 +0200'
+  date_gmt: '2005-07-10 15:47:33 +0200'
+  content: |-
+    Jako jeden z przedstawicieli zespołu Osiolki.net chciałbym tylko sprostować to, co ten pan napisał o zgłoszeniu jego strony do Osiołków. Słowa tego pana: &quot;Osiołki na samym początku swojej działalności umieściły stronę encyklopedii u siebie potetm w przeciągu tygodnia ją usunęła - dlaczego? - dlatego że uznali że standard W3C jest niedoskonały i niepzwala osiągaś wyników nieodzownych do działania strony Encyklopedi.&quot; to wierutne kłamstwo. Ta &quot;Encyklopedia&quot; to serwis przesiąknięty wrogością, nienawiścią, zawierający m. in. treści antysemickie, działa na granicy prawa. W regułach Osiołków (http://osiolki.net/reguly) wyraźnie napisaliśmy, że nie przyłożymy ręki do czynienia takich stron bardziej dostępnymi. Słowa przy tej całej sprawie nie było o &quot;niedoskonałości standardów W3C&quot;. Ten człowiek zwyczajnie sobie to zmyślił.
+    <br/>
+    <br/>Na forum MozillaPL też było o tym kilka razy:
+    <br/>
+    <br/>http://mozillapl.org/forum/about-2561.html
+    <br/>
+    <br/>http://mozillapl.org/forum/about-7538.html
+    <br/>
+    <br/>http://www.mozillapl.org/forum/about-5661-0.html
+    <br/>
+    <br/>Szkoda na niego zachodu.
+- id: 1655
+  author: Tomash
+  author_url: ''
+  date: '2005-07-10 15:52:47 +0200'
+  date_gmt: '2005-07-10 15:52:47 +0200'
+  content: Ugh. Mocne! No to do zarzutów dochodzi bezczelne kłamstwo. Tym bardziej
+    się cieszę, że strony nie przeglądałem (IE z zasady używam wyłącznie do testowania
+    zgodności i wyglądu moich stron w tej przeglądarce).
+- id: 1656
+  author: RedHand
+  author_url: ''
+  date: '2005-07-10 15:58:56 +0200'
+  date_gmt: '2005-07-10 15:58:56 +0200'
+  content: No chyba, że mu chodziło o to, że strona na granicy prawa nie jest zgodna
+    ze standardami W3C :D
+- id: 1657
+  author: Draakhan
+  author_url: ''
+  date: '2005-07-10 16:55:26 +0200'
+  date_gmt: '2005-07-10 16:55:26 +0200'
+  content: |-
+    Za http://mozillapl.org/forum/about-7538.html
+    <br/>\&quot;Znajdował się również jej wpis na Osiołkach. Jednak zdecydowaliśmy odrzucić ten wpis, z uwagi na propagowanie treści antysemickich przez ten serwis.\&quot;
+    <br/>
+    <br/>Hmm, interesujące... Czyli osiołki już nie przejdą :/
+- id: 1658
+  author: Malin
+  author_url: ''
+  date: '2005-07-10 16:57:22 +0200'
+  date_gmt: '2005-07-10 16:57:22 +0200'
+  content: Nie przejdą, podobnie jak w przypadku stron z warezem, crackami i tego
+    typu rzeczami. Nie zajmujemy się takimi stronami.
+- id: 1659
+  author: Draakhan
+  author_url: ''
+  date: '2005-07-10 16:58:58 +0200'
+  date_gmt: '2005-07-10 16:58:58 +0200'
+  content: Aż sobie odpalę Operę i popatrzę co też za cuda on tam powypisywał, skoro
+    o antysemityzmie mowa.
+- id: 1660
+  author: szzzzzz...ej?
+  author_url: ''
+  date: '2005-07-10 17:25:50 +0200'
+  date_gmt: '2005-07-10 17:25:50 +0200'
+  content: no gościa problem pewnie bierze się z tego, że dawno sobie nie spuścil
+    z ledźwi i tyle...
+- id: 1661
+  author: Volcano
+  author_url: ''
+  date: '2005-07-10 18:14:46 +0200'
+  date_gmt: '2005-07-10 18:14:46 +0200'
+  content: Również jestem członkiem zespołu Osiolki.net i wyrażę tutaj swoją prywatną
+    opinię na temat ww. encyklopedii OKIEM. Mianowicie, z ludźmi takiego pokroju,
+    jak autor tej witryny, nie da się normalnie porozmawiać. Człowiek mądry to taki,
+    któremu powie się coś raz i zrozumie (czy się z tym zgodzi, czy nie, to już inna
+    sprawa). Można mu jeszcze to powtórzyć, żeby szczegóły dobrze zapamiętał. Natomiast
+    człowiek głupi to taki człowiek, któremu można mówić 1000 razy, a on dalej swoje.
+    Nie spodziewajcie się z jego strony innych odpowiedzi, niż te przytoczone powyżej.
+    Tacy ludzie nigdy nie wychodzą poza te swoje klapki na mózgu, które w życiu nie
+    pozwolą im spojrzeć na coś inaczej, niż poprzez pryzmat fanatyzmu, antysemityzmu,
+    urojonego sekciarstwa, nacjonalizmu, komunizmu, socjalizmu i czerwieni z tym związanej,
+    itd.
+- id: 1662
+  author: Draakhan
+  author_url: ''
+  date: '2005-07-10 18:45:00 +0200'
+  date_gmt: '2005-07-10 18:45:00 +0200'
+  content: |-
+    A ja sobie do niego dzisiaj napisałem po raz drugi. Gościu mi tym razem już dokładnie określił, że jestem &quot;48 mądrym&quot; - widać biedaka zaczął sobie statystyki prowadzić już :D
+    <br/>
+    <br/>A poza tym to się dowiedziałem szczerej prawdy o sobie: &quot;Czy nie widzi Pan że jest to tłumaczenie jak po praniu mózgu ?&quot;
+    <br/>
+    <br/>No nic, na gościa rzeczywiście szkoda czasu. Idę na w3.org przygotować się teoretycznie do założenia sekty piorącej ludziom mózgi :D
+- id: 1663
+  author: Ludwik
+  author_url: ''
+  date: '2005-07-10 18:57:19 +0200'
+  date_gmt: '2005-07-10 18:57:19 +0200'
+  content: Na forum Mozilli było o tej stronie z 30 razy, na forum Opery drugie tyle
+    ;&gt;, a i Osiołki się nią zajmowały. Korespondencja z tym Panem do niczego nie
+    prowadzi, co więcejz tego co pamiętam ustaliliśmy wśród Mozillowców,że wcale nie
+    ma potrzeby przykładania swojej ręki do dostępności serwisu szerzącego nienawiść
+    i nietolerancję.
+- id: 1664
+  author: Woocash
+  author_url: ''
+  date: '2005-07-10 22:32:49 +0200'
+  date_gmt: '2005-07-10 22:32:49 +0200'
+  content: |-
+    Patrys,
+    <br/>
+    <br/>szacunek za dobre chęci...
+- id: 1665
+  author: shadzik
+  author_url: ''
+  date: '2005-07-11 03:59:47 +0200'
+  date_gmt: '2005-07-11 03:59:47 +0200'
+  content: i te oczojebne kolory, to pewnie też jakiś &quot;elastyczny standard&quot;
+    :/
+- id: 1666
+  author: tuzi
+  author_url: ''
+  date: '2005-07-11 10:59:34 +0200'
+  date_gmt: '2005-07-11 10:59:34 +0200'
+  content: Dobra, przyznam się szczerze że też kiedyś takie potworki płodziłem. Skrypty
+    działające tylko w IE też zdarzało się popełniać. Ale ten człowiek swoją otwartością
+    umysłu mnie powalił ;) Tylko siąść i płakać.
+- id: 1667
+  author: rorio
+  author_url: ''
+  date: '2005-07-11 11:03:57 +0200'
+  date_gmt: '2005-07-11 11:03:57 +0200'
+  content: |-
+    Jakiś młotek i tyle.Nie ma &quot;kolorowe paski&quot;(kiedyś to było w konquerorku...) Oh! To straszne!. Koleś ma problemy z polska gramatyka...
+    <br/>A swoją drogą, zjawisko tu opisane można nazwać: &quot;Zawalanie standardów przez młoteczkóf z microshita i innyhh idiotóf&quot;. Wielu ludzi zakłada, że to co robi bill jest standardem, a w3 robi tylko zamieszanie. A niech się ****! Moja stronka jest (dość)zgodna ze standardami, w Ie wygląda do dupy. Mam to w tym samym miejscu: używasz badziewia to nie zobaczysz mojej boskiej strony w całej okazałości, nie mam zamiaru się wygłupiac z IE.
+- id: 1668
+  author: rorio
+  author_url: ''
+  date: '2005-07-11 11:11:18 +0200'
+  date_gmt: '2005-07-11 11:11:18 +0200'
+  content: |-
+    Ziomal pisze że &quot;netscape&quot; nie obsługuje html&#039;a? A php i htm to to samo! Coś ta strona capi łysolami z młodzieży
+    <br/> wszechpolskiej...
+- id: 1669
+  author: DarkStar blog.krakowiacy.info
+  author_url: ''
+  date: '2005-07-12 22:02:15 +0200'
+  date_gmt: '2005-07-12 22:02:15 +0200'
+  content: |-
+    Powiem - ROTFL! :D
+    <br/>Chociaż ja trochę tego pana rozumiem. Pewnie nie jest nawet iformatykiem, zaczął robić tą stronkę charytatywnie i w ogóle, a tu mu czterdziestu speców wyjeżdża (na 4 lata, co daje średnio jednego speca na 5 tygodni - wściec się można!) z jakimiś pretensjami i jeszcze pomóc (charytatywnie) nie chcą...
+    <br/>
+    <br/>A tak na marginesie - ten blog jest jeszcze ciekawszy niż w roku 2004 i muszę go jednak zlinkować u siebie. :)
+- id: 1670
+  author: cinnamon
+  author_url: ''
+  date: '2005-07-13 09:29:52 +0200'
+  date_gmt: '2005-07-13 09:29:52 +0200'
+  content: |-
+    A gdzieś Ty DarkStar wyczytał, że nie chcą (nawet chartytatiwnie)? ;-)
+    <br/>Ten typek nie chce, żeby mu pomagano, bo to zło itd. ;-)
+    <br/>
+    <br/>BTW. Nie wiedziałam, że trzeba być informatykiem, żeby byle stronę www sklecić ;-)
+- id: 1671
+  author: DarkStar blog.krakowiacy.info
+  author_url: ''
+  date: '2005-07-13 10:06:06 +0200'
+  date_gmt: '2005-07-13 10:06:06 +0200'
+  content: |-
+    No przecież widać, że nie chcą. Pan wyraźnie napisał Patrysowi &quot;skoro jest Pan takim zawodowcem&quot;, a ten mu nawet skryptów nie napisał... :P
+    <br/>
+    <br/>Może inaczej - nie trzeba faktycznie być informatykiem, ale widocznie ów człowiek zajmuje się tym po prostu hobbystycznie, poświęcając swój wolny czas i rodzinę i robi tak jak potrafi. :) I jeszcze się go czepiają!
+- id: 1672
+  author: rorio
+  author_url: ''
+  date: '2005-07-14 14:21:59 +0200'
+  date_gmt: '2005-07-14 14:21:59 +0200'
+  content: 'A tak ma ,arginesie: Patrys, po co się na take stronki udajesz? Łysiejesz?
+    :)'
+- id: 1673
+  author: Paweł Ciupak, katolik
+  author_url: ''
+  date: '2005-07-16 20:52:25 +0200'
+  date_gmt: '2005-07-16 20:52:25 +0200'
+  content: Dla mnie to nawet dobrze, że autor blokuje Firefoksa. Przynajmniej jego
+    użytkownicy nie są narażeni na takie bzdury, które ten Niew-jakiśtam wypisuje.
+- id: 1674
+  author: Draakhan
+  author_url: ''
+  date: '2005-07-16 21:14:12 +0200'
+  date_gmt: '2005-07-16 21:14:12 +0200'
+  content: A tam blokuje Firefoksa. User Agent Switcher i już &quot;Satana Browser&quot;
+    sobie połaziłem po jego stronie ;)
+- id: 1675
+  author: Paweł Ciupak
+  author_url: ''
+  date: '2005-07-17 20:50:56 +0200'
+  date_gmt: '2005-07-17 20:50:56 +0200'
+  content: |-
+    Zresztą dla przypomnienia głupot połaziłem po jego stronie, i zauważyłem takie kwiatki:
+    <br/>
+    <br/>Inkwizycja [...] była najbardziej humanitarną instytucją czasów średniowiecznych.
+    <br/>
+    <br/>metoda kalendarzowa - Nie zalaceana [...] przez Kościół.
+    <br/>
+    <br/>Marks [...] nigdy nie widział fabryki od wewnątrz.
+    <br/>
+    <br/>40% społeczeństwa nie rozumie zdania złożonego. (skąd takie szokujące dane?)
+    <br/>
+    <br/>Dzięki kampaniom SLD i wetom prezydenta Kwaśniewskiego mamy Konstytucję bez odwołania się do moralności katolickiej,
+    <br/>
+    <br/>Obecnie spożycie mięsa jest niższe niż w 1980 roku. (w krytyce lewicy; przypomnijmy - w 1980 roku panował cały czas komunizm; w latach 1990-2005 nigdy go nie było)
+    <br/>
+    <br/>W czasie przysięgi prezydenckiej Kwaśniewski trzymał rękę na piersi w geście masońskim
+    <br/>
+    <br/>Część ich obietnic spełnił dopiero rząd AWS
+    <br/>
+    <br/>Kwaśniewski się podlizuje - W wypowiedzi do licealistów w Izraelu Kwaśniewski stwierdził, że Radio Maryja to antysemityzm.
+    <br/>
+    <br/>Demokratycznie skazano na śmierć Chrystusa, Sokratesa na wypicie trucizny, wybrano Hitlera, Mussoliniego a nawet Stalina a potem ich społecznie, demokratycznie wspierano. (czyli krytyka demokracji)
+    <br/>
+    <br/>Prezydent zawiódł [...] Wałęsa nie [...] nie spowodował czystek personalnych, (skąd my to znamy...)
+    <br/>
+    <br/>Wybrano kilka moim zdaniem najgłupszych tylko z ok. 4% stron.
+- id: 1676
+  author: Reinmar
+  author_url: ''
+  date: '2005-07-24 18:33:35 +0200'
+  date_gmt: '2005-07-24 18:33:35 +0200'
+  content: Cóż... Ja zacząłem się uczyć html&#039;a rok temu i mam takie wrażenie,
+    że umiem więcej niż ten koleś po kilku latach ;] Przez takich cymbałów można się
+    przynajmniej dowartościować, więc nie wiem co Wy od niego chcecie :D
+- id: 1677
+  author: jpc
+  author_url: ''
+  date: '2005-08-11 20:40:33 +0200'
+  date_gmt: '2005-08-11 20:40:33 +0200'
+  content: |-
+    Reinmar: kiedyś tak się robiło strony (z grubsza), więc startując później miałeś łatwiej. :)
+    <br/>
+    <br/>DarkStar: masz nieco racji. Koleś pewnie ma dość ludzi, którzy wytykają mu, że jest nieuk (sorry Patrys, ale ja też tak pewnie odebrałbym Twoje maile). Ostatnio coś takie przewinęło się przez webdesign-l i padła taka oto porada (wiem, że czasami może być ciężko zrealizować te dwie brzegowe fazy, ale bez tego nie ma co w ogóle próbować):
+    <br/>,,When providing constructive criticism, I&#039;ve always been told - begin with a compliment, provide the criticism, then end with a compliment. ;-)&#039;&#039;
+- id: 1678
+  author: Vroobelek (r.d.)
+  author_url: ''
+  date: '2005-10-02 14:34:08 +0200'
+  date_gmt: '2005-10-02 14:34:08 +0200'
+  content: Ale jaja, z tym gościem miałem długą dyskusję emailową 7 lat temu (na temat
+    szkodliwości rocka), poziom intelektualny odpowiedzi się nie zmienił :)
+---
+Dziś dostałem od znajomego link do artykułu znajdującego się w <a href="http://okiem.boo.pl/"><abbr title="Otwarcie Katolicka Internetowa Encyklopedia Mundi">OKIEM</abbr></a>. Niestety, miast artykułu zobaczyłem tylko paskudną <a href="http://okiem.boo.pl/okiem/index_br.htm">stronę zastępczą</a>, z której wynikało, że moja uboga przeglądarka (<a href="http://www.mozilla-europe.org/pl/">Firefox</a> 1.0.4) nie potrafi poradzić sobie z zaawansowanymi skryptami, niezbędnymi do nawigacji pośród stron serwisu.
+
+O ile sam artkuł przestał mnie ciekawić, o tyle zainteresowałem się żywo kwestiami brakującej funkcjonalności mojego pupila. Napisałem przeto list do autora strony:
+
+> From: Patryk Zawadzki
+> To: Marcin Niewalda
+
+> Witam,
+
+> Jako zawodowy webdeveloper nie mogę się z Panem zgodzić odnośnie
+możliwości przeglądarek opartych na silniku Gecko (czy jak Pan zdaje się
+ja nazywać - Netscape, choć dotyczy to przeglądarek Mozilla Suite i
+Mozilla Firefox).
+
+> Przeglądarki te posiadają możliwości dalece większe od przestarzałego i
+niezgodnego ze standardami Internet Explorera. Po więcej szczegółów
+zapraszam do serwisu http://browsehappy.pl/
+
+> Odnośnie Pańskich problemów z wyglądem strony w innych przeglądarkach -
+świadczą one tylko o Pana nieznajomości standardów obowiązujących w
+sieci. Jeśli chodzi o marginesy, to właśnie Internet Explorer
+nieprawidłowo je interpretuje, po szczegóły zapraszam do swoich
+artykułów na ten temat:
+
+> http://patrys.jogger.pl/comment.php?eid=121784
+> http://patrys.jogger.pl/comment.php?eid=121980
+> http://patrys.jogger.pl/comment.php?eid=124346
+> http://patrys.jogger.pl/comment.php?eid=126533
+
+> Jako użytkownik systemu z rodziny Linux, nie jestem w stanie używać
+przeglądarek monopolisty z Redmond. Dodatkowo przeglądarka Mozilla
+Firefox zdobywa na świecie coraz większą popularność, także w Polsce.
+Nieładnie jest więc wypinać się na użytkowników przesiadających się na
+programy zgodne ze standardami.
+
+> Pozdrawiam i liczę na zainteresowanie tematem i dostosowanie strony do
+współczesnych przeglądarek.
+
+Szczerze liczyłem na reakcję ze strony autora i zainteresowanie tematem, jednak odpowiedź przeszła moje najśmielsze oczekiwania:
+
+> From: Marcin Niewalda
+> To: Patryk Zawadzki
+
+> Marginesy to  pikuś. Skoro jest Pan takim zawodowcem to proszę powiedzieć
+jak przerobić pod Natscape skrypt nawigacyjny tak aby ktoś wpisując adres
+domena/strona5.htm był przekierowywany na domena/index.htm a do ramki była
+ładowana strona5.htm, albo chociaż jak zrobić kolorowy pasek przesuwu.</p>
+Marcin
+
+Widząc, że faktycznie, moja przeglądarka jest niezwykle uboga w niezbędną funkcjonalność, niezwłocznie pokajałem się w liście zwrotnym:
+
+> From: Patryk Zawadzki
+> To: Marcin Niewalda
+
+> > Marginesy to pikuś. Skoro jest Pan takim zawodowcem
+
+> Ah, ta zjadliwość.
+
+> > to proszę powiedzieć jak przerobić pod Natscape
+
+> Kolejny raz myli pan Netscape i Mozillę/Gecko.
+
+> http://www.mozilla-europe.org/pl/
+
+> > skrypt nawigacyjny tak aby ktoś wpisując adres
+domena/strona5.htm był przekierowywany na domena/index.htm a do ramki była
+ładowana strona5.htm,
+
+> Najprościej nie używać ramek, które niszczą użyteczność strony. Nie da
+się dodać ich do ulubionych ani wydrukować.
+
+> Jeśli uparł się pan tego używać, to przekierowanie wykonuje się
+identycznie:
+
+> window.location.href = "index.html";
+
+> > albo chociaż jak zrobić kolorowy pasek przesuwu.
+
+> Proszę mnie nie rozbawiać. Był to element dodany przez programistów Microsoft wbrew obowiązującym standardom CSS. Dla referencji, proszę znaleźć mi w standardzie chociaż jedno słowo o kolorowaniu pasków przewijania:
+
+> http://www.w3.org/TR/CSS1
+
+> Pozdrawiam mimo pańskiej złośliwości. Gratuluję też poczucia humoru,
+jeśli celowo opiera Pan stronę na ramkach (co dyskwalifikuje ją wobec
+osób niedowidzących i korzystających z czytników ekranowych), a
+następnie blokuje dostęp do niej użytkownikom poprawnie działających
+przeglądarek, twierdząc, że to dla ich dobra. Nie chcę Pana martwić, ale
+to nie przeglądarki są złe, tylko Pana kod JavaScript jest do niczego, a
+użytkownicy Mozilli nigdy nie przesiądą się na Internet Explorera, bo
+właśnie od niego uciekali wybierając nowoczesną przeglądarkę typu
+Firefox. Użytkowników IE ubywa z dnia na dzień, natomiast liczba
+szczęśliwych posiadaczy Firefoksa nieustannie rośnie, więc kopie Pan
+dołek sam pod sobą.
+
+Autor nie pozostał mi dłużny i szybko wyklarował swoje stanowisko:
+
+> From: Marcin Niewalda
+> To: Patryk Zawadzki
+
+> To Pan mnie rozbawia. Obcinanie standardów tylko dlatego że nie umie się
+umieścić koloru na pasku przesuwu jest badziewiem. Ramki można dodawać do
+ulubionych i drukować całkiem dobrze, wystarczy odpowiedni skrypt. Ramki
+przeszkadzają tylko tym którzy nie potrafią zrobić żeby wejście na nie
+otwierało strone wewnątrz ramki. (nie, proszą sobie wyobrazić, że nie chodzi
+mi o link otwierania strony w ramce). Ja zrobiłem taki kod, ale niestety da
+się to tylko pod IE. I chociaż nie znosze Billa Gatesa będą używać tego bo
+jego standart jest po prostu bardziej elastyczny co niestety świadczy o
+większym profesjonaliźmie. Przez 4 lata chyba z 40 programistów pisało do
+mnie. Tak samo mądrych jak i Pan i każdy po kilku próbach przerobienia kodu
+się poddawał i jakoś dziwnie milkł. Myślę że i z Panem było by tak samo.</p>
+
+> ps. na marginesie Pański program mailowy nie potrafi porpawnie wysłać
+wiadomości w której tekst przychodzi jako załącznik
+
+Okazało się więc, że i mój program pocztowy (<a href="http://www.gnome.org/projects/evolution/">Evolution</a> 2.2.3) jest upośledzony. W tym momencie zrezygnowałem z nawracania ekstremisty i odpisałem zrezygnowany:
+
+> From: Patryk Zawadzki
+> To: Marcin Niewalda
+
+> To nie jest standard. Przykro mi, ale robi Pan stronę nieumiejętnie i
+dla ginącej przeglądarki. Nie każę Panu uczyć się poprawnego
+programowania JavaScript. Pana strona - Pana sprawa. Proszę tylko zrobić
+przysługę reszcie internautów i nie zabierać się prowadzenie innych
+stron. Bez obaw, nie jest Pan sam:
+
+> http://osiolki.net/
+
+> Zastanawiam się nad zgłoszeniem Pana serwisu, jeśli jeszcze nie figuruje
+w bazie.
+
+> > ps. na marginesie Pański program mailowy nie potrafi porpawnie wysłać
+wiadomości w której tekst przychodzi jako załącznik
+
+> Nie, to Pana program (Outlook Express 6.0) jest uszkodzony i nie potrafi
+obsługiwać poprawnie podpisanych cyfrowo (kluczem PGP) wiadomości. To,
+jak mniemam, kolejny standard Billa Gatesa, którego będzie Pan ślepo
+bronił. W internecie obowiązują normy i akurat mój program pocztowy je
+spełnia.
+
+Cóż, wygląda na to, że z naprawiania strony nic nie będzie. Szkoda zachodzu dla ludzi, którzy i tak będą mieli problemy z nawigacją z powodu braku kolorowania pasków przewijania.
+
+<strong>Update:</strong> pan był łaskaw odpowiedzieć:
+
+> From: Marcin Niewalda
+> To: Patryk Zawadzki
+
+> Powtarzam że jest Pan nudny  - tłumacze że było już wielu mądrych. Osiołki
+na samym początku swojej działalności umieściły stronę encyklopedii u siebie
+potetm w przeciągu tygodnia ją usunęła ? - dlaczego ? - dlatego że uznali że
+standard W3C jest niedoskonały i niepzwala osiągaś wyników nieodzownych do
+działania strony Encyklopedi. Proszę przestać walczyć z normalnymi ludźmi i
+zająć się czymś pożytecznym - albo jeśli ma Pan dużo czasu proszę mi pomóc
+przenieść serwis na PHP. Od trzech lat prowadzę encyklopedię kosztem  życia
+rodzinnego, czasu wolnego, pracy. Pracą woją wykonuje charytatywnie i wiem
+że jest pomocna wielu ludziom którzy mi za to dziękują. Oglądalność sięga
+10.000 wejść na stronę i regularnie przkracza transfery dopuszczalne - a ja
+nie mam z czego opłacać kolejnych pakietów.  Jak mało ludzi potrafi pomóc -
+wypluć kilka ironii natomiast potrafi każdy.
+
+> ps. proszę sobie sprawiź inny program pocztowy bo ten w dalszym ciągu wysyła
+tekst jako zalącznik - wiele osób może mieć trudności z odczytaniem - a na
+pewno nie jest to standrd wysyłania maili na świecie.

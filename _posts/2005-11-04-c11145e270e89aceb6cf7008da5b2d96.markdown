@@ -1,0 +1,84 @@
+---
+layout: post
+status: publish
+published: true
+title: Think future, think AJAX
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 171
+date: 2005-11-04 09:39:46.000000000 +01:00
+categories:
+- linux
+tags: []
+comments:
+- id: 2367
+  author: uciekinier
+  author_url: ''
+  date: '2005-11-04 09:41:44 +0100'
+  date_gmt: '2005-11-04 09:41:44 +0100'
+  content: Link nie działa (serwer nie odpowiada :&gt;)
+- id: 2368
+  author: olórin
+  author_url: ''
+  date: '2005-11-04 09:42:07 +0100'
+  date_gmt: '2005-11-04 09:42:07 +0100'
+  content: 'Grr....czego jogger nie moze zapamietac mojego podpisu poprawnie:'
+- id: 2369
+  author: Patrys
+  author_url: ''
+  date: '2005-11-04 09:42:56 +0100'
+  date_gmt: '2005-11-04 09:42:56 +0100'
+  content: Widzę, że w firmie remont jakiś chwilowo.
+- id: 2370
+  author: jpc
+  author_url: ''
+  date: '2005-11-04 10:14:28 +0100'
+  date_gmt: '2005-11-04 10:14:28 +0100'
+  content: |-
+    Już się naprawło.
+    <br/>
+    <br/>Podoba mi się, mógłbyś to zaimplementować w moim banku? (tylko poczekaj chwilkę, najpierw usunę z niego *moje* konto :P)
+- id: 2371
+  author: nbw
+  author_url: ''
+  date: '2005-11-04 10:33:12 +0100'
+  date_gmt: '2005-11-04 10:33:12 +0100'
+  content: Widzę, że nie wytrzymałeś ;)
+- id: 2372
+  author: Patrys
+  author_url: ''
+  date: '2005-11-04 11:01:46 +0100'
+  date_gmt: '2005-11-04 11:01:46 +0100'
+  content: Działa już.
+- id: 2373
+  author: Rid z WZ
+  author_url: ''
+  date: '2005-11-04 13:14:54 +0100'
+  date_gmt: '2005-11-04 13:14:54 +0100'
+  content: |-
+    Mi też, samochwała link przesłał. :P
+    <br/>
+    <br/>I nie, nie sądzę, żeby ktoś był aż takim idiotą; ajax ma być technologią idiot-proof wszakże. :P
+    <br/>
+    <br/>Olórin: ciasteczka, ot co.
+- id: 2374
+  author: jachacy
+  author_url: ''
+  date: '2005-11-04 15:51:53 +0100'
+  date_gmt: '2005-11-04 15:51:53 +0100'
+  content: W AJAXie zastosowanym w nie odpowiednich miejscach najgorsze jest to samo
+    co często w serwisach opartych o sam flash - brak bezpośrednich URI do podstron,
+    no i później trzeba podawać &quot;klinij w menu na XXX następnie na YYY, klikasz
+    w link na dole i już jesteś&quot;.
+- id: 2375
+  author: listek
+  author_url: ''
+  date: '2005-11-05 20:15:47 +0100'
+  date_gmt: '2005-11-05 20:15:47 +0100'
+  content: |-
+    Tylko, że w aplikacjach opartych o ajax (o flashowej metodzie mi nie wiadomo) da się zrobić żeby były &quot;normalne&quot; adresy (nawet nie trzeba korzystać z &quot;link do tej strony&quot; niczym google maps;)
+    <br/>A jak? Gdzieś na necie jest art po angielsku ;)
+---
+<p>Masa ludzi odkrywa ostatnimi czasy <q>nowe</q> możliwości współczesnych przeglądarek, największą popularnością wśród technologii opartych o JavaScript cieszy się zaś <abbr title="Asynchronous JavaScript And XML">AJAX</abbr>. Wynalazek potężny, a im potężniejszy, tym bardziej podatny na nadużycia. O ile pierwsze masowo wykorzystujące <abbr>AJAX</abbr> serwisy robiły to z całkiem uzasadnionych powodów (<a href="http://maps.google.com/">Google Maps</a> i <a href="http://gmail.google.com/">GMail</a> są wszak aplikacjami, a nie serwisami informacyjnymi), o tyle coraz częściej widzę strony, gdzie <abbr>AJAX</abbr> został użyty, bo to <abbr>AJAX</abbr>. Jest fajny, jest modny, wszędzie da się wcisnąć. Żeby pokazać, jak absurdalne są niektóre pomysły, przygotowałem własne, <a href="http://patrys.icenter.pl/test/2005-10-27-ultimate-ajax-misuse/">najgłupsze na świecie zastosowanie technologii <abbr>AJAX</abbr></a>. Na szczęście na taki pomysł nikt jeszcze nie wpadł (a przynajmniej nic mi o tym nie wiadomo).</p>

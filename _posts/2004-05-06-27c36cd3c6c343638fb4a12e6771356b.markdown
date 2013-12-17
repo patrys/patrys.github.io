@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: Klient płaci, klient wymaga...
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 12
+date: 2004-05-06 13:30:59.000000000 +02:00
+categories:
+- varia
+tags: []
+comments: []
+---
+Całkiem niedawno jeden z naszych klientów (hosting www, emaile, obsługa techniczna) zadzwonił do mnie z informacją, że od rana nie dociera do nich poczta elektroniczna. Klient duży, więc priorytetowo zająłem się przeszukiwaniem logów na serwerze. Sytuacja nie była dziwna, bo wszystko zbiegło się w czasie ze zmianą naszego ISP. Nowa pula adresowa, relegacja domen, maile mają prawo nie dojść przez jakiś czas, pewnie na DNS części sieci wiszą jeszcze stare IPki. Ale klient nas ciśnie, że to ważna korespondencja, że to nie może czekać. Prezes chciał już nawet, żebym założył im tymczasową skrzynkę w którejś z naszych domen, ale w ostatniej chwili coś mnie tknęło...<br />
+<br />
+Wszedłem na stronę NASKu i sprawdziłem, czy domena została już przedelegowana na nasze nowe adresy DNS, a tu niespodzianka. Ostatnia modyfikacja domeny: tegoż właśnie dnia. Wszystkie pozostałe miały datę 3 dni wstecz. Sprawdzam więc gdzie ta delegacja prowadzi... jakaś firma z Poznania, pierwsze o niej słyszę. Ani trochę nie przypomina naszych serwerów DNS. Dzwonimy więc do klienta.<br />
+<br />
+- Czy wiecie już, czemu nie dochodzi poczta?<br />
+- Bo Państwo oddaliście swoją domenę jakiejś innej firmie.<br />
+- Jak to? To niemożliwe!<br />
+- A mówi coś panu nazwa \[tutaj nazwa firmy\]<br />
+- ... \[nagła cisza w słuchawce\]<br />
+- Halo?<br />
+- Eee... Ale czemu poczta nie dochodzi?<br />
+- To my czekamy na wypowiedzenie umowy hostingowej, do widzenia.<br />
+<br />
+Mądry klient po szkodzie, szkoda że wcześniej nie wiedzieli, co robią. ;)

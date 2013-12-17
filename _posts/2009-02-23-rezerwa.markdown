@@ -1,0 +1,90 @@
+---
+layout: post
+status: publish
+published: true
+title: Rezerwa
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 537
+wordpress_url: http://room-303.com/blog/?p=537
+date: 2009-02-23 10:48:03.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 24307
+  author: ciastek
+  author_url: http://ciastek.info
+  date: '2009-02-23 12:44:03 +0100'
+  date_gmt: '2009-02-23 11:44:03 +0100'
+  content: Gratulacje. Jak też takie dostać?
+- id: 24308
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2009-02-23 12:46:32 +0100'
+  date_gmt: '2009-02-23 11:46:32 +0100'
+  content: "ciastek:\r\n\r\nPrzejść się na WKU z książeczką :)"
+- id: 24309
+  author: Didimos
+  author_url: http://didimos.ovh.org
+  date: '2009-02-23 12:50:08 +0100'
+  date_gmt: '2009-02-23 11:50:08 +0100'
+  content: W moim przypadku radość okazała się przedwczesna, bo po takim  wpisie zaczęli
+    mnie zgarniać na szkolenia rezerwy. Udało im się tylko częściowo, ale dzięki tym
+    kilku dniom w kazamatach wiem  dlaczego tak bardzo nie chciałem spędzać tam ani
+    dnia dlużej...
+- id: 24310
+  author: http-szymczak.jogger.pl-
+  author_url: http://szymczak.jogger.pl/
+  date: '2009-02-23 14:00:59 +0100'
+  date_gmt: '2009-02-23 13:00:59 +0100'
+  content: a ja sie dziś wybieram, przed pracą też chcę mieć z głowy :)
+- id: 24311
+  author: opi
+  author_url: http://bronikowski.com
+  date: '2009-02-23 14:29:50 +0100'
+  date_gmt: '2009-02-23 13:29:50 +0100'
+  content: "Hoho, kolejny, który nie zasilił zbrojnego ramienia Ojczyzny naszej. Gratuluję!\r\n\r\nPowiedz
+    mi, po prostu pokazałeś im liczbę wybieganych godzin w FPS-ach, a oni Ci powiedzieli,
+    że na generałów nie biorą? ;-)"
+- id: 24316
+  author: anghan
+  author_url: http://anghan.jogger.pl
+  date: '2009-02-24 19:01:44 +0100'
+  date_gmt: '2009-02-24 18:01:44 +0100'
+  content: Słyszałem, że teraz każdy kto nie chce iść do wojska może iść po taki wpis.
+    Czy gdzieś jest takie ogłoszenie, bo ja się jeszcze z czymś takim nie spotkałem.
+    Wprawdzie jeszcze jestem na ostatnim roku studiów, ale chętnie bym się juz tego
+    obowiązku pozbył.
+- id: 24413
+  author: nikos
+  author_url: ''
+  date: '2009-04-05 20:06:32 +0200'
+  date_gmt: '2009-04-05 19:06:32 +0200'
+  content: Siema. Mam pytanie czy to przeniesienie do rezerwy dotyczy również absolwentów
+    studiów wyższych z rocznika 1983?
+- id: 24414
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2009-04-05 23:19:46 +0200'
+  date_gmt: '2009-04-05 22:19:46 +0200'
+  content: "nikos:\r\n\r\nDotyczy wszystkich - absolwentów i nie - z dowolnego rocznika."
+- id: 24418
+  author: Max skc
+  author_url: ''
+  date: '2009-04-09 13:08:21 +0200'
+  date_gmt: '2009-04-09 12:08:21 +0200'
+  content: a wlanie jest jakiś przedział rocznikowy do wpisania rezerwy (ustawowo)
+- id: 24437
+  author: rastaman
+  author_url: ''
+  date: '2009-04-28 10:01:50 +0200'
+  date_gmt: '2009-04-28 09:01:50 +0200'
+  content: spieszcie się z tym od nowego roku prawdopodobnie będą znów ścigac do wojska
+    bo nasze państwo nie stac na zawodowych żołnierzy...
+---
+<p class="strip"><a href="http://www.flickr.com/photos/patrys/3302593341/" title="Przeniesiony do rezerwy by patrys, on Flickr"><img src="http://farm4.static.flickr.com/3472/3302593341_f568b9f50f.jpg" width="500" height="375" alt="Przeniesiony do rezerwy" /></a></p>
+
+<p><strong>Nareszcie!</strong> Świętowanie planowane na wieczór.</p>

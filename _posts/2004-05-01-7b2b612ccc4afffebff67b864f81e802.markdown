@@ -1,0 +1,17 @@
+---
+layout: post
+status: publish
+published: true
+title: Weszliśmy do Unii
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 3
+date: 2004-05-01 12:07:26.000000000 +02:00
+categories:
+- varia
+tags: []
+comments: []
+---
+Z tej okazji mogłem sobie pospać do 12, ledwo żyję i nic mi się nie chce. Ale za to mogę z kuchni do pokoju chodzić bez paszportu. Antyglobalistów pewnie szlag trafia ;).

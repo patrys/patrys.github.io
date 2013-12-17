@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: K2
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 163
+date: 2005-10-13 01:20:28.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 2276
+  author: sznik
+  author_url: ''
+  date: '2005-10-13 01:42:12 +0200'
+  date_gmt: '2005-10-13 01:42:12 +0200'
+  content: |-
+    Ach te kolory, które w moim &#039;projekcie&#039; użyłem.
+    <br/>Poprawię trochę odcienie i będą jak te z K2 - wręcz je ubóstwiam. ;)
+- id: 2277
+  author: Riddle
+  author_url: ''
+  date: '2005-10-13 09:38:54 +0200'
+  date_gmt: '2005-10-13 09:38:54 +0200'
+  content: A ja tak nie lubię samego niebieskiego, że aż mi się na wymioty zbiera.
+    ;) No ale doceniam pracę. :)
+---
+<p>Kolejny szablon WordPressa padł moją ofiarą. Przedstawiam zatem K2 autorstwa <a href="http://binarybonsai.com/">Michaela Heilemanna</a> i <a href="http://www.chrisjdavis.org/">Chrisa J. Davisa</a>.</p>
+
+<p>Wersja pobieralna znajduje się <a href="http://wirusy.room-303.com/Jogger/K2/">na moim serwerze</a>.</p>
+
+<p>Do tego obowiązkowy <a href="http://wirusy.room-303.com/Jogger/K2/k2.png">zrzut ekranu</a>, choć poklikać można też na żywo <a href="http://patrys-dev.jogger.pl/">w mojej piaskownicy</a>.</p>
+
+<p>Jak zwykle, szablon jest objęty GPL.</p>

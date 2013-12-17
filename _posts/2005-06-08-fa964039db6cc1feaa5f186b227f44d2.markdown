@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Back to reality
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 101
+date: 2005-06-08 19:57:53.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1252
+  author: Jezuch
+  author_url: ''
+  date: '2005-06-08 22:35:59 +0200'
+  date_gmt: '2005-06-08 22:35:59 +0200'
+  content: Kiedy zakładałem sobie Internet w nowym mieszkaniu, instalator zobaczył
+    KDE i powiedział &quot;no w końcu jakiś porządny klient&quot; ;)
+---
+<p>Mimo trudności i perypetii, w końcu się udało oddać notebooka do naprawy, a dziś <a href="http://www.productreview.com.au/showitem.php?item_id=2750">mój dzielny Asus</a> powrócił w ręce swego właściciela.</p>
+
+<p>Okazało się, że sprzęt jest cały i zdrowy, awarii uległ tylko <abbr title="Basic Input/Output System">BIOS</abbr> i to on był przyczyną braku klawiatury. Muszę bardzo pochwalić <a href="http://notebooki.wroc.pl/">Spring Notebook</a> za czas reakcji, maszyna pojechała do serwisu kurierem jeszcze tego samego dnia, kiedy została oddana, a wróciła po dwóch dniach, choć gwarancja daje im zapas czternastu. Pan tylko zdziwił się mocno w momencie przyjmowania komputera, kiedy to dla próby go zabootował, a tu <em>uncompressing kernel image</em> i jakieś matriksy na ekranie ;).</p>

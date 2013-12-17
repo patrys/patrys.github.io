@@ -1,0 +1,279 @@
+---
+layout: post
+status: publish
+published: true
+title: Pauza
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 165
+date: 2005-10-17 21:04:25.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 2304
+  author: maciej
+  author_url: ''
+  date: '2005-10-17 21:07:21 +0200'
+  date_gmt: '2005-10-17 21:07:21 +0200'
+  content: Szkoda, ja akurat bezwstydnie traktowalem Twoj blog jako poradnik w zyciu
+    zawodowym ;]
+- id: 2305
+  author: kiesiu
+  author_url: ''
+  date: '2005-10-17 21:11:06 +0200'
+  date_gmt: '2005-10-17 21:11:06 +0200'
+  content: Szkoda. Jest to jeden z nielicznych joggów, dzięki którym postanowiłem
+    założyć własny. Ale liczę, że jednak coś od czasu do czasu napiszesz :]
+- id: 2306
+  author: Riddle z terminala lotniskoweg
+  author_url: ''
+  date: '2005-10-17 21:17:47 +0200'
+  date_gmt: '2005-10-17 21:17:47 +0200'
+  content: No boję się, boję. ;)
+- id: 2307
+  author: yy
+  author_url: ''
+  date: '2005-10-17 21:22:16 +0200'
+  date_gmt: '2005-10-17 21:22:16 +0200'
+  content: '&quot;20% z moich gości ma problemy z cerą&quot; czyli ze co ? :]'
+- id: 2308
+  author: Patrys
+  author_url: ''
+  date: '2005-10-17 21:22:53 +0200'
+  date_gmt: '2005-10-17 21:22:53 +0200'
+  content: Czyli Linux/BSD.
+- id: 2309
+  author: citizen
+  author_url: ''
+  date: '2005-10-17 21:30:51 +0200'
+  date_gmt: '2005-10-17 21:30:51 +0200'
+  content: Chcesz powiedzieć, że to pryszczaci goście z okularami, długimi włosami
+    i czerwonymi flanelowymi koszulkami w kratkę ? :)
+- id: 2310
+  author: rasheed
+  author_url: ''
+  date: '2005-10-17 21:34:51 +0200'
+  date_gmt: '2005-10-17 21:34:51 +0200'
+  content: Tak? :)
+- id: 2311
+  author: kiesiu
+  author_url: ''
+  date: '2005-10-17 21:47:11 +0200'
+  date_gmt: '2005-10-17 21:47:11 +0200'
+  content: 'citzen: zapomniałeś dodać, że ci starsi to jeszcze nieogoleni :)'
+- id: 2312
+  author: zdzichu
+  author_url: ''
+  date: '2005-10-17 21:53:42 +0200'
+  date_gmt: '2005-10-17 21:53:42 +0200'
+  content: Dolicz jeszcze osoby typu ja, co czytają Cię via Planet PLD.
+- id: 2313
+  author: Igor
+  author_url: ''
+  date: '2005-10-17 21:54:39 +0200'
+  date_gmt: '2005-10-17 21:54:39 +0200'
+  content: |-
+    Damn, ja nie mam problemów z cerą :P
+    <br/>A dzisiaj włączyłem windowsa pierwszy raz od 2ch tygodni bo kumpel chciał pograć w wormsy :P
+- id: 2314
+  author: Draakhan
+  author_url: ''
+  date: '2005-10-17 22:05:16 +0200'
+  date_gmt: '2005-10-17 22:05:16 +0200'
+  content: Heh, no trochę szkoda, lubiałem tutaj wpaść i poczytać sobie co nieco i
+    podobnie jak maciej czasem wpadałem sobie coś przypomnieć &quot;bo Patrys o tym
+    chyba pisał&quot; :) Mam nadzieję, że szybko wrócisz do pisania tutaj :)
+- id: 2315
+  author: Reinmar
+  author_url: ''
+  date: '2005-10-17 22:55:16 +0200'
+  date_gmt: '2005-10-17 22:55:16 +0200'
+  content: Ej! ;p Wypraszam sobie :D Jedyny problem jaki mam z cerą, to to, że jak
+    jej nie wysmaruje kremem nawilżającym, to mi się kinol świeci jak żarówa :P (Pominę
+    fakt, że używam 4 różnych kremów i mazideł żeby jakoś wyglądać ;])
+- id: 2316
+  author: Igor
+  author_url: ''
+  date: '2005-10-17 22:56:29 +0200'
+  date_gmt: '2005-10-17 22:56:29 +0200'
+  content: |-
+    A myslalem, ze to ja jestem metrosexualny :P
+    <br/>
+    <br/>A powaznie to oczywiscie rozpaczamy z powodu tej wiadomosci, ale wstydzimy sie pokazać swiatu nasz ból :]
+- id: 2317
+  author: Ktoś... | ...tam
+  author_url: ''
+  date: '2005-10-18 00:06:22 +0200'
+  date_gmt: '2005-10-18 00:06:22 +0200'
+  content: |-
+    Mimo że z petycji nie wynikło (na razie?) nic dobrego, cieszę się, że poruszyłeś tę lawinę. Dzięki!
+    <br/>
+    <br/>Z drugiej strony... Bez Twojego bloga jogger nie będzie lepszy, ale gorszy :(
+    <br/>Powiem więcej: jeśli te osoby, które zapowiadały odejście, zrealizują swoje zapowiedzi, może się okazać, że kategorie wpisów albo automatyczne pingowanie Technorati nie będą już nikomu potrzebne :(
+- id: 2318
+  author: Draakhan
+  author_url: ''
+  date: '2005-10-18 00:16:31 +0200'
+  date_gmt: '2005-10-18 00:16:31 +0200'
+  content: "A tak swoją drogą to nie wiem, ale mi się wydaje, że ci co odchodzą z
+    joggera to świadomie bądź nieświadomie próbują wywrzeć jakiś przymus psychologiczny
+    na Sparrow.\n<br/>\n<br/>Być może się mylę, nie chcę nikomu wmawiać, że myśli
+    co innego niż rzeczywiście myśli ale to odchodzenie przypomina mi puszczanie swego
+    rodzaju focha. Nie dano nam zabawki pod tytułem wolny kod jogger.pl, nie możemy
+    się tym pobawić bo Sparrow chce rozwijać joggera wg własnej myśli to naburmuszyć
+    się i pójść sobie gdzie indziej. Tak niestety to dla mnie wygląda. \n<br/>\n<br/>Dla
+    mnie o joggerze nie świadczy brak jakichś tam możliwości, aczkolwiek nie powiem,
+    kategorie wpisów czy automatyczne pingowanie czy co tam jeszcze jest wśród pomysłów
+    byłoby ciekawym urozmaiceniem. Dla mnie jako osoby, która jeszcze rok temu była
+    przeciwna wszelkiego rodzaju blogom, jogger stał się bardzo miłym miejscem, które
+    odwiedzam codziennie, które tworzą ludzie z tym co piszą, a nie jakieś techniczne
+    niedoskonałości."
+- id: 2319
+  author: Patrys
+  author_url: ''
+  date: '2005-10-18 00:56:26 +0200'
+  date_gmt: '2005-10-18 00:56:26 +0200'
+  content: Dlatego dalej mam zamiar czytać notki, niestety, techniczne niedoskonałości
+    skutecznie zniechęcają mnie do dalszego pisania. Społeczność Joggera to jedno,
+    silnik to drugie.
+- id: 2320
+  author: nbw
+  author_url: ''
+  date: '2005-10-18 01:03:33 +0200'
+  date_gmt: '2005-10-18 01:03:33 +0200'
+  content: |-
+    Pisałem o tym, że tylko czekam, aż pojawią się komentarze zarzucające nam rokosz czy coś takiego.
+    <br/>
+    <br/>Każdy miał okazje się wypisać w komentarzach u Riddle&#039;a.
+    <br/>
+    <br/>Czy odejściem wywieramy jakikolwiek nacisk? Jeśli tak, to miło - znaczy to, że jesteśmy w jakiś sposób rozpoznawalni i kojarzeni z joggerem. Jesteśmy jednak w większości w takim wieku, że już nie kierujemy się sentymentami w takim stopniu.
+    <br/>
+    <br/>Wybieramy rozwiązania lepsze. Tak jak to YaaL napisała u Riddle&#039;a - jesteśmy sami sobie statkiem, żaglem, żeglarzem.
+    <br/>
+    <br/>Poza tym, żaden z nas, zgodnie z moim stanem wiedzy, nie zamyka furtki pod szyldem &quot;jogger&quot;. Jeśli jogger2 faktycznie zaistnieje, zapewne powrót będzie realny.
+    <br/>Osobiście nie odchodzę z joggera &quot;as to be gone&quot; - odpalam projekt równoległy. Po prostu, zmieniają się priorytety. Jogger schodzi na dalszy plan, pierwszeństwo zyskuje nowy projekt, nowa grupa i webesteem.
+    <br/>
+    <br/>Jako, że w pewnym sensie jestem marketingowcem, to wrzucę teaser - chcieliśmy przez jakiś czas zrobić projekt, który miał, w zamyśle, wzbogacić i zjednoczyć joggerowo-blogowe środowisko. Wymagał kilku zmian w architekturze joggera, które byliśmy gotowi sami włączyć. Ale jak nie to nie.
+    <br/>
+    <br/>Idziemy dalej, robimy swoje. Czas wszystkich rozliczy z podjętych decyzji.
+- id: 2321
+  author: Spider
+  author_url: ''
+  date: '2005-10-18 10:58:40 +0200'
+  date_gmt: '2005-10-18 10:58:40 +0200'
+  content: niesmierteliniki to rozumiem, ale zakład pogrzebowy ?
+- id: 2322
+  author: Ktos
+  author_url: ''
+  date: '2005-10-18 11:40:44 +0200'
+  date_gmt: '2005-10-18 11:40:44 +0200'
+  content: |-
+    Szkoda. Bardzo przyjemnie się zawsze Patrysa czyta :)
+    <br/>
+    <br/>Zakład pogrzebowy. Spadłem z krzesła, ale chyba chodzi o wpis &quot;Zakład pogrzebowy &quot;Radość Życia&quot;&quot; :)
+- id: 2323
+  author: rorio
+  author_url: ''
+  date: '2005-10-18 15:54:12 +0200'
+  date_gmt: '2005-10-18 15:54:12 +0200'
+  content: |-
+    Bojkot jabbera?
+    <br/>Fakt mogli by go otworzyć... Przecież 90% użytkowników to ludzie używający linuxa i jakoś związani z open sourcem... Jabber2? Czemu nie! Z jabberem każdy może robić co chce. Jednak fajnie by było gdyby udało się otworzyć jabbera.pl
+- id: 2324
+  author: Św. Szczepan od pomidorów
+  author_url: ''
+  date: '2005-10-18 18:19:18 +0200'
+  date_gmt: '2005-10-18 18:19:18 +0200'
+  content: "A.D. 18 X 2005 Partys R.I.P.\n<br/>Partys wielkim człowiekiem był, niestety
+    odszedł od nas. Teraz będzie nas obserwował z nieba. W szczęśliwym życiu aniołka
+    będzie szczał na nas z góry, walił grzmoty i trzepał łupież. Rzegnamy Cie o Partysie. "
+- id: 2325
+  author: Patrys
+  author_url: ''
+  date: '2005-10-18 20:05:05 +0200'
+  date_gmt: '2005-10-18 20:05:05 +0200'
+  content: Słucham?
+- id: 2326
+  author: hash
+  author_url: ''
+  date: '2005-10-19 03:02:43 +0200'
+  date_gmt: '2005-10-19 03:02:43 +0200'
+  content: Ludzie uciekają, społeczność sie irytuje :] .
+- id: 2327
+  author: gfy
+  author_url: ''
+  date: '2005-10-19 16:03:34 +0200'
+  date_gmt: '2005-10-19 16:03:34 +0200'
+  content: Rzegnamy?? wtf??
+- id: 2328
+  author: Patrys
+  author_url: ''
+  date: '2005-10-19 18:44:54 +0200'
+  date_gmt: '2005-10-19 18:44:54 +0200'
+  content: Ja nie uciekam, tylko zabieram się za coś innego chwilowo, wrócę jak Jogger
+    zacznie przynajmniej działać normalnie (nie będzie zdychać w połowie podglądu
+    notek).
+- id: 2329
+  author: hash
+  author_url: ''
+  date: '2005-10-20 02:16:42 +0200'
+  date_gmt: '2005-10-20 02:16:42 +0200'
+  content: ok nie musisz sie kłumaczyc to twoj jogg/blog
+- id: 2330
+  author: pomiot chrumaka
+  author_url: ''
+  date: '2005-10-20 09:18:23 +0200'
+  date_gmt: '2005-10-20 09:18:23 +0200'
+  content: Szkoda Patrys, ze zawieszasz działalność. Dowiedziałem się z tego jogga
+    wielu przydatnych, ciekawych rzeczy i miałem możliwość wzięcia udziału w kilku
+    konstruktywnych dyskusjach. No cóż.. teraz pozostaną mi listy dyskusyjne ;/
+- id: 2331
+  author: alienjr
+  author_url: ''
+  date: '2005-10-21 07:51:50 +0200'
+  date_gmt: '2005-10-21 07:51:50 +0200'
+  content: |-
+    Heh..
+    <br/>
+    <br/>Patrzycie na to bardzo od strony praktycznej. Mianowicie chcielibyście dorwać się kodu i zrobić nowe ficzery, ewentualnie poprawki. To jest jedno. Druga wspaniała sprawa to to, że oprócz community użytkowników, które już jest, (ba!) jest świetne, utworzyło by się za pewne podobne community developerów, które by uściśliło kontakt, w pracach nad projektem. Open Source/Free Software są wspaniałe, bo zapewniają kontakt z ludźmi. Drogę porozumienia. Choć nie zawsze, np. ostatnio ktoś mi pojechał, bo napisałem w komentarzu na joggu, że pld jest gnu/linuksem :/ Ale to tak na marginesie :p
+- id: 2332
+  author: alienjr
+  author_url: ''
+  date: '2005-10-21 07:55:18 +0200'
+  date_gmt: '2005-10-21 07:55:18 +0200'
+  content: Jeszcze jedno. Sparrow wykorzystał kod na GPL, nikt mu sprawy nie założył,
+    choć były sprzeciwy, że to nie-fair. Do tego wystarczy zastanowić się czego on
+    używa w tym projekcie. Jaki system, jakie programy działają na systemie, jakie
+    użył do stworzenia joggera, jaki protokół ? Taaakk z pewnością użył dóbr FLOSS,
+    nie mówie, że musi otworzyć kod. Nikt go do tego nie zmusza. Po prostu. Ja uważam,
+    że tak byłoby fair i takie jest moje zdanie, a czy on to zrobi czy nie, to i tak
+    będę go szanował, jako programistę, informatyka, kolesia, który stworzył JoggeraPL,
+    wspaniałe środowisko miłuch ludzi, którzy mają przeważnie kota na punkcie technologii
+    :-)
+- id: 2333
+  author: alienjr
+  author_url: ''
+  date: '2005-10-21 07:59:59 +0200'
+  date_gmt: '2005-10-21 07:59:59 +0200'
+  content: 'KU&amp;#@ :/ Niby ZU jestem, a mam problemy z cerą i noszę okulary, za
+    to mam zawsze krótkie włosy ;p !!  '
+---
+<p>W związku ze stagnacją związaną z rozwojem obecnego silnika Joggera i ostatnią reakcją na <a href="http://riddle.jogger.pl/comment.php?eid=156967">naszą petycję</a> (której nota bene byłem inicjatorem, bo Riddle już się boi, że ma nowych wrogów), postanowiłem zrobić sobie przerwę. Masa osób pytała mnie, czemu piszę i ja zawsze odpowiadałem, zgodnie z prawdą, że to lubię. Pisanie jest odskocznią od codziennych problemów, bo pozwala skupić się na jednym zagadnieniu i przez jakiś czas nie myśleć o reszcie świata. Pisanie pozwala zachować przynajmniej minimalne pojęcie o polskiej gramatyce, słownictwie i ortografii, o co trudno w świecie zdominowanym przez Gadu-Gadu i rozmowy z rodzaju <q>elo, co tam?</q> Pisanie daje wreszcie możliwość uzyskania odzewu, który często jest źródłem bezcennej wiedzy, a niejednokrotnie pozwala spojrzeć na sprawę z zupełnie innej perspektywy. Pisanie daje niesamowitą satysfakcję, jednak przychodzi moment, kiedy okazuje się, że reszta świata ma do dyspozycji maszyny i elektryczność, a my nadal ślęczymy przy świecach z gęsim piórem w dłoni. Jogger jest świetny do pisania o tym, co zjadło się na śniadanie, ale mi już nie wystarcza.</p>
+
+<p>Nie kasuję bloga ani swojego konta i nadal mam zamiar śledzić i komentować cudze wpisy. Może nawet zdarzy mi się coś napisać, ale to już nie ta sama radość, co kiedyś. Poczekam do grudnia i mam nadzieję zobaczyć wtedy długo wyczekiwane drugie wcielenie silnika.</p>
+
+<p>Dla ciekawych - statystyki.</p>
+
+<ul>
+<li>Przeciętnie przez dobę odwiedza mnie 180 osób (unikalnych komputerów, śledzenie za pomocą adresów <abbr title="Internet Protocol">IP</abbr> i ciastek).</li>
+<li>We wrześniu przewinęło się tu was 3129, co przełożyło się na 11887 odsłon.</li>
+<li>Rekord pod tym względem padł w lipcu, kiedy to liczba klikniętych stron wyniosła 14248.</li>
+<li>20% z moich gości ma problemy z cerą, zaś pozostałych 80% korzysta z produktów Microsoft.</li>
+<li>46% z odwiedzających korzysta z Firefoksa, 33% z Internet Explorera 6.0, zaś 10% z Opery.</li>
+<li>70% korzysta z rozdzielczości 1024x768, co ciekawe, aż 10% używa wciąż 800x600.</li>
+<li>Obok <q>patrys</q>, <q>pld</q> i <q>smarty</q>, najpopularniejszymi hasłami z wyszukiwarek są <q>kurt i albin</q>, <q>nieśmiertelniki</q> i <q>zakład pogrzebowy</q>.</li>
+<li>119 osób dowiedziało się o tej notce za pomocą Jabbera.</li>
+</ul>

@@ -1,0 +1,221 @@
+---
+layout: post
+status: publish
+published: true
+title: Pan detektyw
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 50
+date: 2004-12-13 21:08:28.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 368
+  author: siwa
+  author_url: ''
+  date: '2004-12-13 21:15:35 +0100'
+  date_gmt: '2004-12-13 21:15:35 +0100'
+  content: |-
+    http://so.pwn.pl/slowo.php?co=zd%B1%BFy%B3y
+    <br/>Skasuj po poprawieniu ;)
+- id: 369
+  author: Patrys
+  author_url: ''
+  date: '2004-12-13 21:16:07 +0100'
+  date_gmt: '2004-12-13 21:16:07 +0100'
+  content: Za późno, już poprawiłem.
+- id: 370
+  author: Wampirek
+  author_url: ''
+  date: '2004-12-13 21:16:39 +0100'
+  date_gmt: '2004-12-13 21:16:39 +0100'
+  content: ROTFL :D
+- id: 371
+  author: siwa
+  author_url: ''
+  date: '2004-12-13 21:16:42 +0100'
+  date_gmt: '2004-12-13 21:16:42 +0100'
+  content: Oklaski ;)
+- id: 372
+  author: Edzio Kruszkowski
+  author_url: ''
+  date: '2004-12-13 21:21:57 +0100'
+  date_gmt: '2004-12-13 21:21:57 +0100'
+  content: Mooj bohaaater powroocil! Z ta sama niemal gracją! :D (nie Patrys...to
+    nie o Tobie ;) )
+- id: 373
+  author: Smoothguy
+  author_url: ''
+  date: '2004-12-13 21:29:53 +0100'
+  date_gmt: '2004-12-13 21:29:53 +0100'
+  content: DASDAASD :D LOL. Nie wiedziałem, że SynPrezesa jeszcze żyje, myślałem,
+    że się go już pozbyliście. :) Ja bym sobie zmienił i zastrzegł numer. Taki środek
+    anty-SynPrezesowy. :&gt;
+- id: 374
+  author: siwa
+  author_url: ''
+  date: '2004-12-13 21:51:15 +0100'
+  date_gmt: '2004-12-13 21:51:15 +0100'
+  content: A juz na pewno nie zapisywał się z nim na angielski. Chyba, że w celu czerpania
+    tworczej inspiracji...
+- id: 375
+  author: Patrys
+  author_url: ''
+  date: '2004-12-13 21:52:08 +0100'
+  date_gmt: '2004-12-13 21:52:08 +0100'
+  content: A co powiecie na wspólne studia? ;]
+- id: 376
+  author: siwa
+  author_url: ''
+  date: '2004-12-13 21:52:59 +0100'
+  date_gmt: '2004-12-13 21:52:59 +0100'
+  content: Nie wierzę. Najcięższe 4 lata w życiu SynaPrezesa to 8 klasa podstawowki...
+- id: 377
+  author: PeTe
+  author_url: ''
+  date: '2004-12-14 07:53:24 +0100'
+  date_gmt: '2004-12-14 07:53:24 +0100'
+  content: |-
+    No no zaczynają się &#039;opowieści z dreszczykiem&#039; :)
+    <br/>Swietne :)
+- id: 378
+  author: Miloszz
+  author_url: ''
+  date: '2004-12-14 13:17:44 +0100'
+  date_gmt: '2004-12-14 13:17:44 +0100'
+  content: Mógłbyś napisać książkę. :D
+- id: 379
+  author: qwiat
+  author_url: ''
+  date: '2004-12-14 14:04:20 +0100'
+  date_gmt: '2004-12-14 14:04:20 +0100'
+  content: |-
+    Odkąd zabrałem swoje cztery litery z PewnejFirmy czuję pewien niedosyt, tu gdzie teraz pracuję jest za normalnie, czegoś/kogoś mi brakuje ;]
+    <br/>
+    <br/>ex WspółpracownikPatrysa
+- id: 380
+  author: krmz.
+  author_url: ''
+  date: '2004-12-15 23:32:26 +0100'
+  date_gmt: '2004-12-15 23:32:26 +0100'
+  content: |-
+    Wow. It can&#039;t be... can&#039;t be what? Real?
+    <br/>Czy to SPTM tak gania za Tobą, gdziekolwiek byś nie uciekał, czy to Tobie szkoda się rozstać z tym NajczystszymŹródłemNathcnienia? A może to sprawka Przeznaczenia? ^_^
+- id: 381
+  author: Cachotterie-&gt;krmz
+  author_url: ''
+  date: '2004-12-15 23:36:50 +0100'
+  date_gmt: '2004-12-15 23:36:50 +0100'
+  content: |-
+    Patrys, 13 grudnia 2004, 21:52:08
+    <br/>A co powiecie na wspólne studia? ;]
+    <br/>
+    <br/>Myślę że to wiele wyjaśnia.
+    <br/>W sumie możemy się z tego cieszyć, bo dzięki temu będzie stały dopływ notek, a studia są jednak chyba mniej toksyczne dla P. (z racji częstotliwości zetknięć z SPTM) niż praca w PewnejFirmie ;)
+- id: 382
+  author: siwa
+  author_url: ''
+  date: '2004-12-15 23:39:33 +0100'
+  date_gmt: '2004-12-15 23:39:33 +0100'
+  content: A ja dalej nie wierzę. Chyba, że Prezes został Rektorem i teraz mamy SynaRektora...
+- id: 383
+  author: Cachotterie
+  author_url: ''
+  date: '2004-12-15 23:42:23 +0100'
+  date_gmt: '2004-12-15 23:42:23 +0100'
+  content: '-&gt;Siwa: Uwierz. Są na tym świecie rzeczy o których się filozofom nie
+    śniło. Czy coś na kształt.'
+- id: 384
+  author: siwa
+  author_url: ''
+  date: '2004-12-17 11:51:56 +0100'
+  date_gmt: '2004-12-17 11:51:56 +0100'
+  content: Błogosławieni, ktorzy nie widzieli a uwierzyli...
+- id: 385
+  author: Cachotterie
+  author_url: ''
+  date: '2004-12-17 11:53:32 +0100'
+  date_gmt: '2004-12-17 11:53:32 +0100'
+  content: |-
+    Coś w tym guście. Ale wiesz... on jest nawet... pocieszny :]
+    <br/>Znaczy, zdecydowanie nie jest to zło wcielone or sth. On by chyba nawet dobrze chciał. Tylko mu niespecjalnie wychodzi ;)
+- id: 386
+  author: siwa
+  author_url: ''
+  date: '2004-12-17 11:55:37 +0100'
+  date_gmt: '2004-12-17 11:55:37 +0100'
+  content: Potworne!!! Najgorszy typ! Idiota, który chce dobrze! Szeregowy funkcjonariusz
+    NKWD!
+- id: 387
+  author: Cachotterie
+  author_url: ''
+  date: '2004-12-17 11:58:40 +0100'
+  date_gmt: '2004-12-17 11:58:40 +0100'
+  content: |-
+    Hm. Całe szczęście do tego nie ma i raczej nie będzie miał okazji.
+    <br/>Zresztą... hm. Nie wiem czy to jest aż taki typ idiotyzmu. Nie umiem się wysłowić za bardzo, w każdym razie mój odbiór tego człowieka ostatnio *odrobinkę* się zmienił :)
+    <br/>Zmienił o tyle, że wcześniej jako jedyne rozwiązanie uznawałam posłanie go w kosmos ;), a w tej chwili myślę że tworzy... ciekawy folklor lokalny.
+    <br/>Coś jak Nessie. A dwóch Nessie byśmy nie chcieli raczej :]
+- id: 388
+  author: siwa
+  author_url: ''
+  date: '2004-12-17 12:01:38 +0100'
+  date_gmt: '2004-12-17 12:01:38 +0100'
+  content: 'Wiem, wiem, rozumiem. Rozczulający przygłup. Mieliśmy taką sekretarkę.
+    Chciała kupić granatowy papier do drukarki atramentowej, żeby drukować na biało.
+    Jak już wytłumaczyłam dlaczego nie, na jej twarzy odmalował sie ogromny wysiłek
+    i zakrzyknęła: WIEM, to będziemy drukowali EKRII!'
+- id: 389
+  author: Cachotterie
+  author_url: ''
+  date: '2004-12-17 12:03:24 +0100'
+  date_gmt: '2004-12-17 12:03:24 +0100'
+  content: Khm. Jakie są jej dalsze losy? Znaczy, pracuje jeszcze? ;)
+- id: 390
+  author: siwa
+  author_url: ''
+  date: '2004-12-17 12:04:37 +0100'
+  date_gmt: '2004-12-17 12:04:37 +0100'
+  content: Gorzej. Ma własną firmę. I dzieci. Propaguje geny znaczy się.
+- id: 391
+  author: Cachotterie
+  author_url: ''
+  date: '2004-12-17 12:06:27 +0100'
+  date_gmt: '2004-12-17 12:06:27 +0100'
+  content: O kurczę... :]
+- id: 392
+  author: '...'
+  author_url: ''
+  date: '2004-12-18 22:06:31 +0100'
+  date_gmt: '2004-12-18 22:06:31 +0100'
+  content: Asddasdasdasdasdassadasd
+- id: 393
+  author: Jan Niezbędny
+  author_url: ''
+  date: '2005-01-04 23:42:24 +0100'
+  date_gmt: '2005-01-04 23:42:24 +0100'
+  content: Ciemno tu jak w dupie.
+- id: 394
+  author: Giertych
+  author_url: ''
+  date: '2005-01-09 18:20:10 +0100'
+  date_gmt: '2005-01-09 18:20:10 +0100'
+  content: Jan Niezbędny nie jest Polakiem, nie zważajcie na niego!
+---
+<p>Leżeli razem, z wzrokiem wbitym w przestrzeń. Bezgranicznie szczęśliwi, co chwila spoglądali tylko na siebie nawzejem, by upewnić się że to nie sen. Nie mówili nic, nie musieli. On przesunął powoli palcami po jej policzku, Ona odpowiedziała mu ciepłym uśmiechem i delikatnie pokręciła głową, jakby z niedowierzaniem. Po chwili znów zamarli w błogim bezruchu, ostrożnie kosztując każdej przemijającej chwili, Jakby każda z nich miała być ich ostatnią. Był mroźny poranek, słońce zdążyło podnieść się już na tyle wysoko, by mieniącymi się smugami oplatać ściany pokoju, jednak jego promienie nie niosły ze sobą jeszcze ciepła. Nie czuli chłodu, mieli siebie, ich ciała nie zdążyły jeszcze ochłonąć.</p>
+
+<p>Wtedy ciszę przerwał cichutki szum. On znał ten odgłos, ze spokojem zaczął rozglądać się po pokoju. To alarm wibracyjny wyciszonego telefonu komórkowego. Telefon leżał na drewnianej szafce nocnej u wezgłowia łóżka. Musiał go tam zostawić minionego wieczora, przeleżał tam w bezruchu kilkanaście godzin, jednak teraz lekko podrygiwał z charakterystycznym odgłosem wibracji. Kto mógł dzwonić o tak wczesnej porze? Sięgnął ręką po telefon i uniósł go do twarzy, chcąc upewnić się w swoich podejrzeniach. Ona uśmiechnęła się tylko lekko i wzięła aparat z jego ręki. Podniosła go do ucha i przekornie rzekła:</p>
+
+<p>- Halo? Przeszkadzasz nam.<br />
+- E, dlaczego?<br />
+- Bo mamy lepsze rzeczy do roboty.<br />
+- A dasz mi Patryka?<br />
+- Przykro mi, ale wygląda na to, że Patryk nie będzie dzisiaj na angielskim.<br />
+- A dlaczego?<br />
+- Bo ma ciekawsze zajęcia.<br />
+- Jakie?<br />
+- Zastanów się, co kobieta i facet mogą robić o tej porze w łóżku?<br />
+- Eee... spać?! - odparł SynPrezesa&trade; z radością dziecka, które w końcu rozwiązało zagadkę.</p>

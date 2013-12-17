@@ -1,0 +1,133 @@
+---
+layout: post
+status: publish
+published: true
+title: Python-DBUS do niczego
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 83
+date: 2005-05-06 00:25:35.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 999
+  author: jpc
+  author_url: ''
+  date: '2005-05-06 00:28:08 +0200'
+  date_gmt: '2005-05-06 00:28:08 +0200'
+  content: Bindingsy Pythonowe do DBus chyba faktycznie są dość prymitywne i ubogie,
+    ale całe DBus cierpi np. na problemy z dokumentacją, więc nie ma się niestety
+    czemu dziwić...
+- id: 1000
+  author: Patrys
+  author_url: ''
+  date: '2005-05-06 00:39:57 +0200'
+  date_gmt: '2005-05-06 00:39:57 +0200'
+  content: W ogóle, jak na system adaptowany coraz powszechniej w dużych projektach,
+    D-BUS ma prawie zerową dokumentację (pomijając szkice koncepcyjne). Z drugiej
+    strony można powiedzieć, że jak na tak słabo udokumentowany system, cieszy się
+    wyjątkowo dużą popularnością. Szkoda jednak zaprzepaścić szansę na unifikację
+    systemów obsługi zdarzeń Gnome i KDE, a przy okazji dostajemy też dużo większy
+    projekt IPC, bo oprócz reagowania na sygnały umożliwia zdalne wywoływanie fukcji
+    o dowolnej ilości parametrów (w tym funkcji polimorficznych).
+- id: 1001
+  author: jpc
+  author_url: ''
+  date: '2005-05-06 00:43:02 +0200'
+  date_gmt: '2005-05-06 00:43:02 +0200'
+  content: Może winniśmy się przedłubać przez kod i napisać dokumentację + tutoriale?
+    :D
+- id: 1002
+  author: Patrys
+  author_url: ''
+  date: '2005-05-06 00:44:14 +0200'
+  date_gmt: '2005-05-06 00:44:14 +0200'
+  content: Ja bym raczej wolał działające bindings :&gt;
+- id: 1003
+  author: krzak
+  author_url: ''
+  date: '2005-05-06 12:06:00 +0200'
+  date_gmt: '2005-05-06 12:06:00 +0200'
+  content: ale dokumentacja do D-BUS&#039;a jest dosc obszerna z tego co pamietam.
+    Co innego dokumentacja biblioteki dbusowej, ale generalnie to tam sa 3 funkcje
+    na krzyż AFAIK.
+- id: 1004
+  author: zdzichuBG
+  author_url: ''
+  date: '2005-05-06 20:37:59 +0200'
+  date_gmt: '2005-05-06 20:37:59 +0200'
+  content: |-
+    Ale który D-BUS? Bo w 0.33 Luis Villa zrobił małą rewoluycję właśnie w bindingach pythonowych.
+    <br/>Z drugiej strony połowa aplikacji (z Beagle włącznie) nie działa z D-BUSem &gt; 0.30. Na szczęście Beagle powoli pozbywa się supoortu dla D-BUS na rzecz biblioteki klienckiej.
+- id: 1005
+  author: jpc
+  author_url: ''
+  date: '2005-05-06 22:34:03 +0200'
+  date_gmt: '2005-05-06 22:34:03 +0200'
+  content: 'zdzichuBG: na szczęście, bo przecież oczywiste jest, że lepiej mieć 20
+    bibliotek i protokołów do IPC, niż jeden wspólny, pozwalający na łatwy debug i
+    podmienianie implementacji, prawda? :)'
+- id: 1006
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2005-05-11 09:15:44 +0200'
+  date_gmt: '2005-05-11 09:15:44 +0200'
+  content: Bindingi do DCOP są w nieco lepszym stanie. Na szczęście.
+---
+<p>Zachciało mi się dzisiaj wygodnego powiadamiania o poczcie. <a href="http://gnome.org/projects/evolution/">Evolution</a> udostępnia od jakiegoś czasu powiadomienia za pomocą interfejsu <a href="http://www.freedesktop.org/Software/dbus">D-BUS</a>, Python ma binding dla D-BUSa, czemu więc nie napisać appletu, który by słuchał tych powiadomień?</p>
+
+<p>Szybko przekonałem się, że łatwo nie będzie, bo Evolution nie posiada dla interfejsu powiadomień nazwy kanonicznej. Znaczy to mniej-więcej tyle, że D-BUS przydziela mu przy każdym włączeniu programu losową nazwę postaci <q><code>:X.Y</code></q> (podobnie, jak X11 numeruje swoje sesje i ekrany). Nazwa oczywiście zmienia się z każdym restartem <abbr title="Evolution">Evo</abbr>.</p>
+
+<p>I tu pojawia się problem: binding Pythona pozwala bardzo wygodnie obsługiwać typowe przypadki użycia D-BUSa. Innymi słowy, wszystko byłoby pięknie, gdyby dało się zrobić tak:</p>
+
+<blockquote><pre>#!/usr/bin/python
+import gtk
+import dbus
+import gnomeapplet
+import sys
+
+class evoNotify:
+	def handleNewMail(self, int, sig, srv, pth, msg):
+		self.label.set_label('new mail')
+		print('test')
+
+	def handleReadingMail(self, int, sig, srv, pth, msg):
+		self.label.set_label('read mail')
+		print('test')
+
+	def __init__(self, applet):
+		label = gtk.Label('test')
+		self.label = label
+		bus = dbus.SessionBus()
+		evolution = bus.get_service(':1.0')
+		ifc = evolution.get_object('/org/gnome/evolution/mail/newmail',
+				'org.gnome.evolution.mail.dbus.Signal')
+
+		applet.iface = ifc
+
+		applet.iface.connect_to_signal('MessageReading',
+				self.handleReadingMail)
+		
+		applet.iface.connect_to_signal('NewMail',
+				self.handleNewMail)
+	
+		applet.add(self.label)
+
+		applet.show_all()
+
+def appletFactory(applet, iid):
+	evoNotify(applet)
+	return gtk.TRUE
+
+gnomeapplet.bonobo_factory('OAFIID:GNOME_evoMailApplet_Factory',
+		gnomeapplet.Applet.__gtype__,
+		'evoMailApplet', '0.1', appletFactory)
+
+gtk.main()</pre></blockquote>
+
+<p>Ale nie można, bo niby skąd znać wcześniej unikalny numerek serwisu przyznany przez demona? W C można to prosto obejść, tam można posłużyć się <code>add_match</code> i wyłapywać wiadomości po filtrach, niezależnie od nadawców (mam wszelkie powody, żeby założyć, że właśnie tak działa dbus-monitor, ale nie chce mi się teraz sprawdzać), w Pythonie nie można, bo nie jest eksportowana taka metoda.</p>
+
+<p>Póki co, oznacza to śmierć projektu. Przynajmniej do czasu, kiedy naprawione zostaną pythonowe wrappery, bo w C pisać tego nie zamierzam.</p>

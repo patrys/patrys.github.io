@@ -1,0 +1,86 @@
+---
+layout: post
+status: publish
+published: true
+title: Kubrick dla Joggera
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 88
+date: 2005-05-12 02:14:40.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1051
+  author: klisu
+  author_url: ''
+  date: '2005-05-12 06:18:34 +0200'
+  date_gmt: '2005-05-12 06:18:34 +0200'
+  content: |-
+    śliczności
+    <br/>mnie zlobbowałeś :)
+- id: 1052
+  author: Spider
+  author_url: ''
+  date: '2005-05-12 10:14:47 +0200'
+  date_gmt: '2005-05-12 10:14:47 +0200'
+  content: ladny, kojarzy mi sie z blogiem gandalfa, ale ja i tak wole styl mozillowy
+    :)
+- id: 1053
+  author: Cachotterie
+  author_url: ''
+  date: '2005-05-12 11:57:22 +0200'
+  date_gmt: '2005-05-12 11:57:22 +0200'
+  content: Ja Ci powiem co się robi o drugiej w nocy, jak się nudzi. ŚPI. :&gt;
+- id: 1054
+  author: riddle
+  author_url: ''
+  date: '2005-05-12 14:11:42 +0200'
+  date_gmt: '2005-05-12 14:11:42 +0200'
+  content: |-
+    Spider: bo blog Gandalfa wlasnie uzywa Kubricka dostepnego oficjalnie z WordPressem 1.5 ;P
+    <br/>
+    <br/>Ja juz wyrazilem swoje zdanie wczoraj o 2 wlasnie ... zajebisty, licze ze zostanie wlaczony szybciutko do Joggera jako template. :-)
+- id: 1055
+  author: rorio
+  author_url: ''
+  date: '2005-05-12 18:21:56 +0200'
+  date_gmt: '2005-05-12 18:21:56 +0200'
+  content: eee... no cool... nadmiar wolnego czasu? ahhh...
+- id: 1056
+  author: ehh
+  author_url: ''
+  date: '2005-05-13 15:42:30 +0200'
+  date_gmt: '2005-05-13 15:42:30 +0200'
+  content: |-
+    Sprawdzaj rano, bo robisz błędy w nocy;p
+    <br/>
+    <br/>comments.html, linia 63 wytnij zakończenie hiperłącza, bo chyba jest tam bez sensu.
+    <br/>
+    <br/>Jeszcze pewnie coś znajdę:)
+- id: 1057
+  author: Patrys
+  author_url: ''
+  date: '2005-05-13 16:31:41 +0200'
+  date_gmt: '2005-05-13 16:31:41 +0200'
+  content: |-
+    Sparrow powiedział, że Jogger nie jest w tej chwili w stanie obsłużyć Kubricka (brak możliwości technicznych). Może w weekend postaram się go pohakować jeszcze, żeby działał jako uproszczony schemat.
+    <br/>
+    <br/>ehh:
+    <br/>
+    <br/>Dzięki, późno było. Poprawię jak będę dalej w tym dłubał.
+- id: 1058
+  author: ck
+  author_url: ''
+  date: '2005-05-16 13:31:27 +0200'
+  date_gmt: '2005-05-16 13:31:27 +0200'
+  content: |-
+    Absolutne cudo. Kawał dobrej roboty. Takich ludzi w Polsce trzeba więcej :)
+    <br/>
+    <br/>Pzdr.
+---
+<p>Dziś, w zasadzie z nudów (człowiek nie ma co robić o wpół do drugiej w nocy), podjąłem trud przeportowania oryginalnego <a href="http://binarybonsai.com/kubrick/">Kubricka</a> (którego własnej wersji używam na tym blogu) na silnik <a href="http://jogger.pl">Joggera</a>. Przyczyną było uznanie przeze mnie, że potrzebny jest nowy styl domyślny, atrakcyjniejszy dla oka. Póki co, do pobrania dostępny jest z <a href="http://wirusy.room-303.com/Jogger/Kubrick/">z mojej strony</a>, a w działaniu zobaczyć można go na <a href="http://patrys-dev.jogger.pl/">tymczasowym blogu</a>.</p>
+
+<p>Jeśli komuś się spodoba, to jest (zgodnie z licencją Kubricka) wolnodostępny. Możecie też namówić <a href="http://sparrow.jogger.pl">Sparrowa</a>, żeby włączył go jako część Joggera. Czekam na komentarze i mam nadzieję, że moja praca na coś się przyda.</p>

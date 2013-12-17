@@ -1,0 +1,123 @@
+---
+layout: post
+status: publish
+published: true
+title: 123-reg
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 383
+wordpress_url: http://room-303.com/blog/2007/06/12/123-reg/
+date: 2007-06-12 13:11:01.000000000 +02:00
+categories:
+- web
+- usability
+tags: []
+comments:
+- id: 8073
+  author: Luken
+  author_url: http://luken.jogger.pl/
+  date: '2007-06-12 13:36:44 +0200'
+  date_gmt: '2007-06-12 12:36:44 +0200'
+  content: Ugh, tragedia ...
+- id: 8074
+  author: jiim
+  author_url: ''
+  date: '2007-06-12 14:20:49 +0200'
+  date_gmt: '2007-06-12 13:20:49 +0200'
+  content: a ja ze tak dodam, to nie sa prawdziwe domeny tylko jakies ramki chore
+    dodaja :|, moze kiedys byla tam jakas opcja, ale mnie sie to o oczy nie obilo
+    w trakcie rejestracji, a teraz nie moge sie zalogowac bo strona nie moja :/
+- id: 8075
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2007-06-12 14:25:25 +0200'
+  date_gmt: '2007-06-12 13:25:25 +0200'
+  content: Jakie znowu ramki?
+- id: 8076
+  author: jiim
+  author_url: ''
+  date: '2007-06-12 15:11:50 +0200'
+  date_gmt: '2007-06-12 14:11:50 +0200'
+  content: "wjcontractors . co . uk\r\n\r\nsorry za spacje ale nie wiem czy przyjmie
+    url\r\n\r\nframeset ;)"
+- id: 8077
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2007-06-12 15:16:12 +0200'
+  date_gmt: '2007-06-12 14:16:12 +0200'
+  content: "jiim:\r\n\r\nW jaki sposób operator domeny (123-reg jest resellerem Tucows)
+    miałby wstawić ci ramkę na twoim hostingu (w twoim przypadku hosteurope.com)?"
+- id: 8078
+  author: jiim
+  author_url: ''
+  date: '2007-06-12 15:29:39 +0200'
+  date_gmt: '2007-06-12 14:29:39 +0200'
+  content: "Patrys:\r\n\r\nwidziales ta strone ktora przeslalem i jej zrodlo? rejestrowalem
+    na 123-reg a jak to sie stalo to nie wiem, serio nie mam czasu by w to wnikac,
+    bo nie bardzo mnie to tez interesuje, musialem zrobic to szybko i zrobilem (wiem
+    ze zle podejscie ale tak niestety musialo byc), pusc ping na ten adres i zobacz
+    jakie jest IP, a rejestrowalem pod inny adres"
+- id: 8079
+  author: Tomek
+  author_url: ''
+  date: '2007-06-12 16:40:38 +0200'
+  date_gmt: '2007-06-12 15:40:38 +0200'
+  content: Jesli musisz w UK to polecam idaq.com. Od dawna mamy tam serwer (najpierw
+    vps teraz dedyk) i co jak co ale obsluga jest swietna (a przynajmniej tak twierdzi
+    nasz PM)
+- id: 8080
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2007-06-12 16:53:00 +0200'
+  date_gmt: '2007-06-12 15:53:00 +0200'
+  content: My mamy własny hosting, a domeny przenieśliśmy do GoDaddy.
+- id: 8081
+  author: 9gods
+  author_url: http://blog.9gods.com
+  date: '2007-06-13 09:08:58 +0200'
+  date_gmt: '2007-06-13 08:08:58 +0200'
+  content: Ja mam niektóre domeny w www.1and1.co.uk i jestem zadowolony. Panel załatwia
+    wszystko.
+- id: 8093
+  author: bazyl
+  author_url: http://blog.bazyl.net
+  date: '2007-06-16 18:24:55 +0200'
+  date_gmt: '2007-06-16 17:24:55 +0200'
+  content: "Anglia, misiu, Anglia. Tu wszyscy mają równo w  dupie swoich klientów
+    :P I jest to rzeczą naturalną, że na wszystko czeka się wieki.\r\n\r\nZadarzają
+    się lepsiejsze rzeczy. Np wynajmując chatę musisz wprowadzić przedpłatę. W gotówce.
+    Parę  tysięcy funtów trzeba  zanieść. Potem jak coś się stanie, to możesz się..
+    uwaga... ubiegać o zwrot. Zwroty są tylko czekiem (czekiem  nie  móżna  zapłacić)
+    i  tylko w czwartki.\r\n\r\nStwierdzenie \"customer is a key\" w tym kraju nie
+    jest nawet teorią  :D"
+- id: 8242
+  author: janbar
+  author_url: ''
+  date: '2007-07-10 23:55:40 +0200'
+  date_gmt: '2007-07-10 22:55:40 +0200'
+  content: "A to ten \"superwypaszaebisty\" Dreamhost nie jest juz uzywany/polecany?
+    ;)\r\n\r\nPozdrawiam,\r\n\r\njanbar.:))"
+- id: 8243
+  author: janbar
+  author_url: ''
+  date: '2007-07-10 23:58:37 +0200'
+  date_gmt: '2007-07-10 22:58:37 +0200'
+  content: "Thank you. Your comment has been approved.\r\nWarning: Missing argument
+    2 for WordpressOpenIDRegistration::openid_comment_notification_text() in /home/.hawn/revolta/room-303.com/blog/wp-content/plugins/wpopenid/openid-registration.php
+    on line 817\r\n\r\nWarning: Missing argument 2 for WordpressOpenIDRegistration::openid_comment_notification_subject()
+    in /home/.hawn/revolta/room-303.com/blog/wp-content/plugins/wpopenid/openid-registration.php
+    on line 838\r\n\r\nYyyy...., ze co prosze? ;]\r\n\r\nPozdrawiam,\r\n\r\njanbar.:))"
+---
+<p>Serdecznie polecam usługi brytyjskiego serwisu <a href="http://123-reg.co.uk/">123-reg.co.uk</a>. Kilka największych zalet poniżej:</p>
+
+<ul>
+<li>zmiana delegacji <attr title="Domain Name Servers">DNS</attr> działa tylko dla niektórych naszych domen;</li>
+<li>dla pozostałych nie ma nawet możliwości podania adresów <abbr title="Inernet Protocol">IP</abbr>, od razu dostajemy błąd;</li>
+<li>nie odpisują na żadne zgłoszenie powyższego błędu przez e-mail;</li>
+<li>ich wsparcie techniczne to specjalna infolinia, każda minuta połączenia kosztuje grube pieniądze, łącznie z czterdziestoma minutami oczekiwania na zgłoszenie się operatora;</li>
+<li>kiedy już się poddaliśmy, zgubili ticket transferowy z <a href="http://www.godaddy.com/">GoDaddy</a></li>
+</ul>
+
+<p>Na koniec jeszcze raz, serdecznie polecam.</p>

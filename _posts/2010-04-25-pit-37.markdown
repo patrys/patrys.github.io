@@ -1,0 +1,176 @@
+---
+layout: post
+status: publish
+published: true
+title: PIT 37
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 889
+wordpress_url: http://room-303.com/blog/?p=889
+date: 2010-04-25 16:22:47.000000000 +02:00
+categories:
+- web
+- software
+tags: []
+comments:
+- id: 24996
+  author: night
+  author_url: http://www.ubuntustory.com
+  date: '2010-04-25 17:32:39 +0200'
+  date_gmt: '2010-04-25 15:32:39 +0200'
+  content: "Tutaj masz instrukcje jak odpalić 1.5 i 2 na 64 bitowych systemach. Nie
+    wiem czy dokładnie z tego poradnika korzystałem ale mi działa i chodzi ok.\r\nhttp://kb2.adobe.com/cps/408/kb408084.html\r\nhttp://kb2.adobe.com/cps/521/cpsid_52132.html"
+- id: 24997
+  author: Ajnsztajn
+  author_url: ''
+  date: '2010-04-25 17:58:34 +0200'
+  date_gmt: '2010-04-25 15:58:34 +0200'
+  content: "Co masz na myśli pisząc o Wine:\r\n\"jedyna wspie­rana archi­tek­tura,
+    to x86\"?\r\nTo że uruchamia jedynie programy windowsowe skompilowane pod x86?
+    To _prawie_ prawda, gdyż jakieś tam szczątkowe wsparcie dla windowsowych programów
+    na amd64 powstaje. Tyle że wszelkie windowsowe programy do pitów znajdziesz raczej
+    na x86 niż na amd64, więc to nie przeszkoda...\r\nTo że uruchamia się tylko na
+    linuksie x86? To dlaczego mi jakoś śmiga ślicznie na moim Gentoo amd64?"
+- id: 24998
+  author: Patrys
+  author_url: http://room-303.com/blog/
+  date: '2010-04-25 18:29:36 +0200'
+  date_gmt: '2010-04-25 16:29:36 +0200'
+  content: 'Ajnsztajn: A śmiga jako ELF64 czy jako ELF32? Bo jako ELF64 jest aktywnie
+    odradzane przez autorów.'
+- id: 24999
+  author: Oleq
+  author_url: http://nowodzinski.pl
+  date: '2010-04-25 19:22:03 +0200'
+  date_gmt: '2010-04-25 17:22:03 +0200'
+  content: Dobrze, że przypomniałeś! Jeszcze trochę i zapomniałbym o corocznych dożynkach
+    pracownika...
+- id: 25000
+  author: Patrys
+  author_url: http://room-303.com/blog/
+  date: '2010-04-25 19:29:21 +0200'
+  date_gmt: '2010-04-25 17:29:21 +0200'
+  content: "night:\r\n\r\nDziękuję, nie planuję instalować kompletu 32-bitowych bibliotek."
+- id: 25001
+  author: onjin
+  author_url: http://onjin.net/
+  date: '2010-04-25 20:41:18 +0200'
+  date_gmt: '2010-04-25 18:41:18 +0200'
+  content: Drugi rok z rzędu rozliczam się przy pomocy e-deklaracja na x86 i wszystko
+    jest ok. Nie licząc  export GNOME_DESKTOP_SESSION_ID=1 żeby pod awesome ruszyło.
+- id: 25002
+  author: Ajnsztajn
+  author_url: ''
+  date: '2010-04-25 21:09:36 +0200'
+  date_gmt: '2010-04-25 19:09:36 +0200'
+  content: "Owszem, jako ELF32. Nigdzie nie pisałem że inaczej ;). Tyle że mi to jakoś
+    w niczym nie przeszkadza.\r\nBiblioteki 32bit? Tak, niestety - trzeba jakoś przeżyć
+    trochę zmarnowanego miejsca na dysku (konkretnie 84 MB jak pokazuje system pakietów).
+    Ale poza tym - żadnych innych komplikacji. A zdarza mi się jeszcze mieć na dysku
+    program korzystający z bibliotek 32bit - więc one sobie i tak tam są i tak."
+- id: 25003
+  author: Kam
+  author_url: ''
+  date: '2010-04-25 22:52:22 +0200'
+  date_gmt: '2010-04-25 20:52:22 +0200'
+  content: "Myślałem, ze pitroczny.pl jest fajny ale nie jest. Dokumentacja/hinty
+    tam zamieszczone, są chyba \"nietegoroczne\". Układ dla tych co mają dochody nie
+    tylko ze stosunku pracy ale również z umów z 50% kosztami jest nielogiczny.\r\n\r\nPrzykład:\r\n\"Wynagrodzenie
+    ze stosunku: pracy, służbowego, spółdzielczego i z pracy nakładczej a także zasiłki
+    pieniężne z ubezpieczenia społecznego, wypłacone przez zakład pracy. Suma kwot
+    z poz. 36 i 40 z otrzymanych PIT-11.\"\r\n\r\nA w PIT-11 w te rubryki to: 36 -
+    przychód ze stosunku pracy górna część, 40 - Zaliczka pobrana przez płatnika.
+    WTF?!?\r\n\r\nA później... nie mogłem odliczyć za łącze internetowe - co dziwne,
+    każdy inny program odliczał mi te 760 bez problemu.\r\n\r\nNa koniec nie mogłem
+    oddać 1% podatku nikomu - bo wynosiło 0zł - a podatku zapłaciłem ponad 4kPLN -
+    WTF#2 ?!?\r\n\r\nSprawdź więc sobie PIT innym programem, nawet za cenę zainstalowania
+    tych strasznych 84MB bibliotek 32bit.\r\n\r\nAcha no i tak na koniec jakoś mi
+    się Twój wstręt do 32bit skojarzył z hasłem: nadgorliwość jest gorsza od faszyzmu
+    ;)\r\n\r\nPozdrawiam"
+- id: 25004
+  author: Patrys
+  author_url: http://room-303.com/blog/
+  date: '2010-04-25 23:18:30 +0200'
+  date_gmt: '2010-04-25 21:18:30 +0200'
+  content: "Kam:\r\n\r\nNie wiem, co wpisałeś w poszczególne pola, ale podaje się
+    tam odpowiednio pierwszą, drugą i czwartą kolumnę z PIT 11. Wynik wyszedł mi sensowny.\r\n\r\nCo
+    do 32bit vs 64bit — chyba moje prawo decydować o używanej architekturze? Tak samo
+    jak nie instaluję programów w inny sposób jak przez pakiety rpm, tak nie mieszam
+    używanych architektur."
+- id: 25005
+  author: Kam
+  author_url: ''
+  date: '2010-04-26 00:20:02 +0200'
+  date_gmt: '2010-04-25 22:20:02 +0200'
+  content: "To co się wpisuje, to ja wiem. Ale skąd taki opis???\r\n\r\nNo i skąd
+    0zł w miejscu 1% podatku skoro mój podatek to ponad 4kPLN? (mam nadpłatę)\r\n\r\nCo
+    do architektury - no żartowałem przecież :) też kiedyś twierdziłem, że tylko 64bity
+    i reszta won. Ale po jakimś czasie wygrała wygoda kosztem ideałów ;)"
+- id: 25007
+  author: matipl
+  author_url: http://matipl.pl/
+  date: '2010-04-26 08:27:02 +0200'
+  date_gmt: '2010-04-26 06:27:02 +0200'
+  content: "No co ty, Adobe złe? Przecież oni są wspaniali i na każdą mobilną maszynę
+    się nadają ;)\r\nWydaje mi się, że coraz bardziej na odwal robią, nawet w Adobe
+    Reader...albo im się załoga wymieniła :/"
+- id: 25009
+  author: Yuracps
+  author_url: ''
+  date: '2010-04-26 21:33:41 +0200'
+  date_gmt: '2010-04-26 19:33:41 +0200'
+  content: "Nie znam sie na programowaniu, nie robie w branzy IT.\r\nAle mam pytanie:\r\n\r\nIle
+    kosztowaloby napisanie takiej aplikacji do rozliczen PITa w Pythonie ?? - calkowicie
+    ten tego interoperacyjnej, zeby to chodzilo na kazedej platformie (aha pod Linuxem
+    bez Gnoma i bez KDE), no i zeby mialo rece i nogi."
+- id: 25010
+  author: Patrys
+  author_url: http://room-303.com/blog/
+  date: '2010-04-26 21:50:23 +0200'
+  date_gmt: '2010-04-26 19:50:23 +0200'
+  content: "Yuracps:\r\n\r\nNie wiem, ile by kosztowało, ale myślałem nad napisaniem
+    do tego w przyszłym roku aplikacji na jakiejś otwartej licencji."
+- id: 25011
+  author: mazdac
+  author_url: http://mazdac.wordpress.com/
+  date: '2010-04-27 03:07:33 +0200'
+  date_gmt: '2010-04-27 01:07:33 +0200'
+  content: ja używam Pity 2009 IPS pod Łajnem 64bitowym (kompilowany na Gentoo ~x86_64)
+    i jest to IMO najwygodniejszy program do wypełniania.
+- id: 25017
+  author: Riffraff
+  author_url: ''
+  date: '2010-04-29 23:28:46 +0200'
+  date_gmt: '2010-04-29 21:28:46 +0200'
+  content: "Już drugi raz rozliczam się e-deklaracjami, mam ubuntu 64bit 9.10, poszukałem
+    opisu instalacji, znalazłem, zainstalowałem, skasowałem jakieś zbędne wersje bibliotek
+    którymi naśmiecił mi update systemu z 8.x na 9.x i ruszyło. Moim zdaniem wreszcie
+    coś drgnęło w tym kraju, zamiast wypełniać papiery mogę rozliczyć się na kompie
+    i to na linuxie! Może i AIR śmieci, może jest wolny, może jest źle napisany, ale
+    jest, działa i jest wygodny. Więcej od programu nie wymagam. Pozdrawiam\r\nRafał"
+---
+<p>Przychodzi taki moment, kiedy nie da się już odwlekać rozliczenia podatków. Ja swoją deklarację postanowiłem złożyć dopiero dzisiaj. Nie obyło się bez przygód.</p>
+
+<h3>Linux x86-64</h3>
+
+<p>e-Deklaracje wymagają Adobe AIR. Adobe AIR nie obsługuje 64-bitowego Linuksa. Tyle.</p>
+
+<p>Dane z poprzedniego roku (niezbędne do rozliczenia elektronicznego) udało się wydobyć ręcznie:</p>
+
+<pre>$ sqlite3 ~/.appdata/e-Deklaracje.*/Local\ Store/settings.dat 'SELECT xmlDocument FROM EDK_DECLARATIONS;'</pre>
+
+<p>Z Wine jest podobnie — jedyna wspierana architektura, to x86.</p>
+
+<h3>Linux x86</h3>
+
+<p>Adobe AIR 1.5 jest <em>zjebany</em>, robi w środku <em>bardzo złe rzeczy</em> (budowa plików .rpm z rozszerzeniem .deb i tym podobne) i nie działa nigdzie poza Fedorą.</p>
+
+<p>Adobe AIR 2.0 instaluje się bez problemu, przy okazji psując uprawnienia katalogów z ikonami, plikami .desktop i typami MIME. Adobe Reader 9 instaluje się bez problemów. e-Deklaracje uruchamiają się, pozwalają na stworzenie profilu i w zasadzie tyle. Proces <code>acroread</code> zajmuje całą dostępną pamieć i moc procesora. Dziękujemy ci, Adobe.</p>
+
+<h3>Online</h3>
+
+<p>Ostatecznie rozliczyłem się w przeglądarce, za pomocą aplikacji <a href="https://www.pitroczny.pl/pit?krs=0000070056">pitroczny.pl</a>¹. Polecam tę wersję — oszczędza nerwów, ma lepszy interfejs (nie wygląda jak zeskanowany PIT) i, przede wszystkim, działa.</p>
+
+<p><small>¹ Korzystając z tego odnośnika przeznaczasz 1% podatku na <a href="http://www.nowoczesnapolska.org.pl/">Fundację Nowoczesna Polska</a>.</small></p>

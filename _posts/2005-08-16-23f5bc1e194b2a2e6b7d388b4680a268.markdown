@@ -1,0 +1,125 @@
+---
+layout: post
+status: publish
+published: true
+title: Niektórym ciężko pojąć
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 140
+date: 2005-08-16 21:53:17.000000000 +02:00
+categories:
+- linux
+tags: []
+comments:
+- id: 1922
+  author: spider
+  author_url: ''
+  date: '2005-08-16 21:55:18 +0200'
+  date_gmt: '2005-08-16 21:55:18 +0200'
+  content: a ja glupi zawsze myslalem ze rpm to redhat packet manager
+- id: 1923
+  author: riddle
+  author_url: ''
+  date: '2005-08-16 21:58:17 +0200'
+  date_gmt: '2005-08-16 21:58:17 +0200'
+  content: Taki wpis czasem jest potrzebny. Też nie wiedziałem na początku o co w
+    tym wszystkim chodzi z PLD.
+- id: 1924
+  author: MatiSz
+  author_url: ''
+  date: '2005-08-16 21:58:21 +0200'
+  date_gmt: '2005-08-16 21:58:21 +0200'
+  content: Z tym Polish coś mi się obiło, ale glowy uciac bym nie dał. Zaś co do RPM
+    - tez myślałem, ze to RedHat :)
+- id: 1925
+  author: Jajcus
+  author_url: ''
+  date: '2005-08-16 21:59:30 +0200'
+  date_gmt: '2005-08-16 21:59:30 +0200'
+  content: 'Do niedawna to był RedHat Package Manager, teraz, zdaje się (pewien nie
+    jestem), są dwa: RPM Package Manager i ten RedHatowy.'
+- id: 1926
+  author: rash
+  author_url: ''
+  date: '2005-08-16 22:11:16 +0200'
+  date_gmt: '2005-08-16 22:11:16 +0200'
+  content: GNU Not UNIX :&gt;
+- id: 1927
+  author: Patrys
+  author_url: ''
+  date: '2005-08-16 22:15:54 +0200'
+  date_gmt: '2005-08-16 22:15:54 +0200'
+  content: |-
+    GNU&#039;s Not Unix, LINUX Is Not UniX, PHP Hypertext Preprocessor...
+    <br/>
+    <br/>Najzabawniejsze jest rozwinięcie HURD, kernela GNU.
+- id: 1928
+  author: rash
+  author_url: ''
+  date: '2005-08-16 22:17:34 +0200'
+  date_gmt: '2005-08-16 22:17:34 +0200'
+  content: |2-
+     &quot;Hurd&quot; oznacza Hird of Unix-Replacing Daemons, a &quot;Hird&quot; natomiast oznacza Hurd of Interfaces Representing Depth.
+    <br/>
+    <br/>//wikipedia
+    <br/>
+    <br/>:&gt;
+- id: 1929
+  author: Patrys
+  author_url: ''
+  date: '2005-08-16 22:25:32 +0200'
+  date_gmt: '2005-08-16 22:25:32 +0200'
+  content: |-
+    O, tam jest nawet więcej takich przykładów.
+    <br/>
+    <br/>http://en.wikipedia.org/wiki/Recursive_acronym
+- id: 1930
+  author: siwa
+  author_url: ''
+  date: '2005-08-17 08:58:08 +0200'
+  date_gmt: '2005-08-17 08:58:08 +0200'
+  content: |-
+    A jaki support!
+    <br/>Takiej pomocy technicznej nie ma żaden system.
+    <br/>Poważnie.
+- id: 1931
+  author: Paweł Ciupak
+  author_url: ''
+  date: '2005-08-17 11:54:38 +0200'
+  date_gmt: '2005-08-17 11:54:38 +0200'
+  content: |-
+    &gt; pana Ciupaka
+    <br/>
+    <br/>Pana. Jaki tam ja &#039;pan&#039;, ja dopiero 14 lat mam i nie pozwolę na siebie mówić &#039;pan&#039;. Wot szto.
+    <br/>
+    <br/>Zresztą, ja też myślałem, że RPM to &#039;RedHat Package Manager&#039;. Widocznie taka sama historia jak z PLD.
+    <br/>
+    <br/>Zresztą te akronimy rekursywne mi się podobają. Często mają zaskakujące właściwości (choćby ten Hird i Hurd).
+- id: 1932
+  author: martinez
+  author_url: ''
+  date: '2005-08-18 19:01:17 +0200'
+  date_gmt: '2005-08-18 19:01:17 +0200'
+  content: (Przy ,,FTP&#039;&#039; brakuje title w abbr, chyba)
+- id: 1933
+  author: Patrys
+  author_url: ''
+  date: '2005-08-18 19:08:01 +0200'
+  date_gmt: '2005-08-18 19:08:01 +0200'
+  content: Przyjąłem, że każdy wie, od czego to skrót :]
+- id: 1934
+  author: martinez
+  author_url: ''
+  date: '2005-08-18 19:21:30 +0200'
+  date_gmt: '2005-08-18 19:21:30 +0200'
+  content: E, to lepiej nie robić, tak samo tego ,,PLD&#039;&#039; u góry.
+---
+<p>Bez jakichkolwiek negatywnych emocji i czysto informacyjnie. Skrót <abbr>PLD</abbr> rozwija się jako <q>PLD Linux Distribution</q> i jest to akronim rekursywny, podobnie jak <abbr title="RPM Package Manager">RPM</abbr> czy <abbr title="WINE Is Not Emulating">WINE</abbr>.</p>
+
+<p>Nie, nie ma tam słowa <q>Polish</q>, choć niektórzy z całą pewnością chcieliby je tam widzieć. PLD Linux wywodzi się faktycznie z <q>Polish(ed) Linux Distribution</q>, które zmarło tragicznie z braku deweloperów w 2002. roku. Resztki projektu można znaleźć jeszcze na stronie <a href="http://pld.org.pl/">pld.org.pl</a>, gdzie do dziś swoje repozytorium i stronę domową ma nasz system zarządzania pakietami, <a href="http://poldek.pld.org.pl/">poldek</a>.</p>
+
+<p>PLD Linux Distribution całą swoją działalność (strona domowa, repozytoria kodu, serwery <abbr>FTP</abbr>, Jabber, listy dyskusyjne, itp.) prowadzi w domenie <a href="http://pld-linux.org/">pld-linux.org</a>.</p>
+
+<p>Notka sponsorowana przez złośliwość pana <a href="http://pawel-ciupak.jogger.pl/">Ciupaka</a>. Pozdrawiam serdecznie. Bez urazy.</p>

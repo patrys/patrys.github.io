@@ -1,0 +1,248 @@
+---
+layout: post
+status: publish
+published: true
+title: Magiczny klawisz SysRq
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 95
+date: 2005-06-01 20:52:41.000000000 +02:00
+categories:
+- linux
+tags: []
+comments:
+- id: 1163
+  author: Jajcus
+  author_url: ''
+  date: '2005-06-01 20:58:27 +0200'
+  date_gmt: '2005-06-01 20:58:27 +0200'
+  content: |-
+    W skrócie:
+    <br/>system ci się zawiesza, to po kolei:
+    <br/>Alt-PrtScr-S Alt-PrtScr-U Alt-PrtScr-B
+    <br/>
+    <br/>:-)
+    <br/>
+    <br/>I warto pamiętać, że na konsoli szeregowej też to działa, tyle że zamiast wciskać Alt-PrtScr trzeba wysłać tzw. &quot;break&quot;.
+- id: 1164
+  author: Patrys
+  author_url: ''
+  date: '2005-06-01 20:59:29 +0200'
+  date_gmt: '2005-06-01 20:59:29 +0200'
+  content: Dokładnie :)
+- id: 1165
+  author: Wampirek
+  author_url: ''
+  date: '2005-06-01 21:02:35 +0200'
+  date_gmt: '2005-06-01 21:02:35 +0200'
+  content: Hmmm... Moja windaXP mi sie nie zawiesza, a klawisza SysRq, znanego również
+    jako PrtScr używam tylko do robienia zrzutów ekranu :P
+- id: 1166
+  author: Patrys
+  author_url: ''
+  date: '2005-06-01 21:07:32 +0200'
+  date_gmt: '2005-06-01 21:07:32 +0200'
+  content: Mój system też się nie wiesza, dopóki w nim nie grzebię.
+- id: 1167
+  author: Jajcus
+  author_url: ''
+  date: '2005-06-01 21:07:53 +0200'
+  date_gmt: '2005-06-01 21:07:53 +0200'
+  content: 'Wampirek: poprawnie skonfigurowany Linuks na sprawnym sprzęcie też się
+    nie wiesza. Ale usterki sprzętowe się zdarzają, w konfiguracji trzeba czasem pomieszać
+    (np. eksperymentując ze sterownikami w celu polepszenia wydajności systemu), a
+    jak ktoś grzebie w kodzie jądra, to też z wypadkami musi się liczyć.'
+- id: 1168
+  author: Wampirek
+  author_url: ''
+  date: '2005-06-01 21:09:21 +0200'
+  date_gmt: '2005-06-01 21:09:21 +0200'
+  content: Ja wiem o tym wszystkim, tak tylko flejmować zaczynam po uwolnieniu kilku
+    Żubrów z butelek ;)
+- id: 1169
+  author: Jajcus
+  author_url: ''
+  date: '2005-06-01 21:13:13 +0200'
+  date_gmt: '2005-06-01 21:13:13 +0200'
+  content: 'Wampirek: ale ktoś kto to kiedyś będzie czytał mógłby nie wiedziec...'
+- id: 1170
+  author: Ktoś... | ...tam
+  author_url: ''
+  date: '2005-06-01 21:17:22 +0200'
+  date_gmt: '2005-06-01 21:17:22 +0200'
+  content: |-
+    Kiedyś w ramach testów KOffice otworzyłem w nim skomplikowany arkusz kalkulacyjny - i mogłem tylko patrzeć, jak wskaźnik zużycia ramu i swapu idzie w górę (dopóki i on nie padł), bo klawiatura wisiała, a nie mam drugiego kompa, żeby ubić jakiś proces przez ssh.
+    <br/>Lepiej, żeby się to nie przydawało - ale dzięki Patrys, dobrze wiedzieć :)
+- id: 1171
+  author: Jezuch
+  author_url: ''
+  date: '2005-06-01 21:26:21 +0200'
+  date_gmt: '2005-06-01 21:26:21 +0200'
+  content: Lewy, czy prawy ALT? :&gt; Bo z lewym to chyba nosa trzeba użyć ;)
+- id: 1172
+  author: Patrys
+  author_url: ''
+  date: '2005-06-01 21:27:44 +0200'
+  date_gmt: '2005-06-01 21:27:44 +0200'
+  content: Lewy, ja wciskam lewy Alt+SysRq jedną ręką. Fakt, że na notebooku ;]
+- id: 1173
+  author: plaster
+  author_url: ''
+  date: '2005-06-01 22:12:40 +0200'
+  date_gmt: '2005-06-01 22:12:40 +0200'
+  content: 'Wciskam lewy Alt+SysRq+H i wysuwa mi sie menu help w mozilli, jak zamiast
+    H dam T, to wysuwa mi się menu tools... Jak wcisnę to na konsoli, to mi się w
+    tryb graficzny przełącza. Tego pliku w /proc u mnie nie ma. Podsumowując: czy
+    ja jestem jakiś dziwny? :)'
+- id: 1174
+  author: Patrys
+  author_url: ''
+  date: '2005-06-01 22:13:51 +0200'
+  date_gmt: '2005-06-01 22:13:51 +0200'
+  content: |-
+    plaster:
+    <br/>
+    <br/>A może &#039;uname -a&#039; zwraca gdzieś słowo &#039;Microsoft&#039; albo &#039;BSD&#039;? ;]
+- id: 1175
+  author: Ktoś... | ...tam
+  author_url: ''
+  date: '2005-06-01 22:15:22 +0200'
+  date_gmt: '2005-06-01 22:15:22 +0200'
+  content: |-
+    @ plaster:
+    <br/>Niekoniecznie:
+    <br/>lukasz@yoper ~ $ locate sysrq
+    <br/>/usr/include/linux/sysrq.h
+    <br/>/usr/lib/perl5/vendor_perl/5.8.4/i586-linux-thread-multi/linux/sysrq.ph
+    <br/>
+    <br/>@ Patrys:
+    <br/>Ech, złośliwcze, nie wszystkie distra to *Twoje PLD* ;-P
+- id: 1176
+  author: Patrys
+  author_url: ''
+  date: '2005-06-01 22:18:02 +0200'
+  date_gmt: '2005-06-01 22:18:02 +0200'
+  content: Ah, kernel stary, inny interfejs /proc przez to. I pewnie w Slacku domyślnie
+    to jest wyłączone.
+- id: 1177
+  author: plaster
+  author_url: ''
+  date: '2005-06-01 22:21:14 +0200'
+  date_gmt: '2005-06-01 22:21:14 +0200'
+  content: A ja sobie tego włączyć nie umiem :( Ale po twardym resecie tylko raz w
+    życiu musiałem podczas startu systemu zalogować się na roota, coby cośtam naprawić
+    ale to był ext2. Czasami nawet używam klawisza power do normalnego wyłączania
+    komputera...
+- id: 1178
+  author: Patrys
+  author_url: ''
+  date: '2005-06-01 22:28:25 +0200'
+  date_gmt: '2005-06-01 22:28:25 +0200'
+  content: |-
+    Jak wciskam power na obudowie, to mi się normalnie komputer wyłącza, żyjemy w czasach ATX ;]
+    <br/>
+    <br/>Właśnie znalazłem jakieś info, że Slack od wersji 4.0 ma domyślnie wyłączone w configu kernela CONFIG_MAGIC_SYSRQ, więc kernel buduje się bez wsparcia dla tego. Nie jestem pewien, czy nie przywrócili wsparcia po tym, jak bodaj w serii 2.2 jajka pojawiła się właśnie opcja wyłączania tego przez /proc.
+- id: 1179
+  author: riddle
+  author_url: ''
+  date: '2005-06-01 23:00:41 +0200'
+  date_gmt: '2005-06-01 23:00:41 +0200'
+  content: A czy jest podobna opcja do zmajstrowania (niekoniecznie od razu) w Windowsach?
+- id: 1180
+  author: s
+  author_url: ''
+  date: '2005-06-02 00:03:32 +0200'
+  date_gmt: '2005-06-02 00:03:32 +0200'
+  content: |-
+    A mi się zrobilo tak: Alt-SysRq-H -&gt; wszystko zamarlo i diodka od dysku zapalila sie na stale, gdzie &#039;stale&#039; == czas-po-ktorym-skonczyla-mi-sie-cierpliwosc-i-podusilem-przez-kilka-sekund-power. Nie sprawdzilem, czy odpowiada z zewnatrz, bo mi sie nie chcialo isc do drugiego pokoju.
+    <br/>
+    <br/>Nie, nie mam guzika reset.
+- id: 1181
+  author: Krystian
+  author_url: ''
+  date: '2005-06-02 00:51:45 +0200'
+  date_gmt: '2005-06-02 00:51:45 +0200'
+  content: A u mnie nic się nie zrobiło... buuu... :(
+- id: 1182
+  author: Patrys
+  author_url: ''
+  date: '2005-06-02 10:12:53 +0200'
+  date_gmt: '2005-06-02 10:12:53 +0200'
+  content: 'Sobiś: ale nie odpalaj tego pod iksami, bo ci się framebuffer rozjedzie
+    ;]'
+- id: 1183
+  author: zdzichuBG
+  author_url: ''
+  date: '2005-06-02 22:01:02 +0200'
+  date_gmt: '2005-06-02 22:01:02 +0200'
+  content: 'Co do proca, to jest tam jeszcze inny fajny plik:  /proc/sysrq-trigger
+    ; dzięki niemu można Sysrq używać zdalnie - ssh maszynka echo &quot;b&quot; &gt;
+    /proc/sysrq-triger'
+- id: 1184
+  author: Enleth
+  author_url: ''
+  date: '2005-06-06 21:21:28 +0200'
+  date_gmt: '2005-06-06 21:21:28 +0200'
+  content: Zadziwiające. Przydało mi się to 5 minut po przeczytaniu, jak &quot;poprawiany&quot;
+    przeze mnie kernel na drugim komputerze zaczął wykazywać objawy animozji do sterowników
+    nvidii... :)
+- id: 1185
+  author: smerf
+  author_url: ''
+  date: '2005-06-13 09:14:29 +0200'
+  date_gmt: '2005-06-13 09:14:29 +0200'
+  content: nie wiedziałem, ze ktoś do normalnego użytku uzywa kernela z właczonym
+    debuggerem...
+- id: 1186
+  author: zdzichuBG
+  author_url: ''
+  date: '2005-06-13 09:15:59 +0200'
+  date_gmt: '2005-06-13 09:15:59 +0200'
+  content: 'smerf: jakim debuggerem??'
+- id: 1187
+  author: Patrys
+  author_url: ''
+  date: '2005-06-13 19:06:15 +0200'
+  date_gmt: '2005-06-13 19:06:15 +0200'
+  content: |-
+    smerf:
+    <br/>
+    <br/>Cały &quot;debugger&quot; kernela sprowadza się do eksportowania na zewnątrz punktów wejścia do procedur wewnętrznych, które i tak tam są.
+---
+<p>Z premedytacją robię repost, bo nie ma co się silić na oryginalność w temacie obsługi systemu, a dużo ludzi nadal nie wie, do czego służy <q>ten zabawny klawisz</q> na ich klawiaturach.</p>
+
+<p>Całkiem spora grupa osób wykorzystuje Linuksa jako podstawowe środowisko pracy, dziwi więc fakt, że większość z nich nie zdaje sobie sprawy z istnienia tak przydatnego klawisza, jak <kbd>SysRq</kbd>. Oczywiście, jego przydatność do pracy z codziennymi aplikacjami jest raczej znikoma, jednak okazuje się on nieoceniony, kiedy aplikacje te zawiodą.</p>
+
+<p>Jak często zdarza ci się sięgać do przycisku "reset", kiedy jakiś pamięciożerny program zajmie cały bufor iksów i komputer przestanie reagować na jakiekolwiek klawisze? Nawet, jeśli zdarzyło ci się to tylko raz w życiu, czy nie wolałbyś uniknąć wtedy konieczności rebootowania?</p>
+
+<p>Z pomocą przychodzi nam debugger jądra. Jest on uruchamiany poprzez przekazanie wartości <q>1</q> do węzła <code>/proc/sys/kernel/sysrq</code> i jest domyślną wartością dla większości systemów. Jeśli chcesz to zrobić ręcznie, wystarczy:</p>
+
+<blockquote><pre>echo 1 > /proc/sys/kernel/sysrq</pre></blockquote>
+
+<p>W <a href="http://pld-linux.org">PLD</a> działanie tego klawisza można kontrolować za pomocą pliku <code>/etc/sysctl.conf</code>:</p>
+
+<blockquote><pre># Enable the magic-sysrq key
+kernel.sysrq = 1</pre></blockquote>
+
+<p><kbd>SysRq</kbd> to klawisz, którego obsługi w systemie linuksowym nie może przejąć żaden proces. Każde jego przyciśnięcie (a jest wywoływany przez jednoczesne przytrzymanie <kbd>Alt</kbd> i <kbd>PrtScr</kbd>) jest przetwarzane na poziomie kernela. O ile sam <kbd>SysRq</kbd> nie daje nam nic, o tyle jego przytrzymanie i przyciśnięcie jegnego z pozostałych klawiszy może przynieść o wiele ciekawsze rezultaty. Pełna lista poniżej:</p>
+
+<ul>
+<li><kbd>Alt+SysRq+H</kbd> wyświetla pomoc. Jest to lista możliwych funkcji z wyróżnionymi literami. Każda wyróżniona litera to skrót klawiszowy, który daną funkcję wyzwala. Jest to jedyna kombinacja, którą można bezpiecznie wypróbować na sprawnym systemie.</li>
+<li><kbd>Alt+SysRq+B</kbd> powoduje natychmiastowy reboot systemu, bez odmontowania dysków i zapisania ich buforów. Użycie w większości przypadków zaowocuje uszkodzonym systemem plików.</li>
+<li><kbd>Alt+SysRq+E</kbd> wysyła sygnał <code>TERM</code> do wszystkich procesów z wyjątkiem procesu init, prosząc o samounicestwienie wyżej wymienionych.</li>
+
+<li><kbd>Alt+SysRq+I</kbd> wysyła sygnał <code>KILL</code> do wszystkich procesów z wyjątkiem procesu init, wymuszając zabicie wszystkich procesów.</li>
+<li><kbd>Alt+SysRq+K</kbd> wysyła sekwencję <abbr title="Secure Access Key">SAK</abbr>. Powoduje uśmiercenie wszystkich procesów związanych z bieżącym terminalem (bądź konsolą wirtualną). Przydatne, kiedy iksy odmówią współpracy.</li>
+<li><kbd>Alt+SysRq+L</kbd> wysyła sygnał <code>KILL</code> do wszystkich procesów, z procesem init włącznie. Zabicie procesu init powoduje unieruchomienie całego systemu.</li>
+
+<li><kbd>Alt+SysRq+M</kbd> wypisuje informacje o pamięci. Przydatne tylko do debugowania.</li>
+<li><kbd>Alt+SysRq+O</kbd> wyłącza system, jeśli funkcja taka jest dostępna.</li>
+<li><kbd>Alt+SysRq+P</kbd> wypisuje na bieżącą konsolę zawartość rejestrów i flag procesora. Przydatne tylko przy debugowaniu jądra.</li>
+<li><kbd>Alt+SysRq+R</kbd> przełącza tryb raw klawiatury. Pozwala na wysłanie <kbd>Ctrl+Alt+Del</kbd> nawet jeśli zawiesi się obsługująca aktualnie klawiaturę sesja X.</li>
+<li><kbd>Alt+SysRq+S</kbd> wymusza synchronizację buforów dyskowych dla wszystkich zamontowanych systemów plików. Przydatne jeśli musisz wymusić reboot, a nie chcesz ryzykować niespójności danych.</li>
+<li><kbd>Alt+SysRq+T</kbd> powoduje wypisanie listy wszystkich zadań.</li>
+<li><kbd>Alt+SysRq+U</kbd> próbuje przemontować wszystkie systemy plików w trybie tylko do odczytu. Powoduje synchronizację buforów dyskowych i pomaga uniknąć sprawdzania spójności dysków przy ponownym starcie.</li>
+<li><kbd>Alt+SysRq+cyfry</kbd> zmienia poziom debugowania (gadatliwość kernela) w zakresie od 0 (tylko Panic i Oops) do 9.</li>
+</ul>

@@ -1,0 +1,1473 @@
+---
+layout: post
+status: publish
+published: true
+title: Antychryst we własnej osobie
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 53
+date: 2005-02-01 20:32:02.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 469
+  author: at
+  author_url: ''
+  date: '2005-02-01 20:38:54 +0100'
+  date_gmt: '2005-02-01 20:38:54 +0100'
+  content: 'bluszcz lubi wolnosc, np wolnosc do spamowania uzytkownikow swojego serwera
+    jabber przez tresci ktore sa tak wartosciowe jak: őSPÎOO^ÔĐYç Č Ż\$çżąHţł   ăşÇ#
+    ĚEŞ*Ĺëí×. '
+- id: 470
+  author: Cachotterie-&gt;at
+  author_url: ''
+  date: '2005-02-01 20:41:28 +0100'
+  date_gmt: '2005-02-01 20:41:28 +0100'
+  content: To akurat jego biznes, jak się nie podoba to nie trzeba z jego serwera
+    korzystać... Natomiast robienie z bądź co bądź publicznego serwisu miejsca do
+    osobistych wycieczek, to insza inszość...
+- id: 471
+  author: Anonim
+  author_url: ''
+  date: '2005-02-01 20:59:49 +0100'
+  date_gmt: '2005-02-01 20:59:49 +0100'
+  content: 'Cachotterie: jak ciebie zaczepiaja obce osoby za pomoca komunikatora to
+    zle, jak ze mnie bluszcz robi sobie jaja wysylajac tresci ktore nie maja zadnego
+    sensu to dobrze bo to jego serwer i ma prawo. jasne. '
+- id: 472
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-01 21:05:34 +0100'
+  date_gmt: '2005-02-01 21:05:34 +0100'
+  content: |-
+    Hola. Po pierwsze nie powiedziałam że to &quot;dobrze&quot;. Powiedziałam że to jego serwer, z którego zawsze możesz zrezygnować bez wielkich strat na rzecz, na który wydaje jakąś tam kasę (na sprzęt, na łącze...) i nie to że jakoś to popieram, że wysyła wiadomości (chociaż w drugą stronę też nie potępiam - jakoś mi się to w ogóle nie rzuciło w oczy) - to jest to jego świńskie prawo właściciela, nie podoba się to się wyrejestrowujesz i po sprawie - na inne serwery przecież informacji nie rozsyła.
+    <br/>Natomiast jellonkowanie to o tyle inna rzecz, że po pierwsze żaden jellonek nie utrzymuje serwerów, a po drugie, co ważniejsze - zmiana serwera niewiele Ci tu pomoże, czyż nie? Jellonki potrafią dopaść wszędzie :]
+- id: 473
+  author: Smoothguy
+  author_url: ''
+  date: '2005-02-01 21:05:35 +0100'
+  date_gmt: '2005-02-01 21:05:35 +0100'
+  content: |-
+    W zasadzie to w temacie ogólnie tutaj poruszanym (o Hapi) zgadzam się jak najbardziej z Patrysem i w zasadzie nie mam nic do dopowiedzenia. Ludzie z jabbera nie chcą spamu (bo w zasadzie tak mógłbym nazwać teksty jellonków) a inni, np tacy ludzie od Hapi, mogliby temu zapobiegać uświadamiając ludzi instrukcją albo napisem w stylu &quot;Nie piszcie do ludzi których nie znacie i do których nie macie nic ważnego&quot;. A hapi ma to gdzieś. Do tego Bluszcz po prostu przekręca dokładny sens wypowiedzi Patrysa.
+    <br/>
+    <br/>Takie coś mi się nie podoba. Ludzie muszą nauczyć się czytać i myśleć ze zrozumieniem.
+- id: 474
+  author: riddle
+  author_url: ''
+  date: '2005-02-01 21:11:26 +0100'
+  date_gmt: '2005-02-01 21:11:26 +0100'
+  content: Ja się zgadzam z Tobą, patrys. Przeczytałem wszystko co mogłem na ten temat
+    i przyznam, że sprawa jest bardzo denerwująca. Zwłaszcza, jak &quot;wyjadacze&quot;
+    oskarżają wszystkich o przekreślenie idei otwartości.
+- id: 475
+  author: Jaras
+  author_url: ''
+  date: '2005-02-01 21:31:01 +0100'
+  date_gmt: '2005-02-01 21:31:01 +0100'
+  content: to ja już wiem czemu dzisiaj ktoś mi podesłał smsa, bym mu mój  numer gg
+    podał. GG?!?
+- id: 476
+  author: remiq
+  author_url: ''
+  date: '2005-02-02 00:21:22 +0100'
+  date_gmt: '2005-02-02 00:21:22 +0100'
+  content: "Nie pisanie instrukcji obsługi jest, była i zawsze będzie cechą darmowego
+    oprogramowania. \n<br/>Nie czytanie instrukcji obsługi jest, była i zawsze będzie
+    cechą większości użytkowników.\n<br/>\n<br/>Dlatego nie czepiałbym się twórców
+    hapi, że nie zrobili instrukcji. JAJC również nie miał i nie ma żadnej instrukcji
+    napisanej przez autora.\n<br/>--\n<br/>Bluszcz napisał artykuł, bo jest to sprawa,
+    która podzieliła środowisko jogger.pl. Nie dlatego, że Ciebie Patryś nie lubi.
+    \n<br/>--\n<br/>Nie podoba mi się takie przywłaszczanie sobie różnych rzeczy.
+    Jesteś developerem PLD (afair) i nie wyobrażam sobie, byś któregoś dnia powiedział:
+    Wywalamy wszystkie ułatwienia, bo coraz więcej użytkowników to małolaty i ludzie
+    bez kultury. Chociaż to raczej zły przykład. Jakiś użytkownik PLD pisze do was,
+    że nastoletni PLDziarze piszą głupoty na forach internetowych. To by znaczyło,
+    że PLD nie jest gotowe na przyjęcie małolatów?"
+- id: 477
+  author: szzzzzz...ej?
+  author_url: ''
+  date: '2005-02-02 00:57:26 +0100'
+  date_gmt: '2005-02-02 00:57:26 +0100'
+  content: |-
+    Bluszcz spieprzyl temat maksymalnie - napisal strasznie stronniczy tekst, w ktorym przeinaczyl to co napisal patrys.
+    <br/>Mowienie, ze artykul dotyczy samej sprawy a nie pojedynczego posta to bzdura. Wyobraz sobie, ze wyborcza publikuje artykul o wojnie w iraku opierajac go na podstawie komentarza do artykulu pawiana na onecie.
+    <br/>Powinni kolesia na pysk wypieprzyc za dupowate podejscie do sprawy - jezeli chcial dotknac sprawy to powinien opisac czego dotyczy problem, podac za i przeciw. Wywolalby moze dyskusje na ten temat. Zamiast tego wywolal dyskusje na temat patrysa. Spowodowal mase wycieczek osobistych, sugestie co do dlugosci patrysowego fiuta i nawet nie dotknal tematu. Gosciu powinien wiadra z weglem nosic a nie pisac artykuly.
+    <br/>Ja osobiscie niezle polalem z calej sytuacji - najpierw z postu patrysa, potem odpowiedzi az z tej bomby na 7thguard...
+    <br/>Zaznacze, ze nie zgadzalem sie z patrysem w tym temacie od samego poczatku i dalej nie zgadzam.
+    <br/>Czytajac ten pseudoartykul na mam jednak ochote zapytac 7thguarda: Czymze sobie zasluzylem, zeby na lubianym przeze mnie serwisie czytac takie pierdoly?!
+    <br/>Na koniec tylko jedno moje spostrzezenie: nie wiem kto wymyslil termin &#039;jelonki&#039;, ale na pewno byl gejem.
+- id: 478
+  author: da.killa
+  author_url: ''
+  date: '2005-02-02 01:01:23 +0100'
+  date_gmt: '2005-02-02 01:01:23 +0100'
+  content: 'szzzzzz...ej?: wydaje mi się, że w ogóle nie rozumiesz terminu &quot;jellonki&quot;.'
+- id: 479
+  author: Cachotterie-&gt;sz...
+  author_url: ''
+  date: '2005-02-02 01:54:46 +0100'
+  date_gmt: '2005-02-02 01:54:46 +0100'
+  content: Taak, z całą pewnością gej... o ile wiem to kobieta była, więc coś się
+    zgadza - lubi chłopców ;]
+- id: 480
+  author: szzzzzz...ej?
+  author_url: ''
+  date: '2005-02-02 01:55:19 +0100'
+  date_gmt: '2005-02-02 01:55:19 +0100'
+  content: |-
+    Rozumiem, ale nie chodzi o znaczenie.
+    <br/>Wylacznie o brzmienie. Kojarzy sie z jakims jelonkiem bambo czy innym slodkim dziadostwem.
+- id: 481
+  author: Jaras
+  author_url: ''
+  date: '2005-02-02 02:01:13 +0100'
+  date_gmt: '2005-02-02 02:01:13 +0100'
+  content: Prędzej z jeleniem, czym to zazwyczaj okazują się być tego typu &quot;elo
+    y0y0y0 móodafoka&quot; GG-made dzieciaki...
+- id: 482
+  author: Cachotterie-&gt;sz...
+  author_url: ''
+  date: '2005-02-02 02:15:43 +0100'
+  date_gmt: '2005-02-02 02:15:43 +0100'
+  content: "Bo do pewnego momentu to nawet można było traktować jak rozbrajającą głupotę
+    - do momentu jak zaczęły się pojawiać, korzystając z nomenklatury siwej, hordcore
+    jellonki, czyli osobniki które na tekst &quot;nie, nie mam czasu/ochoty poklikać&quot;
+    potrafia obrzucić 5 minutową wiązanką inwektyw, przy których &quot;kurwo&quot;
+    należy do najłagodniejszych. I z całym szacunkiem do nowych i nieuświadomionych
+    itp. - co rozumiem bo każdy kiedyś zaczyna - to takie zachowanie jest dla mnie
+    karygodne i tego nie umiem wytłumaczyć początkami na sieci - kulturę we krwi się
+    ma lub nie i medium nic tu nie zmienia.\n<br/>\n<br/>Faktem jest, że hapi akurat
+    bardziej celuje w słodkie dziewczątka od blogaSSkuff, które z ortografią są na
+    bakier ale bardzo chciałyby poklikać, ale nie są agresywne, z tym że w tym momencie
+    po prostu nazbierało się tego razem. \n<br/>\n<br/>Niezależnie czy rzecz tyczy
+    się blokowania tego czy tego typu nachalnych osobników, moim zdaniem nie warto
+    na siłę ściągać ich sobie na głowę ZANIM nie dostarczymy nie tylko sobie-geekom,
+    ale również najzwyklejszym, ale spokojnym użytkownikom, mechanizmów obrony. I
+    przez mechanizm obrony nie rozumiem możliwości podziałania sobie na konsoli XML
+    (którą nawiasem mówiąc też chyba nie każdy klient ma) coby skonfigurować blacklistę,
+    bo ja to zrobię, ale moja koleżanka, którą cudem na jabbera nawróciłam nie - i
+    ona i jej podobni wróci do natywnego klienta gg, bo tam ma blokuj - pod ręką.
+    Jeśli chodzi nam tylko o wymienienie użytkowników, to w tej chwili ściąganie ludzi
+    przez hapiego jest dobrym pomysłem, natomiast jeśli chcemy żeby zostali również
+    ci, którzy jabbera wybrali nie dlatego że jest otwartym protokołem (bo to, jako
+    wybitnym humanistom, im wisiało), tylko dlatego że prezentował jakiś poziom -
+    to niestety w tej chwili ten poziom poleci tak samo, jak poleciał po wejściu wpkontaktu,
+    bo wtedy pierwszy raz trafiła mnie losowa zaczepka z jabbera (i jak do dziś, jedyne
+    takie zaczepki dziwnym trafem odnotowuję z ichniego serwera).\n<br/>\n<br/>Krótko
+    mówiąc - tak, otwarcie jest jak najbardziej chlubną ideą, tylko jak się coś robi
+    to warto robić to z głową, po kolei, a nie jak się komu co przypomni, bo w taki
+    sposób to można tylko popsuć to co już jest. Począwszy choćby od tego, żeby hapi
+    nie reklamowało się głównie jako zastępca gg i klient z megakul ikonkami, żeby
+    nowym użytkownikom podpowiadać że jest coś takiego jak status &quot;chętny do
+    rozmowy&quot; i że takich ludzi należy zaczepiać a nie wszystkich &quot;jak leci&quot;,
+    a kwiatki na ich forum pokroju &quot;jabber to inny polski komunikator, nie?&quot;
+    nie pozostawały bez echa...\n<br/>Tak, może za dużo wymagam, ale taką mam głupią
+    wadę że lubię jak coś jest zrobione pożądnie, first things first - a moim bardzo
+    skromnym zdaniem ważniejszym niż dodawanie do klienta &#039;wrzaskunów&#039; jest
+    choćby poinformowanie jego użytkowników jak z tego czegoś powinno się korzystać,
+    żeby nie szkodzić innym."
+- id: 483
+  author: szzzzzz...ej?
+  author_url: ''
+  date: '2005-02-02 02:33:39 +0100'
+  date_gmt: '2005-02-02 02:33:39 +0100'
+  content: |-
+    wow
+    <br/>Ja umiem czytac i naprawde rozumiem o co chodzi, zreszta wierz mi, rozumialem od poczatku.
+    <br/>Mowie tylko, ze nie podoba mi sie wspominanych bucow &#039;jelonkami&#039;, nie pasuje mi okreslenie, brzmienie. Tylko o to.
+- id: 484
+  author: siwa
+  author_url: ''
+  date: '2005-02-02 08:59:59 +0100'
+  date_gmt: '2005-02-02 08:59:59 +0100'
+  content: Gejem nie był, ale faktycznie woli chłopców... ;)
+- id: 485
+  author: Cachotterie-&gt;sz...
+  author_url: ''
+  date: '2005-02-02 09:28:05 +0100'
+  date_gmt: '2005-02-02 09:28:05 +0100'
+  content: A jakie określenie byś proponował? ;) Buce? Ale to nie zawsze jest do końca
+    trafne, mimo wszystko (kawałowe) blond-dziewczątko bełkoczące bez sensu bardziej
+    kojarzy mi się z jelonkiem niż bucem ;)
+- id: 486
+  author: Ert
+  author_url: ''
+  date: '2005-02-02 14:03:52 +0100'
+  date_gmt: '2005-02-02 14:03:52 +0100'
+  content: |-
+    Miło poczytać jak tzw. &quot;elyta&quot; pierdoli o niczym.
+    <br/>Może oni są jelonkami, ale wy Jeleniami na 100%
+- id: 487
+  author: szzzzzz...ej?
+  author_url: ''
+  date: '2005-02-02 14:30:46 +0100'
+  date_gmt: '2005-02-02 14:30:46 +0100'
+  content: Nie wiem skad sie urwales misiek, ale po pierwsze to ja tu nie widze zadnej
+    &#039;elyty&#039;, po drugie to temat moim zdaniem sie wyczerpal i jest juz NUDNY,
+    a po trzecie to nie mam potrzeby prowadzic rozmow o niedozywionych dzieciach w
+    somalii zeby spelnic twoje wymagania. Jelonkowy eot z mojej strony, bo zaraz przyjdzie
+    jakis patafian i powie, ze jestem czescia grupy trzymajacej wladze i pierdole
+    o niczym. (sorka za smietnik patrys)
+- id: 488
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-02 14:47:14 +0100'
+  date_gmt: '2005-02-02 14:47:14 +0100'
+  content: '&quot;Elyta pierdoli o niczym&quot; w swoim gronie i nic Ci do tego -
+    nie mam nic przeciwko pierdoleniu o niczym między użytkownikami hapi czy gg tak
+    długo, jak długo pierdolą o niczym między sobą i mnie nie zaczepiają. Nikt Cię
+    tu nie zapraszał.'
+- id: 489
+  author: Ert
+  author_url: ''
+  date: '2005-02-02 15:12:05 +0100'
+  date_gmt: '2005-02-02 15:12:05 +0100'
+  content: |-
+    W swoim elitarnym gronie dodaj.
+    <br/>Nikt mnie nie zapraszał, i pewnie jestes przerażona, że to Twojego idealnego i odizolowanego swiata ktoś tak chamski wchodzi z brudnymi butami. No cóż, trzeba będzie postawic większe mury. Sorry za przekleństwo, ale poziom dyskusji był tak niski (geje, blond dziewczatka itp.), że jedno przekleństwo i tak nic tu zepsuć nie może.
+- id: 490
+  author: Ert
+  author_url: ''
+  date: '2005-02-02 15:12:56 +0100'
+  date_gmt: '2005-02-02 15:12:56 +0100'
+  content: |-
+    W swoim elitarnym gronie dodaj.
+    <br/>Nikt mnie nie zapraszał, i pewnie jestes przerażona, że to Twojego idealnego i odizolowanego swiata ktoś tak chamski wchodzi z brudnymi butami. No cóż, trzeba będzie postawic większe mury. Sorry za przekleństwo, ale poziom dyskusji był tak niski (geje, blond dziewczatka itp.), że jedno przekleństwo i tak nic tu zepsuć nie może.
+- id: 491
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-02 15:42:58 +0100'
+  date_gmt: '2005-02-02 15:42:58 +0100'
+  content: "Przerażona? LOL, nie wlewaj sobie, ktoś kto głównie obrażać potrafi i
+    niczym innym się nie zaprezentuje nie jest w stanie we mnie wywołać żadnego rodzaju
+    emocji - ani przerażenia, ani oburzenia, ani zdenerwowania.\n<br/>Zastanawia mnie
+    jedynie co chcesz osiągnąć - obrazić nas? Daruj sobie, szanuj nasz i swój czas.
+    Pokazać jacy to jesteśmy fuj? Pokazujesz jedynie siebie i swój poziom dyskusji,
+    kiedy brakuje argumentów to sięga się do obrażania - smutne to i wiele wiele razy
+    wyszło w różnych komentarzach, ale tacy komentujący nie nam wystawili opinię,
+    jak im się zapewne zdawało, tylko sobie. \n<br/>A &quot;kawałowe blond dziewczątko&quot;
+    nie jest przekleństwem czy Ci się to podoba czy nie, w przeciwieństwie do &quot;pierdolić&quot;
+    - może spojrzyj do słownika i zobacz że tylko przy tym drugim jest napisane &quot;wulg.&quot;\n<br/>I
+    ponownie - poziom tej dyskusji nie Tobie oceniać i nic Ci do niej - nie prowadzimy
+    jej wysyłając do Ciebie na gg/jabberze wiadomości, nie narzucamy Ci się - sam
+    tu przylazłeś więc bądź łaskaw się dostosować albo wyjść, bo jesteś tu gościem. "
+- id: 492
+  author: Jaras
+  author_url: ''
+  date: '2005-02-02 15:58:53 +0100'
+  date_gmt: '2005-02-02 15:58:53 +0100'
+  content: |-
+    Nawet cały post załapał się pod kreskę wspomnianego poziomu.
+    <br/>
+    <br/>A ja tak sobie siedzę i udaję że myślę i... sądząc po opiniach &quot;członków obozu opozycji&quot; ( czyt. nieelity rzehój ) Patrys to buc i oszołom - dodać można, co ważne, iż nieszkodliwy, bo aż jednym postem się wsławił. Parsując dalej rzekę niepochlebnych opinii można dojść do wniosku, iż Patrys w ogóle nie ma racji a wszyscy mają to w dupie i tylko czytają, bo fajnie z głupka pozlewać. Pytania nasuwają się naturalnie i samoczynnie: skoro równie dobrze możnaby olać gościa, to skąd się nagle taka akcja odwetowa wzięła i dlaczegóż w ogóle została zrealizowana? Jakim cudem jeden marny oszołom, którego nikt na poważnie nie bierze, wywołał tak wielką burzę - w jaki sposób zmobilizował i zesłał sobie na łeb rzeszę antyfanów? Wychodzi na to, że jednak jest sporo na rzeczy w tej kwestii, pytanie tylko w co ukłuł tych wszystkich &quot;ty bucu&quot; ludzi? No chyba że to zastępy noszących trendy_bravo_bransoletki użytkowników hapi, którzy nagle doszli do wniosku, iż już im się znudziło pisać do losowych ludzi &quot;cZe z100m mAM pR0blEM rzehój, pOMurZzZZZZ!!!11!1!111&quot;.
+- id: 493
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-02 16:11:04 +0100'
+  date_gmt: '2005-02-02 16:11:04 +0100'
+  content: |-
+    Hyhy... Właściwie też bym tak chciała, &lt;z nadzieją w głosie&gt; może jak będę większa skończę jak Patrys?&lt;/...&gt; Jeden wpis na joggu i pierwsza strona w 7thguardzie, tyyyyle komentarzy, jejku jej... ;]
+    <br/>
+    <br/>A poważnie: niektórzy tak mają, że nieważny jest temat, nieważna rzeczywista treść, jeśli tylko jest okazja żeby komuś napisać &quot;nic nie umiesz, na niczym się nie znasz, jesteś debilem&quot; - to wykorzystają ją, nawet jeśli tak poza tym ZUPEŁNIE nie wiedzą o co chodzi (vide pewne komentarze do sic! Bluszcza). Starczy popatrzeć czasem na &quot;intelektualne&quot; wpisy na onecie czy gazecie - dokładnie ten sam poziom i klimat.
+    <br/>W tej aferze dużo było takich wpisów, szczególnie u Patrysa na joggu (na 7 mimo wszystko mniej) - ale było też trochę mądrych, wyważonych opinii, pokazujących czasem że ktoś się całkiem z tezami Patrysa nie zgadza, ale traktujące go z szacunkiem - i takich ludzi ja również szanuję, przyjmuję ich opinie jako alternatywny punkt widzenia, nawet jeśli w jednym czy drugim punkcie wciąż mam inne zdanie. Umiejętność zachowania pewnego poziomu w dyskusji BARDZO silnie świadczy o człowieku i niestety w tej &quot;konkurencji&quot; coniektórzy wypadli bladziutko, ale to już ich problem.
+- id: 494
+  author: batou
+  author_url: ''
+  date: '2005-02-02 19:38:53 +0100'
+  date_gmt: '2005-02-02 19:38:53 +0100'
+  content: |-
+    Patrys, błąd polegał na tym, że nie napisałeś wszystkiego prosto i bezpośrednio, tylko zrobiłeś z tego apelu, mam nadzieję, że celowo, list w tonie zawodzenia/lamentu. Prawda jest taka, że po odfiltrowaniu Twojego specyficznego stylu kontruowania wypowiedzi(tutaj po prostu kwaśnego) widać jak na dłoni, co masz do zarzucenia autorom hapi. Przeceniłeś jednak publiczność, przeceniłeś znacznie, w wyniku czego na 7mym zostałeś określony mianem &quot;faszysty&quot; i &quot;frustrata&quot;. Przykre.
+    <br/>
+    <br/>&quot;Internet? Nie dla idiotów.&quot; (Albo &quot;Komentarze na 7mym? Powinni tego zabronić.&quot; ;)
+    <br/>
+    <br/>Na zakończenie chciałem dodać, że czasami trzeba podejść do życia filozoficznie, po krasnoludzku i powiedzieć sobie &quot;srał to pies&quot;. ;-)
+- id: 495
+  author: Ert
+  author_url: ''
+  date: '2005-02-02 20:13:20 +0100'
+  date_gmt: '2005-02-02 20:13:20 +0100'
+  content: |-
+    A wiec za inteligentnie to napisał????
+    <br/>A niektórzy po prostu tego nie zrozumieli???
+    <br/>Interenet nie dla idiotów - i wasze teksty tez??
+    <br/>Trzeba czytac pomiędzy wierszami?????
+    <br/>
+    <br/>buhahahahahahahahehehe
+    <br/>
+    <br/>no elita jak by nie patrzeć.
+    <br/>słowo daję, nie wierzę :)))))))))))))))))
+    <br/>
+- id: 496
+  author: batou
+  author_url: ''
+  date: '2005-02-02 20:16:00 +0100'
+  date_gmt: '2005-02-02 20:16:00 +0100'
+  content: |-
+    Uwierz. Nie trzeba czytać między wierszami, trzeba czytać:
+    <br/>
+    <br/>&quot;ale w życiu mi nie przyszło do głowy dać komuś pistolet (ba - OtwartyPistolet!) i powiedzieć &quot;baw się dobrze, jak kogoś zastrzelisz to nie nasza brocha - instrukcji nam się pisać nie chce&quot;.&quot;
+    <br/>
+    <br/>Btw. w szkole nie uczyli, że wystarczy jeden pytajnik? Nie doszedłeś jeszcze do 5 klasy podstawówki? :)
+- id: 497
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-02 20:16:11 +0100'
+  date_gmt: '2005-02-02 20:16:11 +0100'
+  content: "Tak, nie zrozumieli, podobnie jak dla niektórych zbyt wyuzdanym intelektualnie
+    wyzwaniem było rozróżnić w tekście bluszcza, co jest opinią bluszcza, a co Patrysa,
+    przez co wyzywali bluszcza, krytykując idee Patrysa. \n<br/>\n<br/>Czytanie ze
+    zrozumieniem to jak widać prawdziwa sztuka - przynajmniej dla niektórych."
+- id: 498
+  author: Ert
+  author_url: ''
+  date: '2005-02-02 20:26:58 +0100'
+  date_gmt: '2005-02-02 20:26:58 +0100'
+  content: |-
+    do batou
+    <br/>
+    <br/>chcesz cytaty - masz cytaty:
+    <br/>&quot;...i tłumów zbyt skąpo obdarownaych przez życie intelektem dzieci&quot;
+    <br/>&quot;Przepuścić hordy matołów dla własnej satysfakcji?&quot;
+    <br/>
+    <br/>Piekne nieprawdaż?
+    <br/>
+    <br/>btw. no patrz mam juz 30 wiosen, wiec czas juz do szkoły, a ty chyba do lasu bo tam jest miesce dfla czepialskich kleszczy.
+- id: 499
+  author: batou
+  author_url: ''
+  date: '2005-02-02 20:33:05 +0100'
+  date_gmt: '2005-02-02 20:33:05 +0100'
+  content: |-
+    Piękne. Czy mam rację, podejrzewając że jesteś jednym z tych ludzi, którzy zgodziliby się na spęd bydła przez własne podwórko, bez żadnych zasad i ostrzeżeń? Tak to właśnie wygląda.
+    <br/>
+    <br/>Btw. dokładnie takie zdanie jak w tych cytatach mam o ludziach, którzy zaczepiają obcych użytkowników komuniaktora internetowego (albo telefonu, poczty elektronicznej, klienta VoIP, wybierz sobie). Bo to idioci, względnie niewychowane szczyle. Piękne, ale prawdziwe.
+    <br/>
+    <br/>Do lasu wybieram się w sobotę. Lubię las, zmniejsza się tam szansa spotkania kogoś, komu wydaje się, że skoro urodził się homo sapiens, to tyle mu wystarczy i jakakolwiek dalsza ewolucja jest zbędna.
+- id: 500
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-02 20:33:19 +0100'
+  date_gmt: '2005-02-02 20:33:19 +0100'
+  content: Wiedziałam że Ert mnie nie zawiedzie - &quot;czepialski kleszcz&quot; -
+    brawo za oryginalność. :D
+- id: 501
+  author: Ert
+  author_url: ''
+  date: '2005-02-02 20:34:07 +0100'
+  date_gmt: '2005-02-02 20:34:07 +0100'
+  content: |-
+    jeszcze raz do batou:
+    <br/>cytacik z twojego bloga
+    <br/>&quot;
+    <br/>Problem z internetem polega na tym, że za dużo w nim idiotów (charakterystyczna właściwość każdej przestrzeni wypełnionej ludźmi). Z 7go robi się onet. &quot;Nie wpuszczać bydła na salony bez uprzedniej tresury&quot; == &quot;faszyzm frustratów&quot;.
+    <br/>
+    <br/>Teraz też trzeba czytac pomiedzy wierszami????
+    <br/>
+    <br/>Problem jest taki, że jednym z prboblemów internetu (sieci dostepnej dla wszystkich) jestes TY.
+- id: 502
+  author: batou
+  author_url: ''
+  date: '2005-02-02 20:41:13 +0100'
+  date_gmt: '2005-02-02 20:41:13 +0100'
+  content: |-
+    Nie napisałeś mi z czym dokładnie w powyższym cytacie masz problem. W tym, że przez głupi flame poziom komentarzy na 7mym spadł drastycznie (nawet w porównaniu z poprzednimi jabber-dyskusjami)? Czy o słowa otwierające, odnoszące się bezpośrednio do tego faktu? Czy może o ostatnie zdanie, odnoszące się do totalnego braku zrozumienia (części) przesłania Patrysia?
+    <br/>
+    <br/>Problemem są ludzie, który nie rozróżniają &quot;wszystko dla ludzi, tylko z rozsądkiem&quot; od &quot;wszystko dla wszystkich, bo free jest free i STFU!&quot;.
+- id: 503
+  author: Ert
+  author_url: ''
+  date: '2005-02-02 20:46:00 +0100'
+  date_gmt: '2005-02-02 20:46:00 +0100'
+  content: |-
+    A tym kto będzie osądzał kto ma zdrowy rozsądek a kto nie bedziesz ty i tobie podobni????
+    <br/>ha ha ha ha
+- id: 504
+  author: batou
+  author_url: ''
+  date: '2005-02-02 20:50:09 +0100'
+  date_gmt: '2005-02-02 20:50:09 +0100'
+  content: "Proszę przestać toczyć pianę i zacząć czytać dokładnie to co piszę. W
+    tym zdaniu z rozsądkiem jest przecinek, więc proponuję zagłębić się w tajniki
+    używania znaków interpunkcyjnych. Ewentualnie (jeśli w tak podeszłym wieku pamieć
+    pozwala) nad kontekstem wypowiedzi. Inaczej kiepsko to widzę. \n<br/>\n<br/>Hint:
+    rozsądek jest potrzebny udostępniającym.\n<br/>\n<br/>Trzymam kciuki, na pewno
+    w końcu się uda, dobranoc. :)"
+- id: 505
+  author: Ert
+  author_url: ''
+  date: '2005-02-02 20:57:08 +0100'
+  date_gmt: '2005-02-02 20:57:08 +0100'
+  content: 'Dobranoc, no i mam nadzieje, że nigdy żadna obca osoba nie bedzie miała
+    tej wyjatkowej przyjemności cię zaczepic - czy to na necie czy w realu (patrz:
+    w lesie) - inaczej biada jej!'
+- id: 506
+  author: da.killa
+  author_url: ''
+  date: '2005-02-02 20:59:58 +0100'
+  date_gmt: '2005-02-02 20:59:58 +0100'
+  content: 'Ert: a ja ci życzę wielu sympatycznych doświadczeń z jellonkami.'
+- id: 507
+  author: batou
+  author_url: ''
+  date: '2005-02-02 21:02:01 +0100'
+  date_gmt: '2005-02-02 21:02:01 +0100'
+  content: 'I dresami - czy to w necie czy w realu (patrz: w lesie).'
+- id: 508
+  author: Ert
+  author_url: ''
+  date: '2005-02-02 21:04:18 +0100'
+  date_gmt: '2005-02-02 21:04:18 +0100'
+  content: Wiesz - jelonki nie sa mi straszne. bardziej boje sie ludzi, którzy uważają
+    sie za lepszych od innych.
+- id: 509
+  author: Ert
+  author_url: ''
+  date: '2005-02-02 21:06:39 +0100'
+  date_gmt: '2005-02-02 21:06:39 +0100'
+  content: ha ha batu to było dobre. Ale wiesz, ja nie jestem typowym zakompleksiałym,
+    chuderlawym informatykiem i takie spotkania równiez mi nie straszne ;)
+- id: 510
+  author: jarv
+  author_url: ''
+  date: '2005-02-02 21:27:01 +0100'
+  date_gmt: '2005-02-02 21:27:01 +0100'
+  content: "ert - co probujesz powiedziec ? bo przyznam sie szczerze - obserwuje te
+    komentarze tak z czystej ciekawosci - i za cholere nie potrafie zrozumiec, co
+    chcialbys przekazac - bo ze jezdzisz po czesci komentujacych tu osob (a wlasciwie
+    tej, ktora w jakims tam mniejszym, lub wiekszym stopniu utozsamia sie z wypowiedzia
+    patrys&#039;a), to wiem - zdazylem zauwazyc. ale z 10&#039;ciu twoich komentarzy
+    generalnie wynioslem  tyle co nic. jak domyslamsie, nie zgadzasz sie z tym, co
+    patrys napisal. domyslam sie, bo z tego co piszeszmozna to wywnioskowac - tylko
+    ciagle nie potrafie zrozumiec (lub: nie widze konkretnych argumentow z twojej
+    strony na poparcie twojego zdania w temacie...) dlaczego uwazasz tak, a nie inaczej.
+    kolejna kwestia, ktorej nie rozumiem, to dlaczego przy okazji wyrazania swojej
+    opinii, musisz obrazac ludzi ktorzy tu probuja omowic zaistniala sytuacje ? przy
+    czym, gdy zwroci ci sie uwage - odgryzasz sie, jakby to tobie nadepnieto na odcisk...\n<br/>\n<br/>przypomina
+    mi sie stare powiedzonko z usenetu - nie karmic trolla...\n<br/>\n<br/>zaznaczam,
+    ze osobiscie czesciowo zgadzam sie z opinia patrys&#039;a na temat hapi.pl - czesciowo,
+    bo uwazam, ze troche &quot;za mocno pojechal&quot; - z drugiej strony - znam patrysa
+    juz kawalekczek czasu i wiem, ze ton jego wypowiedzi jest jak najbardziej w jego
+    stylu &quot;codziennym&quot; - uwazam wiec, ze w pewnym stopniu (przynajmniej
+    przede mna) jest usprawiedliwiony.\n<br/>\n<br/>luzna teza - moze ert, ty tesz
+    masz taki styl codzienny, jakim poslugujesz sie wlasnie w tych komentarzach...
+    \n<br/>\n<br/>pozdrawiam i eot z mojej strony."
+- id: 511
+  author: Ert
+  author_url: ''
+  date: '2005-02-02 21:28:24 +0100'
+  date_gmt: '2005-02-02 21:28:24 +0100'
+  content: |-
+    Ok wreszcie do mnie doszło!
+    <br/>Z jellonkami nie ma żartów.
+    <br/>Pozamykałem wszytskie okna i drzwi. Jestem gotów.
+    <br/>Żywcem mnie nie wezmą.
+    <br/>Jak by co to mam telefon i krecę po gwardie narodową.
+    <br/>
+    <br/>Ale tanio skóry nie sprzedam.
+    <br/>Trzymajcie się :)
+- id: 512
+  author: Ert
+  author_url: ''
+  date: '2005-02-02 21:50:45 +0100'
+  date_gmt: '2005-02-02 21:50:45 +0100'
+  content: |-
+    hmmm co próbuję powiedzieć. Może to, że smieszne jest to wasze kółko wzajemniej adoracji, próba przywłaszczenia sobie pewnych rozwiązań i po ogromnej plamie jaką dał Patrys tłumaczenie ze to co widzę i czytam to nie jest to, ze źle to zrozumiałem. Jakie argumenty masz ty? Bo poza usprawiedliwianiem patrysa znajomością jego osoby nic tez nie przekazałeś. Co do obrażania to jak uważnie przeczytasz nie tylko z jednej strony padały niefortunne sformułowania.
+    <br/>
+    <br/>Rowniez pozdrawiam
+- id: 513
+  author: blue/enigma
+  author_url: ''
+  date: '2005-02-02 22:48:56 +0100'
+  date_gmt: '2005-02-02 22:48:56 +0100'
+  content: |-
+    Ert:&quot;ha ha batu to było dobre. Ale wiesz, ja nie jestem typowym zakompleksiałym, chuderlawym informatykiem i takie spotkania równiez mi nie straszne ;)&quot;
+    <br/>
+    <br/>Co chcesz przez to powiedzieć? Skinem jesteś czy jak? :P
+- id: 514
+  author: zamet
+  author_url: ''
+  date: '2005-02-02 23:52:56 +0100'
+  date_gmt: '2005-02-02 23:52:56 +0100'
+  content: Stek bzdur, podpieranych postem idioty ;)
+- id: 515
+  author: batou
+  author_url: ''
+  date: '2005-02-03 12:49:54 +0100'
+  date_gmt: '2005-02-03 12:49:54 +0100'
+  content: Straszni są komentatorzy-krzyżowcy, którzy jeszcze nie nauczyli się czytać.
+    Co do argumentów, Ert, to zdaje się, że próbowałem Ci przybliżyć część przesłania,
+    ale zacząłeś się dławić &quot;insynuacjami&quot;, że czegoś nie zrozumiałeś i
+    opierać swoje dalsze ataki na.. własnym braku umiejętności zrozumienia tekstu
+    czytanego. Przykre.
+- id: 516
+  author: Ert
+  author_url: ''
+  date: '2005-02-03 14:48:56 +0100'
+  date_gmt: '2005-02-03 14:48:56 +0100'
+  content: |-
+    batou, w którym momencie poróbowałeś mi coś przybliżyć?
+    <br/>Kiedy mowiłeś o spędzie bydła czy idiotach, wzglednie niewychowanych szczylach? Podaj mi jakies sensowne argumenty -  to sie może zaczne nad tym zastanawiać. Na razie MOIM zdaniem problem jest strasznie wyolbrzymiony i robienie histerii z tego powodu zwyczajnie mnie zdumiewa.
+- id: 517
+  author: blue/enigma
+  author_url: ''
+  date: '2005-02-03 16:00:10 +0100'
+  date_gmt: '2005-02-03 16:00:10 +0100'
+  content: |-
+    Ert: &quot; hmmm co próbuję powiedzieć. Może to, że smieszne jest to wasze kółko wzajemniej adoracji&quot;
+    <br/>
+    <br/>Hm, a ja właśnie widzę kółko wzajemnej adoracji jellonków. &#039;My, cool ziomale, użytkownicy hapi jesteśmy lepsi... bo tak! bo tak mi się po wódeczce wydawało!&#039;. Zamiast argumentów jakieś bzdety. Na poziomie, a jak...
+    <br/>
+    <br/>zamet: lepiej bym tego nie napisała :)
+- id: 518
+  author: Ert
+  author_url: ''
+  date: '2005-02-03 16:39:58 +0100'
+  date_gmt: '2005-02-03 16:39:58 +0100'
+  content: |-
+    Przeczytaj lepiej na siódmym teksty waszego guru, który teraz tłumaczy się z głupot jakie wcześniej napisał. Możesz rzucić okiem równiez na komentarze bo organiczajac się jedynie do tego bloga (no i Waszego komunikatora) masz blade pojecie o tym co naprawde sadzą o tej spawie, nie związani z waszą sektą.
+    <br/>
+- id: 519
+  author: Jezuch
+  author_url: ''
+  date: '2005-02-03 16:41:20 +0100'
+  date_gmt: '2005-02-03 16:41:20 +0100'
+  content: Panie kolego Ert, pan naprawdę zaczyna przeginać.
+- id: 520
+  author: blue/enigma
+  author_url: ''
+  date: '2005-02-03 16:41:56 +0100'
+  date_gmt: '2005-02-03 16:41:56 +0100'
+  content: |-
+    Ert: wow, właśnie dowiedziałam się że jestem członkiem sekty! Pewnie zabijam też małe koty i szczeniaczki? Niesamowite.
+    <br/>
+    <br/>A wiesz co jest jeszcze bardziej niesamowite? Właśnie brnę przez komentarze na 7mym...
+- id: 521
+  author: Ert
+  author_url: ''
+  date: '2005-02-03 17:02:24 +0100'
+  date_gmt: '2005-02-03 17:02:24 +0100'
+  content: Panie kolego Jezuch - a wy jestescie w porządku nazywając uzytkowników
+    gg, hapi itp. matołami, idiotami ???
+- id: 522
+  author: Jezuch
+  author_url: ''
+  date: '2005-02-03 17:03:48 +0100'
+  date_gmt: '2005-02-03 17:03:48 +0100'
+  content: Jak kolega Ert zacytuje gdzie tak się wyrażam, to pogratuluję czarodziejskich
+    zdolności.
+- id: 523
+  author: Ert
+  author_url: ''
+  date: '2005-02-03 17:09:50 +0100'
+  date_gmt: '2005-02-03 17:09:50 +0100'
+  content: nigdzie nie napisałem ze to ty tak powiedziałes lub napisałeś, byc moze
+    nawet tak nie myślisz, ale bronisz ludzi którzy tak mówili jednocześnie się z
+    nimi identyfikując.
+- id: 524
+  author: Jezuch
+  author_url: ''
+  date: '2005-02-03 17:11:10 +0100'
+  date_gmt: '2005-02-03 17:11:10 +0100'
+  content: Bo z nimi się zgadzam częściowo, a z Tobą wcale ;)
+- id: 525
+  author: Ert
+  author_url: ''
+  date: '2005-02-03 17:14:09 +0100'
+  date_gmt: '2005-02-03 17:14:09 +0100'
+  content: |-
+    jeśli sie z nimi zgadasz - zadazsz sie z ich tezami - czyli po co to oburzenie że to nie ty tak powiedziałes?
+    <br/>Ja nie potzrebuje twojej aprobaty, tak jak pisałem, wystarczy spojrze na jakiekolwiek komentarze poza tym blogiem by stwierdzić ze niestety ideologia jest po prostu chora.
+- id: 526
+  author: Ert
+  author_url: ''
+  date: '2005-02-03 17:14:56 +0100'
+  date_gmt: '2005-02-03 17:14:56 +0100'
+  content: oczywiście wasza ideologia
+- id: 527
+  author: Jezuch
+  author_url: ''
+  date: '2005-02-03 17:18:19 +0100'
+  date_gmt: '2005-02-03 17:18:19 +0100'
+  content: |-
+    Oj, Ty na prawdę masz problemy z czytaniem ze zrozumieniem.
+    <br/>Ok, nie napisałem w której części się zgadzam, ale to jeszcze nie jest powód by zakładać, że mam coś wspólnego z jakąś &quot;ideologią&quot;.
+    <br/>Z mojej strony EOT.
+- id: 528
+  author: Ert
+  author_url: ''
+  date: '2005-02-03 17:24:31 +0100'
+  date_gmt: '2005-02-03 17:24:31 +0100'
+  content: najlepsze jest własnie to ze zostawiasz sobie furtke - zgadzam sie w czesci
+    - no fakt nie jestem czarnoksieznikiem i nie umniem czytac w myslach w której
+    to czesci sie zgadzasz a w ktorej nie. Moze po prostu nie masz włąsnego zdania.
+    Od ciebe tez zadnych argumentów nie przecztałem, tylko zwykłe pieniactwo. Sorry
+    - zgadzam się, albo sie nie zgadazm , albo zgadzam, ale tylko troche - zdecyduj
+    sie bo to smieszne
+- id: 529
+  author: rorio
+  author_url: ''
+  date: '2005-02-03 17:31:13 +0100'
+  date_gmt: '2005-02-03 17:31:13 +0100'
+  content: 'Racja! 7thguard powinien zostać usunięty! Niech żyje cenzura! Kto się
+    nie zgadza z JE Patrysiem na stos!!! '
+- id: 530
+  author: Ert
+  author_url: ''
+  date: '2005-02-03 17:37:36 +0100'
+  date_gmt: '2005-02-03 17:37:36 +0100'
+  content: |-
+    do jezucha:
+    <br/>&quot;Jak kolega Ert zacytuje gdzie tak się wyrażam, to pogratuluję czarodziejskich zdolności:&quot;
+    <br/>no to masz ( z twojego joggera)
+    <br/>&quot;Jellonki są upośledzone psychicznie, a nie społecznie.&quot;
+    <br/>No i co teraz powiesz???
+- id: 531
+  author: Jezuch
+  author_url: ''
+  date: '2005-02-03 17:39:15 +0100'
+  date_gmt: '2005-02-03 17:39:15 +0100'
+  content: |-
+    To teraz jeszcze mi pokaż gdzie &quot;jellonki&quot; są zdefiniowane jako &quot;użytkownicy GG i hapi&quot;.
+    <br/>To jeszcze nie jest czarodziejstwo, tylko niezrozumienie tematu.
+- id: 532
+  author: szatan przyszedl po twego duch
+  author_url: ''
+  date: '2005-02-03 17:39:27 +0100'
+  date_gmt: '2005-02-03 17:39:27 +0100'
+  content: 'z googla wiem że twój wkład w os jest dość marny: Liga liero opps sorki
+    to nie to, jakiś skrypcik w perlu z July 20, 2004 {wiele lat, nie?} no i to tyle...
+    heh... wybacz...'
+- id: 533
+  author: Ert
+  author_url: ''
+  date: '2005-02-03 17:42:36 +0100'
+  date_gmt: '2005-02-03 17:42:36 +0100'
+  content: nieeee.... to jest wykrecanie sie z twojej strony i ppowinno być ci teraz
+    głupio a ty idziesz w zaparte. normalnie sekta
+- id: 534
+  author: Jezuch
+  author_url: ''
+  date: '2005-02-03 17:46:43 +0100'
+  date_gmt: '2005-02-03 17:46:43 +0100'
+  content: Jak posługujesz się określonymi pojęciami to warunkiem koniecznym sensownej
+    dyskusji jest poprawne zrozumienie tych pojęć *z obu stron*. Teraz Ty się wykręcasz,
+    bo powinno Ci być głupio, że nie masz pojęcia co to są &quot;jellonki&quot;.
+- id: 535
+  author: Ert
+  author_url: ''
+  date: '2005-02-03 17:48:00 +0100'
+  date_gmt: '2005-02-03 17:48:00 +0100'
+  content: |-
+    twoi poplecznicy: cytat:
+    <br/>&quot;Hm, a ja właśnie widzę kółko wzajemnej adoracji jellonków. &#039;My, cool ziomale, użytkownicy hapi jesteśmy lepsi... bo tak! bo tak mi się po wódeczce wydawało!&#039;
+    <br/>jellonki=użytkowincy hapi
+    <br/>
+    <br/>doporawdy żałosne, jak teraz sie bedziesz wykręcał
+- id: 536
+  author: Ert
+  author_url: ''
+  date: '2005-02-03 17:50:35 +0100'
+  date_gmt: '2005-02-03 17:50:35 +0100'
+  content: Naprawde dawno nie widziałem takiej obłudy i hipokryzji jaka tutaj rządzi.
+- id: 537
+  author: Jezuch
+  author_url: ''
+  date: '2005-02-03 17:50:38 +0100'
+  date_gmt: '2005-02-03 17:50:38 +0100'
+  content: To nie jest definicja, tylko wypowiedź Eni dokonana pod wpływem emocji.
+    Znajdź źródło tego wyrażenia, a nie interpretację osób postronnych.
+- id: 538
+  author: Ert
+  author_url: ''
+  date: '2005-02-03 17:52:21 +0100'
+  date_gmt: '2005-02-03 17:52:21 +0100'
+  content: |-
+    definicja????
+    <br/>ha ha ha
+    <br/>jestes żałosny
+    <br/>
+    <br/>idę zaraz po słownik
+- id: 539
+  author: Jezuch
+  author_url: ''
+  date: '2005-02-03 17:57:17 +0100'
+  date_gmt: '2005-02-03 17:57:17 +0100'
+  content: Zwyczajny żargon. To słowo ma bardzo jasno określone znaczenie, którego,
+    niestety, nie rozumiesz. To nie Twoja wina, że nie zawsze da się właściwe znaczenie
+    wywnioskować z konktekstu, ale to już Twoja wina, że nie chcesz sięgnąć do źródła,
+    albo w inny sposób sprecyzować o co chodzi, tylko przeinaczasz wyciągnięte z kontekstu
+    cytaty i obrażasz wszystkich dookoła :)
+- id: 540
+  author: Ert
+  author_url: ''
+  date: '2005-02-03 18:02:47 +0100'
+  date_gmt: '2005-02-03 18:02:47 +0100'
+  content: |-
+    przeinaczam??? pokaż mi w którym momencie??
+    <br/>człowieku, żo ze próbujesz mącić w głowie innym to juz jeden problem, ale to ze oszukujesz samego siebie to juz zgroza.
+    <br/>Radze ci idz sie przejdz, ochłoń bo zaczynasz okłamywac sam siebie.
+- id: 541
+  author: Ert
+  author_url: ''
+  date: '2005-02-03 18:03:26 +0100'
+  date_gmt: '2005-02-03 18:03:26 +0100'
+  content: a obrażanie to domena waszekj sekty, nie moja
+- id: 542
+  author: Jezuch
+  author_url: ''
+  date: '2005-02-03 18:03:27 +0100'
+  date_gmt: '2005-02-03 18:03:27 +0100'
+  content: Historia nas oceni.
+- id: 543
+  author: Patrys
+  author_url: ''
+  date: '2005-02-03 19:26:27 +0100'
+  date_gmt: '2005-02-03 19:26:27 +0100'
+  content: |-
+    Ert:
+    <br/>
+    <br/>Raz - ludzie tutaj mają sprawny wzrok - jeden znak przestankowy an końcu zdania bądź jego równoważnia wystarcza.
+    <br/>
+    <br/>Dwa - nikt tu nie powiedział, że wszyscy ludzie na świecie są Jellonkami. Prawda tylko taka, że grupę oceniasz nie po jej średniej, a po jednostkach wyróżniających się. Problem w tym, że zawsze wyróżniają się ci najgorsi. Jeśli nie poczuwasz się do bycia Jellonkiem, to pewnie jesteś w tej normalnej części.
+    <br/>
+    <br/>Trzy - nazywanie kogoś faszystą, sekciarzem, czy też &quot;guru&quot; jakiejkolwiek grupy (która nie istnieje) bez zrozumienia tekstu to JEST pieniactwo. Poczułeś się dotknięty tym, że użytkownicy tej samej sieci, co ty są idiotami? Bo taka jest definicja Jellonka - człowiek, który zamiast głowy ma nadmiar wolnego czasu.
+    <br/>
+    <br/>Cztery - ja się nie mam z czego tłumaczyć, bo zdanie mam takie samo od początku. Tylko paru idiotów zakończyło całe zrozumienie tematu na poście bluszcza z Siódmego.
+    <br/>
+    <br/>rorio:
+    <br/>(czy też może ryjocośtam)
+    <br/>
+    <br/>Jedna z zasad dobrego wychowania mówi, że nawet jeśli się z kimś nie zgadzasz, to nie przekręcasz jego ksywki. To jest argument na poziomie piaskownicy - &quot;brak mi argumentów, więc będę cię przezywać&quot;. Ogólnie zachowujesz się jak tłum nastolatek przed koncertem - &quot;ktośtam cośtam śpiewa, sławny jest to pójdę, może mnie w telewizji pokażą&quot;. Jak masz coś konkretnego do powiedzenia to powiedz, chyba że nabijasz sobie staty w googlach.
+    <br/>
+    <br/>szatan (...):
+    <br/>
+    <br/>Jeśli oceniasz ludzi po googlach, to twój nick zwraca równie obfity wkład w cokolwiek. Zacznij teraz na dobry początek przeglądać repozytoria CVS i subversion. Jak więcej projektów przyłączy się do CIA (cia.navi.cx), to będziesz mógł mnie śledzić też na żywo via WWW. A teraz odejdź w pokoju, ja nie mam duszy, przyszedłeś na marne.
+- id: 544
+  author: Ert
+  author_url: ''
+  date: '2005-02-03 19:44:54 +0100'
+  date_gmt: '2005-02-03 19:44:54 +0100'
+  content: |-
+    Patrys:
+    <br/>
+    <br/>Raz: Nie rozumiem po co kleszczysz o interpunkcje? Ja przeciez nie czepiam sie ze ktoś kończy zdanie tak - :) a nie kropką.
+    <br/>
+    <br/>Dwa: Nigdzie nie napisałem, że uważacie iż wszyscy ludzie na świecie są Jellonkami - ale za  takich macie nistety użytkowniów (no z wyjtkami) gg i hapi. Nie rozumiem po co tak generalizujecie?
+    <br/>
+    <br/>Trzy: Wybacz ale zaczeli bronić Cie swoim ciałem Twoi koledzy w taki sposób iż wygladało to na jakąś sektę. A ja mimo wszytko od nich żadnych argumentów sie nie doczekałem. Co wiecej zacztę mi wciskać ciemnotę ze hej!
+    <br/>
+    <br/>Cztery: Twój pierwszy i drugi tekst znacznie się różnią. Rzekłbym - jakby nie przez tą samą osobę pisane. Dlaczego nie mozna było tak od razu?
+    <br/>
+- id: 545
+  author: Patrys
+  author_url: ''
+  date: '2005-02-03 19:54:22 +0100'
+  date_gmt: '2005-02-03 19:54:22 +0100'
+  content: |-
+    Napisałem że mnie poniosło - to raz. A dwa - tekst z założenia był sarkastyczny - jak i zawartość tego joggera. Takie spojrzenie na życie. Krytyka nie zawsze oznacza poczucie wyższości.
+    <br/>
+    <br/>Dwa - mam sporo znajomych na gadu i pewnie część z nich przesiądzie się na hapi. Ja tylko uważam, że namawianie ludzi do przejścia masowo na nieprzygotowaną sieć jest bez sensu. Kiedy ludzie będą łatwo zabezpieczać się przed śmieciami w komunikatorach - droga wolna, niech nawet moje koty używają jabbera. Póki co, szczęście jednych równa się nieszczęściu drugich i o ile suma radości wyjdzie w układzie na zero, część osób na tym ucierpi.
+    <br/>
+    <br/>Trzy - moich kolegów tu jak na lekarstwo. Połowę nicków widzę po raz pierwszy, z resztą nie utrzymuję żadnego kontaktu poza koegzystencją w sieci. To nie jest sekta moich znajomych.
+- id: 546
+  author: szzzzzz...ej?
+  author_url: ''
+  date: '2005-02-04 00:09:44 +0100'
+  date_gmt: '2005-02-04 00:09:44 +0100'
+  content: |-
+    ert:
+    <br/>dwa - uwazam, ze zle zrozumiales - nikt nie mowi, ze wiekszosc uzytkownikow gg i hapi to jelenie - chodzi raczej o to, ze niewielka czesc bardzo &#039;aktywnych&#039; (w negatywnym niestety sensie) uzytkownikow gg jest bardzo widoczna. Nie chodzi tylko o ludzi od &#039;CzESC PoKLiKaSH&#039;, ale tez i tych, ktorzy znajduja losowa ofiare zeby obrzucic ja miesem czy wyjechac z innymi obelzywymi tekstami. Uzytkownicy ograniczeni umyslowo - ja rowniez tak bym ta grupe nazwal - jest to o tyle grupa niewielka co uciazliwa. Fakt, ze ktos chce sie odciac od takiego zjawiska stanowi o zdrowiu spoleczenstwa - zauwaz, ze dewiantow sie zamyka albo sie od nich ucieka. Mnie tam moze nie zaczepiaja za czesto, natomiast sprawdz jak czesto i w jaki sposob zaczepiane sa np kobiety. Uwazasz to za chwalebne? Ja uwazam, ze od tego typu ludzi trzeba sie odciac. Prosta sprawa - na chamstwo w sieci jedyna rada to odciecie od chama.
+    <br/>Inna sprawa to odcinanie sie na zasadzie &#039;nie chce gadac z ludzmi z hapi&#039; czy &#039;nie chce dostawac wiadomosci &lt;CzE POOKliikASH?&gt;&#039; - tutaj kwestia tez nie jest moim zdaniem sporna. Trzeba dac mozliwosc. Zgadzam sie, ze nie wolno odgornie klasyfikowac ludzi, ale uwazam, ze trzeba pozwolic komus decydowac z kim gadac chce a z kim nie chce - jesli nie chce gadac z ludzmi z hapi to jego brocha i wara innym od tego. Jak ktos z hapi nie chce gadac z ludzmi z chrome.pl to tez jego biznes.
+    <br/>I nie ma tu zadnej &#039;elyty&#039; ani bandy faszystow. Trzeba dac ludziom mozliwosc konfiguracji kontaktow tak jak tego chca. Ja nie widze w tym nic zlego. Bede chcial to zablokuje sobie wszystkich z hapi, nie bede chcial to nie - moj biznez z kim chce a z kim nie chce rozmawiac.
+    <br/>Trzy: niezaleznie od tego ile bylo obroncow iloscia postow przebiles wszystkich - nie mogles zostawic posta NA TEMAT dyskusji? musiales pyskowac kazdemu po kolei i snuc teorie spiskowe o elycie? 90% postow, ktore splodziles nie dotyczy ani tego bloga ani tematu.
+    <br/>Cztery - Jak czytam twojego ostatniego, zjadliwego nawet posta to jest zaskakujaco rozny od pierwszego i poprzenich (elyta pierdoli!).
+    <br/>Radze przeczytac dokladnie o co chodzi w temacie, bo nie probujesz nawet dyskutowac o tym o czym dyskusja miala sie toczyc, dodatkowo przeczytaj jeszcze raz swoje posty i zobacz czy przypadkiem na tle dyskutantow wypadasz tak rewelacyjnie jak ci sie (chyba) wydaje... Samokrytyka bywa wskazana.
+- id: 547
+  author: Jaras
+  author_url: ''
+  date: '2005-02-04 00:28:30 +0100'
+  date_gmt: '2005-02-04 00:28:30 +0100'
+  content: najśmieszniejsze jest w tym wszystkim to, iż każdy interpretuje to, co
+    napisał patrys, na swój sposób i jak mu coś nie podpasuje, to z ryjem, a jak ktoś
+    mu to próbuje wytłumaczyć, to chwyta się zasady &quot;tylko winny się tłumaczy&quot;.
+    tak więc skoro sam z siebie robi jelenia i jednocześnie pieje, jaki to on nie
+    jest dorosły inteligent, to co można pomyśleć o ludziach, którzy skusili się na
+    komunikator hapi, widząc wcześniej ichną stronę główną ( wrzaskuny? - czy ja jeszcze
+    kureva żyję? ). i żeby rozwiać wszelkie wątpliwości interpretacyjne - to w zamierzeniu
+    jest zjadliwy dowcip...
+- id: 548
+  author: blue/enigma
+  author_url: ''
+  date: '2005-02-04 11:06:02 +0100'
+  date_gmt: '2005-02-04 11:06:02 +0100'
+  content: |-
+    Jezuch/Ert: Racja. To że ja tak uważam i ja tak powiedziałam nie znaczy że cała społeczność jest moimi klonami :P. Jednocześnie uważam jellonki za określenie dosyć plastyczne. Jellonek = kretyn, idiota, etc, a takowych użytkowników Hapi poznałam. Jeżeli z serwera hapi odezwie mi się ktoś ludzki to napewno nie nazwę go jellonkiem. Mówię Z SERWERA hapi, a nie koniecznie z komunikatora, bo sam fakt że ktoś się cieszy z wrzaskających mu przy uchu emotek pokazuje stan umysłu tejże osoby. Poziom 3letniego dziecka, proste.
+    <br/>
+    <br/>/me out. Ert powinien poszukać do dyskusji ludzi na swoim poziomie - po co używać jakiś argumentów? Przypierniczyć przeciwnikowi pluszowym miśkiem, a jak!
+- id: 549
+  author: Ert
+  author_url: ''
+  date: '2005-02-04 11:52:27 +0100'
+  date_gmt: '2005-02-04 11:52:27 +0100'
+  content: |-
+    szzzzzz...ej?
+    <br/>dwa: uważałem i uważam spawe za zbyt mocno wyolbrzymioną, i zauważ ze piszesz o obrzucaniu miesem, chamstwie itp. ZGADZAM SIE Z TYM W 100%. Ale Patrys nie pisał w swoim pierwszym poście o obrzucających miesem uzytkownikach lecz o zaczepkach w stylu &quot;hej jak skonfigurować emotki&quot;. A to już co innego. Nie wrzucajmy do tego samego worka wszytskich.
+    <br/>trzy: czy przebiłem wszytskich - pewnie tak, ale obłudą i zakłamaniem niektórym nie dorównałem
+    <br/>cztery: w którym to fragmencie mój ostatni post jest zjadliwy?
+    <br/>&quot;Radze przeczytac dokladnie o co chodzi w temacie, bo nie probujesz nawet dyskutowac o tym o czym dyskusja miala sie toczyc&quot; - w momencie w którym się wtrąciłem dyskusja toczyła sie czy Jellonki nazwać Bucami i czy przypadkiem tego terminu jakiś gej nie wymyslił.
+    <br/>To w jakim kierunku miała się toczyc dalej ????
+    <br/>
+    <br/>Czy wydaje mi się ze wypadłem rewelacyjnie- to nie konkurs na idola, a samokrytyka przydała by sie obudwu stronom.
+    <br/>
+    <br/>Jaras: A czy to taki dziwne że każdy jakakolwiek wiadomość interpretuje we własny sposób?? Taka jest natura ludzka..
+    <br/>
+    <br/>blue/enigma: tutaj szkoda gadac - jeśli chodzi o zrozumienie tekstu szczególny Twój popis to fragment o skinach eh....
+    <br/>
+    <br/>A na koniec: W sumie najbardziej jestem zdziwony (zaskoczony) odpowiedzią Patrysa, bo jako pierwszy napisał pare sensownych słów, i choc z jego opiniami zagadzac sie nie musze to była to zupełnie inna wypowiedz niż reszty.
+- id: 550
+  author: blue/enigma
+  author_url: ''
+  date: '2005-02-04 12:00:26 +0100'
+  date_gmt: '2005-02-04 12:00:26 +0100'
+  content: 'Ert: a ty świetny popis dałeś tekstem o chuderlawych informatykach. &#039;Ja
+    jestem super a wy nie! Wy, chuderlawi informatycy!!&#039;. Do chamów po chamsku...
+    Nie mam zamiaru już cię komentować, żeby nie zgłupieć, bo o to tu nie trudno.
+    Dyskusja jest poprostu bez sensu. Ja mam takie zdanie i już. Pokazałam je poprzednimi
+    postami i nie muszę się nikomu tłumaczyć dlaczego tak a nie inaczej, tym bardziej
+    nie muszę się tłumaczyć komuś na tak niskim poziomie. Jak mam odpowiednio komentować
+    bzdurne posty? Litości.'
+- id: 551
+  author: Ert
+  author_url: ''
+  date: '2005-02-04 12:10:06 +0100'
+  date_gmt: '2005-02-04 12:10:06 +0100'
+  content: "wypowiedz szzzzzz...ej? - Prosta sprawa - na chamstwo w sieci jedyna rada
+    to odciecie od chama.\n<br/>wypowiedz blue/enigma - Do chamów po chamsku... \n<br/>\n<br/>Niewielka
+    czesc bardzo &#039;aktywnych&#039; (w negatywnym niestety sensie) uzytkownikow
+    Jabbera jest również bardzo widoczna\n<br/>\n<br/>No cóż, dalszy komentarz zostawaim
+    reszcie..."
+- id: 552
+  author: Ert
+  author_url: ''
+  date: '2005-02-04 12:23:18 +0100'
+  date_gmt: '2005-02-04 12:23:18 +0100'
+  content: chciałem tylko dodać ze akutat z 1 opinią się zgadzam, to druga w stylu
+    &quot;oko za oko&quot; jest delikatnie mówiąc niebezpieczna, a termin jellonki
+    dotyczy równiez niektórych osób uzywających Jabbera.
+- id: 553
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-04 14:01:33 +0100'
+  date_gmt: '2005-02-04 14:01:33 +0100'
+  content: Ert, Twoimi głównymi argumentami tutaj były inwektywy ZANIM pojawiła się
+    tu eni, więc bądź łaskaw nie odwracać kota ogonem i nie odciągać uwagi od zasadniczej
+    części - przyszedłeś tu, zacząłeś się ciskać na wszystkich nie podając ani jednego
+    konkretnego argumentu, a teraz taki niewinny bo wreszcie jednej osobie z wielu
+    dyskutujących z Tobą nerwy puściły po przeczytaniu kilkudziesięciu Twoich obelg?
+    Daj spokój... Takie numery to na Wiejskiej w Warszawie, politycy się w tym specjalizują,
+    czytelnikom tutaj oczu nie zamydlisz.
+- id: 554
+  author: Ert
+  author_url: ''
+  date: '2005-02-04 14:11:21 +0100'
+  date_gmt: '2005-02-04 14:11:21 +0100'
+  content: 'nie moja wina że dziewczyna nie ma charakteru, nie robie z siebie niewiniątka,
+    i nie bdząź smeiszna - teraz ty próbujesz odwracac kota ogonem i tłmaczyć swoja
+    koleżankę z głupot jakie powypisywała by nikt nie pomyslał ze to jest wasze stanowisko
+    na ten temat. Takie numery to na Wiejskiej w Warszawie, politycy się w tym specjalizują,
+    czytelnikom tutaj oczu nie zamydlisz. '
+- id: 555
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-04 14:14:53 +0100'
+  date_gmt: '2005-02-04 14:14:53 +0100'
+  content: 'Nikt z nas nie odpowiada za eni, nikt nie próbuje jej tłumaczyć, a Ty
+    znów odwracasz uwagę. To czy eni Cię obraziła czy nie nie ma nic wspólnego z nami.
+    Natomiast Ty obrażałeś również mnie choćby, całkowicie bezpodstawnie, więc ponownie:
+    nie mydl oczu. Odpowiedzialność zbiorowa to nie ta epoka.'
+- id: 556
+  author: Ert
+  author_url: ''
+  date: '2005-02-04 14:21:44 +0100'
+  date_gmt: '2005-02-04 14:21:44 +0100'
+  content: nie rozumiem po co wiec zabierasz głos? po to zeby mi dołozyć?  Co jest
+    najśmieszniejsze że jak byłem złośliwy i zjadliwy to było żle, jak nie jestem
+    - jeszcze gorzej. Zastanów się nad tym.
+- id: 557
+  author: Jaras
+  author_url: ''
+  date: '2005-02-04 14:23:10 +0100'
+  date_gmt: '2005-02-04 14:23:10 +0100'
+  content: |-
+    &quot;Odpowiedzialność zbiorowa to nie ta epoka.&quot; - ale jak działa...
+    <br/>Poza tym, klikając w link chyba dobrze widziałem wyraz &quot;komentarze&quot; a nie &quot;forum&quot;, bo jakieś takie dziwne wrażenie odnoszę, że mnie ktoś tu w chuja robi =].
+- id: 558
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-04 14:27:09 +0100'
+  date_gmt: '2005-02-04 14:27:09 +0100'
+  content: |-
+    Nie ert, doceniam że przestałeś już bluzgać tylko nie zmienia to faktu, że takimi wypowiedziami RÓWNIEŻ się tu zaprezentowałeś, wciąż kłują w oczy i w tym momencie Twoje oburzenie na eni jest moim zdaniem delikatnie mówiąc nie na miejscu. &quot;Kto jest bez winy...&quot; - i tak dalej.
+    <br/>
+    <br/>Nadal zresztą nie wiem, co konkretnie masz nam do zarzucenia, poza tym że ogólnie jesteśmy Evil Elitą (TM) ;)
+- id: 559
+  author: Ert
+  author_url: ''
+  date: '2005-02-04 14:40:26 +0100'
+  date_gmt: '2005-02-04 14:40:26 +0100'
+  content: |-
+    To jak to jest. Pierwsz tekst Patrysa był delikatnie mówiąc ciety i teraz mam ciągle pić do niego o te teksty mimo że napisał że go poniosło? Jaq nie pisze że jestem swiety - bo nie jestem i nie chce być. Jej oburzenie jest już zupełnie nie na miejscu.
+    <br/>Nie wiesz co mam do zarzucenia - dziwne, bo to wcześniej napisałem.
+- id: 560
+  author: Jaras
+  author_url: ''
+  date: '2005-02-04 14:44:34 +0100'
+  date_gmt: '2005-02-04 14:44:34 +0100'
+  content: '&quot;mimo że napisał że go poniosło&quot; - mnie się wydaje, iż napisał
+    tak, by uciszyć to wściekłe ujadanie i nagonkę na siebie...'
+- id: 561
+  author: Ert
+  author_url: ''
+  date: '2005-02-04 14:51:39 +0100'
+  date_gmt: '2005-02-04 14:51:39 +0100'
+  content: to jak jest naprawde wie tylko on
+- id: 562
+  author: Jaras
+  author_url: ''
+  date: '2005-02-04 14:58:45 +0100'
+  date_gmt: '2005-02-04 14:58:45 +0100'
+  content: |-
+    ty chyba piszesz po to, by pisać. podajesz oczywiste rzeczy, jakbyśmy tego nie wiedzieli. bezpodstawnie traktujesz nas jak idiotów. wywyższając się, załączasz się niejako do grona jakieś elity. tyle w sprawie elitarności, która to jest be, jak sam wciąż wspominasz...
+    <br/>napisałem &quot;mnie się wydaje&quot; - ty chyba nie czytasz komentarzy, na które odpowiadasz nawet...
+- id: 563
+  author: Ert
+  author_url: ''
+  date: '2005-02-04 15:03:35 +0100'
+  date_gmt: '2005-02-04 15:03:35 +0100'
+  content: |-
+    he he he - no i prosze ile jadu w tym poście.
+    <br/>odejdz na chwile od kompa, ochłoń.
+    <br/>Tak nienawiść przesłania ci oczy ze to ty nie potrafisz zrozumiec tekstu.
+- id: 564
+  author: batou
+  author_url: ''
+  date: '2005-02-04 15:04:32 +0100'
+  date_gmt: '2005-02-04 15:04:32 +0100'
+  content: Po co ktoś w ogóle jeszcze karmi trola? Nie karmić, to zdechnie.
+- id: 565
+  author: Ert
+  author_url: ''
+  date: '2005-02-04 15:05:29 +0100'
+  date_gmt: '2005-02-04 15:05:29 +0100'
+  content: widzicie jak sie sytuacja ładnie odwórciła - jak Partys napisał 1 tekst
+    po którym na niego najeżdzano to sie burzyliście na tych wszytskich, którzy to
+    robili - sami nie jesteście lepsi.
+- id: 566
+  author: Ert
+  author_url: ''
+  date: '2005-02-04 15:06:22 +0100'
+  date_gmt: '2005-02-04 15:06:22 +0100'
+  content: batou - jak tam było w lesie?
+- id: 567
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-04 15:10:10 +0100'
+  date_gmt: '2005-02-04 15:10:10 +0100'
+  content: "No więc dobrze. Chciałeś to masz :&gt;\n<br/>Mówisz że wcześniej napisałeś.\n<br/>Jako
+    że mam chwilę czasu :] pozwoliłam sobie zebrać to wszystko razem i wypunktować
+    (to co dało się zaklasyfikować jako zarzut względnie ocenę):\n<br/>1. Miło poczytać
+    jak tzw. &quot;elyta&quot; pierdoli o niczym. Może oni są jelonkami, ale wy Jeleniami
+    na 100%\n<br/>2. poziom dyskusji był tak niski (geje, blond dziewczatka itp.)\n<br/>3.
+    chcesz cytaty - masz cytaty: \n<br/>&quot;...i tłumów zbyt skąpo obdarownaych
+    przez życie intelektem dzieci&quot; \n<br/>&quot;Przepuścić hordy matołów dla
+    własnej satysfakcji?&quot;\n<br/>4. do batou: Problem jest taki, że jednym z prboblemów
+    internetu (sieci dostepnej dla wszystkich) jestes TY.\n<br/>5. hmmm co próbuję
+    powiedzieć. Może to, że smieszne jest to wasze kółko wzajemniej adoracji, próba
+    przywłaszczenia sobie pewnych rozwiązań i po ogromnej plamie jaką dał Patrys tłumaczenie
+    ze to co widzę i czytam to nie jest to, ze źle to zrozumiałem.\n<br/>6. Naprawde
+    dawno nie widziałem takiej obłudy i hipokryzji jaka tutaj rządzi.\n<br/>7. a obrażanie
+    to domena waszekj sekty, nie moja\n<br/>8. Nigdzie nie napisałem, że uważacie
+    iż wszyscy ludzie na świecie są Jellonkami - ale za takich macie nistety użytkowniów
+    (no z wyjtkami) gg i hapi. Nie rozumiem po co tak generalizujecie?\n<br/>9. pisał
+    w swoim pierwszym poście o obrzucających miesem uzytkownikach lecz o zaczepkach
+    w stylu &quot;hej jak skonfigurować emotki&quot;. A to już co innego. Nie wrzucajmy
+    do tego samego worka wszytskich.\n<br/>10. obłudą i zakłamaniem niektórym nie
+    dorównałem\n<br/>\n<br/>i teraz tak:\n<br/>1 - czy chcesz polemizować na temat
+    tego że był to konkretny zarzut czy zgodzisz się ze mną, że po prostu po nas pojechałeś?\n<br/>2
+    - j.w.\n<br/>3 - styl Patrysa... Ponieważ przyjąłeś tłumaczenie &quot;poniosło&quot;
+    ja się tu dodatkowo wcinać nie będę jakkolwiek i tak uważam że nie było w nich
+    nic aż tak karygodnego żeby takie larum o to podnosić - ale to inna bajka.\n<br/>4
+    - patrz 1 i 2\n<br/>5 - ok, tu starałeś się powiedzieć o co Ci chodzi, tylko nie
+    wiem dlaczego odbierasz zgadzanie się kilku osób w jakiejś sprawie za kółko wzajemnej
+    adoracji. Uważasz że jeśli żadnemu z nas nie podoba się jeżdżenie po nas ot-tak,
+    to znaczy że to od razu wzajemna adoracja? A o próbie przywłaszczania sobie rozwiązań
+    to już zupełnie nie rozumiem - nikt nie przywłaszcza sobie jabbera ani prawa do
+    decydowania o nim (zresztą szans by przecież nie miał!). Patrys (i reszta tu dyskutujących)
+    wyraziła swoje ZDANIE na temat wpuszczania *w tej chwili* na jabbera nieuświadomionych
+    użytkowników. Mamy chyba do tego prawo? Tak jak Ty masz prawo się z tym zdaniem
+    nie zgadzać, naturalnie.\n<br/>6 - co w naszym zachowaniu jest obłudne, czym konkretnie
+    wyraziła się hipokryzja, czyli dwulicowość?\n<br/>7 - przez bardzo bardzo długi
+    czas NIKT nawet nie był bliski obrażania Ciebie, mimo że to Ty zacząłeś od wjazdu
+    &quot;pierdolicie&quot;. Jesteś po prostu nie fair.\n<br/>8 - Nie, nie uważamy
+    że *wszyscy* użytkownicy gg/hapi są jellonkami. Ba! My nie uważamy nawet że *większość*
+    z tych użytkowników jest jellonkami. Uważamy tylko, że te jellonki które tam są
+    - są bardzo uciążliwe i najbardziej widoczne. Zdajemy sobie sprawę że wraz z upowszechnieniem
+    jabbera wśród użytkowników gg przejdą do nas nie tylko ci normalni, ale również
+    ci uciążliwi - czysta statystyka. Jeśli dotąd użytkowników gg &#039;przesiedlonych&#039;
+    na jabbera było 100, a wśród tego 5 jellonków (którzy z racji tego że było ich
+    tylko 5 nie byli uciążliwi) to jak teraz przeciągniemy 10 000 nowych, to pewnie
+    będzie tam jellonków 500, co już będzie niefajne. Dlatego część z nas wolałaby,
+    żeby takie migracje odbyły się, kiedy będziemy mieli możliwość zablokowania tej
+    nachalnej 500 - czy to takie trudne do zrozumienia?\n<br/>9 - Dla mnie podobnie
+    uciążliwe są osoby które bluzgają, jak również te które trują &quot;no heeeej,
+    ale pogaaaadaj, no ale jaaak mozesh nie urzywać hapi&quot; (błędy zamierzone).\n<br/>10
+    - p. 6\n<br/>\n<br/>Wracam więc do tego o co Ci tak naprawdę chodzi, bo z analizy
+    wszystkiego co napisałeś najbardziej zbliżone do argumentów były p. 3, 5 i 8,
+    tylko nie wydaje mi się żeby można to co tu poruszasz zaklasyfikować do przewinień
+    tego kalibru, żeby wjeżdżać tu z tekstem &quot;elita pierdoli&quot; i całej tej
+    reszty."
+- id: 568
+  author: Ert
+  author_url: ''
+  date: '2005-02-04 15:17:18 +0100'
+  date_gmt: '2005-02-04 15:17:18 +0100'
+  content: matko boska nie mam teraz czasu na alalize twojego postu, jak znajde to
+    odpowiem - no chyba ze cie to nie inetresuje i masz już o tym (jak np. baou i
+    jaras) wyroboine zdanie.
+- id: 569
+  author: szzzzzz...ej?
+  author_url: ''
+  date: '2005-02-04 15:27:09 +0100'
+  date_gmt: '2005-02-04 15:27:09 +0100'
+  content: |-
+    ert
+    <br/>dwa - jak chodzi o pierwszy post patrysa to sam autor juz go prostowal - pisal, ze forma faktycznie jest dosc kontrowersyjna, sprowokowala zreszta np bluszcza. Uwazasz, ze problem jest wyolbrzymiony - ja mam podobne odczucia, moim zdaniem artykul w takiej formie nie powinien sie znalezc na 7thguardzie - to wyolbrzymilo problem - wczesniej to byla nasza dyskusja w niewielkim gronie (nie elyty a znajomych) na temat patrysowego zdania, a chyba zgodzisz sie niewielka grupka ludzi perorujaca na jakis temat to nie problem na skale swiatowa. Taka forma artykulu na 7thg i podparcie sie postem patrysa wywolala wrecz niezdrowa dyskusje.
+    <br/>Mowisz, ze nie wolno wrzucac do jednego worka klikaczy i chamow - no pewnie , ze nie, ale nalezy dac mozliwosc blokowania zarowno jednych jak i drugich. Nie kazdy musi chciec poklikac i nie kazdy musi chcec gadac z chamem - czemu wiec nie dac mozliwosci blokowania wszystkim uzytkownikom..? To zalatwi problem. Jezeli razi cie to, ze ktos tak a nie inaczej sklasyfikowal klikaczy to zauwaz, ze sam klasyfikujesz - na podstawie kilku postow potrafisz wysnuc teze o tym czy ktos jest &#039;elyta&#039; czy tez, ze ktos &#039;nie ma charakteru&#039;. Nie mam checi sie klocic na temat oceniania ludzi, bo to jest wlasnie jedna z niepotrzebnych czesci calej dyskusji.
+    <br/>trzy : &quot;ale obłudą i zakłamaniem niektórym nie dorównałem&quot; - to jest twoje zdanie, chodzilo mi o to, ze zacietrzewieniem przebiles kazdego
+    <br/>cztery - zjadliwy nie od slowa &#039;jad&#039; tylko od &#039;nadajacy sie do zjedzenia&#039;, zjadliwy znaczy potocznie sensowny, do przyjecia
+    <br/>Zadalem pytanie o pochodzenie slowa &#039;jellonki&#039;, bo mialem nadzieje, ze temat jest juz jasny i skonczony. Ponadto zauwaz, ze to jest jogger, nie forum dyskusyjne, tak po prawdzie tutaj powinny znajdowac sie komentarze i luzne spostrzezenia odnosnie posta. Specjalnie dla ciebie temat jednak zostal zreaktywowany wiec starajmy sie go trzymac.
+    <br/>A na koniec - patrys odpisal ci na poziomie innym niz reszta poniewaz patrys nie mial checi znizac sie do panujacego poziomu dyskusjo-pyskowki.
+    <br/>Nie mam zamiaru wnikac &#039;kto zaczal&#039;. Jezeli chcesz dyskutowac to mowmy na temat.
+- id: 570
+  author: Jaras
+  author_url: ''
+  date: '2005-02-04 16:32:19 +0100'
+  date_gmt: '2005-02-04 16:32:19 +0100'
+  content: |-
+    &quot;A na koniec - patrys odpisal ci na poziomie innym niz reszta poniewaz patrys nie mial checi znizac sie do panujacego poziomu dyskusjo-pyskowki.&quot; - zaraz usłyszysz, iż to wie tylko on...
+    <br/>wracając do tematu - jak na razie jedyne, o czym mam w tym tutaj temacie wyrobione zdanie, jest hapi. wejdź na stronę główną komunikatora i po jego bądź co bądź wyglądzie jak i dostępnych funkcjach ( wrzaskunów po prostu nie odpuszczę, a i przydałoby się zastanowić, po ki grzyb komu avatary ) zastanów się, do kogo ten komunikator jest skierowany &lt;=&gt; równoważnie jakiego pokroju ludzi autorzy komunikatora chcą do niego przyciągnąć!!! jednakowoż nie twierdzę wcale, iż tylko ci ludzie będą z tego korzystać, aczkolwiek będzie ich zdecydowanie dużo. jeśli chodzi o Ciebie, to nie mam wyrobionego zdania, aczkolwiek pierwsze wrażenie robi się tylko raz...
+- id: 571
+  author: Ert
+  author_url: ''
+  date: '2005-02-04 17:06:07 +0100'
+  date_gmt: '2005-02-04 17:06:07 +0100'
+  content: |-
+    Ok postaram pare zdań napisac.
+    <br/>
+    <br/>Cachotterie:
+    <br/>Na początku chciałbym zauwazyc jedną ciekawą rzecz: napisałaś że: Jeden wpis na joggu i pierwsza strona w 7thguardzie, tyyyyle komentarzy, jejku jej... ;]
+    <br/>wiem, wiem, napisałas to na żarty - no ale czy ja swoimi czasem złośliwymi tesktami nie wzbudziłem podobnnego tutaj zamieszania? - zartuje - i mowie to od razu bo zaraz lament sie podniesie bym sie i swoich testów nie porównywał do ....
+    <br/>
+    <br/>Ok. ZAczęło się tak, że zaglądnełem na ten blog (po przeczytaniu artykułu w 7) by zobaczyc &quot;drugą strone okopów). Liczyłem ze bedziecie miec swoje własne, choć nie zawsze słuszne ale mimo wszytsko spostrzezenia. Pech chciał, ze tradfiłem na teksty jakie trafiłem. Troche nasmiewania sie, troche zgryźliwości - niewiele pożytecznej dyskusji.
+    <br/>Stąd odnoszac sie do punktu 1 Twojej wypowiedzi Taka była moja reakcja. Może było to przegiecie, no ale nie dało by takiego efektu gdybym uzył słowa &quot;rozmawiacie&quot; lub innego.
+    <br/>
+    <br/>
+- id: 572
+  author: Jaras
+  author_url: ''
+  date: '2005-02-04 17:12:17 +0100'
+  date_gmt: '2005-02-04 17:12:17 +0100'
+  content: '&quot;nie dało by takiego efektu gdybym uzył słowa &quot;rozmawiacie&quot;
+    lub innego.&quot; - to może świadczyć tylko i wyłącznie o tym, że nie potrafisz,
+    a nie że się nie da. i żeby było wszystko jasne - ja też często nie potrafię =].'
+- id: 573
+  author: Ert
+  author_url: ''
+  date: '2005-02-04 17:13:42 +0100'
+  date_gmt: '2005-02-04 17:13:42 +0100'
+  content: |-
+    punkt 3 - widziswz może Ty tak nie uwazasz ale jest to jednak mimo wszystko obraźliwe dal jakiejś częsci osób - zupełnie niepotrzebnie.
+    <br/>
+    <br/>punkt 4 - cytat batou: &quot;Czy mam rację, podejrzewając że jesteś jednym z tych ludzi, którzy zgodziliby się na spęd bydła przez własne podwórko, bez żadnych zasad i ostrzeżeń? Tak to właśnie wygląda.&quot;
+    <br/>Wielce trafnego porównaniua uzył tu komentator, nie wiem może po prostu wcześniej miał jakies problemy w tym wzgledzie. Ja, w czasach kiedy byłem jeszcze niedoświadczonym userem, wolałbym go na sieci nie spotkac.
+- id: 574
+  author: batou
+  author_url: ''
+  date: '2005-02-04 17:20:04 +0100'
+  date_gmt: '2005-02-04 17:20:04 +0100'
+  content: Wielce trafnego. Nawet młotek wymaga manuala, bo można sobie (albo, co
+    gorsza, komuś innemu) nim zrobić krzywdę. Autorzy Hapi rezygnując z informowania
+    swoich użytkowników, że podłączają się do sieci większej niż gg czy hapi spowodowali
+    chaos, który można porównać właśnie z przepędzaniem bydła przez jakiś obszar.
+    Wpuścili gromadę niedoinformowanych i niestety często też pozbawionych dobrego
+    wychowania w tej dziedzinie ludzi na nowy obszar. Już świta ocb, czy rozwinąć
+    jeszcze i dodać, że nie napisałem wyżej, że użytkownicy hapi to dla mnie bydło?
+- id: 575
+  author: Ert
+  author_url: ''
+  date: '2005-02-04 17:21:10 +0100'
+  date_gmt: '2005-02-04 17:21:10 +0100'
+  content: |-
+    punkt 5 - to moje i wasze zdanie na ten temat i nie bede sie wiecej o nim rozpisywał
+    <br/>
+    <br/>punkt 6 - to punkt o panu Jezuchu, któremu wytknełem pare dalikatnie mówiąc niescisłości - a po których wił się jak piskorz i mącił. Nie potarafił się przyznac, ze najpierw mówi jedno, za chwilę drugie.
+    <br/>
+    <br/>7 - o hipokryzji patrz punkt wyżej
+    <br/>
+- id: 576
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-04 17:22:44 +0100'
+  date_gmt: '2005-02-04 17:22:44 +0100'
+  content: "Szczerze mówiąc tamten tekst był w chwili skrajnego &quot;opadnięcia rąk&quot;
+    jak już całkiem zwątpiłam że cokolwiek ktotokolwiek zrozumie. Ironia, żart w takiej
+    chwili pomaga mi nie bluzgać ;) Tyle odnośnie tego.\n<br/>\n<br/>A reszta: rzeczywiście
+    trochę &#039;pecha&#039; miałeś że akurat nastąpiło przesycenie tematem, przez
+    co &quot;rozluźnienie&quot; atmosfery i zamiast poważnie dyskutować - żartowaliśmy
+    odnośnie nazewnictwa i tego kto je wymyślił, ale nikt z nas nigdy nie twierdził,
+    że jesteśmy na poziomie profesorów z uczelni i tylko poważne rozmowy toczymy.
+    Nam też zdarza się prowadzić gadki o &quot;dupie Maryni&quot; - i nie uważam żeby
+    to był powód do wstydu i nie o to mamy pretensje do &quot;jellonków&quot; - po
+    prostu my toczymy je między sobą, znając się nieraz kawał czasu, nieraz krótko
+    ale &quot;intensywnie&quot; - wiemy czego się po sobie spodziewać i kiedy należy
+    przestać. Bawimy się we własnej piaskownicy, nikomu nie przeszkadzamy i dlatego
+    tez nie lubimy jak któraś osoba z kolei przeszkadza nam, na dodatek albo mało
+    ciekawą zaczepką pt. &quot;jak ustawić emotki&quot; (szczególnie jeśli jest to
+    10 zaczepka w ciągu tygodnia z tą sprawą), albo osoba nieprzyjmująca odmowy &quot;nie,
+    nie mam czasu/ochoty&quot;.\n<br/>\n<br/>I tak, zgadzam się że głównie ze względu
+    na tak frontalny atak, połączony z pogardliwym &quot;elita&quot;, reakcja była
+    jaka była - obrona na atak. \n<br/>\n<br/>Natomiast co do obraźliwości punktu
+    3 - zgadzam się że ktoś mógłby się oburzyć gdyby konkretnie jego tak nazwano,
+    tym bardziej bezpodstawnie, natomiast ponieważ to jest bardzo &quot;niepersonalne&quot;
+    to wydaje mi się że stosują się do tego nieco inne kryteria oceny. Można się poczuwać
+    do bycia zbyt skąpo obdarowanym intelektem bądź nie - jeśli nie czujesz się tak,
+    nie jesteś przecież obrażany. A mimo wszystko twierdzę, że są ludzie którzy *naprawdę*
+    sprawiają wrażenie jakby myślenie bolało i jakby intelektu im mocno brakło...
+    \n<br/>Wcale nie twierdzę że używanie takiego czy innego komunikatora/programu
+    pocztowego/systemu/cokolwiek ma tu kluczowe znaczenie - to raczej na pewnym komunikatorze
+    takie osobniki wyjątkowo intensywnie się objawiają...\n<br/>\n<br/>Ot i wszystko
+    chyba w tym temacie. "
+- id: 577
+  author: Ert
+  author_url: ''
+  date: '2005-02-04 17:29:21 +0100'
+  date_gmt: '2005-02-04 17:29:21 +0100'
+  content: |-
+    punkt 8 - tutaj równiez nasze opinie sie rozbiegaja i ja i nic na ten teat nie poradzę - wy uważacie tak ja inaczej
+    <br/>
+    <br/>punkt 9 - Moim zdaniem absolutnie nioe mozna łączyc osób szukających pomocy z osobami, które bluzgają - tutaj robisz duzy błąd
+    <br/>
+    <br/>punkt 10 - pewna pani najpierw porbuje mnie obrazic a potem o mało sie nie rozpłakuje - jednocześnie pzrekręcając moje słowa co wynika albo z ignorancji albo z .... ech nie bede kończyć bo znowu bede miał jatke..
+    <br/>
+    <br/>
+    <br/>
+- id: 578
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-04 17:32:22 +0100'
+  date_gmt: '2005-02-04 17:32:22 +0100'
+  content: |-
+    8 - To jaka jest Twoja opinia w tej sprawie? Bo tak naprawdę o tym zaczął Patrys, a teraz rozmowa toczy się o wszystkim, tylko nie o tym, i w tej sprawie nie mogę znaleźć ani jednego Twojego słowa ;]
+    <br/>9 - Ja nie mówię że one są sobie równe. Nie są. Ale zarówno jedne jak i drugie są dla mnie tak samo *męczące*.
+- id: 579
+  author: Ert
+  author_url: ''
+  date: '2005-02-04 17:33:23 +0100'
+  date_gmt: '2005-02-04 17:33:23 +0100'
+  content: |-
+    Wina leży po obu strochach ale ja pisząc (parokrotnie) że nie jestem świety się do tego przyznałem.
+    <br/>
+    <br/>To wszytsko
+- id: 580
+  author: Jaras
+  author_url: ''
+  date: '2005-02-04 17:34:17 +0100'
+  date_gmt: '2005-02-04 17:34:17 +0100'
+  content: punkt 9 - popełniasz przeogromny błąd myląc ludzi &quot;elo jak zmienić
+    emoty&quot; z ludźmi &quot;przepraszam, nie znamy się, ale mógłbyś poświęcić mi
+    chwilkę czasu?&quot;, już nawet pomijając fakt, iż ci drudzy wpierwej powinni
+    poczytać dokładnie forum, gdzie na 99,9% odpowiedź by znaleźli.
+- id: 581
+  author: buc ror costam
+  author_url: ''
+  date: '2005-02-04 20:15:04 +0100'
+  date_gmt: '2005-02-04 20:15:04 +0100'
+  content: "OK: patryś zgrzeszyłeś pychą. Nasyp sobie na głiowe popiołu. Ok?\n<br/>i
+    przeproś tych na happy!\n<br/>Jeśli twierdzisz że zachowyję się jąk tłóµ naśŧółąŧęĸ
+    to chyba nigdy nie byłeś na koncercie. Ja normalnie wpadłem w trans. \n<br/>co
+    do tego szeeejjj, to on nazywa mnie bucem (nawet to lubie, czyje że staje się
+    bardziej plugawy), to ma poprostu strasznie długiego nika... \n<br/>Możxe cię
+    czegoś nauczyłem: wszędzie pojawią się judzi których sobie nie życzysz: jabberowe
+    jelonki, no i ten okropny buc (ja).\n<br/>Dobrze że napisałeś odpa na 7ce. W wielu
+    miejscach masz racje. ale tak jak ja uznaję cie za antychrysta (ten szatan to
+    dopiero mlotek, pozdrawiamy 666) to ty za złe demony uznajesz ludzi z poza jabbera.
+    koniec. bluszcz dobrze zrobil pisząc tego arta. Wyslij swoje sugestje (englisz
+    :D ) na jakies forum dev jabba. :D [jak ja lubie uśmieszki]\n<br/>Daj sobie spokój
+    z nawracaniem... powróć na drogę otwartości i miłości, bo nie dam ci spokojuuu!
+    alleluja!"
+- id: 582
+  author: Nina
+  author_url: ''
+  date: '2005-02-04 21:18:04 +0100'
+  date_gmt: '2005-02-04 21:18:04 +0100'
+  content: |-
+    Przyglądam się temu wszystkiemu i przyznam, że walczyłam z chęcią wrzucenia kilku swoich zdań w tym całym zamieszaniu. Oszczędzę sobie jednak.
+    <br/>
+    <br/>Pod słowami Patrysa podpisuję się &quot;obiema ręcami&quot;.
+    <br/>
+    <br/>Oprócz tego nagle dotarło do mnie, że powinnam chyba zaprzestać pisać. Jeszcze przypadkiem moje opowiadanie o duszeniu wróbli wpadnie w ręce ludzi pokroju bluszcza i znajdę o sobie informację w wieczornym wydaniu wiadomości ;)
+    <br/>
+    <br/>Brrrr... przerażona normalnie jestem tym faktem.
+- id: 583
+  author: Ert
+  author_url: ''
+  date: '2005-02-04 23:17:11 +0100'
+  date_gmt: '2005-02-04 23:17:11 +0100'
+  content: "Cachotterie,\n<br/>&quot;8 - To jaka jest Twoja opinia w tej sprawie&quot;\n<br/>\n<br/>Moim
+    zdaniem to walka z wiatrakami. I to rozdmuchana na niepotrzeba skale. Walka którą
+    zaczeliście od złej strony. \n<br/>Podobnie bylo z tel. komórkowymi kiedy je wporowadzono
+    - na początku wiele osób uwazało że ludzie je używający sa niewychowani (nie wolno
+    rozmawiac w kawiarni itp.)\n<br/>Jednak z upływem czassu wszytsko spowszedniało,
+    kazdy posiadacz takowego urządzenia nauczy sie jak powinno sie zachowywac i MOIM
+    zdaniem tak bedzie tym razem. Nie nie potrzebne sa te wszytskie działania o których
+    teraz piszecie. Wystarczy poczekac.\n<br/>\n<br/>\n<br/>\n<br/>"
+- id: 584
+  author: Jaras
+  author_url: ''
+  date: '2005-02-04 23:34:01 +0100'
+  date_gmt: '2005-02-04 23:34:01 +0100'
+  content: problem w tym, że jeśli chodzi o walkę z wiatrakami, to wiadomo już o tym
+    od dawna, dlatego też dziwiłEM się poniekąd, skąd w ogóle taka akcja ze strony
+    patrysa. już się nie dziwię, gdyż przypomniałem sobie, jak w kilka osób zaprowadziliśmy
+    ( śmy := moderatorzy + niemoderatorzy =] ) ład i porządek na jednym forum, poprzez
+    właśnie odpowiednią filtrację materiału ludzkiego i konsekwentne nie tyle upominanie,
+    co wręcz chamskie wypominanie błędów. zdziwiłbyś  się jak szybko można człowiekowi
+    wpoić pewne zasady i jak wysoce przejrzysty, klarowny i co najważniejsze wartościowy
+    dzięki temu materiał ( potencjał myślowy ) można uzyskać. czy rozdmuchana na niepotrzebną
+    skalę? - owszem. czy to zasługa patrysa? - wątpię.
+- id: 585
+  author: Ert
+  author_url: ''
+  date: '2005-02-04 23:41:55 +0100'
+  date_gmt: '2005-02-04 23:41:55 +0100'
+  content: |-
+    niestety w czesci jest to jego zasługa - po co tak skonstruowany 1 tekst wysyłał na forum Hapi?
+    <br/>Czy słowa których tam uzył odnosnie jego uzytkowników miały nauczyć ich czegoś? - watpie
+- id: 586
+  author: anetka
+  author_url: ''
+  date: '2005-02-05 10:53:19 +0100'
+  date_gmt: '2005-02-05 10:53:19 +0100'
+  content: |-
+    Ert: nie wszyscy nauczyli się normalnie rozmawiać przez komórki. Widziałam wielu buców, którzy na wykładzie na studiach rozmawiali przez komórkę nie racząc wyjść z sali, widziałam jedną panią, która skutecznie uniemożliwiła szkolenie się, bo przez 20 minut tłumaczyła sekretarce gdzie ma kliknąć (korytarz był duży i przestronny - mogła wyjść, nie zrobiła tego, siedziała tuż przez szkoleniowcem i nadawała). NIGDY nie będzie tak że wszyscy użytkownicy komunikatorów będą umieli rozmawiać na poziomie, zawsze znajdą się ludzie niewychowani, klący, wyzywający, jellonkowaci. Dlaczego nie możemy najpierw się przygotować na odparcie ataku ze strony takich ludzi?
+    <br/>
+    <br/>I jeszcze jedno, poproś jakąś elitę, żeby Cię przyjęła, bo widzę że masz straszne kompleksy, że ktoś w niej jest, a Ciebie nie zapraszają z otwartymi ramionami ;P
+- id: 587
+  author: blue/enigma
+  author_url: ''
+  date: '2005-02-05 20:27:35 +0100'
+  date_gmt: '2005-02-05 20:27:35 +0100'
+  content: |-
+    Ert, tak, obraziłam cię i wcale mi z tego powodu nie jest głupio. Skoro ty spokojnie dowalasz wszystkim po kolei, to tobie powinno być głupio. Nie palnęłam żadnego głupstwa, nie przejęzyczyłam się, ani nie napisałam czegoś z powodu braku kofeiny. Myślę to wszystko co tutaj napisałam. Skoro jednak usilnie próbuję przestać karmić trola, to przynajmniej mógłbyś zachować się po ludzku i nie obrażać mnie. Ups, przepraszam, przecież nie jesteś człowiekiem tylko trolem :/...
+    <br/>
+    <br/>Once again (może jak będę powtarzać w kółko to się wbije do mało pojętnego łba): gdyby cofnąć czas i przeczytałabym te same bzdety twojego autorstwa, to napisałabym DOKŁADNIE TO SAMO. Obraziłeś mnóstwo ludzi i nie masz się co dziwić że ktoś nie wytrzymał. Nagle ert cały bialutki świętoszek, inni to evil elita(tm) (elo Cachotterie :)), a ty jesteś najlepszy i sobie odstawiasz &quot;ha ha ha&quot; i &quot;ha ha ha&quot;...
+- id: 588
+  author: Nina
+  author_url: ''
+  date: '2005-02-06 22:28:07 +0100'
+  date_gmt: '2005-02-06 22:28:07 +0100'
+  content: Nina się zastanawia czy tylko u niej nie działają style i jog Patrysowy
+    jest taki jakiś bezpłciowy, czy też może ogólnie coś się zepsuło? Zaczynam się
+    cholera martwić o swój wzrok ;)
+- id: 589
+  author: Patrys
+  author_url: ''
+  date: '2005-02-06 22:29:57 +0100'
+  date_gmt: '2005-02-06 22:29:57 +0100'
+  content: Już nie jest. Wyłączyłem style switcher póki nie ukatualnię pozostałych
+    styli.
+- id: 590
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-06 22:30:02 +0100'
+  date_gmt: '2005-02-06 22:30:02 +0100'
+  content: Przełącz sobie na default. Patrys zmienił szablon podstawowy i alternatywne
+    póki co się na tym rozjeżdżają.
+- id: 591
+  author: Nina
+  author_url: ''
+  date: '2005-02-06 22:30:50 +0100'
+  date_gmt: '2005-02-06 22:30:50 +0100'
+  content: Tak właśnie zrobiłam :) i widzę zmiany. W końcu widzę normalnie. Myślałam,
+    że może po dzisiejszym dniu coś się we mnie zepsuło ;)
+- id: 592
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-06 22:31:48 +0100'
+  date_gmt: '2005-02-06 22:31:48 +0100'
+  content: Aż tak kiepski dzień że coś się mogło zepsuć? ;)
+- id: 593
+  author: Nina
+  author_url: ''
+  date: '2005-02-06 22:33:22 +0100'
+  date_gmt: '2005-02-06 22:33:22 +0100'
+  content: 'Tragiczny po prostu. W dodatku mam wrażenie, że *największy w życiu* ból
+    głowy na jaki dzisiaj cierpię, zrobił spustoszenie w moim mózgu :) '
+- id: 594
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-06 22:34:34 +0100'
+  date_gmt: '2005-02-06 22:34:34 +0100'
+  content: Tragiczne to jest że zamknęłaś jogga, chlip-chlip. Mam nadzieję że to tylko
+    tymczasowe?
+- id: 595
+  author: Nina
+  author_url: ''
+  date: '2005-02-06 22:37:11 +0100'
+  date_gmt: '2005-02-06 22:37:11 +0100'
+  content: ':x liczyłam, że nikt nie zauważył. Wystraszyłam się prawdę mówiąc prowadzenia
+    go. Zaczynam być zasypywana mailami od wykładowców, którzy na wszelkie &quot;przerwy
+    w dostawie&quot; reagują listami z nagłówkiem &quot;Ciebie mi brak...&quot;.'
+- id: 596
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-06 22:41:29 +0100'
+  date_gmt: '2005-02-06 22:41:29 +0100'
+  content: Heh, nie ma lekko, myślę że sporo osób już zauważyło a jeszcze więcej zauważy
+    ;) I tak, będziesz zasypywana prośbami o powrót, niewątpliwie :)
+- id: 597
+  author: Nina
+  author_url: ''
+  date: '2005-02-06 22:48:51 +0100'
+  date_gmt: '2005-02-06 22:48:51 +0100'
+  content: 'Ech no :( ja nie chcę. '
+- id: 598
+  author: Patrys
+  author_url: ''
+  date: '2005-02-06 22:49:36 +0100'
+  date_gmt: '2005-02-06 22:49:36 +0100'
+  content: A jak nowy layout?
+- id: 599
+  author: Nina
+  author_url: ''
+  date: '2005-02-06 22:51:12 +0100'
+  date_gmt: '2005-02-06 22:51:12 +0100'
+  content: |-
+    Jak dla mnie bardzo bardzo. Tylko w chwili obecnej bardzo mnie razi bo jasno tutaj. Jutro powinno być dobrze :)
+    <br/>
+    <br/>Ale ten czekoladowy (brązowo pomarańczowy?) mi się tak podobał, ech :)
+- id: 600
+  author: Greybrow
+  author_url: ''
+  date: '2005-02-08 09:39:04 +0100'
+  date_gmt: '2005-02-08 09:39:04 +0100'
+  content: |-
+    aaaa... ratunku, ja wolę tamten stary.
+    <br/>A najlepiej czarnozielony jak z mojej strony :)
+- id: 601
+  author: rorio
+  author_url: ''
+  date: '2005-02-08 12:09:57 +0100'
+  date_gmt: '2005-02-08 12:09:57 +0100'
+  content: powiedzialem wszystko co mialem powiedziec
+- id: 602
+  author: rorio
+  author_url: ''
+  date: '2005-02-08 12:11:25 +0100'
+  date_gmt: '2005-02-08 12:11:25 +0100'
+  content: 'patrys: jesli oceniasz ludzi po komunikatorze... ehhh... teraz to jest
+    koniec'
+- id: 603
+  author: Jaras
+  author_url: ''
+  date: '2005-02-08 12:36:22 +0100'
+  date_gmt: '2005-02-08 12:36:22 +0100'
+  content: a ja myślałem, że czarne litery na czarnym tle to niejako spełnienie marzeń
+    niektórych osobistości &quot;komentujących&quot; ten blog =].
+- id: 604
+  author: blue/enigma
+  author_url: ''
+  date: '2005-02-08 16:57:36 +0100'
+  date_gmt: '2005-02-08 16:57:36 +0100'
+  content: Jak już trochę jaśniej to ew. takie kolory jak u niny - szarości, bo mi
+    trochę wzrok się tu buntuje :).
+- id: 605
+  author: ehh
+  author_url: ''
+  date: '2005-02-08 19:38:18 +0100'
+  date_gmt: '2005-02-08 19:38:18 +0100'
+  content: hm... ta gwiazda w favicon, msr?
+- id: 606
+  author: Patrys
+  author_url: ''
+  date: '2005-02-08 19:43:44 +0100'
+  date_gmt: '2005-02-08 19:43:44 +0100'
+  content: Tak, ta gwiazda to część logo MSR.
+- id: 607
+  author: ehh
+  author_url: ''
+  date: '2005-02-08 19:45:24 +0100'
+  date_gmt: '2005-02-08 19:45:24 +0100'
+  content: |-
+    Czyli to ten Patrys:)
+    <br/>
+    <br/>Pozdrowienia od znajomego z przeszłości...
+- id: 608
+  author: Krymzon
+  author_url: ''
+  date: '2005-02-08 23:13:15 +0100'
+  date_gmt: '2005-02-08 23:13:15 +0100'
+  content: |-
+    Dopiero dziś odważyłem się przebić przez te 139 komentarzy. I bardzo rad jestem, iż nie zrobiłem tego wcześniej. Wreszcie komentarze joga znów zaczęły być komentarzami joga.
+    <br/>
+    <br/>Layout jak zwykle ładny i bardzo czytelny. No i oczywiście exploder nie umie go wyświetlić =) Swoistą synchronizację z MSRem również widać (btw: ogonki nadal tam nie czatują).
+    <br/> Muszę jednak przyznać, że chyba należę do tych, co to nie lubią mieć dosłownie &quot;czarno na białym&quot;. Mam nadzieję, iż niedługo, Patrysie, dodasz alternatywne style. Pomarańczowy na czerni jest zaprawdę miły dla mych oczu :)
+- id: 609
+  author: rorio
+  author_url: ''
+  date: '2005-02-18 10:33:28 +0100'
+  date_gmt: '2005-02-18 10:33:28 +0100'
+  content: no, nowy layout jest lepszy... znaczy jasniejszy... vlatwiej się czyta.
+---
+<p>Poniżej przedstawiam, jak dalece lotny artykuł popełnił <a href="http://bluszcz.jogger.pl/">bluszcz</a>, jeden z redaktorów <a href="http://7thguard.net">7thGuarda</a>. Dodać należy, że artykuł umieszczony został na głównej stronie serwisu. Ubawiło mnie to setnie, nawet SuperExpress nie skleciłby lepszego tekstu. Nikt też nie umiałby lepiej wyciąć z kontekstu moich wypowiedzi. Poniżej moja odpowiedź z powyższego serwisu, gdyby ktoś jeszcze chciał mnie nazwać antychrystem. Zapytuję jednak, po jakie media Pan bluszcz raczy sięgnąć przy kolejnym moim wpisie? Mogę liczyć na własny odcinek "Pod napięciem"? Już to widzę - "młody programista z Wrocławia, mimo wielokrotnych wezwań sądu, nie chce poklikać - co na to nasi eksperci?"</p>
+
+<blockquote>
+<p>Wroga trzeba umieć sobie znaleźć - tak brzmi stare powiedzenie. Polscy jabberowcy (łącznie z autorem niniejszej notki) zwykli zdobywać fortece konkurencyjnych komunikatorów - Gadu Gadu i Tlen.pl. Co ambitniejsi podłożyli ogień pod polskiego blog-monopolistę udostępniając uwielbiany przez wielu serwis JoggerPL. To właśnie na tym serwisie jeden wyjątkowo zaangażowany jabberowiec zauważył nowego demona zła.</p>
+
+<p>Poniższa historia uświadomiła mi, że nie jestem na bieżąco z obowiązującą polityką jabberową w naszym kraju - kiedyś walczyliśmy o otwarcie serwerów Tlen.pl na polską sieć, cieszyliśmy się z posunięć Wirtualnej Polski, a teraz?</p>
+
+<p>Nowym zagrożeniem okazało się Hapi.pl, bazujący na protokole XMPP komunikator biorący za grupę docelową nietechnicznych nastolatków. Jego autorzy (być może po prześledzeniu doświadczonego WP i Tlen.pl) zdecydowali się od razu otworzyć komunikację między serwerową. Niestety, nie przewidzieli, że trendy się pozmieniały...</p>
+
+<p>Czymże zasłużyliśmy? - głos przepełniony cierpieniem, żalem i goryczą roznosi się po pustkowiach, a także na blogu (przepraszam, jogu!) obrońcy elitarnych wartości. Aby wojownik miał pewność, że zostanie usłyszany, zostawił także odpowiednią notkę na forum użytkowników Hapi.pl.</p>
+
+<p>O, przepraszam - w dalszym ciągu nie napisałem, jakie zagrożenie stanowi Hapi.pl - już wyjaśniam. Użytkownicy Hapi.pl to horda matołów - a przecież Jabber jest wolny od "koFFanyH pAniEnEk", "1337 haxx0rów" i tłumów zbyt skąpo obdarownaych przez życie intelektem dzieci.. Nasz wyzwoliciel nie boi się okazać swojej trwogi, i pyta: Dlaczegóż chcecie więc nam, bogu ducha winnym użytkownikom, zgotować los tak marny? Dręczony cierpieniem sugeruje autorom dodać system automatycznego rozsyłania/forwardowania łańcuszków. Finalnie autor ukazuje swoją bezradność: Być może nie rozumiem waszej motywacji, może są w tym jakieś cele wyższe, wtóruje mu jedna z jabberowych niewiast: Nawet jak bronić sie nie będzie :( (oczami wyobraźni widzę w tym momencie palone setkami wioski podczas sesji RPG).</p>
+
+<p>Osoby pragnące poznać szerzej temat mogą poczytać komentarze różnych osób na wyżej wymienionych stronach, niemniej nasuwa się pytanie - jaki jest sens życia w getcie (tak, pojawiają się propozycje filtrowania). Osobiście cieszę się, z takich inicjatyw jak Hapi.pl. Cieszę się, że mogę w końcu nietechnicznym znajomym polecić prosty komunikator, być może docenią go też rodzice nie chcący katować swoich pociech skomplikowanymi wynalazkami (tak tak, Psi jest skomplikowane dla ZU). A co sądzą o tym czytelnicy serwisu?</p>
+</blockquote>
+
+<p>Bawi mnie wolność wypowiedzi w naszym kraju. Nagłówek mojego posta zaczynał się słowami, że piszę tylko i wyłącznie w swoim imieniu. Niejaki bluszcz zrobił z tego protest na skalę światową. Czekam na fotomontaże, jak z transparentem biegam pod oknami autorów hapiego (i pandiona generalnie). Na drugim transparencie mam napisane "windowsa używają tylko idioci", a na zapasowym, który strategicznie wisi na moich plecach, widnieje hasło "31337".</p>
+
+<p>Cieszy mnie też, że poziom edukacji narodu stoi tak wysoko, że prawie nikt nie zrozumiał, o co mi chodzi. Jabber po prostu nie jest gotowy na popularyzację, a w 100% nie jest na to gotowa Polska. Ludzie na świecie nie będą nas oceniać po poziomie średnim, tylko właśnie po tych kilkudziesięciu "koFFanyH" jellonkach.</p>
+
+<p>Do Hapi nie miałem zupełnie nic. Do czasu. Do czasu, kiedy to w ciągu dwóch tygodni odebrałem kilkanaście wiadomości typu:</p>
+
+<p>- HEJ!!! jak zmienić emotki!!<br />
+- jakie emotki znowu<br />
+- No W HAPI!!!</p>
+
+<p>Tudzież:</p>
+
+<p>- CZESC GDZIE MGOE ZMIENC TEN OBRAZEK ?</p>
+
+<p>Czy też:</p>
+
+<p>- Ej Tez jestem Z Wroclawia dodoam cie Do listy pozdro!</p>
+
+<p>Nie będę wklejał reszty cytatów, poziom identyczny. Nie, nie jest wyjściem usunięcie się z katalogu. Nie, nie jest wyjściem blokowanie ludzi spoza listy. Nie po to powstał pieprzony katalog i nie po to jest możliwość odezwania się do kogoś bez potrzeby dodawania go do rostera, żebym teraz musiał zacząć autoryzować kontakty przez telefon komórkowy.</p>
+
+<p>Ja nie protestuję przed otwieraniem jabbera, jabber zawsze był otwarty. Nie lubcie tylko wody z mózgu ludziom, których część ma już tam dość sporo owego płynu. Dlaczego WP mogło napisać na stronie, że to nie jest GG, że to JABBER? A dlaczego Hapi jest tak biedne, że najpierw wydaje komunikator i "ludzie, ściągajcie, a słowo wstępne, regulamin i instrukcję obsługi kiedyś się dopisze"? Pewnie, prościej puścić ludzi na sieć, o resztę mogą spytać zwykłych userów (czy też "elitę" - jak bluszcz nazywa ludzi ceniących sobie prywatność).</p>
+
+<p>Być może jestem polskim Adolfem Hitlerem, może wierzę w ubermensch, może jestem nazustą, faszystą i rasistą. A może niektórzy są tak ograniczeni, że krytykę komunikatora traktują jak zamach na całą ideę OpenSource. Przykro mi was czytać, w OS mam własny wkład, od lat promuję otwarte standardy, ale w życiu mi nie przyszło do głowy dać komuś pistolet (ba - OtwartyPistolet!) i powiedzieć "baw się dobrze, jak kogoś zastrzelisz to nie nasza brocha - instrukcji nam się pisać nie chce". Przykro mi też, że 7thGuard, którego czytam od dawna, opublikował artykuł o poziomie brukowca. Tylko czekać, aż zaczną się pojawiać artykuły w stylu "12-letnia Zuzia, głos pokolania, na swoim blogu śmie twierdzić, że Pepsi jest lepsza od Coca-Coli".</p>

@@ -1,0 +1,140 @@
+---
+layout: post
+status: publish
+published: true
+title: Trzy kroki do szybszego bootowania PLD
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 172
+date: 2005-11-04 20:29:42.000000000 +01:00
+categories:
+- linux
+tags: []
+comments:
+- id: 2376
+  author: Jajcus
+  author_url: ''
+  date: '2005-11-04 20:40:16 +0100'
+  date_gmt: '2005-11-04 20:40:16 +0100'
+  content: |-
+    Parę uwag:
+    <br/>1. już na początku wspomniałeś o wrapperze. Czyli kolejna warstwa komplikująca i spowalniająca całość.
+    <br/>2. z tego co piszesz wynika, że zależności między  pakietami byłyby ustalone na sztywno (w skryptach startowych, a nie w plikach konfiguracyjnych). To nie jest optymalne rozwiązanie, bo w różnych systemach zależności mogą być różne. Nie każdy serwer WWW wymagam mysql/pgsql. No i coś bardziej z życia wzięte: w ogólnym przypadku syslogd powinien być startowany po sieci, żeby móc sieciowo logować. Ale kto inny może woleć mieć syslogd działające jak najszybciej, a wysyłanie logów przez sieć może go nie interesować.
+    <br/>3. IMHO całe Sys V init i „demony” przełączające się w tło to chybiony pomysł. Proces ma rodzica, który może nim zarządzać, a w typowych init-skryptach odczepia się od rodzica i podczepia pod inita. A init nic sensownego z nim zrobić nie może. Potem pojawiają się problemy z killowaniem właściwego procesu itp. Problemy są rozwiązywane kolejnymi hackami, które powodują kolejne problemy... wystarczy spojrzeć do naszego /etc/rc.d/init.d/functions. Ale cóż, teraz tego nawet norma ISO będzie wymagać...
+- id: 2377
+  author: Patrys
+  author_url: ''
+  date: '2005-11-04 20:44:08 +0100'
+  date_gmt: '2005-11-04 20:44:08 +0100'
+  content: |-
+    ad 1.
+    <br/>Wrapper nawet w sensie X=$(initskrypt), niekoniecznie zewnętrzna aplikacja.
+    <br/>
+    <br/>ad 2.
+    <br/>Tu się zgodzę, ale w tej chwili mamy to samo, zacznijmy od poprawienia tego, co mamy, a potem rozszerzajmy funkcjonalność.
+    <br/>
+    <br/>ad 3.
+    <br/>Nie naprawimy całego upstream nawet najlepszymi chęciami.
+- id: 2378
+  author: smk
+  author_url: ''
+  date: '2005-11-04 22:18:06 +0100'
+  date_gmt: '2005-11-04 22:18:06 +0100'
+  content: |-
+    ad 2.
+    <br/>W Gentoo są trzy rodzaje zależności:
+    <br/>1. requires
+    <br/>2. uses
+    <br/>3. before/after
+    <br/>
+    <br/>1. bez tego usługa nie będzie działać. np. jak kładę sieć, to najpierw położy apacza, squida itp. (restart - zrestartuje całe drzewko)
+    <br/>2. usługa powinna wstać po używanej, ale bez niej też będzie działać
+    <br/>3. mało używane, depreciated
+    <br/>
+    <br/>ad 3.
+    <br/>dlatego porządne systemy używają svscan&#039;a :-)
+- id: 2379
+  author: KonMan
+  author_url: ''
+  date: '2005-11-05 02:00:31 +0100'
+  date_gmt: '2005-11-05 02:00:31 +0100'
+  content: |-
+    W Gentoo jest też plik konfiguracyjny /etc/conf.d/rc z m.in. taką opcją:
+    <br/>
+    <br/># Set to &quot;yes&quot; if you want the rc system to try
+    <br/># and start services in parallel for a slight
+    <br/># speed improvement.
+    <br/>RC_PARALLEL_STARTUP=&quot;YES&quot;
+- id: 2380
+  author: mp
+  author_url: ''
+  date: '2005-11-05 08:20:32 +0100'
+  date_gmt: '2005-11-05 08:20:32 +0100'
+  content: Reinvent the wheel.
+- id: 2381
+  author: Patrys
+  author_url: ''
+  date: '2005-11-05 08:21:37 +0100'
+  date_gmt: '2005-11-05 08:21:37 +0100'
+  content: Que?
+- id: 2382
+  author: Badman
+  author_url: ''
+  date: '2005-11-05 09:58:25 +0100'
+  date_gmt: '2005-11-05 09:58:25 +0100'
+  content: 'Uważam, że to bardzo dobry pomysł. Wkurza mnie kiedy mimo nie otrzymania
+    od serwera DHCP IP, usługa ntp chce pobrać aktualny czas. Przez to muszę czekać
+    z ponad minute kiedy łaskawie &quot;skapnie&quot; się, że brak dostępu do sieci
+    i wtedy następuje dokończenie ładowania systemu. Wiem, wiem mogę dopisać do skryptu
+    uruchamiającego ntp sprawdzenie podniesienia interfejsu, lecz   dodanie after
+    było by bardziej eleganckie i przyjemniejsze. '
+- id: 2383
+  author: Anonim
+  author_url: ''
+  date: '2005-11-05 11:42:37 +0100'
+  date_gmt: '2005-11-05 11:42:37 +0100'
+  content: initNG ( http://tinyurl.com/9knky ) ?
+- id: 2384
+  author: Raven
+  author_url: ''
+  date: '2005-11-05 13:35:34 +0100'
+  date_gmt: '2005-11-05 13:35:34 +0100'
+  content: |-
+    BTW Fedorowcy pracują nad zastępnikiem dla SysV.
+    <br/>http://fedoraproject.org/wiki/FCNewInit
+- id: 2385
+  author: Bender
+  author_url: ''
+  date: '2005-11-08 12:30:15 +0100'
+  date_gmt: '2005-11-08 12:30:15 +0100'
+  content: |-
+    W Etchu ma być już nowy init.d...
+    <br/>http://people.debian.org/~hmh/debconf2/initscripts/
+---
+<p>Przyglądałem się ostatnio projektom implementującym alternatywy dla naszych <code>rc-scripts</code> i nasunęło mi się kilka pomysłów, które można ułożyć w logiczne etapy. Szczegóły poniżej.</p>
+
+<h3>Równoległe uruchamianie procesów</h3>
+
+<p>Pierwszym krokiem powinno być nauczenie naszych skryptów startowych bootowania równocześnie wszystkich procesów o równym priorytecie. Przez priorytet rozumiem kolejność bootowania, którą obsługuje <code>chkconfig</code> (na tej podstawie nazywa symlinki w odpowiednich poziomach <code>init</code>).</p>
+
+<p>Najprościej rzecz ujmując, powinien uruchomić dla każdego z nich proces w tle i przed przejściem do procesów z wyższymi priorytetami poczekać, aż każdy z procesów potomnych się zakończy.</p>
+
+<p>Do wyświetlania efektów działania procesów potomnych potrzebny byłby jakiś wrapper, który buforowałby wyjście z procesu tak długo, aż ten się zakończy bądź sforkuje w tło, a następnie wyświetlał całość (w przeciwnym wypadku wyniki działania poszczególnych initskryptów mieszałyby się między sobą).</p>
+
+<h3>Oznaczenie zależności pomiędzy procesami</h3>
+
+<p>Następnie konieczne byłoby wprowadzenie wzajemnych zależności pomiędzy initskryptami. Wystarczyłoby wprowadzić dwa dodatkowe słowa kluczowe do komentarzy w nagłówku plików: <code>before:</code> i <code>after:</code>, które oznaczałyby, że dany skrypt powinien zostać wykonany odpowiednio przed lub po innym skrypcie. W ten sposób na przykład dostarczany przez pakiet <code>apache</code> skrypt <code>httpd</code> mógłby otrzymać:</p>
+
+<blockquote><pre># after: mysql network pgsql</pre></blockquote>
+
+<p>Oznaczałoby to, że powinien zostać wykonany dopiero po każdym z wymienionych tam skryptów (jeśli dany skrypt w ogóle istnieje i jest przypisany do aktualnego poziomu <code>init</code> - w przeciwnym wypadku powinien zostać zignorowany).</p>
+
+<h3>Nowy <code>chkconfig</code></h3>
+
+<p>Ostatnim etapem byłoby napisanie nowego programu <code>chkconfig</code>, który zamiast wpisanych na sztywno w skrypty priorytetów, uwzględniałby wprowadzone w poprzednim kroku zależności. Na tej podstawie procesy byłyby sortowane i przyznawane byłyby im priorytety i stosowne linki dla poziomów uruchomienia.</p>
+
+<p>Opcjonalnie, można napisać zupełnie niezależny od <code>chkconfig</code> program, który będzie tylko aktualizował priorytety w nagłówkach plików startowych usług. Efekt końcowy będzie ten sam (choć kontrowersyjna może być modyfikacja samych skryptów - <code>rpm</code> będzie je traktował tak, jakby zostały zmienione przez użytkownika).</p>
+
+<p>Procesy wzajemnie niezależne otrzymywałyby ten sam priorytet, przez co uruchamiane byłyby jednocześnie. Zniknęłyby sytuacje, gdzie jeden skrypt czeka na zakończenie innego, zupełnie z nim nie powiązanego. Powinno to zaowocować sporym przyspieszeniem całości procesu podnoszenia systemu.</p>

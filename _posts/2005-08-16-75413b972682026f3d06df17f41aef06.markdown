@@ -1,0 +1,222 @@
+---
+layout: post
+status: publish
+published: true
+title: Obawa przed adopcją
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 139
+date: 2005-08-16 19:51:37.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 1902
+  author: riddle
+  author_url: ''
+  date: '2005-08-16 19:57:59 +0200'
+  date_gmt: '2005-08-16 19:57:59 +0200'
+  content: |-
+    /me czepliwie:
+    <br/>* „włączonym silniku Luna” | silniku? ;)
+    <br/>* „dwóch najnowszych systemów z Redmond - Windows XP i Vista” | chyba „jednych z nowszych”
+    <br/>/me poważnie:
+    <br/>Dlatego nie używam hacków CSS :) I nie sądzę, żeby IE odebrał znowu FX pozycję. Jeśli FX zdobyłby nagle 40%, to owszem, znalazłyby się tam osoby zupełnie gołe w wiedzę o bud. stron i bezpieczeństwie. Ale na teraz. poziomie nie ma co się martwić. Idziemy z Operą do przodu. Zwłaszcza, że Operka nie będzie się już podszywała pod IE.
+    <br/>
+    <br/>
+- id: 1903
+  author: Paszczak000
+  author_url: ''
+  date: '2005-08-16 20:00:50 +0200'
+  date_gmt: '2005-08-16 20:00:50 +0200'
+  content: |-
+    &gt;&gt;Z widocznych nowości dodane zostały oczywiście
+    <br/>&gt;&gt;(Microsoft twierdzi, że wynalezione przez nich) panele
+    <br/>LOL. Oni to potrafią kłamać jednak. A tak z ciekawości. Kto wprowadził pierwszy panele?
+    <br/>
+    <br/>IE zyskało na popularności tylko dlatego, że w dawnych czasach, kiedy Windows był jeszcze na dyskietkach Bill Gates postanowił dać ZA DARMO przeglądarkę do systemu. Ludzie, którzy wtedy płacili za Netscape chętniej zaczęli używac IE - bo było to coś drmowego.
+- id: 1904
+  author: Patrys
+  author_url: ''
+  date: '2005-08-16 20:02:03 +0200'
+  date_gmt: '2005-08-16 20:02:03 +0200'
+  content: |-
+    Odczepliwie:
+    <br/>
+    <br/>Luna theme engine = silnik Luna.
+    <br/>
+    <br/>Odnośnie XP i Vista - miałem na myśli systemy domowe. Nie znam wielu osób instalujących sobie 2003 Server czy nową wersję Media Center na domowych blaszakach.
+- id: 1905
+  author: riddle
+  author_url: ''
+  date: '2005-08-16 20:06:35 +0200'
+  date_gmt: '2005-08-16 20:06:35 +0200'
+  content: Więc jeśli Lune Theme Engine, to pamiętaj, że ten silnik potrafi także
+    inne niż domyślne niebieskie skiny obsługiwać i niekoniecznie to wygląda tak źle.
+    :)
+- id: 1906
+  author: Patrys
+  author_url: ''
+  date: '2005-08-16 20:08:59 +0200'
+  date_gmt: '2005-08-16 20:08:59 +0200'
+  content: Zapewniam, że zmiana kolorów wiele mu nie pomoże :)
+- id: 1907
+  author: Paweł Ciupak
+  author_url: ''
+  date: '2005-08-16 20:09:27 +0200'
+  date_gmt: '2005-08-16 20:09:27 +0200'
+  content: |-
+    &gt; Kto wprowadził pierwszy panele?
+    <br/>
+    <br/>Z przeglądarek to była Opera. I miała od początku więcej niż panele.
+- id: 1908
+  author: Patrys
+  author_url: ''
+  date: '2005-08-16 20:12:52 +0200'
+  date_gmt: '2005-08-16 20:12:52 +0200'
+  content: Oni twierdzą, że panele wymyślili przy okazji Worda 97 bodajże. Z tego
+    co pamiętam, pierwsze panele (jako koncepcja przełączania kart, bo nie wyglądały
+    tak jak obecne) pojawiły się w latach osiemdziesiątych w jakimś oprogramowaniu
+    Macintosha.
+- id: 1909
+  author: Paszczak000
+  author_url: ''
+  date: '2005-08-16 20:14:51 +0200'
+  date_gmt: '2005-08-16 20:14:51 +0200'
+  content: |-
+    Macintosh to ogólnie co do wyglądu wiele ciekawych rozwiąń wprowadził, które teraz są powielane.
+    <br/>A może Microsoft jeszcze opatentuje panele, czy tam karty :]
+- id: 1910
+  author: Patrys
+  author_url: ''
+  date: '2005-08-16 20:22:06 +0200'
+  date_gmt: '2005-08-16 20:22:06 +0200'
+  content: |-
+    Wszystkie obecne systemy okienkowe są w dużym stopniu klonami MacOS, począwszy od skalowalnych okienek, poprzez paski narzędzi, a skończywszy na koncepcji ikon, folderów i śmietnika.
+    <br/>
+    <br/>A opatentować nie mogą paneli, bo oprócz tego, że je wymyślili, musieliby udowodnić, że nikt ich nie użył przed nimi.
+- id: 1911
+  author: Paweł Ciupak
+  author_url: ''
+  date: '2005-08-16 20:23:35 +0200'
+  date_gmt: '2005-08-16 20:23:35 +0200'
+  content: |-
+    &gt; A opatentować nie mogą paneli, bo oprócz tego, że je wymyślili, musieliby udowodnić, że nikt ich nie użył przed nimi.
+    <br/>
+    <br/>To w Polsce. Ale w USA, kraju wolnego rynku i libertarianizmu wszystko jest mozliwe. Nawet opatantowanie koła.
+- id: 1912
+  author: Paszczak000
+  author_url: ''
+  date: '2005-08-16 20:24:26 +0200'
+  date_gmt: '2005-08-16 20:24:26 +0200'
+  content: Z Microsoftem jest jak ze złą pogodą. Zawsze Cię zaskoczy :] FAT - confnięty,
+    ale sam fakt, że mieli patent. Dwuklik? Co jeszcze?
+- id: 1913
+  author: pirveli
+  author_url: ''
+  date: '2005-08-16 20:29:56 +0200'
+  date_gmt: '2005-08-16 20:29:56 +0200'
+  content: |-
+    Co jeszcze?
+    <br/>Na przykłąd to:
+    <br/>http://cdprojekt.info/komentarze.asp?action=ShowAll&amp;nid=9860
+    <br/>Nie wiem na ile prawda, ale wszystko jest możliwe...
+- id: 1914
+  author: ejze
+  author_url: ''
+  date: '2005-08-16 20:45:28 +0200'
+  date_gmt: '2005-08-16 20:45:28 +0200'
+  content: |-
+    &gt; To w Polsce. Ale w USA, kraju wolnego rynku i libertarianizmu wszystko jest mozliwe.
+    <br/>
+    <br/>A co ma wspolnego wolny rynek i libertarianizm z patentami?
+    <br/>
+    <br/>&gt;Nawet opatantowanie koła.
+    <br/>
+    <br/>Bzdura - kolo opatentowano w Australii
+- id: 1915
+  author: Paweł Ciupak
+  author_url: ''
+  date: '2005-08-16 20:47:36 +0200'
+  date_gmt: '2005-08-16 20:47:36 +0200'
+  content: |-
+    &gt; A co ma wspolnego wolny rynek i libertarianizm z patentami?
+    <br/>
+    <br/>Brak kontroli państwa i robienie co sie chce.
+    <br/>
+    <br/>&gt; Bzdura - kolo opatentowano w Australii
+    <br/>
+    <br/>Hm, to jednak gdzieś opatentowano? Nie słyszałem o tym.
+- id: 1916
+  author: smk
+  author_url: ''
+  date: '2005-08-16 21:14:10 +0200'
+  date_gmt: '2005-08-16 21:14:10 +0200'
+  content: |-
+    MacOS to kolejna wersja systemu Apple Lisa, który był klonem systemu Xerox Star (łączącego koncepcje Xerox Alto i SmallTalk). Więc tak naprawdę to Xerox Star w wielu różnych odmianach oglądamy dziś na &quot;biurkach&quot;. :-)
+    <br/>
+    <br/>A jak tak poczytać co potrafił Xerox Alto, to można się smętnie zapytać &quot;Kiedy to nasz Windows, czy Linux+GUIjakieś (czy nawet Mac) będzie to potrafić?&quot;.
+- id: 1917
+  author: ejze
+  author_url: ''
+  date: '2005-08-16 21:19:52 +0200'
+  date_gmt: '2005-08-16 21:19:52 +0200'
+  content: "&gt;&gt; A co ma wspolnego wolny rynek i libertarianizm z patentami? \n<br/>\n<br/>&gt;Brak
+    kontroli państwa\n<br/>\n<br/>Przeciez patenty to panstwowa kontrola, chyba cos
+    pokreciles.\n<br/>\n<br/>&gt;i robienie co sie chce.\n<br/>\n<br/>Wolnosc innymi
+    slowy."
+- id: 1918
+  author: red
+  author_url: ''
+  date: '2005-08-16 22:55:06 +0200'
+  date_gmt: '2005-08-16 22:55:06 +0200'
+  content: pawełku, przestań pieprzyć o libertarianizmie w USA. proszę
+- id: 1919
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-08-17 00:40:45 +0200'
+  date_gmt: '2005-08-17 00:40:45 +0200'
+  content: |-
+    &gt; Ludzie, którzy wtedy płacili za Netscape chętniej zaczęli używac IE
+    <br/>
+    <br/>I wiele osób do dzisiaj myśli, że IE jest jedyną przeglądarką internetową na świecie (autotentyczny przypadek)
+    <br/>
+    <br/>&gt; MacOS to kolejna wersja systemu Apple Lisa, który był klonem systemu Xerox Star(...)
+    <br/>
+    <br/>No i od 30 lat mamy te same beznadziejne ikonki na pulpicie, przesłonięte beznadziejnymi oknami :P
+- id: 1920
+  author: riddle
+  author_url: ''
+  date: '2005-08-17 00:42:05 +0200'
+  date_gmt: '2005-08-17 00:42:05 +0200'
+  content: "&lt;&lt; No i od 30 lat mamy te same beznadziejne \n<br/>&lt;&lt; ikonki
+    na pulpicie, przesłonięte \n<br/>&lt;&lt; beznadziejnymi oknami :P\n<br/>\n<br/>Są
+    lepsze interfejsy graficzne (koncepty dokładnie), ale są również zasobożerne.
+    :("
+- id: 1921
+  author: ffreak
+  author_url: ''
+  date: '2005-08-18 00:53:38 +0200'
+  date_gmt: '2005-08-18 00:53:38 +0200'
+  content: |-
+    &gt; Są lepsze interfejsy graficzne (koncepty dokładnie)
+    <br/>
+    <br/>Możesz coś o nich dopisać, rzucić jakiś link?
+---
+<p>Ostatnio miałem okazję pobawić się nową zabawką Microsoftu, a zbiegło się to w czasie z opublikowanym dwa dni temu przez <a href="http://www.456bereastreet.com/archive/200508/the_danger_of_a_better_internet_explorer/">Rogera Johanssona artykułem</a>, więc postanowiłem skorzystać z okazji i napisać coś na ten temat.</p>
+
+<p>Nowy <abbr title="Internet Explorer">IE</abbr> nie powala. Z widocznych nowości dodane zostały oczywiście (Microsoft twierdzi, że wynalezione przez nich) panele (które ostatnio zostały przemianowane na karty). Paskudne, jak nigdy dotąd, przy włączonym silniku Luna (domyślny temat Windows XP) są zupełnie nie do oglądania, rozsądnie zaczynają wyglądać dopiero w widoku klasycznym. Dodatkowo, ich przełączanie powoduje widoczne odrysowanie strony, co sprawia, że poruszanie się pomiędzy otwartymi panelami trwa dłużej niż pomiędzy osobnymi oknami przeglądarki. Drugą funkcją jest obsługa <abbr title="Really Simple Syndication">RSS</abbr>, która działa podobnie jak znane z Firefoksa <q>Live Bookmarks</q> połączone z dodanym w Deer Parku czytnikiem subskrypcji.</p>
+
+<p>Zmiany w samym silniku renderującym albo nie występują, albo są bardzo dobrze ukryte. Z punktu widzenia obsługi standardów jest to stary, <q>dobry</q> <abbr>IE</abbr> 6.0. Należy jednak pamiętać, że jest to dopiero pierwsza publiczna wersja i na <a href="http://blogs.msdn.com/ie/" title="IEBlog">oficjalnym blogu</a> (tak przy okazji, czy ktoś już zauważył, jak dziwnie brzmi próba przeczytania tytułu tej strony przez Polaka?) przeglądarki pojawiły się już <a href="http://blogs.msdn.com/ie/archive/2005/07/29/445242.aspx" title="Standards and CSS in IE">informacje na temat lepszego wsparcia dla standardów</a>. Stąd też niepokój Rogera, czy szeroka adaptacja nie przyniesie sieci szkody.</p>
+
+<p>Zaznaczam, że nie mówimy tu o okresie kilku dni czy tygodni od premiery. Jak pokazuje w swoich książkach <a href="http://useit.com/">Jakob Nielsen</a>, czas adaptacji nowych technologii wynosi około roku - po tym czasie możemy przyjąć, że do technologii ma dostęp większość internautów. W przypadku tej przeglądarki okres ten zostanie znacznie wydłużony - dostęp do nowej wersji mają tylko użytkownicy dwóch najnowszych systemów z Redmond - Windows XP i Vista, co na wstępie już utrudnia upgrade ludziom, którzy z różnych przyczyn do dziś korzystają ze starszych systemów. Nie zawsze jest to kwestia ingorancji, czasem jest to uwarunkowane polityką firmy bądź samymi kosztami.</p>
+
+<p>Co więc może przynieść nowa wersja? Cieszymy się (jako webdeveloperzy) na lepsze wsparcie dla standardów. Co jednak z dotychczas stosowanymi obejściami i sztuczkami, mającymi na celu wymuszenie prawidłowego wyświetlania serwisów w starszych braciach <q>siódemki</q>? Wystarczy, że choćby jeden ze stosowanych dotąd hacków będzie nadal działał, a setki czy tysiące stron zaczną cierpieć na nagłą dysfunkcję. Z drugiej strony, poleganie na hackach to branie na siebie odpowiedzialności za ich działanie - nieudokumentowane funkcje mają tendencję do znikania.</p>
+
+<p>Lepsze bezpieczeństwo (przeglądarka po starcie pozbywa się systemowych przywilejów i działa w ograniczonym środowisku użytkownika na kształt znanego z Uniksów <q>chroota</q>) to najgłośniejsze z haseł promowanych przez Gatesa i Ballmera, ale czym jest zabezpieczanie przeglądarki, kiedy ostatnimi czasy głównym źródłem wirusów jest poczta elektroniczna, a <abbr title="Microsoft">MS</abbr> dawno temu już zarzucił rozwój swojego domowego klienta poczty - Outlook Express, który nadal jest w naszym kraju najpopularniejszym programem tego typu (mimo jego setki błędów i braków).</p>
+
+<p>Najgorsze, czego możemy się spodziewać, to powtórzenie sytuacji z aktualną wersją szóstą przeglądarki, która od pięciu lat jest tylko zapobiegawczo łatana. Szum generowany wokół najnowszej wersji i sam fakt wypuszczenia jej także dla Windows XP, choć początkowo miała być dostępna tylko dla Visty mogą wskazywać na to, że marketingowcy ze stajni <abbr>MS</abbr> liczą na jednorazowe uderzenie i odbicie straconego rynku konkurencji, czyli przeglądarce Mozilli.</p>
+
+<p>Jeśli ich działania spełzną na niczym (a tak się zapewne stanie, w końcu nowa przeglądarka pod żadnym względem nie przewyższa Firefoksa), rozwój <abbr>IE</abbr> może ponownie zostać zawieszony bądź też zupełnie przerwany, jak miało to miejsce w przypadku Internet Explorera dla komputerów Apple. Grozi nam wtedy kolejny zastój technologiczny, jednak czy nie jest on lepszy od stanu obecnego?</p>

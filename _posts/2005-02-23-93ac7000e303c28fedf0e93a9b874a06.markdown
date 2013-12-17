@@ -1,0 +1,116 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #003: Upiór w operze'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 59
+date: 2005-02-23 00:19:42.000000000 +01:00
+categories:
+- comic
+tags: []
+comments:
+- id: 669
+  author: da.killa
+  author_url: ''
+  date: '2005-02-23 00:22:09 +0100'
+  date_gmt: '2005-02-23 00:22:09 +0100'
+  content: |-
+    O! Da się czytać! :)
+    <br/>
+    <br/>BTW: na jaką melodię to wyśpiewujecie? :)
+- id: 670
+  author: Czajna
+  author_url: ''
+  date: '2005-02-23 00:24:34 +0100'
+  date_gmt: '2005-02-23 00:24:34 +0100'
+  content: Lol! Dziękuję. :)
+- id: 671
+  author: Patrys
+  author_url: ''
+  date: '2005-02-23 00:31:25 +0100'
+  date_gmt: '2005-02-23 00:31:25 +0100'
+  content: '&quot;Wesele Figara&quot;, jak widać po ilustracjach ;]'
+- id: 672
+  author: bazyl
+  author_url: ''
+  date: '2005-02-23 01:09:20 +0100'
+  date_gmt: '2005-02-23 01:09:20 +0100'
+  content: DObre, dobre ;]
+- id: 673
+  author: harnir@jabber.org
+  author_url: ''
+  date: '2005-02-23 03:02:07 +0100'
+  date_gmt: '2005-02-23 03:02:07 +0100'
+  content: Czyżby konkurencja dla UserFiriendly? ;)
+- id: 674
+  author: wariat
+  author_url: ''
+  date: '2005-02-23 03:36:05 +0100'
+  date_gmt: '2005-02-23 03:36:05 +0100'
+  content: Wszystko pasi ale Lisa... Lisa to jakis kawalek Samby chyba jest ... co
+    to ma do przegladarek? ;-)
+- id: 675
+  author: DeeJay1
+  author_url: ''
+  date: '2005-02-23 07:21:48 +0100'
+  date_gmt: '2005-02-23 07:21:48 +0100'
+  content: Zasadniczo to panda a nie lis.... :P
+- id: 676
+  author: gozda
+  author_url: ''
+  date: '2005-02-23 07:33:17 +0100'
+  date_gmt: '2005-02-23 07:33:17 +0100'
+  content: |-
+    lis - fox
+    <br/>hint: firefox (-;
+- id: 677
+  author: Express
+  author_url: ''
+  date: '2005-02-23 15:04:06 +0100'
+  date_gmt: '2005-02-23 15:04:06 +0100'
+  content: A ja tak trochę nie na temat - mam w pracy SynaPrezesa. Od dwóch dni zajmuje
+    się ściąganiem panienek (chyba same fotki, bez filmów) przez kaazę. Twierdzi,
+    że zgra je na płytę i pójdzie sprzedawać na stadionie.
+- id: 678
+  author: Przytul mnie :)
+  author_url: ''
+  date: '2005-02-23 16:48:51 +0100'
+  date_gmt: '2005-02-23 16:48:51 +0100'
+  content: "Ja pierdziele, nie ma to jak parka informatykow. Uderzcie mnie jakbym
+    sie kiedys zakochala w jakims uroczym, czarujacym, zabawnym, przystojnym, umiesnionym,
+    dobrze zbudowanym....wysokim....informatyku ;]\n<br/>\n<br/>Zamiast przejmowac
+    sie tym ktora pieprzona przegladarka jest lepsza, jakby to kurde byla jakas roznica,
+    przejalbys sie lepiej losem mlodszej siostrzyczki, ktora wrocila wlasnie z uczelni,
+    a byla tam zeby sie dowiedziec ze oblala socjologie !! I jest wsciekla!  \n<br/>Nienawidze
+    socjologii, informatyki i przegladarek !\n<br/>\n<br/>Btw. Te skrzydelka malo
+    demoniczne Ci wyszly, bardziej cos ala batman.\n<br/>\n<br/>Co to jest to na dale
+    ? Wpisz kod. Dobrze ze sms&#039;em nie trzeba wysylac. Mozna cos wygrac ? "
+- id: 679
+  author: Jezuch
+  author_url: ''
+  date: '2005-02-23 16:49:50 +0100'
+  date_gmt: '2005-02-23 16:49:50 +0100'
+  content: Można wygrać Jogga bez spamu :&gt;
+- id: 680
+  author: Cachotterie
+  author_url: ''
+  date: '2005-02-23 16:53:30 +0100'
+  date_gmt: '2005-02-23 16:53:30 +0100'
+  content: |-
+    A ja się przez moment zastanawiałam komu przeszkadzają informatycy - no tak, komuś kto musi z nimi wytrzymywać na co dzień ;]
+    <br/>Współczucia z powodu socjologii - trzymać kiedyś kciuki za drugie podejście albo coś?
+- id: 681
+  author: Siostra Age
+  author_url: ''
+  date: '2005-02-25 16:42:19 +0100'
+  date_gmt: '2005-02-25 16:42:19 +0100'
+  content: 'Cachotterie : 5.03.2005. Bede wdzieczna za kazda pomoc, nawet ta mentalna
+    :)'
+---
+<p>Po pierwszym stripie wywiązała się <a href="http://cachotterie.jogger.pl/comment.php?eid=96239" title="jogger Cachotterie">mała dyskusja o przeglądarkach</a> ;]. W związku z tym publikuję kolejny odcinek z dedykacją dla <a href="http://czajna-seczen.jogger.pl/" title="Czajna">Czajny</a>.</p>
+
+<p class="strip"><img src="http://patrys.icenter.pl/comic/003-browsers.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>

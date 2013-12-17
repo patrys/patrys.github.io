@@ -1,0 +1,125 @@
+---
+layout: post
+status: publish
+published: true
+title: Proza życia codziennego
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 62
+date: 2005-03-02 19:45:09.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 686
+  author: Jajcus
+  author_url: ''
+  date: '2005-03-02 19:48:53 +0100'
+  date_gmt: '2005-03-02 19:48:53 +0100'
+  content: Felietonista z Ciebie niezły, rysownik komiksów też... ale za poezję, to
+    może już się więcej nie bierz ;-)
+- id: 687
+  author: Smoothguy
+  author_url: ''
+  date: '2005-03-02 19:49:21 +0100'
+  date_gmt: '2005-03-02 19:49:21 +0100'
+  content: Piękne! W przyszłości będą pewnie Twój wiersz interpretować w szkole. ;D
+- id: 688
+  author: gozda
+  author_url: ''
+  date: '2005-03-02 19:49:23 +0100'
+  date_gmt: '2005-03-02 19:49:23 +0100'
+  content: niezle (-;
+- id: 689
+  author: Patrys
+  author_url: ''
+  date: '2005-03-02 19:50:39 +0100'
+  date_gmt: '2005-03-02 19:50:39 +0100'
+  content: Wierszyk jest celowo tandetny, tak jak dzisiejszy dzień ;]
+- id: 690
+  author: batou
+  author_url: ''
+  date: '2005-03-02 20:50:12 +0100'
+  date_gmt: '2005-03-02 20:50:12 +0100'
+  content: Ważne, że puenta jest. Pedagogiczna taka. ;)
+- id: 691
+  author: torero
+  author_url: ''
+  date: '2005-03-02 22:46:50 +0100'
+  date_gmt: '2005-03-02 22:46:50 +0100'
+  content: Mi się podobało :)
+- id: 692
+  author: Jezuch
+  author_url: ''
+  date: '2005-03-03 11:36:41 +0100'
+  date_gmt: '2005-03-03 11:36:41 +0100'
+  content: |-
+    A mi nie - rytmika przypomina Doom3 na komputerze z 256MB RAM ;&gt;
+    <br/>Ciśnie mi się na klawiaturę słowo: ŚREDNIÓWKA!! ;)
+- id: 693
+  author: torero
+  author_url: ''
+  date: '2005-03-03 11:39:16 +0100'
+  date_gmt: '2005-03-03 11:39:16 +0100'
+  content: |-
+    Chociaż średniówka zaiste w zaniku,
+    <br/>to chociaż nie rymuje na końcówki czasowników :)
+- id: 694
+  author: kloccc
+  author_url: ''
+  date: '2005-03-23 10:15:39 +0100'
+  date_gmt: '2005-03-23 10:15:39 +0100'
+  content: o w ryj! kloca pociskam!!!! uhhhmmmm...
+---
+<p>W pewnej firmie źle się stało,<br />
+coś działało i przestało.<br />
+Nie można podnieść apacza,<br />
+nie startuje, się wykrzacza.<br />
+Brak HTTP obsługi -<br />
+zapowiada się dzień długi.<br />
+Czyja mogła to być wina?<br />
+Mamy nowego admina,<br />
+ma on zalet co niemiara,<br />
+lecz największa z nich to wiara,<br />
+że nic złego się nie stanie,<br />
+że usługa prędko wstanie,<br />
+nie zepsuje się, nie padnie,<br />
+będzie nadal działać ładnie.<br />
+Lecz zawiodła medytacja,<br />
+apacza konfiguracja<br />
+okazała się wadliwa,<br />
+a sam apacz tylko zbywa,<br />
+twierdząc, że się uruchamia.<br />
+Admin grzechem zaniedbania,<br />
+wierząc w duchu w świat Utopii,<br />
+nie wykonał wcześniej kopii.<br />
+Przez szefa przekazał grupie:<br />
+"panowie, jesteśmy w dupie".<br />
+A nadzieja, oczywiście,<br />
+cała w biednym programiście,<br />
+co, z powodu swej choroby,<br />
+miał plan - przespać resztę doby.<br />
+Siadłem przeto do konsoli,<br />
+sprawdzam w logach, co go boli,<br />
+lecz, niestety, nie ma śladów,<br />
+brak objawów jakichś padów.<br />
+Szeroko pojęta bida,<br />
+proces znika, brak też PIDa,<br />
+jednak zamiast panikować,<br />
+zapragnąłem go strace'ować.<br />
+Dziwnych rzeczy kilkanaście,<br />
+w końcu sygnał jedenaście.<br />
+Poprosiłem więc admina,<br />
+by moduły powycinał.<br />
+Jeden na raz komentował<br />
+i w ten sposób zdiagnozował.<br />
+Koniec końców się udało,<br />
+wyciął IMAP - zadziałało.<br />
+Tu przyczynę miała klapa -<br />
+głupi moduł do PeHaPa.<br />
+Zwykły restart, sprawa mała,<br />
+dwie godziny prawie trwała.<br />
+Jak więc uczy statystka -<br />
+bez backupu, nie dotykaj.</p>

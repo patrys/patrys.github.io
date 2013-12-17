@@ -1,0 +1,401 @@
+---
+layout: post
+status: publish
+published: true
+title: Rekurencja w SQL jest zła
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 125
+date: 2005-07-07 20:05:25.000000000 +02:00
+categories:
+- software
+- code
+tags: []
+comments:
+- id: 1591
+  author: p_ch
+  author_url: ''
+  date: '2005-07-07 20:13:03 +0200'
+  date_gmt: '2005-07-07 20:13:03 +0200'
+  content: "Wyciąganie wszystkich rekordów też nie jest najlepszym wyjściem, szczególnie
+    gdy jest ich 50 000.\n<br/>\n<br/>Są lepsze sposoby. Poczytaj najpierw\n<br/>http://www.sitepoint.com/article/hierarchical-data-database\n<br/>\n<br/>A
+    potem:\n<br/>http://fungus.teststation.com/~jon/treehandling/TreeHandling.htm\n<br/>\n<br/>Pierwszy
+    sposób jest gorszy bo przy dodawaniu nowych rekordów całe drzewo musi zostać uaktualnione.
+    \n<br/>\n<br/>Drugi sposób jest naprawdę rozsądnym kompromisem pomiędzy prostotą
+    a wydajnością."
+- id: 1592
+  author: Patrys
+  author_url: ''
+  date: '2005-07-07 20:14:33 +0200'
+  date_gmt: '2005-07-07 20:14:33 +0200'
+  content: Ja mówię o sytuacji, kiedy TRZEBA wyciągnąć WSZYSTKIE rekordy tak czy tak.
+    Cache&#039;owanie też wymaga ich wyjęcia z bazy danych. Nie twierdzę, że powinno
+    się je wyciągać za każdym odświeżeniem serwisu klienta.
+- id: 1593
+  author: p_ch
+  author_url: ''
+  date: '2005-07-07 20:21:31 +0200'
+  date_gmt: '2005-07-07 20:21:31 +0200'
+  content: "Racja. Ale czasem jest też tak, że trzeba wygenerować powiedzmy ścieżkę
+    do dokumentu:\n<br/>\n<br/>Site.com &gt; Artykuły &gt; Kategoria &gt; Artykuł1\n<br/>\n<br/>Wtedy
+    przydają się ww. techniki :) "
+- id: 1594
+  author: Arghil
+  author_url: ''
+  date: '2005-07-07 22:44:34 +0200'
+  date_gmt: '2005-07-07 22:44:34 +0200'
+  content: Czasem też można utworzyć tak zapytanie by taką robotę odwalił serwer SQL
+    po swojej stronie.
+- id: 1595
+  author: p_ch
+  author_url: ''
+  date: '2005-07-07 23:24:29 +0200'
+  date_gmt: '2005-07-07 23:24:29 +0200'
+  content: W mySQLu takie coś raczej nie przejdzie - za małe możliwości :(
+- id: 1596
+  author: Jezuch
+  author_url: ''
+  date: '2005-07-08 18:03:38 +0200'
+  date_gmt: '2005-07-08 18:03:38 +0200'
+  content: Hehehe, właśnie... Dlatego kiedy pisałem zapytanie wyciągające trzypoziomowe
+    menu i odpowiednio zaznaczające wybrane elementy, to musiałem się *nieźle* nagimnastykować
+    - ale się udało :]
+- id: 1597
+  author: m
+  author_url: ''
+  date: '2005-07-09 12:46:38 +0200'
+  date_gmt: '2005-07-09 12:46:38 +0200'
+  content: Dodam tylko, ze w Oracle bodajze od wersji 8 skladnia selecta jest rozszerzona
+    o CONNECT BY.. PRIOR, ktore sluzy do budowania wyniku przez przechodzenie drzewa.
+    Wygodne jak diabli.
+- id: 1598
+  author: DarkStar
+  author_url: ''
+  date: '2005-07-09 15:21:23 +0200'
+  date_gmt: '2005-07-09 15:21:23 +0200'
+  content: A widzieliście zapytania budujące dokumenty XML w SQL Server? To jest wypas.
+    ;D
+- id: 1599
+  author: Vrok
+  author_url: ''
+  date: '2005-07-09 17:02:25 +0200'
+  date_gmt: '2005-07-09 17:02:25 +0200'
+  content: A czego w takim przypadku używają nie-początkujacy programiści?
+- id: 1600
+  author: Patrys
+  author_url: ''
+  date: '2005-07-09 17:03:23 +0200'
+  date_gmt: '2005-07-09 17:03:23 +0200'
+  content: |-
+    Vrok:
+    <br/>
+    <br/>Iteracji, bo są szybsze i mają nieporównywalnie mniejszą złożoność obliczeniową i pamięciową.
+- id: 1601
+  author: Vrok
+  author_url: ''
+  date: '2005-07-09 17:15:31 +0200'
+  date_gmt: '2005-07-09 17:15:31 +0200'
+  content: |-
+    No w tym przypadku to akurat pewnie jest możliwe (nie chce mi się w ten kod wgryzać...).
+    <br/>Ale bez rekurencji często jest bardzo ciężko i zamienia się ją na iterację tylko po to, żeby nie rósł stos systemowy (i w sumie algorytm zostaje ten sam, tylko że np. używając sterty jako stosu w jawny sposób). A skoro w PHP wzrostem stosu nie trzeba się przejmować, to chyba nie trzeba wystrzegać się rekurencji aż tak bardzo...
+    <br/>Chociaż nie mam pojęcia, jak ma się czas wywołania funkcji w PHP, więc mogę pleść głupoty.
+- id: 1602
+  author: m
+  author_url: ''
+  date: '2005-07-09 17:25:59 +0200'
+  date_gmt: '2005-07-09 17:25:59 +0200'
+  content: 'DarkStar: akurat (de)serializacja do SQL Servera z poziomu XML jest bajecznie
+    prosta, bo juz w wersji 2k mocno to rozbudowali, nie wspominajac o 2005.'
+- id: 1603
+  author: p_ch
+  author_url: ''
+  date: '2005-07-10 08:39:43 +0200'
+  date_gmt: '2005-07-10 08:39:43 +0200'
+  content: "&gt;&gt;A skoro w PHP wzrostem stosu nie trzeba się \n<br/>&gt;&gt;przejmować,
+    to chyba nie trzeba wystrzegać się rekurencji aż tak bardzo... \n<br/>\n<br/>Jak
+    to nie trzeba się przejmować? PHP nie zużywa pamięci?? To, że język ma automatyczne
+    zarządzanie pamięcią nie znaczy, że programista nie musi dbać o wydajność."
+- id: 1604
+  author: Vrok
+  author_url: ''
+  date: '2005-07-10 13:04:31 +0200'
+  date_gmt: '2005-07-10 13:04:31 +0200'
+  content: |-
+    p_ch: Ale jeśli w programie C używam realloc() zamiast niewidzialnie odkładających się zmiennych na stosie wraz z kolejnymi wywołaniami funkcji, to pamięć zużywa się w takich samych ilościach. :)
+    <br/>Tyle, że jak braknie miejsca na stos, to program się wysypie - a realloc po prostu przeniesie dane w inne miejsce.
+- id: 1605
+  author: Vrok
+  author_url: ''
+  date: '2005-07-10 13:06:17 +0200'
+  date_gmt: '2005-07-10 13:06:17 +0200'
+  content: A oczywiście PHP rekurencji w skryptach nie implementuje przez rekurencję
+    (sprawdziłem! program w C wywalił się po kilkunastu tysiącach &quot;okrążeń&quot;
+    rekurencji, a skrypt w PHP działał aż go nie zabiłem), więc nie trzeba się stosem
+    systemowym przejmować. :)
+- id: 1606
+  author: Patrys
+  author_url: ''
+  date: '2005-07-10 13:09:45 +0200'
+  date_gmt: '2005-07-10 13:09:45 +0200'
+  content: Implementacja rekursywna to jedno, ale różnica w ilości zapytań do bazy
+    jest kolosalna. Po pomnożeniu tego przez latencję połączenia wychodzi często kilkanaście
+    sekund.
+- id: 1607
+  author: Jezuch
+  author_url: ''
+  date: '2005-07-10 13:51:59 +0200'
+  date_gmt: '2005-07-10 13:51:59 +0200'
+  content: |-
+    Co po niektórzy jak na mój gust zbuytnio demonizują rekurencję. Rekurencja jest ryzykowna przede wszystkim w kiepskich językach (czyli większości obecnie dominujących). LISP preferuje rekurencję i gardzi iteracją od końca lat 50. XX w. do dziś i nieźle na tym wychodzi.
+    <br/>Co zresztą nie zmienia faktu, że odwoływanie się do bazy danych w tym stylu to bezsens :) Twórcy Prevaylera twierdzą zresztą, że odwoływanie się *w ogóle* do bazy danych to najczęściej bezsens...
+- id: 1608
+  author: Patrys
+  author_url: ''
+  date: '2005-07-10 13:53:31 +0200'
+  date_gmt: '2005-07-10 13:53:31 +0200'
+  content: |-
+    Jezuch:
+    <br/>
+    <br/>Tylko że w językach typu SML czy LISP liczba przejść rekurencyjnych jest prosta do obliczenia i ma warunek stopu  przed upływem całej pamięci :)
+- id: 1609
+  author: Jezuch
+  author_url: ''
+  date: '2005-07-10 13:56:17 +0200'
+  date_gmt: '2005-07-10 13:56:17 +0200'
+  content: To najczęściej i tak zależy od zagadnienia. LISP używa rekurencji zamiast
+    iteracji, w związku z czym liczba takich przypadków jest znacznie większa - w
+    końcu iteracja jest wszędzie.
+- id: 1610
+  author: DarkStar blog.krakowiacy.info
+  author_url: ''
+  date: '2005-07-12 22:05:11 +0200'
+  date_gmt: '2005-07-12 22:05:11 +0200'
+  content: 'm: wiem, przecież używam. :) W mojej wypowiedzi nie było ironii.'
+---
+<p>Prawdopodobnie nieraz zdarzyło się wam budować drzewiaste struktury danych w bazach danych. Typowa tabela do tego celu wygląda mniej więcej tak:</p>
+
+<blockquote><pre>id | parent_id | name
+---+-----------+-------------
+ 1 |         0 | Lorem
+ 2 |         0 | Ipsum
+ 3 |         1 | Dolor
+ 4 |         1 | Sit
+ 5 |         2 | Consectetuer
+ 6 |         4 | Adipiscing
+ 7 |         4 | Elit</pre></blockquote>
+
+<p>Pozwala na dowolnie głębokie zagnieżdżanie danych, zaś obiekty o <code>parent_id</code> równym 0 są elementami najwyższego poziomu hierarchii.</p>
+
+<p>Problem pojawia się, kiedy dane te trzeba zwizualizować w postaci drzewa. Początkujący programiści często używają do tego celu rekursji (właściwie, to używają jej do wszystkiego), jednak ma ona podstawową wadę. O ile w przypadku powyższej tabeli nie ma zasadniczo różnicy, czy dane będą pobierane rekurencyjnie czy liniowo, o tyle przy tysiącu kategorii, gdzie w najwyższym poziomie znajduje się ich kilkaset, liczba zapytań wywoływanych przez skrypt sięga setek na każde wyświetlenie strony.</p>
+
+<p>Jest to problemem zwłaszcza, kiedy serwer <abbr title="Structured Query Language">SQL</abbr> znajduje się na innej maszynie i każde zapytanie wymaga przesyłania danych w obie strony połączenia. Wprowadza to dodatkowe opóźnienia, a z czasem staje się nader widoczne.</p>
+
+<p>Rozwiązaniem jest jednorazowe pociągniecie wszystkich potrzebnych danych za pomocą jednego zapytania, a następnie przebudowanie w strukturę drzewiastą po stronie serwera docelowego.</p>
+
+<p>Jako przykład takiego działania posłużyć może poniższy skrypt <abbr title="PHP Hypertext Preprocessor">PHP</abbr>:</p>
+
+<blockquote><pre>require_once('arraySort.class.php');
+
+/**
+ * Create a tree structure from an SQL query
+ */
+
+class sqlTree
+{
+	var $conn;
+
+	function sqlTree(&amp;$conn)
+	{
+		$this-&gt;conn = &amp; $conn;
+	}
+
+	/**
+	 * Sort an array
+	 * @access private
+	 */
+	function _multiSort(&amp;$array, $key, $asc = true)
+	{
+		$sorter = &amp; new arraySort($array, $key, $asc);
+		return $sorter-&gt;sortit();
+	}
+
+	/**
+	 * Sort a tree
+	 * @access private
+	 */
+	function _treeSort(&amp;$item)
+	{
+		reset($item);
+		foreach($item as $key =&gt; $val)
+		{
+			if (isset($val['tree']))
+				$this-&gt;_treeSort($item[$key]['tree']);
+		}
+		$item = $this-&gt;_multiSort($item, 'sort', true);
+	}
+
+	/**
+	 * Build the tree, elements with no known parent are ignored
+	 * @param string SQL query, has to contain fields 'id' and 'parent_id'
+	 * @param int parent_id to be considered root level
+	 * @return array the tree structure
+	 */
+	function build($query, $root = 0)
+	{
+		$result = mysql_query($query, $this-&gt;conn);
+
+		$queue = array();
+		while($item = mysql_fetch_assoc($result))
+		{
+			array_push($queue, $item);
+		}
+
+		$queue = $this-&gt;_multiSort($queue, 'id', false);
+		$effect = array();
+
+		while($queue)
+		{
+			$found = false;
+			reset($queue);
+			$nextIter = $queue;
+			foreach($queue as $key =&gt; $item)
+			{
+				if ($item['parent_id'] != $root)
+				{
+					reset($nextIter);
+					foreach($nextIter as $keyTarg =&gt; $target)
+					if ($target['id'] == $item['parent_id'])
+					{
+						if (!isset($nextIter[$keyTarg]['tree']))
+							$nextIter[$keyTarg]['tree'] = array();
+
+						array_push($nextIter[$keyTarg]['tree'], $item);
+						unset($nextIter[$key]);
+						$found = true;
+						break;
+					}
+
+					if ($found)
+						break;
+
+					// not found
+					unset($nextIter[$key]);
+				}
+				else
+				{
+					array_push($effect, $item);
+					unset($nextIter[$key]);
+					break;
+				}
+			}
+			$queue = $nextIter;
+		}
+		$this-&gt;_treeSort($effect);
+		return $effect;
+	}
+}</pre></blockquote>
+
+<p>Jest to klasa, która jako parametr konstruktora pobiera identyfikator połączenia do bazy danych MySQL i udostępnia funkcję <code>build()</code>, która jako pierwszy parametr przyjmuje zapytanie wybierające dane, zaś jako drugi opcjonalny identyfikator korzenia drzewa.</p>
+
+<p>Wymagania odnośnie zapytania są następujące: musi ono zawierać w wynikach kolumny o nazwach <code>id</code>, <code>parent_id</code> i <code>sort</code>, przy czym ten ostatni decyduje o kolejności pozycji drzewa. Dodatkowym ograniczeniem (powyższej implementacji) jest założenie, że dla każdego elementu zachodzi <code>parent_id</code> &lt; <code>id</code>.</p>
+
+<p>Przykładowe użycie:</p>
+
+<blockquote><pre>$st = &amp; new sqlTree($connection);
+$tree = $st-&gt;build(
+'
+	SELECT id, parent_id, name AS sort
+	FROM przykladowa_tabela
+');
+
+print_r($tree);</pre></blockquote>
+
+<p>Do działania wymagany jest jeszcze plik <code>arraySort.class.php</code>, czyli skrypt sortowania wielowymiarowych tablic autorstwa Oliwiera Ptaka:</p>
+
+<blockquote><pre>/**
+ * Handles multidimentional array sorting by a key (not recursive)
+ *
+ * @author Oliwier Ptak &lt;aleczapka at gmx dot net&gt;
+ */
+
+class arraySort
+{
+	var $skey = false;
+	var $sarray = false;
+	var $sasc = true;
+
+	/**
+	 * Constructor
+	 *
+	 * @access public
+	 * @param mixed $array array to sort
+	 * @param string $key array key to sort by
+	 * @param boolean $asc sort order (ascending or descending)
+	 */
+	function arraySort(&amp;$array, $key, $asc = true)
+	{
+		$this-&gt;sarray = $array;
+		$this-&gt;skey = $key;
+		$this-&gt;sasc = $asc;
+	}
+
+	/**
+	 * Sort method
+	 *
+	 * @access public
+	 * @param boolean $remap if true reindex the array to rewrite indexes
+	 */
+	function sortit($remap = true)
+	{
+		$array = &amp;$this-&gt;sarray;
+		uksort($array, array(&amp;$this, &quot;_as_cmp&quot;));
+		if ($remap)
+		{
+			$tmp = array();
+			while (list($id, $data) = each($array))
+				array_push($tmp, $data);
+			return $tmp;
+		}
+		return $array;
+	}
+
+	/**
+	 * Custom sort function
+	 *
+	 * @access private
+	 * @param mixed $a an array entry
+	 * @param mixed $b an array entry
+	 */
+	function _as_cmp($a, $b)
+	{
+		//since uksort will pass here only indexes get real values from our array
+		if (!is_array($a) &amp;&amp; !is_array($b))
+		{
+			$a = $this-&gt;sarray[$a][$this-&gt;skey];
+			$b = $this-&gt;sarray[$b][$this-&gt;skey];
+		}
+
+		//if string - use string comparision
+		if (!is_numeric($a) &amp;&amp; !is_numeric($b))
+		{
+			if ($this-&gt;sasc)
+				return strcasecmp($a, $b);
+			else
+				return strcasecmp($b, $a);
+		}
+		else
+		{
+			if (intval($a) == intval($b))
+				return 0;
+
+			if ($this-&gt;sasc)
+				return (intval($a) &gt; intval($b)) ? 1 : -1;
+			else
+				return (intval($a) &gt; intval($b)) ? -1 : 1;
+		}
+	}
+}</pre></blockquote>
+
+<p>Zapraszam do analizy kodu. Zaproponowana implementacja nie jest oczywiście najdoskonalsza, ale służyć ma jedynie za przykład, że zadanie jest do rozwiązania bez stosowania rekursji w zapytaniach do bazy danych, co jest operacją bardzo kosztowną czasowo.</p>

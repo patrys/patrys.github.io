@@ -1,0 +1,125 @@
+---
+layout: post
+status: publish
+published: true
+title: The Daily WTF, part 2
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 147
+date: 2005-08-25 01:43:46.000000000 +02:00
+categories:
+- software
+- code
+tags: []
+comments:
+- id: 2036
+  author: da.killa
+  author_url: ''
+  date: '2005-08-25 01:46:26 +0200'
+  date_gmt: '2005-08-25 01:46:26 +0200'
+  content: o kurcze...
+- id: 2037
+  author: psz
+  author_url: ''
+  date: '2005-08-25 01:47:46 +0200'
+  date_gmt: '2005-08-25 01:47:46 +0200'
+  content: Widać register_globals=0 w domyślnych instalacjach to już za mało :)
+- id: 2038
+  author: faxe
+  author_url: ''
+  date: '2005-08-25 01:48:44 +0200'
+  date_gmt: '2005-08-25 01:48:44 +0200'
+  content: |-
+    Jakiś mastah-prekursor - jeszcze nie widziałem, coby ktoś do zabezpieczania używał CSS.
+    <br/>
+    <br/>No i to Cookie, którego oczywiście nikt sobie nie zedytuje byle skryptozakładką ;)
+- id: 2039
+  author: Enleth
+  author_url: ''
+  date: '2005-08-25 01:51:06 +0200'
+  date_gmt: '2005-08-25 01:51:06 +0200'
+  content: Podobno lynx to narzędzie dla hakerów - jak widać, rzeczywiście ;)
+- id: 2040
+  author: ehh
+  author_url: ''
+  date: '2005-08-25 01:52:04 +0200'
+  date_gmt: '2005-08-25 01:52:04 +0200'
+  content: |-
+    Usuńmy użytkowników;p
+    <br/>Wiem jestem nie dobry ale to tak kusi...
+- id: 2041
+  author: Krymzon
+  author_url: ''
+  date: '2005-08-25 01:52:15 +0200'
+  date_gmt: '2005-08-25 01:52:15 +0200'
+  content: Cudo =) Gdzie to łowisz? Nudzi Ci się, czy samo wpada w ręce?
+- id: 2042
+  author: Patrys
+  author_url: ''
+  date: '2005-08-25 01:58:11 +0200'
+  date_gmt: '2005-08-25 01:58:11 +0200'
+  content: To są kawałki kodu, który dostaję do poprawki... T_T
+- id: 2043
+  author: Patrys
+  author_url: ''
+  date: '2005-08-25 02:02:38 +0200'
+  date_gmt: '2005-08-25 02:02:38 +0200'
+  content: |-
+    faxe:
+    <br/>
+    <br/>Tam jest logowanie sprawdzane, więc niczego sobie nie podmienisz w cookie. Chociaż tyle.
+- id: 2044
+  author: zimny k.
+  author_url: ''
+  date: '2005-08-25 08:21:07 +0200'
+  date_gmt: '2005-08-25 08:21:07 +0200'
+  content: CSS to potężne narzędzie...
+- id: 2045
+  author: DarkStar blog.krakowiacy.info
+  author_url: ''
+  date: '2005-08-25 09:40:04 +0200'
+  date_gmt: '2005-08-25 09:40:04 +0200'
+  content: Customizable Security System 2? ;P
+- id: 2046
+  author: Tomash
+  author_url: ''
+  date: '2005-08-25 10:23:27 +0200'
+  date_gmt: '2005-08-25 10:23:27 +0200'
+  content: |-
+    Tym samym Web Developer Toolbar awansuje do miana hakerskiego narzędzia ;P
+    <br/>
+    <br/>&gt;To są kawałki kodu, który dostaję do poprawki..
+    <br/>Patrys, przyjmij wyrazy :)
+- id: 2047
+  author: dulek
+  author_url: ''
+  date: '2005-08-25 11:24:10 +0200'
+  date_gmt: '2005-08-25 11:24:10 +0200'
+  content: Nie ma to jak coś takiego na poranną, posiniadaniową poprawę humoru :D
+- id: 2048
+  author: Bellois
+  author_url: ''
+  date: '2005-08-25 12:19:56 +0200'
+  date_gmt: '2005-08-25 12:19:56 +0200'
+  content: LOL
+- id: 2049
+  author: listek
+  author_url: ''
+  date: '2005-08-25 17:10:10 +0200'
+  date_gmt: '2005-08-25 17:10:10 +0200'
+  content: jak to przeczytałem to musiałem jeszcze raz ;)
+---
+<p>Jako, że data już technicznie rzecz biorąc inna, mogę zamieścić kolejny <abbr title="What The Fuck">WTF</abbr>.</p>
+
+<p>Pamiętajcie, środków ostrożności nigdy dość, dlatego ważną rolę pełni <em>security by obscurity</em>.</p>
+
+<blockquote><pre>&lt;?
+if ($_COOKIE[&quot;login&quot;] != &quot;admin&quot;)
+	print '&lt;div id=&quot;admin&quot; style=&quot;display:none;&quot;&gt;';
+else
+	print '&lt;div id=&quot;admin&quot;&gt;';
+?&gt;
+	&lt;!-- tutaj linki do usuwania użytkowników --&gt;
+&lt;/div&gt;</pre></blockquote>

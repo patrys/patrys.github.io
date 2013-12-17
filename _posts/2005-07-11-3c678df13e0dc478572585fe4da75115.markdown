@@ -1,0 +1,218 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #015: Love broadcast'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 129
+date: 2005-07-11 21:49:06.000000000 +02:00
+categories:
+- comic
+tags: []
+comments:
+- id: 1755
+  author: m
+  author_url: ''
+  date: '2005-07-11 23:29:18 +0200'
+  date_gmt: '2005-07-11 23:29:18 +0200'
+  content: greets to Natas :)
+- id: 1756
+  author: ehh
+  author_url: ''
+  date: '2005-07-12 00:18:36 +0200'
+  date_gmt: '2005-07-12 00:18:36 +0200'
+  content: A kto to &quot;nietoperz&quot; bo resztę kojarzę...
+- id: 1757
+  author: Patrys
+  author_url: ''
+  date: '2005-07-12 00:21:21 +0200'
+  date_gmt: '2005-07-12 00:21:21 +0200'
+  content: |-
+    Hmm... a skąd kojarzysz, jeśli można?
+    <br/>
+    <br/>Nietoperz to postać czysto fikcyjna, na ogół służy jako wypełniacz pod złośliwego użytkownika.
+    <br/>
+    <br/>Odpowiadając na pytania zadawane mi regularnie przez komunikator:
+    <br/>
+    <br/>Wszystkie komiksy powstały z pomocą GIMPa. Nie umiem rysować, więc powstają po pikselu.
+- id: 1758
+  author: ehh
+  author_url: ''
+  date: '2005-07-12 00:33:19 +0200'
+  date_gmt: '2005-07-12 00:33:19 +0200'
+  content: |-
+    Nietoperz - nie znam.
+    <br/>Ta dziewczyna to podejrzewam że Cachotterie - kilka osób z joggera mi o Niej mówiło.
+    <br/>Ten z laptopem to ty, Natas vel pies(nawet chyba łapy psie) itd - wyspa &amp; #wyjebicho
+    <br/>
+    <br/>Takie wujaśnie wyjaśnienie może być?
+- id: 1759
+  author: HoBBit
+  author_url: ''
+  date: '2005-07-12 02:51:12 +0200'
+  date_gmt: '2005-07-12 02:51:12 +0200'
+  content: kek;]
+- id: 1760
+  author: Tomash
+  author_url: ''
+  date: '2005-07-12 09:29:26 +0200'
+  date_gmt: '2005-07-12 09:29:26 +0200'
+  content: |-
+    Nietoperz to złośliwy użytkownik - był w jednym z pierwszych odcinków, przy okazji przeglądarek.
+    <br/>Drugi kadr to Bad Kitty. Od pewnego czasu na miejscu Cachottterie :].
+    <br/>Natas - czytany wspak Satan, ale nie mam pojęcia o reallife&#039;owym odpowiedniku.
+    <br/>Czwarty kadr to oczywiście Patrys.
+    <br/>
+    <br/>Wystarczy śledzić joga, ani razu nie gadałem na temat komiksu z Patrysem ;).
+- id: 1761
+  author: Patrys
+  author_url: ''
+  date: '2005-07-12 10:51:21 +0200'
+  date_gmt: '2005-07-12 10:51:21 +0200'
+  content: Natas to Natas, odpowiednik reallife&#039;owego Natasa.
+- id: 1762
+  author: Bad Kitty Meaaaaaaaaaaaaaw!
+  author_url: ''
+  date: '2005-07-12 11:59:53 +0200'
+  date_gmt: '2005-07-12 11:59:53 +0200'
+  content: 333... j4 |\/|4|\/| |\|i3[0 i|\||\|3 2457050|/\|4|\|i3   :)
+- id: 1763
+  author: Cachotterie
+  author_url: ''
+  date: '2005-07-12 12:34:26 +0200'
+  date_gmt: '2005-07-12 12:34:26 +0200'
+  content: Nie, Cachotterie skończyła występy w tym komiksie w okolicach 15 maja.
+- id: 1764
+  author: Cachotterie
+  author_url: ''
+  date: '2005-07-12 12:39:05 +0200'
+  date_gmt: '2005-07-12 12:39:05 +0200'
+  content: BTW, BadKitty, zdaje się że nie tak znowu inne, w pełni wypełniasz luki.
+- id: 1765
+  author: Jajcus
+  author_url: ''
+  date: '2005-07-12 12:41:41 +0200'
+  date_gmt: '2005-07-12 12:41:41 +0200'
+  content: Dziewczyny, tylko nie pobijcie się tutaj! ;-)
+- id: 1766
+  author: Cachotterie
+  author_url: ''
+  date: '2005-07-12 12:41:59 +0200'
+  date_gmt: '2005-07-12 12:41:59 +0200'
+  content: Nie ma o co Jajcuś, spokojnie.
+- id: 1767
+  author: iniside
+  author_url: ''
+  date: '2005-07-12 12:42:39 +0200'
+  date_gmt: '2005-07-12 12:42:39 +0200'
+  content: 1&#039;m m3Mb3r 0PH 31337 :D:D
+- id: 1768
+  author: Bad Kitty Meaaaaaaaaaaaaaw!
+  author_url: ''
+  date: '2005-07-12 12:46:06 +0200'
+  date_gmt: '2005-07-12 12:46:06 +0200'
+  content: |-
+    funny one Cachottterie :D
+    <br/>btw. wierz mi że ty zaszłaś o wieeeeeele dalej... no, może nie psychicznie... holla girl!
+- id: 1769
+  author: Cachotterie
+  author_url: ''
+  date: '2005-07-12 12:46:55 +0200'
+  date_gmt: '2005-07-12 12:46:55 +0200'
+  content: Nie psychicznie? Że zacytuję &quot;funny one :D&quot;.
+- id: 1770
+  author: Bad Kitty Meaaaaaaaaaaaaaw!
+  author_url: ''
+  date: '2005-07-12 13:14:01 +0200'
+  date_gmt: '2005-07-12 13:14:01 +0200'
+  content: "cytuj tam sobie co chcesz... \n<br/>no i cieszę się że ciebie rozbawiłam...\n<br/>teraz
+    już wiesz jak to jest zabawnie jak ktoś pierdoli głupoty (chodzi mi oczywiście
+    o twoją magiczną wypowiedź)\n<br/>pzdr! :)"
+- id: 1771
+  author: Tomash
+  author_url: ''
+  date: '2005-07-12 13:25:23 +0200'
+  date_gmt: '2005-07-12 13:25:23 +0200'
+  content: Pax, panie, pax. :)
+- id: 1772
+  author: Bad Kitty Meaaaaaaaaaaaaaw!
+  author_url: ''
+  date: '2005-07-12 13:31:58 +0200'
+  date_gmt: '2005-07-12 13:31:58 +0200'
+  content: ach jak czasem smutny jest ten świat :]
+- id: 1773
+  author: Mafjozo :)))
+  author_url: ''
+  date: '2005-07-12 13:33:22 +0200'
+  date_gmt: '2005-07-12 13:33:22 +0200'
+  content: 'Mafju says: C. U R BAZYL!'
+- id: 1774
+  author: Tomash
+  author_url: ''
+  date: '2005-07-12 13:46:12 +0200'
+  date_gmt: '2005-07-12 13:46:12 +0200'
+  content: Chyba nadszedł czas, żeby Patrys pobawił się nożycami moderatorskimi :].
+- id: 1775
+  author: bazyl
+  author_url: ''
+  date: '2005-07-12 20:04:23 +0200'
+  date_gmt: '2005-07-12 20:04:23 +0200'
+  content: 'Mafjozo: Sądzę, że korzystanie z mojego imienia jako przytyku jest chybionym
+    pomysłem. Nie sądzisz?'
+- id: 1776
+  author: Jaras
+  author_url: ''
+  date: '2005-07-12 20:06:30 +0200'
+  date_gmt: '2005-07-12 20:06:30 +0200'
+  content: a gdzie kurz z książki?
+- id: 1777
+  author: Fipaj
+  author_url: ''
+  date: '2005-07-12 20:38:37 +0200'
+  date_gmt: '2005-07-12 20:38:37 +0200'
+  content: Dajesz swoje prace na pix.art.pl? Bardzo ładne ;)
+- id: 1778
+  author: Patrys
+  author_url: ''
+  date: '2005-07-12 20:39:06 +0200'
+  date_gmt: '2005-07-12 20:39:06 +0200'
+  content: Nigdzie nie daję, bo nie umiem rysować.
+- id: 1779
+  author: HoBBit
+  author_url: ''
+  date: '2005-07-12 20:49:36 +0200'
+  date_gmt: '2005-07-12 20:49:36 +0200'
+  content: Patrys umie rysowac, ale dopiero po dwóch miood&#039;ach :D
+- id: 1780
+  author: Bad Kitty
+  author_url: ''
+  date: '2005-07-13 09:46:52 +0200'
+  date_gmt: '2005-07-13 09:46:52 +0200'
+  content: witrażyki :D
+- id: 1781
+  author: HoBBit °¸°
+  author_url: ''
+  date: '2005-07-15 02:12:50 +0200'
+  date_gmt: '2005-07-15 02:12:50 +0200'
+  content: |-
+    Kwasiu: i akty z nagim pieknym ciałem kobiety również :D
+    <br/>sam podawalem Mu ołówki :D
+- id: 1782
+  author: Bad Kitty
+  author_url: ''
+  date: '2005-07-15 13:57:28 +0200'
+  date_gmt: '2005-07-15 13:57:28 +0200'
+  content: ':D'
+- id: 1783
+  author: Twoja Stara
+  author_url: ''
+  date: '2005-08-05 13:19:07 +0200'
+  date_gmt: '2005-08-05 13:19:07 +0200'
+  content: Chyba Twoja !
+---
+<p>This public announcement is brought to you by America Online, the home of the l33t.</p>
+
+<p class="strip"><img src="http://comic.room-303.com/strips/015-aol.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks"/></p>

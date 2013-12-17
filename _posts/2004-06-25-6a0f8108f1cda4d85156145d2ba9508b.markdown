@@ -1,0 +1,104 @@
+---
+layout: post
+status: publish
+published: true
+title: Zakład pogrzebowy "Radość Życia"
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 29
+date: 2004-06-25 19:23:00.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 93
+  author: qwiat
+  author_url: ''
+  date: '2004-06-25 19:47:48 +0200'
+  date_gmt: '2004-06-25 19:47:48 +0200'
+  content: |-
+    Ogłoszenia drobne:
+    <br/>Student (Patrys) i świeżo upieczony aboslwent (Qwiat - współpacownik™) szukają pracy. Potrafią wszystko zrobić na wczoraj, pełna dyspozycyjność, nie potrzebują snu, nie mają rodzin, przyjaciół i zycia prywatnego. Mają niskie koszty utrzymania - kawę kupują własną.
+    <br/>
+    <br/>Tak BTW to nauczyłem wczoraj że nie warto wykonywac fachowo swojej pracy. Kiedy otrzymuje sie polecenie (od SamegoPrezesa™) radykalnej zmiany wyglądu strony (z biało-niebeiskiego na czerwono-czarny), a ma się obrobioną połąwę zdjęc to ręce opadają. Mam to dupie, będzie brzydko...
+- id: 94
+  author: Patrys
+  author_url: ''
+  date: '2004-06-25 19:50:29 +0200'
+  date_gmt: '2004-06-25 19:50:29 +0200'
+  content: Najwyżej kiedyś poprawisz, jak będziesz się nudził o tej 22:30.
+- id: 95
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2004-06-25 21:30:49 +0200'
+  date_gmt: '2004-06-25 21:30:49 +0200'
+  content: |-
+    Pasujecie do naszego zespołu, chcecie robić to, co robicie teraz, ale za połowę pieniędzy i w 10x większej firmie? Głupawki gwarantowane już o 14.00, poza tym sprawdzanie się w podkradaniu kawy j.o. Zażondowi i możliwość wykazania się w dowolną sobotę lub niedzielę. Codzienny kontakt z użytkownikami przypomina o sensie życia i zapierdalania. I&#039;m lovin&#039; it!
+    <br/>Gdybym nie kochał pisać programów, to już dawno zostałbym operatorem widlaka albo innym elektrykiem.
+- id: 96
+  author: DarkStar
+  author_url: ''
+  date: '2004-06-29 15:55:56 +0200'
+  date_gmt: '2004-06-29 15:55:56 +0200'
+  content: Ja, co prawda, nie przesiaduje w pracy do 23 (wychodze max o 17:30), ale
+    dostaje juz k***cy od zeszlego tygodnia, odkad to staram sie stworzyc jakis mechanizm
+    do komunikacji miedzyprocesowej w Pythonie i dziala to... roznie :P Juz nie moge
+    patrzec na konsole. A wydawaloby sie, ze to takie proste powinno byc. Tak myslalem,
+    kiedy sie za to zabieralem kilka dni temu. Rzygam Pythonem. ;]
+- id: 97
+  author: właściciel
+  author_url: ''
+  date: '2005-11-15 20:32:26 +0100'
+  date_gmt: '2005-11-15 20:32:26 +0100'
+  content: |-
+    kto pozwolił wam używać nazwy mojej firmy ,,radość życia&quot; jest to nie uczciwe
+    <br/>www.radosczycia.freehost.pl
+- id: 98
+  author: Patrys
+  author_url: ''
+  date: '2005-11-15 20:35:46 +0100'
+  date_gmt: '2005-11-15 20:35:46 +0100'
+  content: |-
+    Jak rozumiem, zakład jest w budowie i - podobnie jak strona - znajduje się w darmowym budynku, bo na czynsz nie stać? ;)
+    <br/>
+    <br/>A powyższa notka jest z czerwca ubiegłego roku.
+---
+SamPrezes&trade; wzywa. Początki wdrożenia systemu sprzedaży. System o funkcjonalności Subiekta czy Symfonii. Powstaje z długimi przerwami mniej-więcej od początku roku.<br />
+<br />
+Okazało się, że oprócz listy rutynowych poprawek SamPrezes&trade; postanowił przekazać nam rewelacyjne wiadomości. Otóż pracujemy zbyt wolno, niestety. Co prawda mamy też tysiące innych czasochłonnych obowiązków, jednakże w końcu jest nas dwóch (ja i MójWspółpracownik&trade;). Co prawda spędzamy w biurze czas od 9:30 do 23:00, ale przecież doba ma 24 godziny. Co prawda nikt nam nie płaci za nadgodziny, z drugiej jednak strony najlepszą motywacją dla szanującego się programisty powinien być już sam fakt obcowania z komputerem. Co prawda wypijamy po 4 kawy dziennie i wracamy z bólem głowy do domu, ledwo widząc na oczy, ale przecież cieszy nas fakt, że nasze dziecko działa. Nasze narzekania są więc bezpodstawne. Nie potrafimy sobie zorganizować czasu, skoro cudów dokonujemy w pięć dni a nie w trzy, a rzeczy niemożliwych w dobę miast dwóch godzin. I nie gra tu żadnej roli fakt, że jest godzina 19:10, a ja jeszcze nie miałem czasu zjeść śniadania.<br />
+<br />
+Rozmowa z SamymPrezesem&trade;:<br />
+<br />
+- Czemu to tak długo trwa?<br />
+- Siedzimy w biurze do 22:00 - 23:00<br />
+- No wiem<br />
+- W poniedziałek klient odbiera ode mnie stronę internetową i załatwiam umowę hostingową<br />
+- No wiem<br />
+- MójWspółpracownik&trade; robi stronę jednej z linii sprzedawanych przez nas produktów<br />
+- No wiem<br />
+- A później robi stronę fabryki na odbywające się za kilka dni targi<br />
+- No wiem. Ale to za wolno idzie. Ja bym za te pieniądze, co wam płacę kupił gotowy system. Zaraz się okaże, że mi się nie opłaca tego rozwijać, za wolno to idzie.<br />
+- To jest PROGRAM, sam się nie zrobi<br />
+- Trzeba jakoś lepiej ten czas podzielić<br />
+- Mieliśmy to robić w trzy osoby, z SynemPrezesa&trade;<br />
+- No wiem<br />
+<br />
+Oczywiście stronę dla klienta trzeba skończyć przez weekend. Na wpół hobbystycznie, po części charytatywnie.<br />
+<br />
+Rozmowa z MoimWspółpracownikiem&trade; na papierosie:<br />
+<br />
+- No zajebiście, zbyt wolno dokonujemy cudów<br />
+- A ja dalej nie mam umowy żadnej z firmą<br />
+- To powiedz że chcesz<br />
+- No właśnie myślę, że to jest idealny moment<br />
+- No bo jest<br />
+- To co, idziemy zaraz do domu<br />
+<br />
+...<br />
+<br />
+(chórem) PFFFBUAAAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA<br />
+<br />
+Nigdy już nie pozwolę sobie stracić całego tygodnia na negocjację umowy z kimś tak bezużytecznym jak klient na usługi hostingowe. Po co mam komuś robić strony internetowe, skoro to przecież tylko pieniądze. Zajmuje mi to tylko niepotrzebnie czas. I jeszcze dzwonić, umawiać się, negocjować warunki jak najlepsze dla firmy. I pewnie jeszcze ktoś z czytających łudzi się, że za znalezienie klienta dostaję chociaż złotówkę prowizji? BUAHAHAHAHAHAHAHA

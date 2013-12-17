@@ -1,0 +1,630 @@
+---
+layout: post
+status: publish
+published: true
+title: Opera i popularność
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 184
+date: 2005-11-19 14:24:12.000000000 +01:00
+categories:
+- web
+- usability
+- software
+tags: []
+comments:
+- id: 2566
+  author: Enleth
+  author_url: ''
+  date: '2005-11-19 14:26:44 +0100'
+  date_gmt: '2005-11-19 14:26:44 +0100'
+  content: Dodaj jeszcze, że &quot;Podobieństwo przedstawionych ...blablabla... jest
+    przypadkowe i nie było zamierzone&quot; ;)
+- id: 2567
+  author: Patrys
+  author_url: ''
+  date: '2005-11-19 14:27:49 +0100'
+  date_gmt: '2005-11-19 14:27:49 +0100'
+  content: Podobieństwo czego? To dwa screeny z Opery, w tym jeden z przywróconą konfiguracją
+    domyślną, a drugi w wersji, której używam normalnie do testowania stron.
+- id: 2568
+  author: cenebris
+  author_url: ''
+  date: '2005-11-19 14:28:40 +0100'
+  date_gmt: '2005-11-19 14:28:40 +0100'
+  content: Ten &quot;manewr&quot; z przyciskami wydaje mi się zupełnie niepotrzebny
+    - kwestia przyzwyczajenia. Z operą jest więcej problemów - gmail i googletalk,
+    do tego inne strony potrafi otwierać parę razy dłużej niż firefox... Dlatego chwilowo
+    wróciłem do firefoksa, może 9. wersja opery rozwiąże te problemy?
+- id: 2569
+  author: jpc
+  author_url: ''
+  date: '2005-11-19 14:29:09 +0100'
+  date_gmt: '2005-11-19 14:29:09 +0100'
+  content: Jesteś paskudny! :P
+- id: 2570
+  author: Enleth
+  author_url: ''
+  date: '2005-11-19 14:29:13 +0100'
+  date_gmt: '2005-11-19 14:29:13 +0100'
+  content: Sęk w tym, że po tym drugim screenie *widać*, że to konfig użytkownika
+    Firefoksa...
+- id: 2571
+  author: Patrys
+  author_url: ''
+  date: '2005-11-19 14:29:45 +0100'
+  date_gmt: '2005-11-19 14:29:45 +0100'
+  content: Nie &quot;kwestia przyzwyczajenia&quot;, bo typowy użytkownik nie ma zamiaru
+    się przystosowywać do programu. To program ma działać tak, jak chce user.
+- id: 2572
+  author: Smoothguy
+  author_url: ''
+  date: '2005-11-19 14:29:51 +0100'
+  date_gmt: '2005-11-19 14:29:51 +0100'
+  content: Zgodzę się, że faktycznie taka zmiana standardowych ustawień byłaby dobra.
+    Lepsze by to było do ogarnięcia, bardziej intuicyjne i normalniejsze.
+- id: 2573
+  author: Patrys
+  author_url: ''
+  date: '2005-11-19 14:31:28 +0100'
+  date_gmt: '2005-11-19 14:31:28 +0100'
+  content: |-
+    Enleth:
+    <br/>
+    <br/>A po pierwszym widać, że to konfig kogoś, kto ma gdzieś kwestię usability.
+- id: 2574
+  author: jpc
+  author_url: ''
+  date: '2005-11-19 14:32:20 +0100'
+  date_gmt: '2005-11-19 14:32:20 +0100'
+  content: 'Patrys: a wiesz, że szedłbym o zakład, że to mockup? (wziąłeś Operową
+    skórkę do FF i wkleiłeś w screenshota)'
+- id: 2575
+  author: MatiSz
+  author_url: ''
+  date: '2005-11-19 14:33:08 +0100'
+  date_gmt: '2005-11-19 14:33:08 +0100'
+  content: "Rozumiem więc, że wszyskie programy powinny być podobne do siebie? Moim,
+    być może niezbyt obiektywnym, zdaniem tak jest właśnie w porządku - mamy ileśtam
+    przeglądarek, które są identyczne i mamy Operę, która się wyróżnia, bo posiada
+    logiczny interfejs. Mamy to zniszczyć? To może nazwijmy ją FirefoxB i dodajmy
+    obsługę rozszerzeń - bo jest zbyt mało podobna do Fx. \n<br/>\n<br/>Chociaż -
+    Opera, przy pierwszym uruchomieniu programu, mogłaby pytać - chcesz prosty czy
+    zaawansowany interfejs? - tak, jak było to swego czasu z wyborem reklam - banner
+    czy Google. To byłoby chyba wyjście, które zadowoliloby wszystkie strony. "
+- id: 2576
+  author: Patrys
+  author_url: ''
+  date: '2005-11-19 14:33:41 +0100'
+  date_gmt: '2005-11-19 14:33:41 +0100'
+  content: |-
+    jpc:
+    <br/>
+    <br/>To autentyk, używam Opery do testowania layoutów. To, że akurat przyciski ma z Firefoksa, to przypadek. To jedyna skórka, jaką znalazłem, która nie świeci po oczach bardziej niż sama strona.
+- id: 2577
+  author: Patrys
+  author_url: ''
+  date: '2005-11-19 14:37:12 +0100'
+  date_gmt: '2005-11-19 14:37:12 +0100'
+  content: |-
+    MatiSz:
+    <br/>
+    <br/>Nie muszą wyglądać *identycznie*, ale Opera domyślnie wyświetla masę zbędnych przycisków, z których żaden nie jest podpisany. Dodatkowo każdy element interfejsu po najechaniu się podświetla, łącznie z paskiem przewijania strony. Do tego makabryczny dobór kolorów - górne paski przeglądarki są bardziej wyeksponowane od oglądanej strony. A na koniec najgorsza rzecz, jaką można zrobić użytkownikom - elementy interfejsu, które wyskakują i chowają się w zależnościo od tego, czy kursor znajduje się w polu adresu.
+- id: 2578
+  author: MatiSz
+  author_url: ''
+  date: '2005-11-19 14:45:01 +0100'
+  date_gmt: '2005-11-19 14:45:01 +0100'
+  content: "&gt; Nie muszą wyglądać *identycznie*, ale Opera domyślnie wyświetla masę
+    zbędnych przycisków, z których żaden nie jest podpisany.\n<br/>\n<br/>Dla kogo
+    są one zbędne, dla tego są - ja korzystam. \n<br/>\n<br/>Co do podświetlania -
+    fakt, domyślnie mogłoby tego nie być, jednak bez problemu można to zmienić w preferencjach,
+    trzema klikami. \n<br/>\n<br/>&gt; Do tego makabryczny dobór kolorów - górne paski
+    przeglądarki są bardziej wyeksponowane od oglądanej strony.\n<br/>\n<br/>Nie wiem,
+    jak innym, ale mi te kolory, ta skórka kojarzą się z Operą, teraz jej używam i
+    nie narzekam - na serio są stonowane, nie dają po oczach. \n<br/>\n<br/>Jedyną
+    rzeczą, z która się zgadzam to pasek startowy (ta &quot;wyskakujka&quot;) - obrzydliwe,
+    uprzykrza przeglądanie stron - wywalenie tego jest pierwszą czynnością, którą
+    robię na świeżej instalacji. "
+- id: 2579
+  author: Riddle
+  author_url: ''
+  date: '2005-11-19 14:46:39 +0100'
+  date_gmt: '2005-11-19 14:46:39 +0100'
+  content: "Bardzo dobry wpis, znakomicie uzupełniający to co chciałem przekazać.\n<br/>\n<br/>(Matisz)\n<br/>...Rozumiem
+    więc, że wszyskie programy powinny \n<br/>...być podobne do siebie? Moim, być
+    może \n<br/>...niezbyt obiektywnym, zdaniem tak jest \n<br/>...właśnie w porządku
+    - mamy ileśtam \n<br/>...przeglądarek, które są identyczne i mamy \n<br/>...Operę,
+    która się wyróżnia, bo posiada \n<br/>...logiczny interfejs.\n<br/>\n<br/>Jeśli
+    Operowcy chcą być dotrzegani w świecie IT, to tak, musi Opera się zmienić. Mój
+    wpis głównie był wytłumaczeniem, czemu Operka ma tak małą popularność, tutaj widzisz
+    bardzo dobre wyjście z tej sytuacji.\n<br/>\n<br/>(Jpc)\n<br/>...Sęk w tym, że
+    po tym drugim screenie \n<br/>...*widać*, że to konfig użytkownika Firefoksa...\n<br/>\n<br/>Chyba
+    żart. Screen drugi jest to screen przeglądarki a nie przyczepy kempingowej z rozłożonym
+    dziesięcio osobowym namiotem przed nim. Opera mogłaby zachować opcje, ale interfejs
+    tak jak pokazał Patrys (pomijając ikony) jest userfriendly. To tak jak menu w
+    Nokii a Siemensie.\n<br/>\n<br/>"
+- id: 2580
+  author: Riddle
+  author_url: ''
+  date: '2005-11-19 14:48:42 +0100'
+  date_gmt: '2005-11-19 14:48:42 +0100'
+  content: 'Matisz: Okej, używaj. Ale nie wymagaj, że setki tysięcy osób będą tacy
+    jak Ty.'
+- id: 2581
+  author: adas
+  author_url: ''
+  date: '2005-11-19 14:51:29 +0100'
+  date_gmt: '2005-11-19 14:51:29 +0100'
+  content: "@Riddle: Co ty masz do menu w Siemensie? ;) \n<br/>\n<br/>(zaraz będe
+    robił automatycznego trackbacka)."
+- id: 2582
+  author: MatiSz
+  author_url: ''
+  date: '2005-11-19 14:54:09 +0100'
+  date_gmt: '2005-11-19 14:54:09 +0100'
+  content: "&gt; Jeśli Operowcy chcą być dotrzegani w świecie IT, to tak, musi Opera
+    się zmienić. Mój wpis głównie był wytłumaczeniem, czemu Operka ma tak małą popularność,
+    tutaj widzisz bardzo dobre wyjście z tej sytuacji.\n<br/>\n<br/>Trudno, bym wypowiadał
+    się, czy OS chce być dostrzeżona w świecie. Muszę jednak przyznać, że ja, osobiście,
+    nie jestem za zbyt wielką popularnością Opery - mogłaby dobić do tych kilkunastu
+    procent, podobnie jak Fx. Zaś rynek IE mogłyby przejąć inne przeglądarki - im
+    jest ich więcej, tym większy wybór, lepsze dopasowanie, większa konkurencja. \n<br/>\n<br/>&gt;
+    Okej, używaj. Ale nie wymagaj, że setki tysięcy osób będą tacy jak Ty.\n<br/>\n<br/>Trudno
+    mi uwierzyć, że jestem jedynym użytkownikiem, który używa domyślnej konfiguracji.
+    Dlatego też podałem rozwiązanie problemu - nawet jeśli nie byłoby to pytanie na
+    starcie, to może jakaś opcja w menu - zaawansowani będą wiedziećm gdzie szukać,
+    zaś początkujący nie będa zawracać sobie głowy. \n<br/>\n<br/>To jest moje zdanie,
+    które w żaden sposób nie powino być utożsamiane z poglądami OS :P"
+- id: 2583
+  author: Patrys
+  author_url: ''
+  date: '2005-11-19 14:56:14 +0100'
+  date_gmt: '2005-11-19 14:56:14 +0100'
+  content: |-
+    MatiSz:
+    <br/>
+    <br/>Zaawansowany user będzie wiedział, jak sobie dodać 15 innych guzików do pasków z narzędziami. Zwykły przeglądacz internetu nie będzie wiedział, jak je usunąć. Dlatego proponuję zmianę domyślnego interfejsu, a nie usunięcie opcji z Opery.
+- id: 2584
+  author: Nazon
+  author_url: ''
+  date: '2005-11-19 15:00:50 +0100'
+  date_gmt: '2005-11-19 15:00:50 +0100'
+  content: |-
+    Taka jedna mała uwaga:
+    <br/>Pojawia się coraz więcej głosów że &quot;Opera powinna się zmienić&quot;, ale czy wziął ktoś pod uwagę, że po zmianach to już nie będzie ta Opera? Że straci swoją &quot;inność&quot; i &quot;wyjątkowość&quot;? Że pozostaną tylko featury &quot;pod maską&quot; - na pierwszy rzut oka niewidoczne (fast forward, fit to page width etc)?
+- id: 2585
+  author: Patrys
+  author_url: ''
+  date: '2005-11-19 15:02:14 +0100'
+  date_gmt: '2005-11-19 15:02:14 +0100'
+  content: |-
+    Zyska za to na tym szerokie grono użytkowników.
+    <br/>
+    <br/>Chciałbyś, żeby MS Office przychodził z domyślnie widocznymi wszystkimi paskami narzędzi i ikonami?
+- id: 2586
+  author: kranked
+  author_url: ''
+  date: '2005-11-19 15:02:54 +0100'
+  date_gmt: '2005-11-19 15:02:54 +0100'
+  content: Jak zobaczyłem ten drugi screen to zdurniałem na początku :) Dopiero napis
+    na belce tytułowej wyjaśnił mi, że to opera, bo rozwiązanie typowo firefoksowe
+    czyli - wygodniejsze (moje zdanie oczywiście)
+- id: 2587
+  author: sprae
+  author_url: ''
+  date: '2005-11-19 15:10:54 +0100'
+  date_gmt: '2005-11-19 15:10:54 +0100'
+  content: |-
+    Alez bredzenie. I na co komu ten caly wpis? Zeby ludzie dostrzegli, ze opera jest taka zla? Mi tam sie podobala, dopuki nie odkrylem Fx1.5bx. Tak samo mozna pisac ze windows jest bebe. I co to zmieni?
+    <br/>A jedyny sposob na zmiane wygladu opery to wyslanie maila do producenta. Jesli im sie spodoba to moze ktos zostanie dizajnerem w dobrej firmie ;) Fakt jest taki ze userom opery zazwyczaj jej wyglad sie podoba.
+- id: 2588
+  author: Patrys
+  author_url: ''
+  date: '2005-11-19 15:14:23 +0100'
+  date_gmt: '2005-11-19 15:14:23 +0100'
+  content: |-
+    sprae:
+    <br/>
+    <br/>Ten wpis jest zupełnie przeciwnie nacechowany do twoich wniosków. Opera nie jest be, tylko takie sprawia wrażenie. A pisanie, że jakieś domyślne opcje się podobają całym 1% użytkowników internetu to świetne wytłumaczenie, żeby nic nie robić.
+- id: 2589
+  author: cenebris
+  author_url: ''
+  date: '2005-11-19 15:15:27 +0100'
+  date_gmt: '2005-11-19 15:15:27 +0100'
+  content: "Wy się tu kłócicie o takie nikomu nie potrzebne głupoty, co i tak nie
+    zmienia faktu, że opera jest ignorowana przez wielu &quot;wielkich&quot; i nie
+    tylko, bo kto by tam się chciał zajmować tym ułamkiem procenta użytkowników. Z
+    tego powodu niektóre strony działają wszędzie tylko nie w operze lub otwierają
+    się 5 razy dłużej... \n<br/>To także jeden z powodów, dlaczego opera traci i jest
+    &quot;gorsza&quot;..."
+- id: 2590
+  author: Patrys
+  author_url: ''
+  date: '2005-11-19 15:16:52 +0100'
+  date_gmt: '2005-11-19 15:16:52 +0100'
+  content: Jeśli strona działa pod Gecko, to nie ma powodów, dla których miałaby nie
+    działać pod Operą. Chyba, że ktoś ma durny, inwazyjny JavaScript, który zamiast
+    sprawdzać funkcjonalność, sniffuje nazwę agenta.
+- id: 2591
+  author: adas
+  author_url: ''
+  date: '2005-11-19 15:18:33 +0100'
+  date_gmt: '2005-11-19 15:18:33 +0100'
+  content: |-
+    @Patrys: są. Jeżeli się wykorzystuje XSLT albo coś czego Opere (jeszcze) nie potrafi.
+    <br/>
+    <br/>Albo jeżeli wysyła się nie zgzipowanego Gmaila tylko dla Opery (3 razy wiecej ściągania).
+- id: 2592
+  author: cenebris
+  author_url: ''
+  date: '2005-11-19 15:18:45 +0100'
+  date_gmt: '2005-11-19 15:18:45 +0100'
+  content: 'A kogo z użytkowników interesuje to, jak jest robiona strona i co mu to
+    da? Dla zwykłego człowieka ważne jest, aby wszystko działało jak ma bez wgłębiania
+    się w szczegóły. I tyle. '
+- id: 2593
+  author: Patrys
+  author_url: ''
+  date: '2005-11-19 15:23:38 +0100'
+  date_gmt: '2005-11-19 15:23:38 +0100'
+  content: |-
+    adas:
+    <br/>
+    <br/>XSLT wysyłane do przeglądarki to najgłupszy pomysł, jaki dotychczas widziałem w sieci. Głupsze byłoby tylko budowanie strony w XUL. XSLT można odpalić po stronie serwera i wysłać przeglądarce kod HTML. Chyba, że autor oczekuje implementacji XSLT w telefonach komórkowych, mikrofalówkach, set-top boksach i gdziekolwiek jeszcze da się oglądać strony WWW.
+    <br/>
+    <br/>Co do gzipa: Apache, najpopularniejszy serwer HTTP w sieci, ma moduł mod_deflate, który automatycznie kompresuje treść dla przeglądarek, które twierdzą, że potrafią to obsłużyć (nagłówki HTTP) i o których wiadomo, że nie są zepsute (IE &lt;= 5). Jeśli GMail faktycznie nie kompresuje w locie, to wynika to z błędnej konfiguracji serwera (raczej z Apache nie korzystają) i pewnie można poprosić o poprawienie tego.
+- id: 2594
+  author: adas
+  author_url: ''
+  date: '2005-11-19 15:26:14 +0100'
+  date_gmt: '2005-11-19 15:26:14 +0100'
+  content: |-
+    Ad.1 www.meebo.com (chyba to tam było)
+    <br/>Ad.2 A myślisz, że Opera nie prosiła o to? Ja sobie radzę tym, że zmieniam identyfikację przy użyciu ua.ini na FF.
+- id: 2595
+  author: cenebris
+  author_url: ''
+  date: '2005-11-19 15:28:28 +0100'
+  date_gmt: '2005-11-19 15:28:28 +0100'
+  content: 'Jak ma ktoś chwilę, to polecam wypróbować www.mobical.net na ff i pod
+    operą. FF wgrywa strony za 2 sekundy, opera za 10-15... '
+- id: 2596
+  author: Patrys
+  author_url: ''
+  date: '2005-11-19 15:28:59 +0100'
+  date_gmt: '2005-11-19 15:28:59 +0100'
+  content: |-
+    adas:
+    <br/>
+    <br/>Ale meebo to aplikacja, a nie serwis WWW, a te rządzą się trochę innymi prawami. Z rzeczy, których niestety Opera jeszcze nie wspiera, najbardziej dokuczliwe jest designMode.
+- id: 2597
+  author: adas
+  author_url: ''
+  date: '2005-11-19 15:31:55 +0100'
+  date_gmt: '2005-11-19 15:31:55 +0100'
+  content: |-
+    No i chyba XSLT meebo nie wysyła (ale gdzieś się z tym spotkałem).
+    <br/>
+    <br/>DesignMode będzie w 09 (ale to napewno wiesz).
+    <br/>
+    <br/>@cenebris: 2-3 sekundy. Żadnych przestojów (Opera 9 jakby co).
+- id: 2598
+  author: cenebris
+  author_url: ''
+  date: '2005-11-19 15:35:34 +0100'
+  date_gmt: '2005-11-19 15:35:34 +0100'
+  content: U mnie 20, też opera 9... Mówię o zalogowaniu do tego serwisu i łażeniu
+    w nim. Też operę przełączyłem na mozillę i ie, ale to samo. Pewno błąd będzie
+    gdzieś indziej...
+- id: 2599
+  author: adas
+  author_url: ''
+  date: '2005-11-19 15:37:18 +0100'
+  date_gmt: '2005-11-19 15:37:18 +0100'
+  content: |-
+    A to ja tylko troszkę połaziłem... Logować mi się nie chce.
+    <br/>
+    <br/>@Patrys: A spójrz jeszcze na pocztę na wp.pl - niby Ajax a w Operze cześć rzeczy im nie działa od kilku miesięcy (poganiałem, ale mnie olali).
+- id: 2600
+  author: Łukasz
+  author_url: ''
+  date: '2005-11-19 16:05:51 +0100'
+  date_gmt: '2005-11-19 16:05:51 +0100'
+  content: teraz mi sie brdziej podoba.
+- id: 2601
+  author: Łukasz
+  author_url: ''
+  date: '2005-11-19 16:09:15 +0100'
+  date_gmt: '2005-11-19 16:09:15 +0100'
+  content: teraz mi sie brdziej podoba.
+- id: 2602
+  author: '|.-.|---|.-.|..|---|'
+  author_url: ''
+  date: '2005-11-19 16:29:17 +0100'
+  date_gmt: '2005-11-19 16:29:17 +0100'
+  content: Jeśli chodzi o dostosowanie się przeglądarki do usera, to chyba od Opery
+    lepiej wypada Flock... To prawda, że skórka na screenie jest baaardzo podobna
+    do firefoxa, ale co to ma za znaczenie? Jeśli userowi (patrys) odpowiada wygląd
+    podobny do firefoxa, to co z tego? Ehh! To jest jedna z tych duskusji &quot;MOJE
+    JEST LEPSZE! ZAKNIJ SIĘ!&quot;.
+- id: 2603
+  author: Siergiej
+  author_url: ''
+  date: '2005-11-19 16:41:15 +0100'
+  date_gmt: '2005-11-19 16:41:15 +0100'
+  content: |-
+    Moja SUBIEKTYWNA opinia:
+    <br/>dodatkowy toolbar w Operze przy pasku adresu to genialna sprawa, rzeczywiście jak pierwszy raz w życiu go zobaczyłem to pomyślałem WTF?, ale szybko zmieniłem zdanie. Z &quot;Top 10&quot; korzystam bardzo często, ale nie jest to przycisk który powinien być zawsze widoczny i dostępny jednym klikiem, w przeciwieństwie do wstecz, dalej, odśwież. Mam tam też kilka innych przycisków, np. &quot;Spurl!&quot; (bookmarkowanie), tak więc wszystko jest kwestią gustu, przyzwyczajenia, a nawet poznania.
+- id: 2604
+  author: Riddle
+  author_url: ''
+  date: '2005-11-19 16:57:25 +0100'
+  date_gmt: '2005-11-19 16:57:25 +0100'
+  content: 'Rorio: Właśnie, nie. Nie widzi(sz|cie) o co tutaj chodzi. Opera ma niewątpliwie
+    paręnaście rozwiązań, które są wspaniałe. Ten kosz na strony, to dostosowywanie
+    się do rozmiaru okna. Fajna sprawa. No ale nijak tego pokazać ZU, bo interfejs
+    jest ... pisaliśmy już o tym.'
+- id: 2605
+  author: '|.-.|---|.-.|..|---|'
+  author_url: ''
+  date: '2005-11-19 17:04:04 +0100'
+  date_gmt: '2005-11-19 17:04:04 +0100'
+  content: 'Riddle: 99,9% użytkowników(Z ;) ) jako dostosowanie przeglądarki do swoich
+    potrzeb, uważa interfejs. I o to chodzi. Flock ma kilka fajnych gadżetów które,
+    w odróżnieniu od opery, dobrze zintegrowane z interfejsem.  Znam pewnego osobnika
+    używającego opery i niemającego zielonego pojęcia o tym &#039;koszu&#039;. A flock?
+    Bracia! ;) Zerknijcie tylko na screeny. '
+- id: 2606
+  author: adas
+  author_url: ''
+  date: '2005-11-19 17:05:24 +0100'
+  date_gmt: '2005-11-19 17:05:24 +0100'
+  content: '@|.-.|---|.-.|..|---|: polecam → http://piotr.mikolajski.net/2005/11/troche-o-flocku'
+- id: 2607
+  author: pmz
+  author_url: ''
+  date: '2005-11-19 18:32:03 +0100'
+  date_gmt: '2005-11-19 18:32:03 +0100'
+  content: Opera obsysa!!! Nie wypuszczają wersji na x86-64 i nie udostępniają źródeł
+    by można było sobie takową samemu zbudować. A stawiać 32 bitowej dystrybucji w
+    chroocie specjalnie dla Opery nie zamierzam.
+- id: 2608
+  author: nbw
+  author_url: ''
+  date: '2005-11-19 20:23:10 +0100'
+  date_gmt: '2005-11-19 20:23:10 +0100'
+  content: 'pmz: nie używaj.'
+- id: 2609
+  author: pmz
+  author_url: ''
+  date: '2005-11-19 22:20:23 +0100'
+  date_gmt: '2005-11-19 22:20:23 +0100'
+  content: 'nbw: nie używam. Aczkolwiek nie z własnego wyboru  i dlatego właśnie Opera
+    obsysa.'
+- id: 2610
+  author: Riddle
+  author_url: ''
+  date: '2005-11-19 22:23:01 +0100'
+  date_gmt: '2005-11-19 22:23:01 +0100'
+  content: "Z każdym tygodniem mojego, przecież nie tak długiego, bytowania w Internecie
+    ludzie mnie zawodzą. Z każdej próby wyjaśnienia zawiłości i podzielenia się odczuciami
+    musi wyjść symfonia „a ja” i obsysającego trollowania. \n<br/>\n<br/>Smutne."
+- id: 2611
+  author: Riddle
+  author_url: ''
+  date: '2005-11-19 22:23:46 +0100'
+  date_gmt: '2005-11-19 22:23:46 +0100'
+  content: „ludzie mnie coraz bardziej zawodzą.” miało być
+- id: 2612
+  author: cenebris
+  author_url: ''
+  date: '2005-11-19 22:25:07 +0100'
+  date_gmt: '2005-11-19 22:25:07 +0100'
+  content: Riddle, nie bądź śmieszny - czego się spodziewałeś? Że wszyscy się zgodzą
+    z tobą? A inni to niby co robią? Przecież też się dzielą swoimi odczuciami...
+- id: 2613
+  author: Riddle
+  author_url: ''
+  date: '2005-11-19 22:26:22 +0100'
+  date_gmt: '2005-11-19 22:26:22 +0100'
+  content: |-
+    Pisałem o PR i marketingu.
+    <br/>Wy piszecie o opcjach i przyzwyczajeniach.
+- id: 2614
+  author: kiesiu
+  author_url: ''
+  date: '2005-11-20 20:03:03 +0100'
+  date_gmt: '2005-11-20 20:03:03 +0100'
+  content: |-
+    Patrys, Riddle: Wiecie jak to jest. Linux v. Windows, GNOME v. KDE, vi v. emacs, itd... Nie spojrzy taki jeden z drugim o czym piszesz, tylko zaraz rozpoczyna tą swoją &quot;wojnę&quot; ideologiczną.
+    <br/>
+    <br/>cenebris: A nie zgodzisz się, że OS tworząc nieintuicyjny i strasznie rozbudowany UI zraża do siebie ZU?
+    <br/>
+    <br/>Dlaczego większość z ZU nigdy nie słyszała o Operze, a Ci co słyszeli w większości myślą, że jest płatna? Dział marketingu w OS sobie nie radzi. To jest firma, a nie organizacja non-profit. To dziwi i zmusza do podzielenia się tymi przemyśleniami z innymi. Tak myślę...
+- id: 2615
+  author: cenebris
+  author_url: ''
+  date: '2005-11-20 20:12:58 +0100'
+  date_gmt: '2005-11-20 20:12:58 +0100'
+  content: 'kiesiu: co za bzdury z nieintuicyjnym interfejsem ciągle wygadujecie?
+    Nie znam ani jednej osoby z mojego otoczenia, której opera sprawiałaby więcej
+    problemów w używaniu od firefoksa. Ci, którzy zostali przy operze bardzo ją lubią.
+    Chodzi o trochę dobrej woli i czasu i można nauczyć się obsługi wszystkiego. A
+    nie ciągle tylko pieprzyć bzdury, że to jest trudniejsze od tamtego. '
+- id: 2616
+  author: Patrys
+  author_url: ''
+  date: '2005-11-20 20:14:46 +0100'
+  date_gmt: '2005-11-20 20:14:46 +0100'
+  content: |-
+    cenebris:
+    <br/>
+    <br/>Jasne, obsługa vima i Emacsa też jest intuicyjna. Wystarczy odrobina dobrej woli i można się nauczyć. Nie znam też nikogo z użytkowników, kto by narzekał. To co mam twojej matce zainstalować? Vima czy Emacsa?
+- id: 2617
+  author: nbw
+  author_url: ''
+  date: '2005-11-20 20:17:54 +0100'
+  date_gmt: '2005-11-20 20:17:54 +0100'
+  content: |-
+    Przesadzasz Patryk. Akurat Opery używa mi się zdecydowanie wygodniej niż FF i jej panel boczny jest właśnie jednym z elementów, który uwielbiam.
+    <br/>
+    <br/>Porównanie do vima czy emacsa jest bardzo nie na miejscu.
+    <br/>
+- id: 2618
+  author: Nazon
+  author_url: ''
+  date: '2005-11-20 20:18:00 +0100'
+  date_gmt: '2005-11-20 20:18:00 +0100'
+  content: |-
+    @cenebris:
+    <br/>interfejs jest prosty, przejrzysty i intuicyjny.
+    <br/>
+    <br/>Ale jest _inny_.
+    <br/>Pozwolę sobie stwierdzić, że duży wpływ na sukces FF miało właśnie upodobnienie jego podstawowego interfejsu (i niektórych skrótów klaw. o ile pamiętam) do IE.
+    <br/>
+    <br/>&quot;Ludź&quot; to takie dziwne stworzenie które w większości przypadków ceni swoje przyzwyczajenia.
+    <br/>
+    <br/>Przykłady (podawane nie tylko przeze mnie) już wiele razy zarówno tu jak u Riddlea: _nowy_ użytkownik internetu prędzej doceni Operę niż osoba przesiadająca się z IE na alternatywną przeglądarkę.
+- id: 2619
+  author: cenebris
+  author_url: ''
+  date: '2005-11-20 20:19:43 +0100'
+  date_gmt: '2005-11-20 20:19:43 +0100'
+  content: 'Patrys - czepiaj się swojej mamy co? Akurat moi rodzice używają opery
+    i nie mają z tym (w przeciwieństwie do ciebie?) żadnego problemu. '
+- id: 2620
+  author: Patrys
+  author_url: ''
+  date: '2005-11-20 20:22:39 +0100'
+  date_gmt: '2005-11-20 20:22:39 +0100'
+  content: |-
+    nbw:
+    <br/>
+    <br/>To była aluzja do odpowiedzi w stylu &quot;mi nie przeszkadza&quot;. Nie raz widziałem, jak ludzie się przerażają interfejsem Opery, bo oczekują czegoś podobnego do IE - parę guzików na krzyż i pasek adresu.
+    <br/>
+    <br/>cenebris:
+    <br/>
+    <br/>Staram się trzymać poziom dyskusji proponowany przez rozmówców, ale uchylę się od odpowiedzi.
+- id: 2621
+  author: haen
+  author_url: ''
+  date: '2005-11-21 09:33:37 +0100'
+  date_gmt: '2005-11-21 09:33:37 +0100'
+  content: |-
+    Wystarczy zajrzec na polskie forum na Opera.com - ludzie zamieszczajacy screenshooty wlasej Opery bardzo rzadko maja ustawiona domyslna skore - ktora to skora + domyslne ustawienia miedzymordzia sa.. hmm, bloated? Opera Software powinna wziac ten Patrysowy config i ustawic go jako domyslny - dla ZU bedzie w sam raz. A kazdy bardziej obeznany i tak sobie ustawi, jak mu wygodniej - lacznie z paskiem pod zakladkam.
+    <br/>
+    <br/>Tylko co do skorek sie nie zgadzam - akurat do Opery jest sporo ilosc estetycznych, prostych skinow. A ze duza czesc jest cokolwiek oczojebna ...
+- id: 2622
+  author: misia
+  author_url: ''
+  date: '2005-11-21 18:27:21 +0100'
+  date_gmt: '2005-11-21 18:27:21 +0100'
+  content: ktoś tu trolluje... czyżby autor posta? ;)
+- id: 2623
+  author: Patrys
+  author_url: ''
+  date: '2005-11-22 01:14:15 +0100'
+  date_gmt: '2005-11-22 01:14:15 +0100'
+  content: |-
+    misia:
+    <br/>
+    <br/>Też nie zrozumiałeś, o czym jest mój post?
+- id: 2624
+  author: sprae
+  author_url: ''
+  date: '2005-11-22 04:39:06 +0100'
+  date_gmt: '2005-11-22 04:39:06 +0100'
+  content: "Ja tez go nie rozumiec. Jak dla mnie to wychwalanie UI Fx&#039;a. Rozumiem,
+    gdyby opera miala  pasek nawigacyjny na dole, z boku, albo w jakims menu. Ale
+    tego co ty piszesz nie kapuje. To takie gadanie, ktore bylo juz za czasow wprowadzania
+    winxp. Ludzie tez wymyslali co mogli, zeby tylko usprawiedliwic zmiane stylu na
+    &#039;klasyczny&#039;. Jak dla mnie user jest userem i moze robic ze swoim programem
+    co mu sie podoba. Problem zaczyna sie, gry zaczyna o tym pisac i przekonywac,
+    ze to jedyne sluszne ustawienie. Jesli juz wolalbym czytac tekst nienasycony FUD&#039;em,
+    tylko przedstawienie - zrobilem tak, udalo mi sie, jesli sie komus spodoba to
+    zrobilem to tak. \n<br/>Inaczej podpada to pod znany niegdys serwis infojama."
+- id: 2625
+  author: haen
+  author_url: ''
+  date: '2005-11-22 09:45:26 +0100'
+  date_gmt: '2005-11-22 09:45:26 +0100'
+  content: A kto mowi, ze to jedyne sluszne ustawienie? Mowa bylo o tym, ze domyslny
+    UI Opery jest przeladowany, a zwykly uzytkownik potrzebuje paska adresu i paru
+    przyciskow na krzyz. Patrys pokazal prosty i przejrzysty konfig Opery. A ze wzorowany
+    (chyba) na Firefoksie? So what? Urazona duma uzytkownikow Opery? Bo jakos inaczej
+    nie umiem sobie wytlumaczyc reakcji wielu tu piszacych.
+- id: 2626
+  author: quiris
+  author_url: ''
+  date: '2005-11-22 13:25:41 +0100'
+  date_gmt: '2005-11-22 13:25:41 +0100'
+  content: 'Trackback: http://my.opera.com/quiris/blog/show.dml/68945 ;)'
+- id: 2627
+  author: misia
+  author_url: ''
+  date: '2005-11-23 17:06:57 +0100'
+  date_gmt: '2005-11-23 17:06:57 +0100'
+  content: |-
+    Patrys: żartuję, po prostu dyskusje w komentarzach bardzo od tematu postu odchodzą :). Sama Opera była kiedyś zupełnie niezłą przeglądarką, teraz nie wiem, bo nie używam, choć żadnych niepochlebnych opinii nie słyszę. W wersji &quot;typical&quot; też jej nie kumam, więc &quot;custom&quot; to chyba jedyne rozwiązanie. Fajnie, że pokazałeś, jak rozbroić tę bombę. Zresztą właśnie ta możliwość modyfikacji na wszystkie strony nadal jest pewnie silnym ficzerem Opery. A ludzie... dziwnie, że się tak zaperzają bezsensownie.
+    <br/>
+    <br/>I ktoś tu jeszcze pisał o minimalizacji udziału IE w rynku: dude, to jest niemożliwe, miliony pracowników firm zmienią swojego browsera...
+- id: 2628
+  author: misia
+  author_url: ''
+  date: '2005-11-23 17:26:19 +0100'
+  date_gmt: '2005-11-23 17:26:19 +0100'
+  content: 'i @pmx: normalnie chyba mój mutt też wymaga rekompilacji na 64bit - wielkie
+    rotfl mi dałeś ;)'
+- id: 2629
+  author: jpc
+  author_url: ''
+  date: '2005-11-23 17:43:34 +0100'
+  date_gmt: '2005-11-23 17:43:34 +0100'
+  content: 'misia: ale potrzebujesz kompletu 32bitowych libów, co w żaden sposób nie
+    jest rozwiązaniem optymalnym.'
+- id: 2630
+  author: pmz
+  author_url: ''
+  date: '2005-11-23 19:23:34 +0100'
+  date_gmt: '2005-11-23 19:23:34 +0100'
+  content: |-
+    misia: poczytaj trochę o środowiskach 64 bitowych i o tym dlaczego programy skompilowane na x86 nie chcą się pod nimi uruchomić. Wtedy powrócimy do tematu :&gt;
+    <br/>
+    <br/>Korzystając z okazji przepraszam Patrysa za wcześniejszy komentarz - źle odebrałem przesłanie notki. Potrolluję gdzie indziej ;)
+- id: 2631
+  author: misia
+  author_url: ''
+  date: '2005-11-23 21:37:06 +0100'
+  date_gmt: '2005-11-23 21:37:06 +0100'
+  content: |-
+    pmz: rotfl :) chyba parę moich progsów jest  mało oczytanych ;)
+    <br/>
+    <br/>jpc: dasz radę ;)
+- id: 2632
+  author: Patrys
+  author_url: ''
+  date: '2005-11-24 00:24:23 +0100'
+  date_gmt: '2005-11-24 00:24:23 +0100'
+  content: |-
+    misia:
+    <br/>
+    <br/>Odpalanie ich w trybie zgodności (czyli przez biblioteki kompilowane dla trybu 32-bitowego) to nie jest najszybsza metoda. Chyba, że wszystkie programy chcesz linkować statycznie - w końcu &quot;disk space is cheap&quot;.
+    <br/>
+    <br/>A teraz sio mi z offtopiciem z komentarzy.
+---
+<p>Idąc śladem Riddle'a, który słusznie <a href="http://riddle.jogger.pl/comment.php?eid=165901">zauważył, że Operze daleko do popularności Firefoksa</a>, postanowiłem na przekór wszystkim (jestem wszak użytkownikiem Firefoksa) popromować <a href="http://www.opera.com/">Operę</a>. Dlaczego by nie? Wszak przeglądarka jest solidnie zbudowana i rozwija się bardzo dynamicznie. Jest tylko jeden problem, przystosowanie użytkowników do jej używania.</p>
+
+<p>Opera jest jak limuzyna, oprócz siedzenia i pasów ma też barek, elektryczne szyby i odtwarzacz ze zmieniaczem na 60 kompaktów. Podobnie jak, zmarły już, Mozilla Suite, brakuje jej jedynie zlewu kuchennego (choć Mozilla się takowego dorobiła dwa lata temu). Nie jestem fanem kombajnów do wszystkiego, ale jeśli zignorować nieużywane komponenty, to pozostaje nadal lekką przeglądarką.</p>
+
+<p>Główny problem z nią polega na tym, że domyślnie, zaraz po instalacji, jest paskudna. Od razu rzucają się w oczy wzięte żywcem z Windows XP niebieskie nagłówki zakładek. Dodatkowo, po kliknięciu w pasek adresu wyskakuje bez uprzedzenia dodatkowy zasobnik z narzędziami. Dziwi również kolejność pasków i umieszczenie zakładek pod samym paskiem menu. Jest to oczywiście poprawne z logicznego punktu widzenia, bo wszystkie przyciski poniżej odnoszą się do aktualnej zakładki, ale zupełnie sprzeczne z przyjętymi w programach komputerowych konwencjami.</p>
+
+<p>Dlatego też uważam, że jedyne, co trzeba zrobić do szerszego rozpromowania Opery, to przejście z:</p>
+
+<p class="strip"><a href="http://img149.imageshack.us/my.php?image=zrzutekranugetstartedusingoper.png"><img src="http://img149.imageshack.us/img149/359/zrzutekranugetstartedusingoper.th.png" border="0" alt="Free Image Hosting at www.ImageShack.us" /></a></p>
+
+<p>Na układ nieco bardziej przyjazny dla użytkowników:</p>
+
+<p class="strip"><a href="http://img293.imageshack.us/my.php?image=zrzutekranugetstartedusingoper.png"><img src="http://img293.imageshack.us/img293/359/zrzutekranugetstartedusingoper.th.png" border="0" alt="Free Image Hosting at www.ImageShack.us" /></a></p>

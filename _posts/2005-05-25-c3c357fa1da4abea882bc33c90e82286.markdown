@@ -1,0 +1,127 @@
+---
+layout: post
+status: publish
+published: true
+title: HTML i tag <code>&lt;fixme&gt;</code>
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 92
+date: 2005-05-25 19:53:01.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 1101
+  author: da.killa
+  author_url: ''
+  date: '2005-05-25 19:59:23 +0200'
+  date_gmt: '2005-05-25 19:59:23 +0200'
+  content: O, dobre to jest. Trzeba zapamiętać :)
+- id: 1102
+  author: Miloszz
+  author_url: ''
+  date: '2005-05-25 20:14:50 +0200'
+  date_gmt: '2005-05-25 20:14:50 +0200'
+  content: Genialny pomysł.
+- id: 1103
+  author: pmz
+  author_url: ''
+  date: '2005-05-25 20:25:17 +0200'
+  date_gmt: '2005-05-25 20:25:17 +0200'
+  content: Jak to zwykle bywa - najlepsze rozwiązania, to te najprostsze :-)
+- id: 1104
+  author: Jajcus
+  author_url: ''
+  date: '2005-05-25 20:38:52 +0200'
+  date_gmt: '2005-05-25 20:38:52 +0200'
+  content: |-
+    Robisz konkurencję na nbw?
+    <br/>
+    <br/>&quot;praktycznie każdy serwis zanim trafi do klienta, poddawany jest testom walidacyjnym&quot; -- W jakim ty świecie żyjesz??? Ja też tam chcę ;-)
+- id: 1105
+  author: Patrys
+  author_url: ''
+  date: '2005-05-25 20:40:04 +0200'
+  date_gmt: '2005-05-25 20:40:04 +0200'
+  content: Eh, ja mówię o serwisach, o ludziach siedzących w webdesignie i o firmach
+    designesrkich, a nie o stronkach, FrontPage i licealistach, którzy zbierają na
+    piwo.
+- id: 1106
+  author: Jajcus
+  author_url: ''
+  date: '2005-05-25 20:43:59 +0200'
+  date_gmt: '2005-05-25 20:43:59 +0200'
+  content: |-
+    Znaczy się większość stron jakie odwiedzam (w tym wielkie popularne portale) to robią licealiści we FrontPage? To by wiele tłumaczyło... ;-)
+    <br/>A może te testy walidacyjne są od tego, żeby tylko stwierdzić co się nie waliduje, a nie żeby cokolwiek poprawiać? To w niektórych przypadkach tego &lt;fixme&gt; możnaby w raporcie walidatora nie zauważyć, pośród tych wszystkich &quot;nieistotnych&quot; błędów...
+- id: 1107
+  author: Patrys
+  author_url: ''
+  date: '2005-05-25 20:47:06 +0200'
+  date_gmt: '2005-05-25 20:47:06 +0200'
+  content: |-
+    Ja świetnie rozumiem, o czym mówisz, bo sam często dla zapewnienia identycznego zachowania w różnych przeglądarkach celowo omijam DOCTYPE. Chodzi mi o to, że są znacznie większe szanse na wyłapanie tego niż na wyłapanie komentarza w kodzie. Poza tym można sobie napisać prościutki javascript, który zrobi document.getElementByTagName(&quot;FIXME&quot;) i wyświetli alert po załadowaniu strony z listą rzeczy do poprawki.
+    <br/>
+    <br/>Walidacja jest dla webdesignera, a nie dla klienta, ale faktem jest, że nawet jeśli sajt zawiera celowe błędy, to się go przez walidator przepuszcza.
+- id: 1108
+  author: buc rorio
+  author_url: ''
+  date: '2005-05-31 10:14:57 +0200'
+  date_gmt: '2005-05-31 10:14:57 +0200'
+  content: "no a jesli zamias validowania walniemy grepa dla #FIXME ?\n<br/>Wyjdzie
+    na to samo... "
+- id: 1109
+  author: Patrys
+  author_url: ''
+  date: '2005-06-05 15:08:51 +0200'
+  date_gmt: '2005-06-05 15:08:51 +0200'
+  content: |-
+    rorio:
+    <br/>
+    <br/>Przeczytaj raz jeszcze: przede wszystkim &lt;fixme&gt; widać na stronie. Po drugie, można go równie dobrze wyłapać grepem, ale przede wszystkim wyłapuje go walidator, z którego firma korzysta regularnie.
+- id: 3566
+  author: Bruno
+  author_url: http://www.sites.com
+  date: '2006-04-18 11:46:10 +0200'
+  date_gmt: '2006-04-18 10:46:10 +0200'
+  content: "<a href=\"http://www.pula-verde-prostituoitu.lollo6.com\" rel=\"nofollow\">svenske
+    fitter rinta</a>           \r\nhttp://www.pula-verde-prostituoitu.lollo6.com         \r\n[URL=http://www.pula-verde-prostituoitu.lollo6.com]gratissex
+    vagina resimleri[/URL]     <a href=\"http://www.pula-verde-prostituoitu.lollo6.com\"
+    rel=\"nofollow\">svenske fitter rinta</a>           \r\nhttp://www.pula-verde-prostituoitu.lollo6.com
+    \        \r\n[URL=http://www.pula-verde-prostituoitu.lollo6.com]gratissex vagina
+    resimleri[/URL]"
+---
+<p>Jeśli pracujesz w większym zespole i jesteś programistą albo nad szablonami <abbr title="HyperText Markup Language">HTML</abbr> pracuje więcej niż jedna osoba, prawdopodobnie często stajesz przed problemem zasygnalizowania, że trzeba zmienić coś, co nie leży w twoich kompetencjach albo najzwyczajniej w świecie nie masz na to czasu.</p>
+
+<p>Popularnym rozwiązaniem jest zwykły komentarz w stylu C/C++, który ma przypominać o konieczności naniesienia poprawek przed oddaniem serwisu klientowi. Czy poniższy kod wygląda znajomo?</p>
+
+<blockquote><pre>&lt;!-- #FIXME: IE needs special treating here,
+	padding is wrong --&gt;</pre></blockquote>
+
+<p>Zaletą jest możliwość łatwego wychwycenia wszystkich pozostałych problemów za pomocą zwykłego wywołania polecenia <code>grep</code> na katalogu z szablonami. Problem pojawia się w sytuacji, kiedy o kometarzach zapomnisz i, spiesząc się z oddaniem serwisu, pozostawisz je bez zmian. Pomijając fakt kompromitacji przed ludźmi oglądającymi twój kod (z premedytacją nie usunąłeś usterki, o której musiałeś przecież wiedzieć), istnieje ryzyko, że część użytkowników będzie miała problemy z poruszaniem się po witrynie (w końcu coś nie zostało poprawione).</p>
+
+<p>Rozwiązanie? Semantycznie opisać takie miejsca za pomocą tagów <code>&lt;fixme&gt;</code>. Przykład?</p>
+
+<blockquote><pre>&lt;p&gt;Lorem ipsum baby &lt;fixme&gt;wymusić
+	na kliencie podesłanie tekstu
+	powitalnego&lt;/fixme&gt;.&lt;/p&gt;</pre></blockquote>
+
+<p>Dobrze byłoby też, żeby rzeczy do zrobienia wyróżniały się jakoś w tekście, w tym celu deklarujemy dwie dodatkowe regułki w <abbr title="Cascading Style Sheets">CSS</abbr>:</p>
+
+<blockquote><pre>fixme
+{
+	font-weight: normal;
+}
+fixme:before
+{
+	content: "#FIXME: ";
+	font-weight: bold;
+}</pre></blockquote>
+
+<p>Efekt wygląda tak:</p>
+
+<blockquote><p>Lorem ipsum baby <strong>#FIXME:</strong> wymusić na kliencie podesłanie tekstu powitalnego.</p></blockquote>
+
+<p>Pewnie zastanawiasz się teraz, co na to powie <a href="http://validator.w3.org/">validator</a>? Oczywiście zaprotestuje, że nic nie wie o istnieniu elementu <code>fixme</code>. Nic dziwnego, bo wymyśliłem go dziś rano. W protestach validatora leży cały urok naszego nowego elementu - praktycznie każdy serwis zanim trafi do klienta, poddawany jest testom walidacyjnym. Już nigdy nie złapiesz się za głowę oglądając własny kod źródłowy i znajdując tam tuzin porzuconych i zapomnianych komentarzy.</p>

@@ -1,0 +1,39 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Offtopic: Relokacja dyfuzyjna'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 144
+date: 2005-08-21 21:06:33.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1986
+  author: siek
+  author_url: ''
+  date: '2005-08-21 21:08:43 +0200'
+  date_gmt: '2005-08-21 21:08:43 +0200'
+  content: Czyli rozumiem, że impreza była udana? ;).
+- id: 1987
+  author: Paweł Ciupak
+  author_url: ''
+  date: '2005-08-21 21:27:06 +0200'
+  date_gmt: '2005-08-21 21:27:06 +0200'
+  content: Dodam jeszcze, ze pewne następstwa po przebudzeniu można zneutralizować
+    wodą.
+- id: 1988
+  author: HoBBit °¸°
+  author_url: ''
+  date: '2005-08-22 00:37:04 +0200'
+  date_gmt: '2005-08-22 00:37:04 +0200'
+  content: ISO-OF2005 i ISO-OFR2005 jest wśród nas :D
+---
+<p>Dzisiaj (zmotywowany przebudzeniem o 17:00 po wczorajszej imprezie) sformułowałem w końcu swoją teorię z dziedziny modelowania zjawisk fizyki cząsteczkowej.</p>
+
+<p><em>Relokacja Dyfuzyjna (<abbr>RD</abbr>)</em> to zjawisko powszechne w przyrodzie. Jego zaistnienie jest nieprzewidywalne, jednak pewne czynniki mogą wpłynąć dodatnio na szansę jego wystąpienia. Kluczową rolę pełni tutaj dostarczenie odpowiedniego kwantu energii w postaci alkoholu etylowego i produktów z grupy wyrobów tytoniowych. Zaistnienie <abbr>RD</abbr> możemy stwierdzić dopiero po fakcie, poprzez analizę symptomów. Proces <abbr>RD</abbr> charakteryzuje się tym, że ciało ulega rozszczepieniu na pojedyncze cząsteczki. Każda z nich porusza się do celu innym torem, ciężko określić wzór pozwalający dokładnie wyznaczyć trasę poruszania się poszczególnych cząsteczek, wiemy natomiast że ich tory podobne są do tych pokonywanych przez ładunki elektryczne podczas wyładowań atmosferycznych bądź do torów kreślonych przez węże na piasku. Niektóre cząsteczki zdają się wykazywać własności magnetyczne względem krawężnika. Proces ponownej asemblacji materii jest dość długotrwały, co widać szczególnie dobrze na krótkich odcinkach. Te, których pokonanie pieszo zajmuje 20 minut, mogą zająć <abbr>RD</abbr> ponad godzinę. Co ciekawe, można w ten sposób pokonać odcinki teoretycznie nie do przejścia na nogach.
+Zaliczamy do nich: jeziora, rzeki, tereny bagienne, wysoko porośnięte łąki, a także płoty i mury. Druga charakterystyczna, poza nadmiarowym upływem czasu, cecha to wielodrożność poruszających się paralelistycznie cząstek. Stąd często, gdy pytamy kilku osób o trasę, którą wracaliśmy do domu, otrzymujemy kilkanaście sprzecznych wersji. Nazywamy to <em>częściową, nabytą zdolnością bilokacji</em>. Jest ona tylko tymczasowym efektem ubocznym <abbr>RD</abbr> i organizm traci tę właściwość po znalezieniu się w łóżku, bądź innym dogodnym do spania miejscu (w tym ławki, trawniki).</p>

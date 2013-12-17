@@ -1,0 +1,149 @@
+---
+layout: post
+status: publish
+published: true
+title: Chyrp!
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 429
+wordpress_url: http://room-303.com/blog/2008/03/02/chyrp/
+date: 2008-03-02 18:04:08.000000000 +01:00
+categories:
+- web
+- software
+tags: []
+comments:
+- id: 17587
+  author: nbw
+  author_url: http://enbewu.net/blog/
+  date: '2008-03-02 18:55:34 +0100'
+  date_gmt: '2008-03-02 17:55:34 +0100'
+  content: Granulki. Będzie bliżej komu narzekać ;)
+- id: 17588
+  author: jachacy
+  author_url: ''
+  date: '2008-03-02 20:55:23 +0100'
+  date_gmt: '2008-03-02 19:55:23 +0100'
+  content: Chciałem się pobawić, ale demo niestety nie działa.
+- id: 17589
+  author: renq
+  author_url: http://blog.lipek.net
+  date: '2008-03-02 20:56:59 +0100'
+  date_gmt: '2008-03-02 19:56:59 +0100'
+  content: Bardzo fajny ten chyrp. Lekki i szybki. :) Troszkę zaskoczył mnie brak
+    walidacji wpisywanego w notki HTMLa.
+- id: 17590
+  author: Marcin Jagodzinski
+  author_url: http://netto.blox.pl/
+  date: '2008-03-02 21:11:09 +0100'
+  date_gmt: '2008-03-02 20:11:09 +0100'
+  content: "no właśnie, nie postawiłbyś demka na nogi? a może jakieś nieoficjalne
+    demko?\r\n\r\nwówczas mógłbyś liczyć na bugreporty i ficzerrekłesty :)"
+- id: 17591
+  author: jpc
+  author_url: http://jpc.jogger.pl
+  date: '2008-03-03 01:02:55 +0100'
+  date_gmt: '2008-03-03 00:02:55 +0100'
+  content: "Zainspirowane wpisem refleksje filozoficzne: http://jpc.jogger.pl/2008/03/03/jezyki-programowania/
+    Może kogoś zaciekawią. ;-)\r\n\r\nPS. Nie, nie umiem (przynajmniej na razie) trackbackować.
+    ;]"
+- id: 17597
+  author: gekon
+  author_url: http://www.glazar.info
+  date: '2008-03-03 09:34:53 +0100'
+  date_gmt: '2008-03-03 08:34:53 +0100'
+  content: A jakby ktoś się chciał przyłączyć to gdzie sie zgłaszać? :)
+- id: 17598
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2008-03-03 09:57:57 +0100'
+  date_gmt: '2008-03-03 08:57:57 +0100'
+  content: "gekon:\r\n\r\nhttp://chyrp.net/trac/"
+- id: 17599
+  author: Luka
+  author_url: http://coffeesounds.tumblr.com
+  date: '2008-03-03 14:45:54 +0100'
+  date_gmt: '2008-03-03 13:45:54 +0100'
+  content: śledzę ten projekt od jakiegoś czasu (i nigdy nie zadziałał na moim serwerze)
+    - no ale taka wiadomość jest co najmniej obiecująca :)
+- id: 17605
+  author: Mikołaj
+  author_url: http://piotr.mikolajski.net
+  date: '2008-03-03 15:32:48 +0100'
+  date_gmt: '2008-03-03 14:32:48 +0100'
+  content: Ano właśnie, co trzeba zrobić, żeby toto wystartowało na zwykłym koncie
+    hostingowym? Normalny LAMP w Progreso lub Kei, na których WordPress działa od
+    pierwszego kopa, a Chrypka ruszyć nie chce. Jak na razie nie udało mi się jej
+    postawić, choć podejść robiłem parę...
+- id: 17606
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2008-03-03 15:53:12 +0100'
+  date_gmt: '2008-03-03 14:53:12 +0100'
+  content: "Luka, Mikołaj:\r\n\r\nZ czym są problemy? Polecam sprawdzić też nadchodzącą
+    wersję dla PHP5:\r\n\r\n<blockquote><code>svn co svn://chyrp.net/chyrp/php/branches/php5
+    chyrp</code></blockquote>\r\n\r\nWszędzie gdzie miałem okazję sprawdzić, działało
+    bez problemu."
+- id: 17622
+  author: chyrp @ zielony bloger&nbsp;&raquo;&nbsp;Witaj Ćwirku ;)
+  author_url: http://chyrp.bloggerpl.com/2008/03/witaj-cwirku/
+  date: '2008-03-04 04:19:42 +0100'
+  date_gmt: '2008-03-04 03:19:42 +0100'
+  content: '[...] instaluje się w kilka minut i działa, a nawet daje się rozszerzać
+    wtyczkami i piórkami. Rozwojem chyrpa (jego wersji PHP, bo są też inne) zajmuje
+    się Patrys (z pokoju 303), co daje możliwość np. [...]'
+- id: 17640
+  author: Chyrp zamiast WordPressa? Jeszcze nie teraz « zielony blogger pl
+  author_url: http://bloggerpl.com/2008/03/05/chyrp-zamiast-wordpressa-jeszcze-nie-teraz/
+  date: '2008-03-05 02:21:41 +0100'
+  date_gmt: '2008-03-05 01:21:41 +0100'
+  content: '[...] chyrpa jako silnik blogowy w rodzaju WordPressa, czy jako miniblogowego
+    tumblera. Obecnie za implementację PHP chyrpa odpowiada Patryk [...]'
+- id: 17645
+  author: Wik
+  author_url: ''
+  date: '2008-03-05 16:09:00 +0100'
+  date_gmt: '2008-03-05 15:09:00 +0100'
+  content: Planujecie może wersję "multi-user"? Chciałbym dodać w swoim serwisie możliwość
+    zakładania blogów - zintegrowaną z kontami (czyli system blogowy musi się dać
+    przełączyć na inny system autentykacji) już obecnymi. Fajnie byłoby wdrożyć takie
+    rozwiązanie i móc do niego dołączać pluginy, zamiast pisać wszystko samemu od
+    podstaw...
+- id: 17652
+  author: dotangelo
+  author_url: http://marcinw.wordpress.com
+  date: '2008-03-05 22:45:04 +0100'
+  date_gmt: '2008-03-05 21:45:04 +0100'
+  content: A co jesli chcialbym pomoc w rozwoju chyrp'a (php)?
+- id: 18465
+  author: szuwar
+  author_url: ''
+  date: '2008-03-10 17:08:47 +0100'
+  date_gmt: '2008-03-10 16:08:47 +0100'
+  content: mnie dziwi, ze maintainer cwira ma bloga postawionego na konkurencyjnym
+    wp ;).
+- id: 21011
+  author: bramy
+  author_url: http://www.bramet.com
+  date: '2008-08-13 07:35:15 +0200'
+  date_gmt: '2008-08-13 06:35:15 +0200'
+  content: "Hehe gratulacje :) Powodzenia w implementacji :D\r\n\r\nPozdrawiam,\r\nMaciej"
+- id: 21765
+  author: Maldon
+  author_url: ''
+  date: '2008-10-02 11:05:06 +0200'
+  date_gmt: '2008-10-02 10:05:06 +0200'
+  content: "Mam pytanie co może być przyczyną błędu\r\n“Could not connect to the specified
+    database:\r\nUnknown MySQL server host ’sql.serwer.nazwa.pl:3305′”\r\n\r\nnawa.pl
+    mówią mi że uszkodzona jest aplikacja ale to raczej nie jest możliwe, user, baza
+    i hasło wielokrotnie sprawdzane, są poprawne, nie mam już pomysłu."
+---
+<p>Tak się złożyło, że <a href="http://chyrp.net/blog/taking-flight">od wczoraj</a> jestem oficjalnym maintainerem <a href="http://chyrp.net/">Chyrpa</a>. Jego implementacji w <abbr title="PHP Hypertext Preprocessor">PHP</abbr> dla ścisłości.</p>
+
+<p>Chyrp to lekki silnik, który pozwala wygodnie prowadzić własnego (mikro-/foto-) bloga. Wszystko zaczęło się od tego, że pewien szesnastolatek (tak, szesnastolatek), Alex Suracil, postanowił zrobić WordPressowi konkurencję. Wokół projektu zrobił się mały szum i powstało community. Zaczęły pojawiać się piórka i moduły (odpowiedniki wtyczek), tłumaczenia, skórki, a z czasem pojawiło się pytanie o implementacje dla innych platform.</p>
+
+<p>Ja przejąłem oryginalną implementację w <abbr>PHP</abbr>, Alex zaczął prace nad wersją w Rubym, a mitsuhiko pracuje nad projektem <code>twig</code> &mdash; implementacją silnika szablonów <a href="http://jinja.pocoo.org/">Jinja</a> w <abbr>PHP</abbr>.</p>
+
+<p>Jeśli szukacie czegoś wygodniejszego i lżejszego niż WordPress, to być może właśnie znaleźliście. Oczywiście projekt jest otwarty i z chęcią przyjmiemy kolejnych ochotników. Miłej zabawy!</p>

@@ -1,0 +1,45 @@
+---
+layout: post
+status: publish
+published: true
+title: GNOME 2.26
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 564
+wordpress_url: http://room-303.com/blog/?p=564
+date: 2009-03-19 10:19:23.000000000 +01:00
+categories:
+- linux
+- software
+tags:
+- gnome
+comments:
+- id: 24332
+  author: Hansa
+  author_url: ''
+  date: '2009-03-19 15:02:04 +0100'
+  date_gmt: '2009-03-19 14:02:04 +0100'
+  content: Szkoda że dalej takie brzydkie..  wizualnie KDE jest 20 lat do przodu.
+    :)
+- id: 24333
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2009-03-19 15:23:54 +0100'
+  date_gmt: '2009-03-19 14:23:54 +0100'
+  content: Brzydkie? Huh?
+- id: 24423
+  author: specnaz
+  author_url: ''
+  date: '2009-04-15 18:49:40 +0200'
+  date_gmt: '2009-04-15 17:49:40 +0200'
+  content: "Siedzialem na wszystkim, no prawie wszystkim :D (obecnie Fluxbox) no i
+    GNOME (2.24) jest TROSZKE ciezki dla mojego kompa odpala sie praktycznie 3 lata
+    :) - szybciej startuje KDE 3.5.10 (nie wiem jak jest z 4.x) -nie mowiac o xfce
+    ktory smiga niczym sprinter\r\nGnome spuchniety jest ponad miare ...\r\nale lubie
+    jego wyglad ..."
+---
+<p class="strip simple"><a href="http://www.flickr.com/photos/patrys/3367741580/" title="GNOME 2.26 by patrys, on Flickr"><img src="http://farm4.static.flickr.com/3633/3367741580_8fc6a571eb_o.png" width="600" height="200" alt="GNOME 2.26" /></a></p>
+
+<p><a href="http://library.gnome.org/misc/release-notes/2.26/index.html.pl">Co nowego?</a> Dostępne we wszystkich dobrych dytrybucjach (z <a href="http://pld-linux.org/">PLD</a> włącznie).</p>

@@ -1,0 +1,138 @@
+---
+layout: post
+status: publish
+published: true
+title: Gry pod linuksem
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 20
+date: 2004-05-31 20:08:13.000000000 +02:00
+categories:
+- varia
+- linux
+- synprezesa
+tags: []
+comments:
+- id: 37
+  author: Bartek Jakubski
+  author_url: ''
+  date: '2004-05-31 20:37:35 +0200'
+  date_gmt: '2004-05-31 20:37:35 +0200'
+  content: '&quot;wszystkie nowe chodzą&quot;. Bardzo ciekawe.'
+- id: 38
+  author: Patrys
+  author_url: ''
+  date: '2004-05-31 20:42:38 +0200'
+  date_gmt: '2004-05-31 20:42:38 +0200'
+  content: A chodzą, chodzą. Tym, których bozia w linuksowe binarki nie wyposażyła,
+    przychodzi z pomocą wine.
+- id: 39
+  author: Bartek Jakubski
+  author_url: ''
+  date: '2004-05-31 20:49:07 +0200'
+  date_gmt: '2004-05-31 20:49:07 +0200'
+  content: 'Bardzo ciekawe. Nawet WineX radzi sobie w miarę przyzwoicie zaledwie z
+    paroma grami (i to bynajmniej nie nowymi). Mam uwierzyć, że zwykłe Wine działa
+    z nowymi grami lepiej? Mogę wziąć parę tytułów powiedzmy z ostatnich 3 miesięcy
+    i spróbować... Ale czuję, że bardzo się rozczaruję... Mylę się? Jakieś przykłady
+    nowych gier działających pod Wine? (hint: działające - takie w które da się pograć
+    i odczucia nie są zasadniczo różne od grania w tą grę na natywnej platformie)'
+- id: 40
+  author: Patrys
+  author_url: ''
+  date: '2004-05-31 20:52:19 +0200'
+  date_gmt: '2004-05-31 20:52:19 +0200'
+  content: FarCry, Unreal Tournament 2004. W te gram ostatnio. A jest ich na pęczki.
+    Poszukaj po stronach dedykowanych odpalaniu gier pod linuksem. Są patche, są nakładki,
+    są nawet dodatki samych producentów ułatwiające odpalanie ulubionych tytułów pod
+    iksami. A tak poza tym to nie o tym jest rozmowa i nie zamierzam jej tutaj ciągnąć.
+- id: 41
+  author: e-krolik
+  author_url: ''
+  date: '2004-05-31 22:28:28 +0200'
+  date_gmt: '2004-05-31 22:28:28 +0200'
+  content: co więcej ostatnie Unreale natywnie chodzą pod linuksem (nawiązując do
+    pierwszego komentarza). Co do Microsoft flight Simulator to nigdy nie próbowałem
+    w to nawet grać, po prostu nie pociąga mnie latanie. Jeśli już to czasami chcę
+    się chwilowo rozerwać przy jakiejś gierce typu &#039;bij zabij&#039; :-D
+- id: 42
+  author: Bartek Jakubski
+  author_url: ''
+  date: '2004-05-31 22:47:00 +0200'
+  date_gmt: '2004-05-31 22:47:00 +0200'
+  content: |-
+    e-krolik: nawiązując do pierwszego komentarza, czyli do mojego? Nie dość, że wszystkie nowe chodzą, to jeszcze &quot;co więcej&quot; unreale chodzą? :-) Fakt, nawet UT2004 trudno już &quot;nowością&quot; nazwać...
+    <br/>
+    <br/>Ale miło widzieć, że tradycja nie umiera i ciągle mamy jakąś NNGL. Naczelna Nowa Gra Linuksowa to taki stwór, który zawsze jest przywoływany przez linuksiarzy w odpowiedzi na zarzut o małą liczbę czy też brak nowych gier pod Linuksa. Ostatnio tytuł NNGL dzierży UT2004, wcześniej była to &quot;Neverwinter Nights&quot;. Jeszcze wcześniej... nie pamiętam czy Quake3 czy coś późniejszego. Oczywiście to ironiczny tytuł, bo takie gry są 2 na rok, podczas gdy dla Wiodącej Platformy wychodzi ich tyle, ale na tydzień...
+    <br/>Zawsze potem ktoś próbuje bronić tezy, że reszta tych gier (te, które nie wyszły dla linuksa) to chłam i że jego zawsze interesował tylko akurat  Q3, UT i NW, więc nie ma problemu z grami.
+    <br/>
+    <br/>DISCLAIMER: Wyżej mówię tylko o grach natywnych dla Linuksa. Emulacja (czy jak to tam nawać w przypadku Wine) jest sposobem, ale doraźnym. U mojego brata Farcry jakoś sobie daje radę, ale bez jakiegoś zapasu jeśli chodzi o wydajność. Nie pograłby on coś czuję za bardzo na tym samym komputerze na Linuksie + Wine...
+- id: 43
+  author: Patrys
+  author_url: ''
+  date: '2004-05-31 22:51:26 +0200'
+  date_gmt: '2004-05-31 22:51:26 +0200'
+  content: A ja gram na sprzęcie, na którym pod windą też ledwo chodzi w 800x600.
+    Powiedziałem już, idźcie bić się gdzie indziej. Prawda taka, że linuksiarze na
+    ogol sa z tym systemem zwiazani zawodowo i nie pogrywaja czesciej niz owe dwa
+    razy na rok. Ja nie mam zbyt dużo czasu na gier i większość mojej rozrywki zażywam
+    przy pomocy prostych gierek na komórce w autobusie po drodze do pracy.
+- id: 44
+  author: dutar
+  author_url: ''
+  date: '2005-09-27 16:06:27 +0200'
+  date_gmt: '2005-09-27 16:06:27 +0200'
+  content: dupa jasiu pierdział stasiu srali muchy bedzie wiosna
+- id: 3750
+  author: mateo
+  author_url: ''
+  date: '2006-05-22 21:10:33 +0200'
+  date_gmt: '2006-05-22 20:10:33 +0200'
+  content: "gry tworzone z myślą o linuksie\r\n\r\nhttp://www.liflg.org/\r\nhttp://www.happypenguin.org/\r\nhttp://www.linux-gamers.net/\r\nhttp://icculus.org/\r\nhttp://www.tuxgames.com/
+    \r\n\r\nReszta to uruhcamianie gier pod emulatorami. Pod linuksa powstała dośc
+    duża liczba gier ale często o nich nie słyszymy . Dlaczego? Bo większość popularnych
+    pism ma nasz system i tworzone pod niego gry za nic. Gry pod linuksa wychodzą
+    rzadziej są często droższe od swych poprzedników i często nie potrafią doczekąc
+    soich finalnych wersji (beta 3 i nie licz na aktualizacje). Je śli chodzi o zmiany
+    to zależy tylko od nas.Plusem jest ostatnio że postają strony o grach pod linuksa
+    lub poświęca sieim jakiś dział http://www.gameranking.pl/. Kupujcie gry pod linuksa
+    dużo czytajcie szukajcie ciekawych pozycji a nie będziecie się nudził -może niedługo
+    doczekamy się polskiego pisma o grach pod linuksa. Linux jest wielu osobom dobrze
+    znany ale jeśli czrgoś nie zrobimy w sprawie gier to nadal dla wielu osób system
+    będzie stanowił ciekawostkę pod którym odpalisz quake 2 lub unreal a potem wywalisz
+    z dysku. Chyba czas niekŧórych uświadomić że gry powstają też pod inne systemy
+    a nie tylko pod windows-powidzmy stop dalszemu tworzeniu mitów o tym jaki to pingwin
+    jest podły dla graczy bo systuacja polepsza sie z dnia na dzień."
+- id: 3751
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2006-05-23 19:40:12 +0200'
+  date_gmt: '2006-05-23 18:40:12 +0200'
+  content: "mateo:\r\n\r\nPomimo tego, że komentarz dwa lata po fakcie, pozwolę sobie
+    zauważyć, że wszystkie gry oparte na silniku Unreal z defaultu działają pod Linuksem."
+- id: 6194
+  author: tomek
+  author_url: ''
+  date: '2007-01-20 20:41:25 +0100'
+  date_gmt: '2007-01-20 19:41:25 +0100'
+  content: mam pytanko możecie powiedzieć jaki jest najlepszy bezplatny emulator do
+    gier z windowsa pod linuxa?? help me
+---
+Rozmowa moja z SynemPrezesa&trade;:<br />
+<br />
+- A czemu chcesz się pozbyć rutera DSL-owego?<br />
+- Zamieniam go na zwykły modem na USB i stawiam firewalla na linuksie w piwnicy. Tylko części mi potrzeba do komputera.<br />
+- Przecież masz 2 kompy w domu.<br />
+- No ale ten będzie stał w piwnicy a kompy w domu normalnie, na Windowsie, nie?<br />
+- A na cholerę ci ten Windows?<br />
+- Bo jest wygodniejszy i pod linuksem żadne gry nie chodzą.<br />
+- Mi jakoś chodzą.<br />
+- Które? Bo mi jakoś nie. Pokupowałem sobie gry i nie mam jak grać.<br />
+- Mi jakoś wszystkie nowe chodzą. W tym większość ma nawet swoje binarki pod linuksa.<br />
+- A widzisz, a mi najlepsza gra nie chce chodzić!<br />
+- Jaka?<br />
+- Microsoft Flight Simulator.<br />
+<br />
+W tym momencie byłem się zapadłem w krzesło i argumenty mi się urwały. Kolejna sromotna porażka. :)

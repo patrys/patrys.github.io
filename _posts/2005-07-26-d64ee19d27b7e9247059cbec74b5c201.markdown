@@ -1,0 +1,103 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #016: Ekspertem być'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 136
+date: 2005-07-26 13:04:43.000000000 +02:00
+categories:
+- comic
+tags: []
+comments:
+- id: 1861
+  author: Spider
+  author_url: ''
+  date: '2005-07-26 13:13:51 +0200'
+  date_gmt: '2005-07-26 13:13:51 +0200'
+  content: ':D'
+- id: 1862
+  author: Ktos
+  author_url: ''
+  date: '2005-07-26 13:19:11 +0200'
+  date_gmt: '2005-07-26 13:19:11 +0200'
+  content: FOMCL :)
+- id: 1863
+  author: bazyl
+  author_url: ''
+  date: '2005-07-26 13:32:39 +0200'
+  date_gmt: '2005-07-26 13:32:39 +0200'
+  content: Coś mi się ten Twój strip nie ładuje...
+- id: 1864
+  author: icecrasher
+  author_url: ''
+  date: '2005-07-26 13:47:30 +0200'
+  date_gmt: '2005-07-26 13:47:30 +0200'
+  content: mi szkodzi jego brak =]
+- id: 1865
+  author: Patrys
+  author_url: ''
+  date: '2005-07-26 13:57:49 +0200'
+  date_gmt: '2005-07-26 13:57:49 +0200'
+  content: |-
+    Bazyl:
+    <br/>
+    <br/>W razie czego pełne archiwum jest też dostępne na http://patrys.icenter.pl/comic/
+- id: 1866
+  author: °¸° HoBBit
+  author_url: ''
+  date: '2005-07-26 16:40:48 +0200'
+  date_gmt: '2005-07-26 16:40:48 +0200'
+  content: HAHHAHAHAHAHHAHhhhahahahhasdasfkgnvfn;lidyj8N&amp;&amp;^T*$#T88
+- id: 1867
+  author: lukier
+  author_url: ''
+  date: '2005-07-26 17:47:08 +0200'
+  date_gmt: '2005-07-26 17:47:08 +0200'
+  content: lepiej być ekspertem nix expertem :D (useneciarze wiedzą o co chodzi)
+- id: 1868
+  author: rorio
+  author_url: ''
+  date: '2005-07-26 19:18:52 +0200'
+  date_gmt: '2005-07-26 19:18:52 +0200'
+  content: buahahahhoooooehhhhkthhhuuumpppfffffhhhrrr!!!!
+- id: 1869
+  author: mirek
+  author_url: ''
+  date: '2005-07-27 17:14:16 +0200'
+  date_gmt: '2005-07-27 17:14:16 +0200'
+  content: numer 5 mnie wyłożył plecy
+- id: 1870
+  author: fyo
+  author_url: ''
+  date: '2005-07-29 15:34:08 +0200'
+  date_gmt: '2005-07-29 15:34:08 +0200'
+  content: 'OT: Patrys, pracujesz w icenter?'
+- id: 1871
+  author: Patrys
+  author_url: ''
+  date: '2005-07-29 15:34:54 +0200'
+  date_gmt: '2005-07-29 15:34:54 +0200'
+  content: |-
+    fyo:
+    <br/>
+    <br/>Tak.
+- id: 1872
+  author: fyo
+  author_url: ''
+  date: '2005-07-29 16:33:39 +0200'
+  date_gmt: '2005-07-29 16:33:39 +0200'
+  content: Podeslali mi JPG do pociecia... z tlem pod tekstem. ;)
+- id: 1873
+  author: Halski
+  author_url: ''
+  date: '2005-11-03 17:02:20 +0100'
+  date_gmt: '2005-11-03 17:02:20 +0100'
+  content: HAHAHHAHHAHA
+---
+<p>Są takie dni, kiedy człowiekowi szkodzi nadmiar słońca.</p>
+
+<p class="strip"><img src="http://comic.room-303.com/strips/016-gyno-expert.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>

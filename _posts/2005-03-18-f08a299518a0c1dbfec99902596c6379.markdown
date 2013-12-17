@@ -1,0 +1,679 @@
+---
+layout: post
+status: publish
+published: true
+title: Administrator kontra konserwator
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 67
+date: 2005-03-18 23:13:58.000000000 +01:00
+categories:
+- varia
+- linux
+tags: []
+comments:
+- id: 727
+  author: bazyl
+  author_url: ''
+  date: '2005-03-18 23:22:38 +0100'
+  date_gmt: '2005-03-18 23:22:38 +0100'
+  content: |-
+    Cała ta sytuacja jest tak prawdziwa i tak paradoksalna, że i ja miałem z nią taką czy inną styczność. Co ciekawe, w dużej firmie typu Internet Designers pracował kiedyś jeden z developerów Debiana, który na prawdę trzymał wszystko w należytym porządku.
+    <br/>
+    <br/>Został zwolniony &quot;bo nic nie robił&quot;.
+    <br/>
+    <br/>Teraz pracuje tam ktoś inny, wiecznie mu się coś wypieprza, lata jak kot z pęcherzem, ale przynajmniej wiadomo, że pracuje ;]
+    <br/>
+    <br/>Ot, cała paranoja ;]
+- id: 728
+  author: Jezuch
+  author_url: ''
+  date: '2005-03-18 23:24:36 +0100'
+  date_gmt: '2005-03-18 23:24:36 +0100'
+  content: Chiński Cesarz płacił swoim lekarzom dopóki był zdrowy. Kiedy zdarzyło
+    mu się zachorować, lekarze szli pod topór. Do administratorów też to powinno się
+    stosować ;)
+- id: 729
+  author: m
+  author_url: ''
+  date: '2005-03-19 00:10:12 +0100'
+  date_gmt: '2005-03-19 00:10:12 +0100'
+  content: |-
+    Sorry, Patrys, ale albo specjalnie nie jestes obiektywny, albo nie masz pojecia, jaka jest funkcjonalnosc Windows Server 2003 i ile trzeba zrobic, zeby sprobowac dogonic ja *darmowymi* rozwiazaniami linuxowymi i stworzyc naprawde enterprisowe rozwiazanie (klastrowanie, replikacja). Porozmawiaj z ludzmi, ktorzy administruja farmami serwerow Windows w duzych firmach. Taki stan rzeczy, o ktorym piszesz, to generalnie problem malych firm, a nie rozwiazan, jakie wykorzystuja.
+    <br/>
+    <br/>btw, wirus na webserwerze z Windows? porownanie helpdesku z adminem serwera? dziwnie
+- id: 730
+  author: Patrys
+  author_url: ''
+  date: '2005-03-19 00:13:06 +0100'
+  date_gmt: '2005-03-19 00:13:06 +0100'
+  content: Nie nie, przeczytaj jeszcze raz wstęp. Jest tam podział na duże firmy i
+    windowsiarnię (jako dwa osobne twory), gdzie roboty jest od cholery i farmy linuksowe,
+    gdzie roboty nie ma wcale. Bo it just works.
+- id: 731
+  author: m
+  author_url: ''
+  date: '2005-03-19 00:13:40 +0100'
+  date_gmt: '2005-03-19 00:13:40 +0100'
+  content: '@bazyl: duża firma to firma zatrudniająca ponad 250 osób z rocznym obrotem
+    powyżej 50 mln euro - ID ma tyle...?'
+- id: 732
+  author: m
+  author_url: ''
+  date: '2005-03-19 00:17:45 +0100'
+  date_gmt: '2005-03-19 00:17:45 +0100'
+  content: A czy nie lepszym podzialem bylby podzial na helpdesk, gdzie ciagle sie
+    cos sypie, i prace w serwerowni, gdzie srodowisko jest duzo bardziej stabilne?
+    Ryzykowne jest stwierdzenie, ze admin serwerów Windows ma więcej roboty niż admin
+    linuxów. Kwestia preferencji i umiejętnosci.
+- id: 733
+  author: Patrys
+  author_url: ''
+  date: '2005-03-19 00:35:44 +0100'
+  date_gmt: '2005-03-19 00:35:44 +0100'
+  content: |-
+    m: Nie, w coraz większej ilości firm admin jest częścią helpdesku i firmy, które mają helpdesk jako taki nie borykają się z problemem, o którym piszę. Są za to duże firmy (kilkaset osób lekką ręką), gdzie admina wywala się za to, że co szef wejdzie, to on pije kawę.
+    <br/>
+    <br/>A co do Windows vs. Linux - tak, admin Windows ma więcej roboty. Przywrócenie konfiguracji w przypadku awarii sprzętowej *nices to rozpakowanie jednego tarballa. I wszystko chodzi jak chodziło, bo everything is a file.
+- id: 734
+  author: m
+  author_url: ''
+  date: '2005-03-19 00:40:21 +0100'
+  date_gmt: '2005-03-19 00:40:21 +0100'
+  content: |-
+    Zgadzam sie, co do problemu bycia jednoczesnie helpdeskiem, adminem, programista drobnych serwisow www i popychadlem w wielu firmach. Odnosnie przywracania konfiguracji - obrazy partycji to potega, nie tylko w przypadku Windows;).
+    <br/>
+    <br/>Ide w kime, dobranoc.
+- id: 735
+  author: Patrys
+  author_url: ''
+  date: '2005-03-19 00:41:42 +0100'
+  date_gmt: '2005-03-19 00:41:42 +0100'
+  content: Obraz partycji cofa więcej plików niż zostało uszkodzonych. Chyba nie chcesz,
+    żebym z powodu awarii strony pana Kowalskiego cofnął ci o tydzień repozytorium
+    subversion utrzymywane na tym samym apaczu?
+- id: 736
+  author: Patrys
+  author_url: ''
+  date: '2005-03-19 01:16:33 +0100'
+  date_gmt: '2005-03-19 01:16:33 +0100'
+  content: |-
+    A skoro z tego tematu zrobił się flame Linux vs. Windows, to proszę:
+    <br/>
+    <br/>Pokaż mi rozwiązanie, które pozwoli mi bez straty mocy utrzymać na jednej, kilkuprocesorowej maszynie, ścisłe klatki z poszczególnymi usługami.
+    <br/>
+    <br/>Pokaż mi rozwiązanie, które pozwoli mi bezstresowo utrzymać serwer w kolokacji pod Pragą i logować się na niego zdalnie.
+    <br/>
+    <br/>Pokaż mi Windowsa na serwer, do którego nie muszę wsadzić karty graficznej za cenę dwóch procesorów, żeby w ogóle cokolwiek skonfigurować.
+    <br/>
+    <br/>Pokaż mi system desktopowy, który pozwoli mi efektywnie wykorzystać możliwości 64-bitowej architektury (pogódź się z tym, że IA32 umiera).
+    <br/>
+    <br/>Pokaż mi Windowsa, którego można zdebugować i naprawić bez przywracania obrazu partycji, kiedy wykłada się przed podniesieniem ekranu logowania.
+    <br/>
+    <br/>Pokaż mi Windowsa, w którym można to robić zdalnie, za pomocą innej maszyny stojącej obok.
+    <br/>
+    <br/>Pokaż mi Windowsa, któremu można zmienić płytę główną na inną bez konieczności reinstalacji całego systemu od zera.
+    <br/>
+    <br/>Pokaż mi wydajny system plików obsługiwany przez Windows. Nie, nie chwal się bezpieczeństwem NTFS. Journaling, rozszerzone atrybuty i ACL mają wszystkie współczesne filesystemy.
+    <br/>
+    <br/>And the list goes on...
+    <br/>
+    <br/>Problem replikacji nie istnieje, bo są protokoły do wydajnej synchronizacji, a klastrowanie realizuje się na poziomie usług a nie serwera, który jest tylko ich hostem.
+- id: 737
+  author: Hawk
+  author_url: ''
+  date: '2005-03-19 10:11:37 +0100'
+  date_gmt: '2005-03-19 10:11:37 +0100'
+  content: |-
+    Apropos poczatku tekstu: jak administrator jest dupa i dal pani Jadzi uprawnienia, ktore pozwolily sie zainstalowac trojanowi to chyba sam sie prosil o problemy? Wiec niech lata od stanowiska do stanowiska.
+    <br/>
+    <br/>Apropos zdalnej pracy na windows: w czym jest problem? Wczoraj instalowalem office na 4 komputerach oddalonych o jakies 35 kilometrow i nie bylo jakis specjalnych probelmow. A bedac przy flame&#039;ach, pokazcie mi rowiazanie pozwalajace podniesc _zdalnie_ linuksa na ktorym spanikowal kernel i ktory jest na serwerze bez karty pozwalajacej na zdalny reboot.
+    <br/>
+    <br/>Apropos wymagania karty graficznej w cenie dwoch procesorow: ze jak? Piszemy o serwerach czy skladakach? Bo w wiekszosci serwerow della to karta jest max jakies 4 mb ati, jedynie w najnowszej serii jest radeon 7500 ve 16 mb, czyli jest tansza od VRM&#039;a, a co dopiero procesora. A poza tym prosze o rozwiazanie jak skonfigurowac zdalnie bios plyty glownej/kontrolera raid/bmc (niepotrzebne skreslic) :-)
+- id: 738
+  author: Cachotterie
+  author_url: ''
+  date: '2005-03-19 11:54:31 +0100'
+  date_gmt: '2005-03-19 11:54:31 +0100'
+  content: "-&gt;Hawk: Lamerskie pytanie z czystej ciekawości bo się zdumiałam (ani
+    ze mnie administrator, ani spec linuxowy, ani windowsowy, już prędzej, ale tego
+    typu, jakim się jest po nastu latach używania do czegoś więcej niż czytanie poczty
+    ;) ). \n<br/>Mianowicie, odnośnie drugiego: jest rozwiązanie w windowsie (którym?)
+    które pozwala Ci podnieść zdalnie windę która się położyła np. na bluescreenie?
+    I bios płyty głównej też można?\n<br/>Bo zakładam że Twoje pytania wynikają z
+    tego, że pod linuxem się nie da, a pod windą tak - jeśli winda ma możliwości tego
+    wszystkiego co opisał Patrys + to co napisałeś Ty, to odzyskam do niej odrobinę
+    szacunku ;)\n<br/>\n<br/>Moja wizja do tej pory była taka, że o ile na desktop
+    dla pani Kazi (zresztą nie tylko) jest całkiem miła, o ile zachowuje się podstawowe
+    warunki czystości typu nieotwieranie nieznanych załączników, o tyle na serwery
+    zawsze zdecydowanie bardziej pasowały mi unixowe/linuxowe rozwiązania."
+- id: 739
+  author: Hawk
+  author_url: ''
+  date: '2005-03-19 12:11:28 +0100'
+  date_gmt: '2005-03-19 12:11:28 +0100'
+  content: 'Cachotterie: moje pytanie wynikalo jedynie z faktu, ze chcialem pokazac
+    iz system nie ma tu znaczenia, czy to bedzie windows czy linux takiej maszyny
+    sie nie da zdalnie podniesc, ani nie da sie zdalnie biosu skonfigurowac. Dlatego
+    tez za bezsensowne uznalem stwierdzenie Patrysa &quot;Pokaż mi Windowsa, w którym
+    można to robić zdalnie, za pomocą innej maszyny stojącej obok.&quot; uzytego w
+    kontekscie do &quot;Pokaż mi Windowsa, którego można zdebugować i naprawić bez
+    przywracania obrazu partycji, kiedy wykłada się przed podniesieniem ekranu logowania.&quot;.
+    Jak linux utknie przed ekranem logowania np na &quot;please run fsck manually&quot;
+    lub na &quot;unable to mount root filesystem&quot; to tez sie go nie da podniesc
+    z maszyny stojacej obok.'
+- id: 740
+  author: mmazur
+  author_url: ''
+  date: '2005-03-19 12:14:33 +0100'
+  date_gmt: '2005-03-19 12:14:33 +0100'
+  content: |-
+    Nie? Jak ci się skaszani fs to rzeczywiście trudno by było o jakieś autonaprawiacze (ale od czego jest journaling), ale już unable to mountblabla to wystarczy grub z serial consolą.
+    <br/>
+    <br/>Jeszcze tylko trzeba trochę poczekać aż będzie w pełni działający kexec on oops (odpala drugiego kernela przy oopsie).
+- id: 741
+  author: Patrys
+  author_url: ''
+  date: '2005-03-19 12:16:18 +0100'
+  date_gmt: '2005-03-19 12:16:18 +0100'
+  content: 'Hawk: proponuję wygooglać &quot;serial console&quot;. Służy właśnie do
+    zdalnego reanimowania takich maszyn. Poznaj swojego wroga.'
+- id: 742
+  author: Cachotterie
+  author_url: ''
+  date: '2005-03-19 12:17:31 +0100'
+  date_gmt: '2005-03-19 12:17:31 +0100'
+  content: 'Ja bym to powiedziała inaczej: są niewątpliwie sytuacje, kiedy admin jednak
+    dupsko podnieść musi bo zaiste, system nie ma znaczenia jeśli ktoś mądry poprzestawia
+    coś w biosie ;) Natomiast zdecydowanie częściej myślę zdarzają się mniejsze awarie,
+    typu &quot;jakaś usługa padła&quot;, &quot;coś trzeba przekonfigurować&quot; (i
+    wiele innych o których z racji bycia &#039;nieadministratorką&#039; z zamiłowania
+    ;] nie mam pojęcia) - i wtedy jednak linux sprawdzi się dużo lepiej. Przynajmniej
+    jak na moje pojęcie o windzie i linuxie, które przyznaję - nie jest niewątpliwie
+    pełne, myślałam że może czymś mnie zaskoczysz, ale jak dotąd to wrażenie się utrzymuje
+    :)'
+- id: 743
+  author: szzzzzz...ej?
+  author_url: ''
+  date: '2005-03-19 12:40:33 +0100'
+  date_gmt: '2005-03-19 12:40:33 +0100'
+  content: |-
+    fanatykujesz drogi kolego
+    <br/>
+- id: 744
+  author: Patrys
+  author_url: ''
+  date: '2005-03-19 13:06:02 +0100'
+  date_gmt: '2005-03-19 13:06:02 +0100'
+  content: |-
+    Że niby ja? Wpis jest o stosunku pracodawców do pracowników, których głównym atutem jest wiedza. Nie słyszałem, żeby ktoś zwolnił kustosza z muzeum za to, że nie widać żeby rzeźbił ani malował, za to znam administratorów zwolnionych za to, że nic się nie psuło i właściwie nie mieli roboty.
+    <br/>
+    <br/>L vs. W to nie moja brocha.
+- id: 745
+  author: Hawk
+  author_url: ''
+  date: '2005-03-19 13:11:18 +0100'
+  date_gmt: '2005-03-19 13:11:18 +0100'
+  content: 'Patrys: licytowanie sie googlami jest bez sensu. Tez moge napisac &quot;wygoogluj
+    sobie baseboard management controller lub DRAC&quot;, bedziesz mogl podniesc serwer
+    via internet, lan lub serial, niezaleznie od jego stanu i niezaleznie od systemu
+    ktory tam jest. Usiluje powiedziec, ze system nie ma _zadnego_ znaczenia w przypadku
+    zdalnego podniesienia maszyny, bo sa dostepne odpowiednie rozwiazania ktore na
+    to pozwalaja, pomijam tu juz fakt czy platne czy darmowe. Poza tym: &quot;mojego
+    wroga?&quot;, znaczy niby ja nie lubie linuxa? ROTFL! ... Uwazam, ze oba systemy
+    nadaja sie do uzycia, jezeli osoba je uzywajaca ma odpowiednia wiedze. Jak admin
+    jest dupa to fakt ze uzywa linuxa w niczym mu nie pomoze. Tam gdzie moge uzywam
+    linuxa, tam gdzie mi kaza uzywam windowsa. I mam nadzieje, ze to rozwieje watpliwosci
+    ktory system bardziej lubie.'
+- id: 746
+  author: dunior
+  author_url: ''
+  date: '2005-03-19 13:28:28 +0100'
+  date_gmt: '2005-03-19 13:28:28 +0100'
+  content: "Cachotterie: to tylko wrażenie,  systemy używa sie w zależności od możliwości
+    i potrzeb, nie ma znacznia, linux, windows, solaris, bierzesz to co jest w danym
+    momencie potrzebne w zalezności od możliwosci finansowych i potrzeb klienta\n<br/>a
+    jak maszyna poleci sprzętowo to i tak trza będzie dupsko ruszyć.\n<br/>patrys:
+    pogódź się z tym, że IA32 umier\n<br/>jakie to ma znaczenie, w przypadku gdy i
+    tak na zwykłej workstation nie wykorzystujesz 10% mocy w normalnej pracy, kupuj
+    się to co jest tu i teraz za pieniądze które zakład jest w stanie wydać w danyn
+    momencie na sprzet, \n<br/>\n<br/>co do zwolnienia admina: sytuacja normalna,
+    jeżeli lokalny admin nic nie robi to taniej wychodzi zatrudnić zewnątrzną firmę
+    czy osobę, sieć i tak działać będzie\n<br/>\n<br/>błędem natomiast jest wyręczanie
+    takiego zewnętrznego admina na własną rękę, bo to uświadami pracodawcy, że jego
+    decyzja była słuszna"
+- id: 747
+  author: Cachotterie
+  author_url: ''
+  date: '2005-03-19 13:37:07 +0100'
+  date_gmt: '2005-03-19 13:37:07 +0100'
+  content: '-&gt;dunior: Co niby jest tylko wrażeniem? Że w _większości_ (nie wszystkich)
+    przypadków potrzeby serwerowe (bo o takich tu mówimy, a nie o komputerze dla sekretarki
+    szefa) sprawiają, że linux jeśli chodzi o możliwości i koszty (co jest BARDZO
+    istotnym argumentem, bo ile kosztuje sławetny w2k3 server? ile małych czy średniej
+    wielkości firm go na niego stać, a ile jest u nas w kraju firm dużych?) będzie
+    akurat do tego zastosowania lepszy?'
+- id: 748
+  author: dunior
+  author_url: ''
+  date: '2005-03-19 14:02:55 +0100'
+  date_gmt: '2005-03-19 14:02:55 +0100'
+  content: "a jakie znaczenie ma koszt systemu w zastosowaniach produkcyjnych? \n<br/>w2k3
+    kosztuje chyba gdzies od 3 tys zł w wzwyż w zalezności od wersji i ilości licencji,
+    co to jest przy cenie serwera powiedzmy 70 tys zł?\n<br/>a ile kosztuje SUSE czy
+    Red Hat w wersjach serwerowych?\n<br/>zresztą, pewne grupy klientów, np: edukacja
+    może mieć dowolną ilość licencji serwerowych MS za marne $800 rocznie\n<br/>ty
+    pisałaś o wrażeniu, że linux lepiej nadaje sie na serwer.\n<br/>ja na pisze ci
+    konkretne rozwiązania:\n<br/>firma 60 pracowników, 8 komputerów (win98, jeden
+    dos), jeden serwer (składak na pececie) z linuksem na pokładzie.\n<br/>3 komputery
+    pracują jako maszyny krytyczne, muszą działać 24/24,\n<br/> Zjawiam się u nich
+    raz w miesiacu coby backupy wypalić na płyty cd, odkurzyć komputery i pogadac
+    z właścicelem, problemy rozwiązuję od ręki zdalnie, czasem o dziwnych godzinach,
+    np: telefon o 3 nad ranem (vnc, ssh, telefon)\n<br/>firma 40 pracowników, 300
+    uczniów, 50 komputerów (linux, w2k), 2 serwery (dedykowana maszyna sbs2003,mocny
+    składak z linuksem), jestem u nich raz, dwa razy w miesiacu, problemy w większości
+    rozwiazuje zdalnie (ssh, rdp, vnc)\n<br/>\n<br/>kolejna firma: 300 pracowników,
+    80 komputerów, 4 serwery (novel, linux, w2k3), \n<br/>koszt systemu nie ma dla
+    nich znaczenia,\n<br/>głupie iso9001 kosztowało ich więcej niz cała kasa jaką
+    wydają na licencje\n<br/> kupuja to co jest im potrzebne do sprawnego działania
+    systemów produkcyjnych (tu nie ma znaczneia OS, tu ma znaczenie soft kierujący
+    produkcją)\n<br/>\n<br/>wszystkie przykłady z miasteczka mającego 14 tys mieszkańców\n<br/>\n<br/>wdałem
+    się w tą dyskusję bo nie lubie takiego generalizowania. Nie widze OS-ów lepszych
+    czy gorszych z definicji. Po prostu, bierze się taki system, który pasuje do konkretnych
+    zastosowań.\n<br/>"
+- id: 749
+  author: Cachotterie
+  author_url: ''
+  date: '2005-03-19 14:30:30 +0100'
+  date_gmt: '2005-03-19 14:30:30 +0100'
+  content: |-
+    Ja nie mówię że nie bierze się systemu do konkretnych zastosowań. Mówię tylko w _większości_ przypadków do konkretnego, serwerowego zastosowania, lepiej pasuje linux. Rozumiesz różnicę? Nie mówię że linux ogólnie jest lepszy a windows gorszy z definicji, bo choćby jako desktop dla szarego użytkownika moim zdaniem nadaje się zwykle lepiej. Nie mówię też że nie ma sytuacji, że jest akurat coś, co oferuje serwer windowsowy, czego pod linuxem nie znajdziesz jest potrzebne i wtedy wybór jest oczywisty. Pytanie: ile takich sytuacji jest procentowo? Moim zdaniem i z obserwacji kumpli-administratorów, zdecydowanie za mało, żeby mówić że windows jest na TYPOWY serwer tak samo trafnym wyborem jak linux.
+    <br/>A to, że firma jest w stanie wydać kwotę X na oprogramowanie (bo to nic wobec kosztów ISO choćby) niekoniecznie znaczy, że powinna to robić. Jeśli równie dobrze sprawdzi się linux, z wydaniem 1/10 (albo 1/20) kwoty X, to pozostałe 9/10 X wyda na premie dla pracowników / zainwestuje / cokolwiek, to będzie to zdecydowanie sensowniejsze wykorzystanie dostępnych środków.
+    <br/>
+    <br/>Poza tym napisałeś że w tych firmach masz takie a takie serwery, ale nie napisałeś czy rzeczywiście są one konieczne, że linux tam nie sprawdziłby się bo to czy tamto. To że ktoś postawił serwer na w2k może oznaczać, że nie miał pojęcia o linuxie, a nie świadczyć o tym że to w2k było konieczne.
+- id: 750
+  author: dunior
+  author_url: ''
+  date: '2005-03-19 14:58:09 +0100'
+  date_gmt: '2005-03-19 14:58:09 +0100'
+  content: |-
+    nie sprecyzowałaś co rozumiesz przez hasło typowe serwerowe zastosowanie?
+    <br/>przeczytaj to jeszcze raz i jeszcze raz aż zrozumiesz:
+    <br/>OS dobiera się do konkretnych rozwiazań
+    <br/>podkreślam: konkretnych
+    <br/>to co dla Ciebie i Twoich kolegów jest typowym rozwiazaniem serwerowym nie będzie typowe dla innych administratorów.
+- id: 751
+  author: Cachotterie
+  author_url: ''
+  date: '2005-03-19 14:59:36 +0100'
+  date_gmt: '2005-03-19 14:59:36 +0100'
+  content: "Typowe = obowiązujące w większości przypadków (stawiania czegoś co nazywamy
+    serwerem, żeby nie było wątpliwości). Większość = &quot;&gt;50%&quot;. \n<br/>Czytaj
+    aż zrozumiesz."
+- id: 752
+  author: Cachotterie
+  author_url: ''
+  date: '2005-03-19 15:01:56 +0100'
+  date_gmt: '2005-03-19 15:01:56 +0100'
+  content: Aha, nie, nie mam danych o wszystkich firmach, naturalnie, ale nieobce
+    jest mi pojęcie &quot;STATYSTYKA&quot;, w razie gdybyś miał dalsze pytania.
+- id: 753
+  author: Hawk
+  author_url: ''
+  date: '2005-03-19 15:07:32 +0100'
+  date_gmt: '2005-03-19 15:07:32 +0100'
+  content: 'Jednym slowem maslo maslane... No coz widac typowy serwer to dual xeon
+    2.8 GHz z 2GB ram, macierza &gt;= 140 GB i kilkunastoma bazami danych miedzy 5-10
+    GB kazda dodatkowo robiacy za serwer plikow dla sieci LAN (plikow scisle powiazanych
+    i niezbednych dla ososb ktore pracuja na wymienionych wczesniej bazach). Przeciez
+    mam takich wiecej niz 50% serwerowni :-) A tak powaznie: dla kazdego admina typowy
+    serwer moze oznaczac zupelnie co innego. Dla jednych to bedzie routerek na p150,
+    dla innych skladak z www, poczta i shellem dla znajomych, dla jeszcze innych to
+    co ja napisalem, a dla niektorych typowym serwerem bedzie cluster zajmujacy 5
+    szaf 19&quot; wypchanych blade&#039;ami...'
+- id: 754
+  author: dunior
+  author_url: ''
+  date: '2005-03-19 15:10:33 +0100'
+  date_gmt: '2005-03-19 15:10:33 +0100'
+  content: "za szybą, naprzeciwko biurka mam kilkanaście serwerów, i nie mam pojęcia
+    ktróy z nich jest typowym zastosowaniem:\n<br/>2 kontrolery AD z w2k3, 1 serwer
+    plików z w2k3, jeden serwer systemu do zarządzania częśćią firmy (ms sql+dedykowany,
+    autorski soft) z w2k, system www zlozony z maszyny z linksem (apache+php+postgress)
+    i maszyny z w2k z MS Sql wykorzystywanym przez tego wcześniejszego linuxa, serwer
+    drukarek na w2k3+dedykowany system kontorli wydruków dla 6 tys userów, maszyna
+    z linuxem na pokładzie jako maszyna do pracy dla 5 tys userów (shell+www), solaris
+    z postgressem i systemem do obsługi biblioteki, itd, itd, \n<br/>powiedz mi, które
+    z tych zastosowan jest typowe?"
+- id: 755
+  author: Cachotterie
+  author_url: ''
+  date: '2005-03-19 15:12:42 +0100'
+  date_gmt: '2005-03-19 15:12:42 +0100'
+  content: Myślę że właśnie o to chodzi - serwerem jest zarówno ten cluster, jak i
+    składak z WWW, jak i jakiś router, jak i... etc. Tyle że serwerów zarządzających
+    megawielką fabryką i przyległościami jest stosunkowo niewiele w odniesieniu do
+    serwerków na www jako że tych megawielkich fabryk / ogromnych firm jest jakby
+    mniej, no nie? Siłą rzeczy, jakby globalnie popatrzeć co jest typowym serwerem,
+    a nie w oczach pojedynczego admina który w czymś-tam się specjalizuje, to GLOBALNIE
+    bardziej typowym jest serwer-router w osiedlowej sieci niż serwer zarządzający
+    fabryką czy serwer w firmie z 1000 pracowników i o to mi chodzi. Spojrzenie globalne,
+    a nie z punktu widzenia jednego konkretnego administratora.
+- id: 756
+  author: Cachotterie
+  author_url: ''
+  date: '2005-03-19 15:26:57 +0100'
+  date_gmt: '2005-03-19 15:26:57 +0100'
+  content: "2 kontrolery AD\n<br/>1 serwer plików\n<br/>ms sql+dedykowany, autorski
+    soft\n<br/>system www - apache+php+postgress\n<br/>MS Sql\n<br/>serwer drukarek
+    + system kontorli wydruków \n<br/>shell+www\n<br/>[..] z postgressem i systemem
+    do obsługi biblioteki\n<br/>\n<br/>Jak tak na to spojrzysz i posumujesz, co Ci
+    wyszło, to masz głównie: jakaś baza danych. Jakiś serwer www. Jakiś system obsługi
+    drukarkami. Jakis serwer plików. [...] To jest właśnie dla mnie typowość. Spojrzenie
+    przez typową *funkcjonalność*, a nie przez to na czym to stoi. I w małej firmie
+    funckjonalność pt. &quot;serwer plików + zarządzanie drukarkami + serwer www +
+    baza danych&quot; będzie na jednym serwerze, w dużej - na dedykowanych maszynach,
+    ale co to za różnica?\n<br/>\n<br/>Ok, świetnie że radzicie sobie na w2k/czymkolwiek
+    innym. I zapewne to się sprawdza, bo inaczej byście to zmienili, ale czy równie
+    dobrze nie sprawdzałyby się do takiej funkcjonalności zamiast windowych - serwery
+    linuxowe *gdyby* od razu o nich pomyśleć? Wiadomo że przeniesienie dużej firmy
+    na nowy system, nowe serwery to jest zazwyczaj idiotyzm, zyski niewspółmierne
+    do kosztów takiej migracji. Nie próbuję powiedzieć &quot;używacie serwerów na
+    w2k, fuuj, natychmiast przesiadka na linuxy, bo są lepsze!&quot;. Ale jeśli od
+    razu można wybierać, jeśli stawiasz nowy serwer choćby w nowej firmie - to dlaczego
+    nie? Jak dużej części z w/w przez Ciebie funkcjonalności nie mógłby obsłużyć linux
+    z mysql zamiast w2k z MSSql? Darmowy, stabilny, bezpieczny etc.\n<br/>\n<br/>Jeśli
+    firma ma już dużą bazę której zmigrować nie może :&gt; - ok, wtedy jest to jeden
+    z przypadków kiedy mówię &quot;tu linux by się nie sprawdził, nie da się&quot;.
+    W miejscach gdzie takich ograniczeń nie ma, często nie rozumiem po prostu pakowania
+    na serwer windy."
+- id: 757
+  author: dunior
+  author_url: ''
+  date: '2005-03-19 15:33:04 +0100'
+  date_gmt: '2005-03-19 15:33:04 +0100'
+  content: "i sądzisz że Twoje spojrzenie jest bardziej globalne niż moje\n<br/>ja
+    się nigdy nie odważe powiedzieć że jakieś rozwiązanie jest typowe, zbyt dużo rozwiazan
+    już widziałem\n<br/>nawet netcraft nie pokazuje całej prawdy o serwerach www,
+    choćby dlatego, że do obsługi naszego systemu www wykorzystujemy 4 maszyny, jedną
+    z linuksem i 3 z w2k3 i jedną z w2k \n<br/>aha, sprecyzuj jeszcze to co uważasz
+    za słowo globalne?\n<br/>chodzi o Polskę, Europę, czy cały świat?\n<br/>weź pod
+    uwagę, że to co dla firmy w której ja pracuje jest poważnym serwerem, już dla
+    np: ICM-u jest jakimś tam małym serwerkiem dla konkretnej usługi.\n<br/>\n<br/>i
+    błagam: nie pisz takich ogólnych sądów z taką stanowczością, bo możesz się mylić,
+    \n<br/>ja też mogę się mylić, nie widziałem zbyt wiele sieci komputerowych\n<br/>"
+- id: 758
+  author: Cachotterie
+  author_url: ''
+  date: '2005-03-19 15:37:43 +0100'
+  date_gmt: '2005-03-19 15:37:43 +0100'
+  content: |-
+    Nie chodzi mi o globalność rozwiązań, tylko globalność FUNKCJONALNOŚCI. Że jest jakiś tam typowy zakres funkcjonalności serwerów do których różni ludzie wykorzystają różne rozwiązania. Swoim wywodem chwilę wcześniej o tym co u Ciebie stoi tylko potwierdziłeś że moje przybliżone pojęcie o funkcjonalności more-less pokrywa się z rzeczywistością. Dla serwera który będzie miał nietypowe funkcje, na pewno będzie też trzeba stosować nietypowe rozwiązania i tyle.
+    <br/>Myślę że typowa funkcjonalność serwerów aż tak bardzo się nie zmienia, niezależnie czy globalność zdefiniuję jako Polskę, Europę czy świat.
+- id: 759
+  author: dunior
+  author_url: ''
+  date: '2005-03-19 15:40:26 +0100'
+  date_gmt: '2005-03-19 15:40:26 +0100'
+  content: |-
+    akurat mysql nie nadaje się do naszych zastosowań
+    <br/>obecnie  z różnych powodów migrujemy z postgresa na mssql-a, cena nie gra tutaj takiej roli, jak funkcjonalność która _jest_nam_potrzebna_
+    <br/>co nie oznacza ze calkowicie rezygnujemy z posgresa, bedzie dalej uzywany
+    <br/>przy zakupie kazdego serwera mamy swobodny wybór systemu, ktory na nim będzie działał, i wybieramy to co w _danym_momencie_jest_najbardziej_optymalne_dla_naszych_potrzeb
+    <br/>ale nigdy nie powiem że to są typowe zastosowania dla serwerów
+    <br/>tak samo, jak małej firmie która ma 10 kmputerów nie zaproponuje w2k3 na komputer który pełni role routera, serwera www i poczty, bo w tym konkretnym zastosowaniu lepszy będize linuks,
+    <br/>
+- id: 760
+  author: dunior
+  author_url: ''
+  date: '2005-03-19 15:46:01 +0100'
+  date_gmt: '2005-03-19 15:46:01 +0100'
+  content: "wymien funkcje które sa typowe, bo \n<br/>dunior tego nie rozumieć\n<br/>ja
+    widzieć sieci gdzie nie być linuksa i widzieć sieci gdzie nie być windowsa, i
+    ja nie wiedzieć o co w tej chwili w ogóle chodzić?\n<br/>bo statystyk żądnych
+    ja nie widzieć, ktore by to pokazywały globalnie\n<br/>"
+- id: 761
+  author: Cachotterie
+  author_url: ''
+  date: '2005-03-19 15:47:32 +0100'
+  date_gmt: '2005-03-19 15:47:32 +0100'
+  content: Eh, dobra, EOT. Niektórzy mają alergie na uogólnienia, widać do takich
+    osób należysz ;) A ja czasem uogólniam, bo to ułatwia wiele spraw, a póki jest
+    się otwartym na wyprowadzenie z uogólnienia w jakimś konkretnym przypadku, to
+    nie widzę w uogólnianiu nic złego.
+- id: 762
+  author: dunior
+  author_url: ''
+  date: '2005-03-19 15:55:10 +0100'
+  date_gmt: '2005-03-19 15:55:10 +0100'
+  content: "hm, proste uogólnienie:\n<br/>nauczyciel na lekcji:czy wszyscy to zrozumieli
+    \n<br/>jedyny uczeń który załapał temat: tak\n<br/>nauczyciel: to następnym tematem
+    będzie .....\n<br/>\n<br/>uogólnienia są złe, nie lubie uogólnień\n<br/>"
+- id: 763
+  author: Patrys
+  author_url: ''
+  date: '2005-03-19 15:55:57 +0100'
+  date_gmt: '2005-03-19 15:55:57 +0100'
+  content: |-
+    Hawk: poczuj ironię, to był żart. Póki co, obaj dłubiemy w tej samej dystrybucji.
+    <br/>
+    <br/>Co do mojego fanatyzmu: tu nie ma fanatyzmu. Różnica między fanatykiem a entuzjastą jest taka, że entuzjasta potrafi bez mrugnięcia okiem wymienić wady linuksa. Typowy fanatyk MS (a &quot;m&quot; ostatni brzmi bardziej jak Ballmer niż jak informatyk) takich wad nie chce widzieć.
+    <br/>
+    <br/>Jasne, że przy wdrażaniu systemu wybiera się rozwiązanie optymalne i opłacalne.
+    <br/>
+    <br/>Dowcip z wymienianiem rzeczy niewykonalnych na Windowsie polegał na pokazaniu &quot;m&quot;, że zakrzykiwanie kogoś listą &quot;w tym jestem lepszy&quot; jest całkowicie bez sensu. Mogę taką listę ciągnąć odnośnie dowolnego systemu przez dowolny czas.
+    <br/>
+    <br/>I nie, nie jestem fanem wdrażania Linuksa na każdy desktop. Gdyby było mnie na niego stać, to na swoim desktopie postawiłbym PowerMaca G5 i najwygodniejszy system desktopowy na świecie, Aquę.
+- id: 764
+  author: Cachotterie
+  author_url: ''
+  date: '2005-03-19 15:58:36 +0100'
+  date_gmt: '2005-03-19 15:58:36 +0100'
+  content: 'Nie do końca. Proste byłoby uogólnienie: czy wszyscy zrozumieli, zgłasza
+    się 15 z 25 osób, nauczyciel: idziemy dalej. 10 osób może się dopytać reszty albo
+    zwyczajenie im się nie chciało zgłosić. Do uogólnień potrzebna jest jakaś próbka
+    statystyczna, w której określona przez poziom istotności większość przypadków
+    potwierdza hipotezę. :]'
+- id: 765
+  author: Patrys
+  author_url: ''
+  date: '2005-03-19 15:58:54 +0100'
+  date_gmt: '2005-03-19 15:58:54 +0100'
+  content: 'A tekst oryginalny (ten sprzed flejma) niósł ze sobą jedną uniwersalną
+    treść: administrator sieci jest od działań *zachowawczych*, a nie *interwencyjnych*.
+    Jeśli firma się rozwija i nic się nie psuje, to znaczy, że administrator jest
+    wart swojej pensji.'
+- id: 766
+  author: dunior
+  author_url: ''
+  date: '2005-03-19 16:14:03 +0100'
+  date_gmt: '2005-03-19 16:14:03 +0100'
+  content: dobry administrator jest drogi, firm często na niego nie stać i wolą takiego
+    na zlecenie, bo jak jest dobry to sieć i kompy i tak będą  działać lepiej niz
+    pod kontrolą złego admina ;)
+- id: 767
+  author: Hawk
+  author_url: ''
+  date: '2005-03-19 16:21:05 +0100'
+  date_gmt: '2005-03-19 16:21:05 +0100'
+  content: 'Patrys: jedna z moich wad, ktorej nie moge sie pozbyc, jest fakt ze zdecydowana
+    wiekszosc rzeczy biore na powaznie. Nieraz juz slyszalem, ze nie mam poczucia
+    humoru itp. Jakos z tym zyje. Moi znajomi tez juz przywykli raczej :-)'
+- id: 768
+  author: Hawk
+  author_url: ''
+  date: '2005-03-19 16:28:18 +0100'
+  date_gmt: '2005-03-19 16:28:18 +0100'
+  content: 'A odnosnie tematu: moim zdaniem nie ma szansy na zmiane sytuacji. Nie
+    ma szans przekonac osoby nie znajacej tematu administracji siecia czy serwerami,
+    ze skoro nic sie nie psuje (nie liczac awarii sprzetu) to znaczy, ze admin jest
+    dobry. Niestety dla wiekszosci ludzi, jezeli nie biegasz i nie latasz od komputera
+    do komputera to znaczy, ze siedzisz w biurze i ogladasz filmy. Chyba kazdy admin
+    nie raz slyszal &quot;jak to nie masz czasu? przeciez ty wogole nic nie robisz&quot;.'
+- id: 769
+  author: DeeJay1
+  author_url: ''
+  date: '2005-03-19 19:48:29 +0100'
+  date_gmt: '2005-03-19 19:48:29 +0100'
+  content: Ech, szkoda że podpisałem NDA, pogadał bym sobie jak to fajnie mieć outsource&#039;owanych
+    administratorów, gdzie każda drobna naprawa potrafi trwać kilka dni, a w tym czasie
+    dostaję się ochrzan, za nie wykonanie zadania na czas (bo komputery szlag trafił).
+    W każdym razie firma ma kilka tysięcy stacji Win2k (powyżej 3 tysięcy) + koło
+    400 normalnych serwerów (też win2k) i kilka klastrów HP-UX...
+- id: 770
+  author: jarv
+  author_url: ''
+  date: '2005-03-20 05:23:48 +0100'
+  date_gmt: '2005-03-20 05:23:48 +0100'
+  content: |-
+    @deeJay
+    <br/>
+    <br/>wydaje mi sie, ze patrys pomimo tego, ze firma jest duzo mniejsza, doskonale potrafi cie zrozumiec... ;)
+    <br/>
+    <br/>wiem, bo sam to razem z nim mam w naszej firmie.
+- id: 771
+  author: m
+  author_url: ''
+  date: '2005-03-20 16:55:32 +0100'
+  date_gmt: '2005-03-20 16:55:32 +0100'
+  content: |-
+    Patrys:
+    <br/>
+    <br/>dla formalnosci: nie jestem &quot;informatykiem&quot; - to taki ktos, kto ma komputer w domu? btw, sluchales kiedys jakiejs wypowiedzi Ballmera? bo ja kurde w zyciu nie!:)
+    <br/>
+    <br/>Sprawa nastepna: ja tu sobie w kime ide, a tu rozmowa sie rozkrecila - ok. Od razu mówie - nie zajmuję się administrowaniem, ale... zrewiduj trochę swoją wiedzę, bo NTFS w Windows Server 2003 z tego, co wiem, ma journaling. Nie będę może odpowiadać na wszystkie Twoje pytania dokładnie, ale... nie mam pomysłu, jaki widzisz problem ze zdalnym logowaniem albo z kartą graficzną albo obsługą 64 bit (jest release też i na tą platformę). Kiedyś miałem bardzo podobne zdanie do Twojego sprowadzające się do wniosku, że *nix to najlepsze rozwiązanie serwerowe, ale zmieniłem trochę zdanie i rozszerzyłem horyzonty rozmawiając z ludźmi, którzy administrują dużymi systemami opartymi na Windows. I powiem Ci jedno: nie narzekają, że &quot;bluescreen im się pojawia&quot; - te czasy minęły wraz z win98, o czym też świetnie wiesz. Poza tym wszystko, o czym tutaj piszę, odnosi się do poważnych rozwiązań produkcyjnych (więc nie pisz o cenie karty graficznej czy cenie systemu, bo to naprawdę żaden argument).
+    <br/>
+    <br/>Czasy się zmieniają. Jedni tworzą portale rzeźbiąc w php, inni w Oracle AS Portal. Które z rozwiązań jest lepsze? To zależy. Które szybsze? Oracle, bo RAD...
+    <br/>
+    <br/>Cachoterrie: jesteś pewna, że znasz rynek? Znam więcej małych firm niezwiązanych z IT, które mają rozwiązania serwerowe oparte na Windows Server, a nie *nixach. Stać ich, bo to nie są duże pieniądze w skali firmy, która zatrudnia te 10 osób. Ty wiesz w ogóle, ile kosztuje Windows 2k3? Wiesz, jaki to jest koszt w porównaniu z miesięcznymi wydatkami firmy?
+    <br/>
+    <br/>
+- id: 772
+  author: m
+  author_url: ''
+  date: '2005-03-20 16:56:50 +0100'
+  date_gmt: '2005-03-20 16:56:50 +0100'
+  content: 'Cachoterrie: piszesz jeszcze o opinii &quot;kumpli-administratorów&quot;
+    - ilu z nich jest na tyle doświadczonych, żeby zarabiać więcej niż 5k brutto?'
+- id: 773
+  author: Patrys
+  author_url: ''
+  date: '2005-03-20 17:01:17 +0100'
+  date_gmt: '2005-03-20 17:01:17 +0100'
+  content: |-
+    m: a ja ci jeszcze raz napiszę: nie ma lepszych i gorszych systemów, bo nie ma jedynego słusznego zastosowania. A NTFS jest kurewsko powolny przy dużych katalogach z małymi plikami. I wiem, że ma journaling, dlatego napisałem, że każdy współczesny system go ma.
+    <br/>
+    <br/>Dla mnie ta wojna to jak Gnome vs. KDE vs. Xfce. Każdy używa tego, co lubi. Fakt, że często żartuję z MS, ale opowiadam też dowcipy o blondynkach, to jeszcze nie znaczy że sypiam tylko i wyłącznie z brunetkami i rudymi.
+- id: 774
+  author: m
+  author_url: ''
+  date: '2005-03-20 17:11:04 +0100'
+  date_gmt: '2005-03-20 17:11:04 +0100'
+  content: 'Cachoterrie: w ogóle to wesoło piszesz - jaki to jest TYPOWY serwer? router
+    w sieci osiedlowej, w której co miesiąc brakuje na pensję dla admina? Jeśli tak
+    to rzeczywiście tylko linux... Ale co mnie/nas obchodzi taki rynek, który z gruntu
+    wiąże się z najtańszymi rozwiązaniami? Dla mnie typowy serwer to serwer z jedną
+    usługą - Oracle. Dla części moich znajomych ważny jest IIS/.NET. Dla jeszcze innych
+    *BSD, na których mają implementacje megaszybkich webservices i stabilność jądra
+    wiekszą niż w linuxach. Dla Ciebie takim serwerem jest ten router w sieci osiedlowej.
+    A wymagania... przede wszystkim z punktu widzenia biznesowego wybór OS jest zwykle
+    na ostatnim miejscu, znacznie dalszym od wyboru oprogramowania. Każdemu wisi,
+    czy serwer pod Oracla będzie miał ACL. I jak będzie można się na niego logować
+    zdalnie, bo wiadomo, że będzie można (btw, Patrys: poczytaj o takich rozwiązaniach,
+    jak &quot;Lights-Out 100 Remote Management&quot;). Trochę się to zmienia w branży
+    ISP, ale coraz więcej klientów chciałoby mieć hosting z ASP.NET/SQL Server. W
+    każdym razie: czasem trzeba zmienić swoją opinię, a przede wszystkim caly czas
+    być gotowym na jej zmianę. A tu Patrys strzela bardzo jednostronne grypsy. Zeby
+    nie bylo watpliwosci: mam stacje robocza, na ktorej chodzi Fedora, obok serwer
+    *BSD/i686. Ale to nie przeszkadza mi chociazby w zapoznaniu sie z funkcjonalnoscia
+    systemow konkurencyjnych w jakis tam sposob. Chociaz - jak mowie - z punktu widzenia
+    powaznych rozwiazan to zadna konkurencja, bo OS wybiera się bardzo, baaardzo na
+    końcu. Zdrowi bądzcie!'
+- id: 775
+  author: m
+  author_url: ''
+  date: '2005-03-20 17:11:41 +0100'
+  date_gmt: '2005-03-20 17:11:41 +0100'
+  content: 'Patrys: hehehe, no to świetnie. Rispekta, miłego kurna dnia!'
+- id: 776
+  author: m
+  author_url: ''
+  date: '2005-03-20 17:13:49 +0100'
+  date_gmt: '2005-03-20 17:13:49 +0100'
+  content: I nie odbieraj tego jako wojny - akurat ja jestem daleki od formułowania
+    pogladów stawiajacych sprawę na ostrzu noża. Miłej niedzieli!
+- id: 777
+  author: m
+  author_url: ''
+  date: '2005-03-20 17:23:08 +0100'
+  date_gmt: '2005-03-20 17:23:08 +0100'
+  content: "btw, Cachoterrie, ja jeszcze musze byc troche wkurzajacy, wiec wybacz:
+    pisalas Hawkowi, ze moga przeniesc sie na linuxa - masz moze pomysl, jak sensownie
+    przerzucic SQL Server na platformę linuxową i jaki byłby zysk takiej operacji?
+    Ja chyba nie mam. MySQL i Postgres z punktu widzenia dużych baz danych mają kiepską
+    funkcjonalność, choćby taki niesamowity feature jak procedury składowane pojawiły
+    się w MySQL całkiem niedawno. Open-source w zasadzie nie ma enterprisowego RDBMS,
+    ale... zainteresujcie się MaxDB, czyli SAPDB przyjętym pod skrzydła MySQL Inc.
+    \n<br/>btw, w kwestii formalnej: większość to nie jest &quot;&gt;50%&quot; (pewnie
+    było późno)"
+- id: 778
+  author: Patrys
+  author_url: ''
+  date: '2005-03-20 17:30:46 +0100'
+  date_gmt: '2005-03-20 17:30:46 +0100'
+  content: |-
+    m: pisz po jednym poście. Proszę. Robi się onet.
+    <br/>
+    <br/>Do dużych baz danych nadaje się póki co tylko Oracle. MS SQL ma koszmarną składnię i utrudnia programowanie. Windows ma dwie podstawowe wady: monolityczny rejestr (jeden wielki bezużyteczny plik) i obowiązkowy tryb graficzny. OSS jest w większości pisane za darmo po godzinach pracy i jego postawowa funkcja to w większości gonienie za rozwiązaniami monopolistów. Nie ma oficjalnego Windowsa desktopowego na maszyny 64bit. Tak, jestem zarejestrowanym developerem i dostaję czasami różne bety. Z ciekawości. Nie, to nie jest wpis o wyższości X nad Y tylko o pracy w Polsce.
+- id: 779
+  author: m
+  author_url: ''
+  date: '2005-03-20 18:06:12 +0100'
+  date_gmt: '2005-03-20 18:06:12 +0100'
+  content: |-
+    Patrys: wybacz, po prostu mialem sporo do odpisania
+    <br/>
+    <br/>SQL Server wchodzi jednak na rynek co najmniej średnich rozwiązań bazodanowych - przede wszystkim nadal jest tańszy od Oracle, po drugie Microsoft ma duże (żeby nie powiedzieć: największe) wsparcie dla developerów - w Polsce zdecydowanie największe, bo Sun śpi, a IBM i Oracle skupiają się wyłącznie na największych firmach. Ale wiadoma sprawa, że SQL Server funkcjonalnością od rozwiązań Oracle odstaje jeszcze na wieeele kilometrów. Z drugiej strony Oracle od 10g obniża ceny i upraszcza licencjonowanie. No i ma genialnie rozwinięty dział developerski (oparty nota bene na J2EE niezależnym od MS; zresztą jedynym wsparciem Oracle dla technologii MS, jakie kojarzę, jest .NET-owy provider dla Oracle - co ciekawe: MS oferuje także swój własny). Jest ciekawie. No i nie zapominajmy o DB2, który zapomniał o nas.
+    <br/>
+    <br/>Dialekt SQL Microsoftu - to trochę wtórna kwestia... poza tym z &quot;douczeniem się&quot; nie ma żadnych problemów, bo Microsoft oferuje od diabła materiałów.
+    <br/>
+    <br/>Odnośnie Windows 64-bit: ani razu w tym wątku nie skupiałem się na desktopach. Z tego, co wiem, Windows XP Professional i Windows Server 2003 w x64 Edition są w fazie Community Preview, release jest przewidziany na połowę 2005. Windows Server 2k3 na 64-bitowe Itanium już jest i tym się zasugerowałem. Ale koniec sporów, bo wydaje mi się, że doszliśmy porozumienia.
+- id: 780
+  author: Anonim
+  author_url: ''
+  date: '2005-03-20 21:06:49 +0100'
+  date_gmt: '2005-03-20 21:06:49 +0100'
+  content: 'mila reklamka :P moze jeszcze zalety msn messager '
+- id: 781
+  author: m
+  author_url: ''
+  date: '2005-03-20 21:31:31 +0100'
+  date_gmt: '2005-03-20 21:31:31 +0100'
+  content: 'Anonim: a korzystales z tego IM? bo ja nie'
+- id: 782
+  author: sexy admin
+  author_url: ''
+  date: '2005-03-22 08:19:25 +0100'
+  date_gmt: '2005-03-22 08:19:25 +0100'
+  content: Aaa... Giń!!! (==___&gt;
+- id: 783
+  author: Anonim
+  author_url: ''
+  date: '2005-07-05 17:41:39 +0200'
+  date_gmt: '2005-07-05 17:41:39 +0200'
+  content: 'Witam, a kto podjął by się skofigurować serwerek na dwa łącza docelowo
+    4? Szukam osoby która pojęła by się tego wyzwania info: mariusz_g@o2.pl'
+---
+<p>Każda duża firma, posiadająca jakikolwiek serwer lub większą liczbę komputerów, zatrudnia człowieka na stanowisku administratora. Kim właściwie jest taki administrator? W firmach używających oprogramowania Microsoft, jest to na ogół konserwator, odpowiednik szkolnego dozorcy, który wymienia przepalone żarówki i bezpieczniki. Tak samo firmowy konserwator, zjawia się zawsze kiedy padnie Windows i konieczna jest jego reanimacja lub - jeszcze lepiej - reinstalacja. Nikt nie wyobraża sobie pracy bez niego, bo przecież nie można przeszkolić całego personelu choćby z podstaw informatyki. Pani Jadzia zainstaluje trojana i roboty jest na dwa dni, a administrator sieci biega w pocie czoła od stanowiska do stanowiska. Nikt nie kwestionuje jego kompetencji ani niezbędności jego pracy.</p>
+
+<p>Co jednak w przypadku firm hostujących serwery oparte na *niksach? Jak <a href="http://hedera.linuxnews.pl/_news/2001/07/28/_lite/574.html">pisał kiedyś Krzak</a>, praca administratora farmy linuksowej to na ogół kilka nieprzespanych nocy z rzędu, a potem kilka miesięcy spokoju i działań zachowawczych. Po rozpracowaniu podstaw systemu (konfiguracja niezbędnych usług, czytanie dokumentacji, rekonfiguracja, przeglądanie przykładów, rekonfiguracja - w tej kolejności), system jest właściwie bezobsługowy. Dopóki nie padnie któraś z macierzy dyskowych, nie włamie się ktoś na konto FTP pracownika, czy nie spłonie któryś z procesorów w skutek niedostatecznego chodzenia, nie dzieje się nic. Nie widać biegających ludzi, nie czuć potu, nikt nie chwali i nie wyraża uznania. Typowy pracownik o konfiguracji serwera ma takie pojęcię, że czynność ta wymaga kliknięcia kilku ikon w <q>menu Start</q> w odpowiedniej kolejności. Administratora właściwie nie widać, bo pracuje na ogół poza godzinami pracy reszty ekipy (ciężko wprowadzać jakiekolwiek zmiany w systemie, z którego aktualnie ktoś korzysta). Ludzie nie rozumieją, że jeśli administrator nie ma nic do roboty, to znaczy, że jest dobrym administratorem.</p>
+
+<p>Tu pojawia się problem, pracodawca zaczyna się zastanawiać, po co mu człowiek na takim stanowisku, jeśli właściwie nic nie robi (nie widać, żeby robił)? Coraz więcej firm rezygnuje z usług najlepiej wyszkolonego fachowca na rzecz taniego outsourcingu (bo ileż może zarobić szesnastolatek nie wychodząc z domu) bądź całkowicie likwiduje rzeczone stanowisko. Smutne, ale prawdziwe. Sam padłem ofiarą takich zmian, kiedy mój poprzedni pracodawca postanowił przekwalifikować administratora sieci na programistę i maszynistkę w jednym. Administrator serwera jest również coraz częściej postrzegany jak wspomniany dozorca. Z drugiej jednak strony, czasem trudno się temu dziwić, w tej chwili żeby zostać administratorem sieci nie trzeba przedstawiać właściwie żadnych predyspozycji. Polska jest na takim etapie edukacji informatycznej, że wystarczy koszulka z napisem <q>I luv l33nex</q> żeby wzbudzić respekt i szacunek potencjalnego pracodawcy. Umiejętność wymienienia choćby dwóch <q>offowych</q> dystrybucji (poza Debianem, SuSe i Mandrake) tworzy z nas lokalnego guru.</p>
+
+<p>Szukając pracy jako programista musiałem niejednokrotnie udowodnić swoje umiejętności. Każda rozmowa kwalifikacyjna (oczywiście po jej przejściu) była jedynie wstępem do kilugodzinnego egzaminu praktycznego. Administratora nikt nie sprawdza. Dlaczego? Raz, że pracodawca patrzy na każdego kandydata jak na dar z nieba i boi się, że nikt inny nie przyjdzie starać się o to stanowisko (a to za sprawą polskich stawek za pracę informatyków). Dwa, że nikt nie potrafi sprawdzić jego kompetencji. Jest bardzo niewiele firm specjalizujących się w pośrednictwie zatrudnienia na takie stanowiska a i korzystanie z ich usług jest w Polsce rzadkością.</p>
+
+<p>Ja ze swojej strony przyzwyczaiłem się już do sytuacji, że mamy administratora sieci, który pracuje dorywczo na outsourcingu. Dorabia, bo w tych samych godzinach siedzi przy swoim biurku w innej firmie. Czasu ma proporcjonalnie do ilości miejsc pracy, czyli wszystko robi z łaski. Firmowy system śledzenia ticketów lubi wskazywać informacje typu <q>zlecenie oczekuje 2 dni 7 godzin 12 minut</q>, a na bieżąco realizowane są właściwie tylko pierdoły typu zmiana hasła czy blokada konta. Zlecenie jakiejkolwiek większej zmiany jest do tego stopnia bezcelowe, że mam nieoficjalne przyzwolenie na wstęp do serwerowni i dostęp do maszyn z poziomu konsoli. W efekcie o infrastrukturze informatycznej firmy wiem więcej od osoby za nią odpowiedzialnej. Nie mogę się naszemu adminowi dziwić, bo pewnie pracy ma sporo. Tłumaczy się brakiem dokumentacji.</p>
+
+<p>Tylko że dokumentacja nie istnieje i nie zanosi się na jej powstanie. Chyba, że ja ją napiszę, bo radzę sobie bez niej jakoś. Admin, gdyby chciał to też by sobie poradził... chyba. Chyba, bo ciężko mi czasami wytłumaczyć fakt, że na prośbę o odpalenie któregoś chroota odpisuje mi pytaniem, na której partycji leżał ten chroot, jaki ma punkt montowania, czego wymaga i jak to włączyć. Ja mam w umowie napisane <q>programista</q>... i chyba będę trzymał się tej specjalności, bo słowo <q>administrator</q> zaczyna ostatnio nabierać silnie pejoratywnego nacechowania.</p>

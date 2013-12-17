@@ -1,0 +1,109 @@
+---
+layout: post
+status: publish
+published: true
+title: Przezorni złodzieje
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 150
+date: 2005-08-27 15:54:19.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 2062
+  author: Igor
+  author_url: ''
+  date: '2005-08-27 15:56:04 +0200'
+  date_gmt: '2005-08-27 15:56:04 +0200'
+  content: 'Rozwiązanie bardzo proste: chciał się zabezpieczyć zarówno przed ciążą,
+    jak i przed tym, że będzie ją głowa bolała :]'
+- id: 2063
+  author: Wampirek
+  author_url: ''
+  date: '2005-08-27 15:56:38 +0200'
+  date_gmt: '2005-08-27 15:56:38 +0200'
+  content: 'To nie jest najgorzej, przynajmniej wiedzą, do czego to służy i mają dobre
+    odruchy: a jak będzie potrzebna? ;)'
+- id: 2064
+  author: Patrys
+  author_url: ''
+  date: '2005-08-27 15:58:59 +0200'
+  date_gmt: '2005-08-27 15:58:59 +0200'
+  content: Ja przypominam, że prezerwatywy są pakowane po 3 sztuki, ile wprawy trzeba
+    żeby niepostrzeżenie wyjąć z cudzego plecaka (w pokoju pełnym ludzi) paczkę prezerwatyw,
+    zerwać folię z kartonu (po ciemku znaleźć ten paseczek do zrywania), wyjąć prezerwatywę,
+    wepchnąć ulotkę, która zawsze wypada, zamknąć pudełko i schować na powrót do plecaka?
+    :D
+- id: 2065
+  author: Wampirek
+  author_url: ''
+  date: '2005-08-27 15:59:37 +0200'
+  date_gmt: '2005-08-27 15:59:37 +0200'
+  content: Znaczy się, że zaprawiony w bojach zawodnik był ;)
+- id: 2066
+  author: Bad Kitty
+  author_url: ''
+  date: '2005-08-27 16:00:46 +0200'
+  date_gmt: '2005-08-27 16:00:46 +0200'
+  content: a czemu nie wspomniałeś o &quot;tej co se rucha&quot;? :)
+- id: 2067
+  author: Jajcus
+  author_url: ''
+  date: '2005-08-27 16:53:34 +0200'
+  date_gmt: '2005-08-27 16:53:34 +0200'
+  content: A czy przypadkiem ty sam nie wyrwałeś wczoraj na tej imprezie jakiegoś
+    kaszalota, a teraz koniecznie chcesz o tym zapomnieć i wmawiasz sobie, że tę prezerwatywę,
+    to ci ktoś ukradł? ;-)
+- id: 2068
+  author: Patrys
+  author_url: ''
+  date: '2005-08-27 16:54:40 +0200'
+  date_gmt: '2005-08-27 16:54:40 +0200'
+  content: |-
+    Jajcuś:
+    <br/>
+    <br/>Nie mam luk w pamięci :D
+- id: 2069
+  author: HoBBit °¸°
+  author_url: ''
+  date: '2005-08-27 18:41:46 +0200'
+  date_gmt: '2005-08-27 18:41:46 +0200'
+  content: hmmm to zaczyna wszystko pasować... nie ma jednej prezerwatywy, Ty jestes
+    podrapany :) - która to był? ta z która robiłeś sobie wybory wzajemne miss mokrego
+    podkoszulka? :DDDDD
+- id: 2070
+  author: froger3
+  author_url: ''
+  date: '2005-08-28 18:24:31 +0200'
+  date_gmt: '2005-08-28 18:24:31 +0200'
+  content: |-
+    nie no :D
+    <br/>
+    <br/>to musiała być impreza :DDD
+- id: 2071
+  author: kalma
+  author_url: ''
+  date: '2005-08-29 08:58:11 +0200'
+  date_gmt: '2005-08-29 08:58:11 +0200'
+  content: No co z tą dzisiejszą młodzieżą! Tylko JEDNA zginęła?! ;)
+- id: 2072
+  author: Savek
+  author_url: ''
+  date: '2005-10-16 23:30:22 +0200'
+  date_gmt: '2005-10-16 23:30:22 +0200'
+  content: heheh ciekawe ... :D
+- id: 2073
+  author: modrzew
+  author_url: ''
+  date: '2005-11-11 22:11:43 +0100'
+  date_gmt: '2005-11-11 22:11:43 +0100'
+  content: lol! :D
+---
+<p>Wczoraj miałem zaszczyt przebywać na przyjęciu towarzyskim (łac. <em>bibos</em>) w charakterze alterimprezowicza, jako że w tym samym czasie w tym samym miejscu odbywało się inne party (mechanika kwantowa się kłania). Gości z tej drugiej imprezy nie znałem, a byli nieco młodsi - mediana wynosiła 17 lat. Zachowywali się dość chaotycznie i przejawiali wszelkie cechy dobrze wytrenowanego kamikaze.</p>
+
+<p>Zdenerwowałem się nieco, kiedy odkryłem, że ktoś majstrował przy moim plecaku. Szybka procedura sprawdzania spójności środowiska - portfel jest, zawartość się zgadza; notebook jest; segregator z płytami nie zginął; telefon mam zawsze przy pasku. Po co więc dłubać w cudzym plecaku? Okazało się, że ktoś zabrał kilka tabletek Ibupromu (ślad - brakująca wata w słoiczku). Drugie znalezisko rozbawiło mnie jednak dalece mocniej.</p>
+
+<p>Zginęła <em>jedna</em> prezerwatywa. :D</p>

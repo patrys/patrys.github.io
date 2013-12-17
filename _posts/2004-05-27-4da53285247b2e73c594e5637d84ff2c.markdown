@@ -1,0 +1,39 @@
+---
+layout: post
+status: publish
+published: true
+title: Domeny
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 17
+date: 2004-05-27 16:57:05.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 33
+  author: borisof
+  author_url: ''
+  date: '2004-05-27 18:15:54 +0200'
+  date_gmt: '2004-05-27 18:15:54 +0200'
+  content: 'ze sie brzydko wyraze: a to chvj ;) (z tego SynaPrezesa™)'
+- id: 34
+  author: e-krolik
+  author_url: ''
+  date: '2004-05-31 22:44:26 +0200'
+  date_gmt: '2004-05-31 22:44:26 +0200'
+  content: nie no... to było poniżej pasa, żenada i całkowity brak pokory. Taki element
+    bez swojego taty Prezesa(TM) przecież długo nie przetwałby gdzieś indziej. Jak
+    on takie numery robi, to nieźle o nim świadczy. Może to odruchy rozpieszczonego
+    bahora? :&gt;
+---
+Dzisiaj rano okazało się, że do firmy nie dochodzą maile na adresy z jednej z naszych domen. Sprawdziłem w RIPE i niespodzianka, domena wskazuje na stary adres serwera DNS, którego już dawno nie ma. To samo tyczy się secondary. Przy okazji dodam, że firma ma tylko około 11 zarejestrowanych domen.<br />
+<br />
+Puściłem więc zlecenie do naszego pośrednika, u którego domena została wykupiona. W odpowiedzi dowiedziałem się, że ktoś inny składa sprzeczne dyspozycje. Oczywiście, SynPrezesa&trade;. Razem z BezpośrednimPrzełożonym&trade; wysłaliśmy prośbę o listę aktywnych domen, za które płacimy. Miało być 11, okazało się, że jest około 30. SynPrezesa&trade; umiejętnie poupychał je na fakturze do różnych pozycji, tym samym ukrywając je przed czujnym okiem zarządu.<br />
+<br />
+Po chwili jednak odezwał się do mnie znajomy z informacją, że moja domena nie działa. Okazało się, że SynPrezesa&trade; z zawiści za pokrzyżowanie mu planów skasował moją prywatną domenę, której dyspozytorem była również firma. Obecnie toczę walkę o jej ponowne uruchomienie i wpisanie mnie jako jedynego dyspozytora.<br />
+<br />
+Morał: morał jest bardzo prosty, nawet jeśli coś nie działa, to nie dotykaj, bo interes firmy nigdy nie idzie w parze z twoim prywatnym. Ja naprawiając domenę firmową straciłem swoją prywatną. Opłaconą do grudnia.

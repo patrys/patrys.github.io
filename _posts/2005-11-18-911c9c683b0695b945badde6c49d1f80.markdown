@@ -1,0 +1,112 @@
+---
+layout: post
+status: publish
+published: true
+title: Historia pewnego pokoju
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 182
+date: 2005-11-18 20:17:50.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 2547
+  author: meak
+  author_url: ''
+  date: '2005-11-18 20:20:17 +0100'
+  date_gmt: '2005-11-18 20:20:17 +0100'
+  content: '&quot;dlaczego Pan chce na mnie wymusić przyznanie się do winy?!&quot;
+    - spadłem z krzesła ze śmiechu. Dodzwoniłeś się do biura, czy do ośrodka dla nerwowo
+    chorych? ;)'
+- id: 2548
+  author: Enleth
+  author_url: ''
+  date: '2005-11-18 20:21:50 +0100'
+  date_gmt: '2005-11-18 20:21:50 +0100'
+  content: To czy w ogóle jest jakaś dobra firma hostingowa w tym kraju? Właśnie o
+    Alfanecie ostatnio myślałem, ale skoro tak to wygląda...
+- id: 2549
+  author: .-.|---|.-.|..|---|
+  author_url: ''
+  date: '2005-11-18 20:26:13 +0100'
+  date_gmt: '2005-11-18 20:26:13 +0100'
+  content: Z dziedziny hostingu, gorąco polecam dyn.pl :P
+- id: 2550
+  author: ehh
+  author_url: ''
+  date: '2005-11-18 20:26:56 +0100'
+  date_gmt: '2005-11-18 20:26:56 +0100'
+  content: |-
+    A znałem kiedyś właścicieli, ale się zmieniło...
+    <br/>
+    <br/>ps. sprzedają domeny *.art.pl która jest przecież darmowa w celach artystycznych, buahaha...
+- id: 2551
+  author: Patrys
+  author_url: ''
+  date: '2005-11-18 20:27:19 +0100'
+  date_gmt: '2005-11-18 20:27:19 +0100'
+  content: |-
+    A ja DreamHosta.
+    <br/>
+    <br/>Nie wypada mi też robić reklamy swojemu pracodawcy.
+- id: 2552
+  author: Hawk
+  author_url: ''
+  date: '2005-11-18 20:27:27 +0100'
+  date_gmt: '2005-11-18 20:27:27 +0100'
+  content: W onecie nie mialem jak narazie zadnych problemow z domenami. A jak juz
+    jakies byly, zawsze sie dalo wszystko zalatwic przez telefon. Ba. Sami do mnie
+    dzwonili jak byly problemy :) No ale ceny tam sa jakie sa...
+- id: 2553
+  author: .-.|---|.-.|..|---|
+  author_url: ''
+  date: '2005-11-18 20:28:53 +0100'
+  date_gmt: '2005-11-18 20:28:53 +0100'
+  content: dyn.pl ma dość atrakcyjne ceny...
+- id: 2554
+  author: msierant (W3)
+  author_url: ''
+  date: '2005-11-18 20:43:18 +0100'
+  date_gmt: '2005-11-18 20:43:18 +0100'
+  content: Na polskie firmy najlepsza będzie polska metoda. Odwiedź ich z bejzbolem...
+- id: 2555
+  author: Paladine
+  author_url: ''
+  date: '2005-11-18 21:31:04 +0100'
+  date_gmt: '2005-11-18 21:31:04 +0100'
+  content: Poprawiłeś mi humor ;-) Dzięki. Szkoda tylko, że to nie żart :-(
+- id: 2556
+  author: jpc
+  author_url: ''
+  date: '2005-11-18 21:54:35 +0100'
+  date_gmt: '2005-11-18 21:54:35 +0100'
+  content: Ja mam domene na nazwa.pl i wszystko jak na razie zaatwiali bez bolu (a
+    troche ich meczylem o zmiany NSow, bo czeste przeprowadzki mialem). Hostingu nie
+    uzywalem, bo sie bawie w MalegoAdmina(TM).
+- id: 2557
+  author: DeeJay1
+  author_url: ''
+  date: '2005-11-18 23:50:36 +0100'
+  date_gmt: '2005-11-18 23:50:36 +0100'
+  content: A panel pewnej firmy ma coś kłopot ze zmianą primary DNS, chociaż zapasowy
+    zmienił grrr, muszę do nich napisać chyba :/
+- id: 2558
+  author: zar
+  author_url: ''
+  date: '2005-11-25 23:24:41 +0100'
+  date_gmt: '2005-11-25 23:24:41 +0100'
+  content: |-
+    Poczytaj sobie o problemach z entityhosting.. przez pol roku mi domena u nich nie dzialala i na nic nie odpowiadali, dopiero firma, ktora przejela inicjatywe cos ruszyla. Ale i tak sa jaja mocne z nimi http://zar.jogger.pl/comment.php?eid=157946&amp;startid=200510
+    <br/>
+    <br/>Wniosek: dobrze sie rozejrzec przed wybraniem hostingu. Polski stanowczo odradzam.
+---
+<p>Jak zapewne większość z was zauważyła, domena <code>room-303.com</code> nie działa od ponad tygodnia. Zaczęło się niewinnie, chciałem przenieść dane na komercyjnego hosta, opłaconego w <a href="http://dreamhost.com/">DreamHost</a> (jeśli zamierzasz tam coś kupić, to wspomóż kolegów i podaj <em>patrys</em> jako WebID referującego). Problem w tym, że domena została zarejestrowana we wrocławskim <a rel="nofollow" href="http://online.pl/">Alfanecie</a>. W czwartek zaczęły się problemy ze strefami <abbr title="Domain Name Server">DNS</abbr>, tego samego dnia wysłałem zlecenie zmiany serwerów nazw na oferowane przez DreamHost.</p>
+
+<p>Na odpowiedź czekałem i czekałem, w końcu we wtorek wysłałem ponaglenie z delikatną sugestią, że chyba już czas zmienić registrara na takiego, który pozwala mi zmieniać rekord mojej własnej domeny. Odpowiedź pojawiła się błyskawicznie, bo następnego dnia o czwartej nad ranem. <q>Wszelkie modyfikacje zostały wprowadzone,</q> mogłem przeczytać w otrzymanym od pracownika Alfanetu mailu. Po ośmiu godzinach jedyną widoczną zmianą była zmiana mojego adresu email w danych kontaktowych domeny na adres służbowy, o co wcale nie prosiłem.</p>
+
+<p>Wczoraj zadzwoniłem z pytaniem o powód takiego stanu rzeczy. Dowiedziałem się, że <q>Pan, który realizował zlecenie nie jest obecny i odezwie się do mnie, jak tylko pojawi się w biurze.</q> Rozmówca zasugerował mi też, żebym się nie denerwował, bo zmiany w rekordach domen <q>zabierają chwilę żeby się odświeżyć.</q> Kiedy powiedziałem, że pracuję w tej samej branży, co oni i że nigdy nie czekałem na zmiany ponad dwie doby, Pan z drugiej strony słuchawki niemal krzyknął mi do ucha: <q>dlaczego Pan chce na mnie wymusić przyznanie się do winy?!</q></p>
+
+<p>Nie mam już siły, firma nie dość, że nie jest w stanie powiedzieć mi, co dzieje się z moją domeną (<q>powinno działać</q>), to nie odpisuje na maile i nie jest w stanie udzielić wyjaśnień przez telefon (<q>ja widzę w systemie Pana ponaglenie, ale oryginalne zgłoszenie gdzieś się zapodziało</q>). Serdecznie odradzam.</p>

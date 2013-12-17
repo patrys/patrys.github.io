@@ -1,0 +1,47 @@
+---
+layout: post
+status: publish
+published: true
+title: Grill IT 0100
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 354
+wordpress_url: http://room-303.com/blog/2007/02/28/grill-it-0100/
+date: 2007-02-28 16:00:37.000000000 +01:00
+categories:
+- web
+tags: []
+comments:
+- id: 6947
+  author: Tomek Karwatka
+  author_url: http://www.webusability.pl
+  date: '2007-02-28 16:27:47 +0100'
+  date_gmt: '2007-02-28 15:27:47 +0100'
+  content: Patryk, będziesz opowiadał coś ciekawego?
+- id: 6949
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2007-02-28 16:30:22 +0100'
+  date_gmt: '2007-02-28 15:30:22 +0100'
+  content: Chyba tym razem nie dam rady się przygotować - ciągle jestem w fazie przechodzenie
+    między pracodawcami :)
+- id: 6957
+  author: Wojtosz
+  author_url: http://www.blaszkowski.com
+  date: '2007-03-01 13:33:19 +0100'
+  date_gmt: '2007-03-01 12:33:19 +0100'
+  content: "Patrys:\r\nNiedyskretne pytanie, podyktowane ciekawością: bierzesz pod
+    uwagę pracę poza granicami kraju ?"
+- id: 6965
+  author: Patrys
+  author_url: http://room-303.com/blog/
+  date: '2007-03-02 08:05:59 +0100'
+  date_gmt: '2007-03-02 07:05:59 +0100'
+  content: "Wojtosz:\r\n\r\nNieco koliduje to z moimi planami, żeby w ciągu roku zrobić
+    jednak w końcu inżyniera."
+---
+<p>Mamy oficjalny termin czwartego <a href="http://www.grillit.pl/">Grilla</a>. Odbędzie się 6. marca o 18:30. Miejsce bez zmian, hotel Best Western. <a href="http://www.grillit.pl/?p=19">Więcej szczegółów</a> na blogu imprezy.</p>
+
+<p>Jak zwykle będzie można nas spotkać, tym razem wystąpię jednak tylko w barwach Generated Content.</p>

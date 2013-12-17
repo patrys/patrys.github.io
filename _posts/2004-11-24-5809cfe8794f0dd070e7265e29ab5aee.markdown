@@ -1,0 +1,116 @@
+---
+layout: post
+status: publish
+published: true
+title: Bo Pan używa Windowsa
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 49
+date: 2004-11-24 12:42:00.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 355
+  author: Bender
+  author_url: ''
+  date: '2004-11-24 13:16:49 +0100'
+  date_gmt: '2004-11-24 13:16:49 +0100'
+  content: Jakiś Debian... nazwa iptables nawet mu się z czymś kojarzy... świetne!
+    :D
+- id: 356
+  author: Cachotterie
+  author_url: ''
+  date: '2004-11-24 14:01:25 +0100'
+  date_gmt: '2004-11-24 14:01:25 +0100'
+  content: 'Patryś, przyznaj: wymyślasz to. :] Wyobraźni pozazdrościć ;)'
+- id: 357
+  author: Patrys
+  author_url: ''
+  date: '2004-11-24 15:30:48 +0100'
+  date_gmt: '2004-11-24 15:30:48 +0100'
+  content: Następnym razem na wizytę do klienta udam się z kamerą chyba ;].
+- id: 358
+  author: Cachotterie
+  author_url: ''
+  date: '2004-11-24 15:48:38 +0100'
+  date_gmt: '2004-11-24 15:48:38 +0100'
+  content: Kamerom też nie uwierzę. Muszę to zobaczyć na własne oczy :P
+- id: 359
+  author: Wampirek
+  author_url: ''
+  date: '2004-11-24 15:50:31 +0100'
+  date_gmt: '2004-11-24 15:50:31 +0100'
+  content: "No patrz Ty, jak się chce wkręcić ;) \n<br/>Przebiegła niewiasta ;)"
+- id: 360
+  author: Cachotterie
+  author_url: ''
+  date: '2004-11-24 15:51:15 +0100'
+  date_gmt: '2004-11-24 15:51:15 +0100'
+  content: Wampir, czytasz mnie od wczoraj że dopiero teraz stwierdziłeś że ja przebiegła
+    jestem? :P
+- id: 361
+  author: Wampirek
+  author_url: ''
+  date: '2004-11-24 15:53:09 +0100'
+  date_gmt: '2004-11-24 15:53:09 +0100'
+  content: No niby nie, ale żeby tak się z tym nie kryć... ;D
+- id: 362
+  author: Cachotterie
+  author_url: ''
+  date: '2004-11-24 15:53:53 +0100'
+  date_gmt: '2004-11-24 15:53:53 +0100'
+  content: Nie dość że przebiegła, to jeszcze bezczelna :P
+- id: 363
+  author: Wampirek
+  author_url: ''
+  date: '2004-11-24 15:58:43 +0100'
+  date_gmt: '2004-11-24 15:58:43 +0100'
+  content: No nie da sie ukryć; stuprocentowa kobieta ;P
+- id: 364
+  author: Patrys
+  author_url: ''
+  date: '2004-11-24 16:11:13 +0100'
+  date_gmt: '2004-11-24 16:11:13 +0100'
+  content: Ja chciałem klienta, nie siebie filmować :D
+- id: 365
+  author: Cachotterie
+  author_url: ''
+  date: '2004-11-24 16:36:35 +0100'
+  date_gmt: '2004-11-24 16:36:35 +0100'
+  content: No to co? :] Myślisz że o Ciebie mi chodziło? :P
+- id: 366
+  author: szalonyguru
+  author_url: ''
+  date: '2004-12-31 01:19:53 +0100'
+  date_gmt: '2004-12-31 01:19:53 +0100'
+  content: Chodziło Ci o to, kobieto, żeby zobaczyć tego prześlicznego klienta? To
+    dobrze, bo jestem nim ja sam. I jestem nad wyraz ładny.
+- id: 367
+  author: DarkStar
+  author_url: ''
+  date: '2005-01-05 21:29:50 +0100'
+  date_gmt: '2005-01-05 21:29:50 +0100'
+  content: A ja myślałem, że to u mnie w firmie jest cyrk. :D Widzę, że ludzie potrafią
+    lepiej (to odnośnie waszego klienta i ich systemu).
+- id: 3854
+  author: janbar
+  author_url: ''
+  date: '2006-06-01 13:01:40 +0200'
+  date_gmt: '2006-06-01 12:01:40 +0200'
+  content: "\"marketingowa\" i \"Redmond\"... ;]\r\n\r\nPozdrawiam,\r\n\r\njanbar.:))\r\n\r\nPS.
+    Kąski, oczywiscie smakowite... ;)"
+---
+Nie tak znów dawno temu, jeden z naszych klientów, osobistość prawie tak barwna, jak jego strona internetowa, zażyczył sobie dodania nowej funkcjonalności. Dotychczasowy sklep internetowy owego dżentelmena działał w oparciu o dwie bazy danych. Baza MySQL odpowiadała za obsługę strony WWW, wraz z jej realizującymi proces sprzedaży skryptami PHP. Towary zaś same znajdowały się w bazie MS SQL, działającej żwawo, niczym wszystkie produkty powszechnie lubianego potentata z Redmont, pod kuratelą programu magazynowego firmy Wapro. Wszytko działało niemalże rewelacyjnie, jednak problemem było wprowadzanie zamówień do programu WF-MAG. Osoba za to odpowiedzialna zmuszona była wykonywać syzyfowe wszakże prace przepisywania listy produktów z jednego okienka do drugiego. W związku z powyższym, klient - wspaniałomyślnie nie zapominając o głodujących informatykach w Polsce - postanowił dać nam zarobić. Zadanie - napisać system eksportu danych ze strony sklepu do "formatu XML importowalnego przez program magazynowy". Rozpoczął się więc proces rozpoznawania pola bitwy.<br />
+<br />
+Już na wstępie okazało się, że to, co firma Wapro raczyła nazwać "plikiem XML", w żaden sposób nigdy nim nie zostanie. Cóż to bowiem za format, w którym wszystkie znaczniki są dwuliterowe, pisane dużymi literami, a ponadto znacznik rekordu otwieramy przez <code>&lt;SL&gt;</code>, a zamykamy przez... <code>&lt;/EL&gt;</code>. Nie wspomnę już, że jest osobny znacznik, który mówi, ile rekordów znajduje się poniżej. Ich liczenie w locie byłoby oczywistą głupotą, w końcu nie tak łatwo sprawdzić, czy zostały jakieś do czytania. Nie zrażając się idiotycznym sposobem reprezentacji tagów, brnąłem dalej przez specyfikację techniczną formatu. Umarłem, kiedy okazało się, że puste tagi <code>&lt;DT&gt;</code> (mniejsza o ich zastosowanie), oznaczamy nie przez <code>&lt;DT&gt;&lt;/DT&gt;</code>, a przez <code>&lt;DT&gt;brak&lt;/DT&gt;</code>. Nie pytajcie mnie, co się stanie, gdy użytkownik spróbuje wpisać słowo "brak" jako np. nazwę towaru. Nie poddałem się jednak, choć mieszane uczucia targały moją duszą.<br />
+<br />
+Następnym krokiem był dostęp do bazy danych MS SQL. Problem polegał na tym, że baza klienta znajduje się w jego sieci wewnętrzej i nie posiada publicznego adresu IP. Oczywiście, da się testować skrypty bezpośrednio na serwerze klienta. Możnaby się nawet pokusić o takie rozwiązanie, gdyby nie to, że dysponują oni oszałamiającym łączem SDI, które uniemożliwia skuteczną komunikację na jakimkolwiek akceptowalnym poziomie. Zaczęliśmy się więc dowiadywać o możliwość prztunelowania portu na poziomie ich zapory ogniowej, zwłaszcza, że w przeszłości już to robili. Nieodzowną okazała się być osobista wizyta w siedzibie zainteresowanych. Wyruszyłem przeto w dwuosobową eskapadę na miejsce, osłaniając przez całą drogę tyły swojego szefa i zabezpieczając nam bezpieczną drogę odwrotu, na wypadek potrzeby nagłej ewakuacji. Okazało się jednak, że na miejscu przywitała nas głucha pustka. Ni widu ni słychu pana administratora. Zająłem więc pozycję pod drzwiami, a mój przełożony udał się na negocjacje w bliżej niezdefiniowane miejsce parę pięter niżej. Po chwili przyszedł w towarzystwie osoby będącej celem naszej podróży.<br />
+<br />
+Uraczywszy się zajęciem zaproponowanych nam krzeseł, postanowiliśmy przejść do rzeczy. Zapytany o możliwość forwardowania portów administrator już na wstępie kategorycznie odmówił. Stwierdził bowiem, że danie nam dostępu do bazy danych firmy, wystawi dane ich klientów na widok naszych niepowołanych gałek ocznych. Była to teoria tyle słuszna, co abstrakcyjna, w końcu mieliśmy dostęp do ich serwera ftp i równie dobrze z tej pozycji moglibyśmy wykonać pełny zrzut bazy danych. Pociągnięty za język administrator w końcu nie wytrzymał i w akcie ostatecznej rozpaczy rzucił w moim kierunku "a pan by to umiał zrobić?!". Spytany o dystrybucję i soft, na którym ogniomurek stoi, był w stanie udzielić mi tak szczegółowych informacji, jak "jakiś Debian". Ponownie zapytany, czy używają czystych iptables, czy może jakiegoś oprogramowania wyższej warstwy, odpowiedział, że nazwa iptables nawet mu się z czymś kojarzy. Przejąłem więc klawiaturę i pokazałem mu, jak iptables działa i na czym polega idea forwardowania portów. Po chwili kazał mi wszystko przywrócić do stanu oryginalnego i zaproponował, że może jednak wolałbym pracować na miejscu, u nich w firmie. Wtedy miałbym lokalny dostęp do serwera, musiałbym tylko jakiegoś notebooka sobie przynieść i pożegnać się z firmą macierzystą na dwa lub trzy dni. W tym momencie szef mój spojrzał na mnie i stwierdził "no tak, ale to są trzy dni, a poza tym pan używa tylko linuksa". Na te słowy nasz gospodarz zerwał się na równe nogi, niczym oskarżony w sądzie w czasie rozprawy o bestialski gwałt na kurczakach sąsiada. Krzyknął tedy "wcale nie, mam też Windowsa!", po czym przełączył monitor na drugi komputer, a oczom naszym ukazał się tak wielce pożądany pulpit Windows 2000. Oczywiście, zdanie o używaniu linuksa skierowane było nie tyle do niego, co do mnie, więc poczuł się tak dotkliwie dotknięty zupełnie bez powodu. Ja za to mało z krzesła ze śmiechu nie spadłem. Po opuszczeniu siedziby wirtuoza klikania, postanowiliśmy, że współpraca z klientem w kwestii bazy danych jest dalece bezcelowa i uruchomimy u siebie niezależną kopię MS SQL.<br />
+<br />
+Ochoczo zabrałem się do typowo programistycznej pracy, czyli napisałem sobie system niezbędnych zapytań do bazy MS SQL oraz klasę realizującą zamianę efektu owych zapytań w bloki wspomnianego pseudo-XMLa. Test polegał na zbudowaniu testowej tabelki zamówienia. Wykesportowałem więc listę towarów, dane kontrahenta i szczegóły realizacji zamówienia. Próba importu zakończyła się sukcesem porównywalnym z pierwszymi próbami wysłania Rosjan w kosmos. Rakieta spłonęła jeszcze na lotnisku. Kilkadziesiąt minut ręcznego przeglądania eksportu i próba odnalezienia tam błędów leksykalnych, wszystko na nic. Dalsze badania doprowadziły mnie niemal do zawału. Okazało się, że system importu wymaga zupełnego podzbioru bazy danych, co oznacza ni mniej ni więcej tyle, że jeśli eksportuję towar "łyżeczka", to muszę wyeksportować również dla danej łyżeczki tabelę jednostek miar, waluty, cenniki, promocje, dane kontrahenta, jego pracowników, listę telefonów, faksy, banki i konta bankowe. Nie zmienia faktu, że wszystkie te dane są już w programie. Autorzy zasłaniają się tym, że dzięki temu można zaimportować takie dane do zupełnie czystej bazy danych. Moja odpowiedź na taki argument brzmi: więc import powinien zawieść, jeśli w bazie brakuje którychkolwiek z wymaganych do odtworzenia zamówienia danych. Jeśli pozostałę dane już tam są, nie widzę sensu ich każdorazowego nadpisywania.<br />
+<br />
+Morał: jest taka stara zasada merketingowa: najlepszy klient to taki, któremu się wydaje, ze jest dla ciebie najważniejszy. Najgorszy klient to ten, który jest tego pewien. Nigdy więc nie licz na to, że klient będzie zainteresowany jakąkolwiek współpracą przy realizacji zleconego ci zadania. W końcu nie leży to w jego interesie. Zaoszczędzony czas będzie mógł poświęcić na podniesienie możliwości swojej załogi, np. kupi administratorowi większą myszkę.

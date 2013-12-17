@@ -1,0 +1,137 @@
+---
+layout: post
+status: publish
+published: true
+title: Krótko o dobrym wychowaniu
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 151
+date: 2005-09-03 20:10:11.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 2074
+  author: Jajcus
+  author_url: ''
+  date: '2005-09-03 20:16:42 +0200'
+  date_gmt: '2005-09-03 20:16:42 +0200'
+  content: Gdy ja interweniowałem, to odpisał mi ten Weres, że przeprasza za kolegę,
+    który nie wypisał się z listy i że „wydaje mu się, że nic nie mogą zrobić”. Z
+    takim argumentem nie chciało mi się dyskutować, w końcu mail od autorespondera
+    poszedł też do SpamCopa. Ale ciekawe jest, że ten Weres, wiedząc co z autoresopondera
+    wynika (pewnie nie tylko ode mnie dostał skargę na kolegę), sam sobie takiego
+    sprawił...
+- id: 2075
+  author: smk
+  author_url: ''
+  date: '2005-09-03 20:29:30 +0200'
+  date_gmt: '2005-09-03 20:29:30 +0200'
+  content: |-
+    Ale tam są jakieś numery telefonów podane.
+    <br/>Ja bym zadzwonił i zjebkę wstawił...
+- id: 2076
+  author: Pavel
+  author_url: ''
+  date: '2005-09-04 08:12:53 +0200'
+  date_gmt: '2005-09-04 08:12:53 +0200'
+  content: Kawalek tresci notki (cytat drugiego listu) wchodzi na menu, tak przy okazji.
+- id: 2077
+  author: ktoś
+  author_url: ''
+  date: '2005-09-04 16:46:51 +0200'
+  date_gmt: '2005-09-04 16:46:51 +0200'
+  content: 'co najśmieszniejsze, to to, że ten osobnik został wypisany z dwa tygodnie
+    temu z list... '
+- id: 2078
+  author: Patrys
+  author_url: ''
+  date: '2005-09-04 16:48:25 +0200'
+  date_gmt: '2005-09-04 16:48:25 +0200'
+  content: Jakie 2 tygodnie, jak 1. września dostałem kolejny autoresponder.
+- id: 2079
+  author: paczor
+  author_url: ''
+  date: '2005-09-05 14:36:43 +0200'
+  date_gmt: '2005-09-05 14:36:43 +0200'
+  content: To jest historia lenistwa. Pisać wielokrotnie e-maile gdy posiada się telefon?
+- id: 2080
+  author: Patrys
+  author_url: ''
+  date: '2005-09-05 16:39:04 +0200'
+  date_gmt: '2005-09-05 16:39:04 +0200'
+  content: |-
+    paczor:
+    <br/>
+    <br/>Nie widzę powodów, dlaczego miałbym chcieć płacić za ten telefon.
+- id: 2081
+  author: Przemo
+  author_url: ''
+  date: '2005-10-02 10:02:22 +0200'
+  date_gmt: '2005-10-02 10:02:22 +0200'
+  content: Ja tam mógłbym zapłacić za to żeby móc porządnie gościa opierdolić :P
+---
+<p>Jeśli zapisujesz się na listy dyskusyjne, to pamiętaj o tym. Jest to miejsce, gdzie wymaga się od ciebie przestrzegania pewnych zasad (ogólnie pojętej netykiety i kilku specyficznych reguł grupowych). Zwłaszcza, jeśli zapisujesz się na listę, którą regularnie czyta kilkaset osób, powinieneś mieć na uwadze jej istnienie, kiedy wyjeżdżasz i postanawiasz zastosować coś tak genialnego jak autoresponder. Większość deweloperów PLD jest od circa 2 miesięcy częstowana poniższą informacją:</p>
+
+<blockquote><pre>From: Kxxxxxxx, Mxxxxx &lt;Mxxxxx.Kxxxxxxx@yyy.pl&gt;
+To: Patrys :: Patryk Zawadzki &lt;patrys@pld-linux.org&gt;
+Subject: Out of Office AutoReply: dbus 0.2x, cairo 1.0, gtk+ 2.8
+
+Nie ma mnie w pracy. 
+
+Zastepuje mnie: mailto:Bxxxxxxxx.Wxxxx@yyy.pl.
+
+Problemy prosze zglaszac na:
+mailto:xxx@yyy.pl 
+lub telefonicznie,Tel.: +48 xx xxxx xxx</pre></blockquote>
+
+<p>Bezsilni wobec braku winnego, irytowaliśmy się coraz bardziej. W końcu wysłałem maila na adres podany jako zastępca. Bez skutku:</p>
+
+<blockquote><pre>Your message
+
+  To:      postmaster@yyy.pl; Bxxxxxxxx.Wxxxx@yyy.pl
+  Subject: [Fwd: Out of Office AutoReply: dbus 0.2x, cairo 1.0, gtk+ 2.8]
+  Sent:    Mon, 29 Aug 2005 22:56:59 +0200
+
+did not reach the following recipient(s):
+
+BXXXXXXXX.WXXXX@YYY.PL on Mon, 29 Aug 2005 23:12:53 +0200
+    The recipient name is not recognized</pre></blockquote>
+
+<p>Podany adres jest nieprawidłowy. Przyjrzałem mu się bliżej, dostrzegłem literówkę, wysłałem list. Brak odpowiedzi.</p>
+
+<p>Tydzień później, po otrzymaniu kolejnego respondera, zaatakowałem adres <code>postmaster@yyy.pl</code>. Niestety, poczty postmastera najwidoczniej nikt nie czyta, bo i po co.</p>
+
+<p>Dziś nie wytrzymałem i po kolejnej informacji o niedostępności człowieka, którego nie znam i fakt którego wczasów zupełnie mnie ineresuje, wysłałem ponownie maila do zastępcy. Po chwili przeżyłem szok - przyszła odpowiedź:</p>
+
+<blockquote><pre>From: Wxxxx, Bxxxxxxxxx &lt;Bxxxxxxxxx.Wxxxx@yyy.pl&gt;
+To: Patrys :: Patryk Zawadzki &lt;patrys@pld-linux.org&gt;
+Subject: Out of Office AutoReply...
+
+Nie ma mnie w pracy. 
+Zastepuje mnie Mxxxxx Kxxxxxxx. Tel. xxx xxxx, xxx xxxx.</pre></blockquote>
+
+<p>Odpłynąłem. Ciekawa propozycja padła w związku z tym na listach:</p>
+
+<blockquote><pre>From: Enleth &lt;enleth@enleth.com&gt;
+To: PLD: Developers list (Polish) &lt;pld-devel-pl@lists.pld-linux.org&gt;
+Subject: Re: Fw: Out of Office AutoReply: SPECS: esmtp.spec - missing br's
+
+Proponuję na Mxxxxx.Kxxxxxxx@yyy.pl wysłać maila z From i Reply-To 
+ustawionym na Bxxxxxxxx.Wxxxx@yyy.pl...</pre></blockquote>
+
+<blockquote><pre>From: Zbyniu Krzystolik &lt;zbyniu@geocarbon.pl&gt;
+To: PLD: Developers list (Polish) &lt;pld-devel-pl@lists.pld-linux.org&gt;
+Subject: Re: Fw: Out of Office AutoReply: SPECS: esmtp.spec - missing br's
+
+nieee, po prostu trzeba ręcznie zapisać na listy
+Bxxxxxxxx.Wxxxx@yyy.pl oraz
+xxx@yyy.pl
+
+W końcu jak zastępuje, to zastępuje. No i problemy też z tym mamy, zatem
+i na ten drugi adres niech idzie. Na tej liście pojawiają się różne 
+problemy, może akurat ten hotline potrafi pomóc. 8-&gt;
+
+Zbyniu</pre></blockquote>

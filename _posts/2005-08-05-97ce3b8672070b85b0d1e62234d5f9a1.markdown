@@ -1,0 +1,150 @@
+---
+layout: post
+status: publish
+published: true
+title: Historia pewnego systemu
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 137
+date: 2005-08-05 00:30:02.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1874
+  author: Enif
+  author_url: ''
+  date: '2005-08-05 00:42:35 +0200'
+  date_gmt: '2005-08-05 00:42:35 +0200'
+  content: I pomyśleć że chciałem zostać programistą :/
+- id: 1875
+  author: marcink
+  author_url: ''
+  date: '2005-08-05 00:54:59 +0200'
+  date_gmt: '2005-08-05 00:54:59 +0200'
+  content: |-
+    Enif: tak bywa, momentami człowiek z rozrzewnieniem próbuje sobie przypomnieć ten moment, w którym mógł podjąć decyzję o karierze wózkowego w hipermarkecie ;)
+    <br/>
+    <br/>Patrys: a macie w systemie projekt &quot;wypełnianie raportów o przepracowanym czasie&quot;?  Wiem z doświadczenia, że takie pytanie bardzo pomaga spacyfikować próby wprowadzenia zbyt czasochłonnych procedur kontroli czasu.  Been there, done that.
+    <br/>
+    <br/>A w ogóle w temacie zbierania informacji o czasie warto przeczytać to:
+    <br/>
+    <br/>http://www.fysh.org/~katie/computing/time.html
+- id: 1876
+  author: Patrys
+  author_url: ''
+  date: '2005-08-05 01:03:05 +0200'
+  date_gmt: '2005-08-05 01:03:05 +0200'
+  content: |-
+    marcink:
+    <br/>
+    <br/>Już gdzieś widziałem ten tekst, jakoś na początku tego roku, co nie zmienia faktu, że jest piekielnie prawdziwy.
+    <br/>
+    <br/>Druga sprawa to to, że firmy zatrudniające raptem kilka/kilkanaście osób nie powinny używać metod bardziej borgowych od samego borga.
+- id: 1877
+  author: marcink
+  author_url: ''
+  date: '2005-08-05 01:17:58 +0200'
+  date_gmt: '2005-08-05 01:17:58 +0200'
+  content: |-
+    Zgadza się, ale nawet w firmach zatrudniających kilkanaście osób warto zbierać informacje o kosztach prowadzonych projektów.  Chociażby po to, żeby później móc trafniej wyceniać kolejne.
+    <br/>
+    <br/>Problemy pojawiają się dopiero kiedy TS przestają być systemem do taniego zbierania przybliżonych danych na temat tego co się dzieje, a stają się narzędziem do kształtowania rzeczywistości.  Dokładnie tak jak opisujesz.
+- id: 1878
+  author: heh
+  author_url: ''
+  date: '2005-08-05 04:54:00 +0200'
+  date_gmt: '2005-08-05 04:54:00 +0200'
+  content: Kazdy pracownik powinien to wiedziec, ze &quot;nie istnieja zmiany na gorsze&quot;.
+    To wynikaja z aksjomatu iz kierownictwo ma racje.
+- id: 1879
+  author: str()
+  author_url: ''
+  date: '2005-08-05 08:32:28 +0200'
+  date_gmt: '2005-08-05 08:32:28 +0200'
+  content: Wstaw sobie do crona uruchamianie wgeta z formularzem wypełnionym spreparowanymi
+    danymi dla tego systemu.
+- id: 1880
+  author: Twoja Stara
+  author_url: ''
+  date: '2005-08-05 12:50:21 +0200'
+  date_gmt: '2005-08-05 12:50:21 +0200'
+  content: Chyba Twoja !
+- id: 1881
+  author: DeeJay1
+  author_url: ''
+  date: '2005-08-05 17:42:54 +0200'
+  date_gmt: '2005-08-05 17:42:54 +0200'
+  content: Dotąd myślałem, że rozliczanie pracownika z ilości wprowadzonych wniosków
+    jest głupim pomysłem (bo jeden wniosek ma czasami 100 stron + czas spędzony na
+    wyszukiwanie błędów, pomimo tego, że 200 innych ma po dwie) jednak teraz widzę,
+    że niektórzy mają gorzej :P
+- id: 1882
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2005-08-05 21:30:56 +0200'
+  date_gmt: '2005-08-05 21:30:56 +0200'
+  content: |-
+    Ciesz się, że nie używacie MS Project Server -- myśmy dostali coś takiego &quot;w pół-prezencie&quot; od MS, nasz nowy ProjektLeiter od razu zapałał miłością i teraz mamy. Ten szajs nie odróżnia niedziel i sobót od innych dni, więc w ramach złośliwości wpisujemy sobie każdego takiego dnia 16 jednostek pracy.
+    <br/>A ewidencja czasu pracy u nas jest zafiksowana w godzinach 07:30-17:30, więc nie ma sensu ani przychodzić wcześniej, ani wychodzić później. Gdy to wyszło na jaw, to się okazało, że o 17:40 można porozmawiać w firmie najwyżej ze sprzątaczką...
+- id: 1883
+  author: Jezuch
+  author_url: ''
+  date: '2005-08-05 21:46:35 +0200'
+  date_gmt: '2005-08-05 21:46:35 +0200'
+  content: A może by tak prawdziwy strajk włoski?
+- id: 1884
+  author: m
+  author_url: ''
+  date: '2005-08-07 23:16:13 +0200'
+  date_gmt: '2005-08-07 23:16:13 +0200'
+  content: '@zgoda: ProjektLeiter = Siemens Polska? :)'
+- id: 1885
+  author: Luki
+  author_url: ''
+  date: '2005-08-10 17:44:31 +0200'
+  date_gmt: '2005-08-10 17:44:31 +0200'
+  content: |-
+    Czyżby Wam mnie brakowało?
+    <br/>Widze że w &quot;firmie&quot; bez zmian... czyli zmiany... na gorsze.
+    <br/>
+    <br/>Pozdrowienia z UK :)
+- id: 1886
+  author: jarv
+  author_url: ''
+  date: '2005-08-11 10:46:01 +0200'
+  date_gmt: '2005-08-11 10:46:01 +0200'
+  content: luki - tak jak czasem sie na ciebie wkurzalem, tak dzis moge smialo powiedziec
+    - tak - brakuje mi ciebie... ;]
+---
+<p>Jako, że z pracodawcą rozliczamy się na podstawie przepracowanych godzin, potrzebny jest nam niezawodny system śledzenia czasu pracy. Kiedy zatrudniłem się tam pierwszego września ubiegłego roku, w użyciu był prosty system webowy, napisany kiedyś na potrzeby firmy przez programistę, Roya. Świetnie spełniał swoje zadanie, a przynajmniej tak nam się wydawało.</p>
+
+<p>Funkcjonalność systemu sprowadzała się do trzech zadań - zbierał informację o godzinie przyjścia i wyjścia pracownika, o jego przerwach (np. bezpłatnych wyjściach na papierosa czy do sklepu), a na koniec dnia zapisywał podane przez pracownika krótkie podsumowanie dnia i plany na dzień kolejny. Całość sprzężona została oczywiście z kalendarzami pracowników, stąd system potrafił odróżnić dni pracujące od wolnych, śledził wykorzystanie urlopu i dawał nieograniczony dostęp do czytania własnej historii.</p>
+
+<p>Przyszedł czas zmian...</p>
+
+<p>Z nieznanych nam przyczyn odcięto nam dostęp do naszej historii, stąd niemożliwe stało się ustalenie, co robiliśmy tydzień temu, kiedy dokładnie pracowaliśmy nad danym projektem, ile dni urlopu wykorzystaliśmy, ani - co najzabawniejsze - jakie są nasze plany na dzisiaj. Zamiast tego zaproponowano nam dostęp do zbiorczych danych dla 3 ostatnich miesięcy (łączna liczba przepracowanych godzin w miesiącu bieżącym i dwóch poprzednich). Z mieszanymi uczuciami, przyzwyczailiśmy się jednak do nowych <q>features</q>.</p>
+
+<p>Przyszedł czas zmian...</p>
+
+<p>Do systemu dodano możliwość podglądania własnych planów na dziś (czyli tego, co wczoraj wpisaliśmy na koniec dnia). Dla dalszego ułatwienia pracy, raporty dzienne przekształciły się w raporty zadaniowe. Zamiast jednego raportu na koniec dnia, od tego momentu byliśmy zmuszeni pisać raport po każdym zamkniętym zadaniu. Uciążliwość była o tyle do przebolenia, że wydawała się niczym w porównaniu z dodatkowym pomysłem - do projektów wprowadzono papierowe karty, gdzie każdy zmuszony był do wypisania wszystkich plików, nad którymi pracował oraz podpisania się pod odpowiedzialnością za ich działanie we wszystkich możliwych przeglądarkach, rozdzielczościach i walidatorach.</p>
+
+<p>Wypełnianie takiego arkusza na bieżąco nie miało sensu, bo mając otwartych 20 plików na raz ciężko stwierdzić, kiedy się skończyło pracę nad jednym z nich - jeśli jego funkcja zazębiała się z którymkolwiek z pozostałych plików, istniały duże szanse jego dalszego przerabiania później. <q>Matriksy</q>, jak młodzieżowo nazwaliśmy nowe obiegówki, zmuszały człowieka do zapisania kartki formatu A4 drobnym maczkiem, a ich wypełnienie wywoływało trwały ból nadgarstka, który towarzyszył nam aż do wieczora. Czysta biurokracja, ale można się było do tego przyzwyczaić.</p>
+
+<p>Na tym etapie też do <abbr title="System Ewidencji Pracy">SĘP</abbr>a dodano nowość, niespotykaną dotąd nawet we wdrożeniach enterprise'owych. System stał się niczym Chronos, władca czasu - punktualnie o 17:45 zamraża czas. Nigdy więcej spóźnień na randki czy do kina, niezależnie jak długo pracujesz po godzinach, zawsze wyjdziesz o 17:45! Usługa ta, jak mniemam, powstała celem redukcji moich zarobków, gdyż z biura zwykłem wychodzić po osiemnastej. Cóż, czego nie zarobi się w firmie, dorobić trzeba prywatnie, więc możnaby się przyzwyczaić, gdyby nie jedno wydarzenie.</p>
+
+<p>Przyszedł czas zmian...</p>
+
+<p>Papier popadł w niełaskę, być może modna zrobiła się ekologia, a może nikt nie umiał przeczytać milimetrowych hieroglifów - koniec końców, zaoszczędzimy na długopisach. Zamiast tego w systemie raportów cząstkowych pojawiła się lista rozwijalna z opcjami odpowiadającymi aktywnym projektom i ich podzadaniom. Spore ułatwienie dla załogi, choć i tak nic w porównianiu z rajem stanu początkowego. Na przywrócenie <em>status quo</em> szans nie było, więc...</p>
+
+<p>Przyszedł czas zmian...</p>
+
+<p>Raporty po zakończeniu poszczególnych zadań zostały ostatnio zastąpione raportami poprzedzającymi te zadania. Najbardziej wygodę tego rozwiązania docenił <a href="http://monochrome.pl/">Jarv</a>, nasz grafik - jego raporty wymagają bowiem załączania plików z wynikami pracy, co jest nieco uciążliwe przy pisaniu raportu przed wykonaniem faktycznej pracy. Od teraz zamiast jednego kroku, zupełnie za darmo, zyskał dostęp do dwóch. Jestem pewien, że nie może pozbierać się ze szczęścia. Tymczasem słychać już o planach dodania usługi <q>planowany czas wykonywania zadania</q>, co z pewnością wydatnie zwiększy naszą wydajność.</p>
+
+<p>Po co przytaczam tę historię, można spytać? Po to, aby pokazać, jak przekombinowanie przy zarządzaniu projektem może przynieść skutki zupełnie odwrotne do zamierzonych. Ostatnia zmiana w systemie pojawiła się już po odejściu naszego poprzedniego project managera, Lukiego, który obecnie przebywa na emigracji w Anglii, gdzie za ciężko wypracowaną dziesięciokrotność naszych rocznych pensji stara się związać koniec z końcem ;). Widać wyraźnie, że szefowie próbują stworzyć system, który potrafiłby zastąpić zarządcę projektów, gdyby jednak było to możliwe, PM-i nie byliby jednymi z najlepiej opłacanych członków grup programistycznych. Praca bez osoby odpowiedzialnej za organizację jest utrudniona przez specyfikę naszej pracy, gdzie dwóch szefów ma rozbieżne oczekiwania odnośnie zagospodarowania czasu pracy, a zjawiska typu <abbr title="Pilne Zlecenie Przerywające">PZP</abbr>, <abbr title="Pilne Zlecenie Przerywające Inne Zlecenia Przerywające">PZPIZP</abbr>, czy nawet <abbr title="Pilne Zlecenie Przerywające Inne Pilne Zlecenia Przerywające Zlecenia Przerywające">PZPIPZPZP</abbr> są codziennością.</p>
+
+<p>Wnioski są proste - próba poprawiania wydajności na siłę generuje zbędną biurokrację, co z kolei niejako wymusza niezamierzony strajk włoski. Pracę w takich warunkach można porównać do wydajności programu działającego pod kontrolą profilera, czy programu śledzącego - człowiek stale rozliczający się z każdej niemal minuty dnia nie jest w stanie zrobić nic w rozsądnym czasie, zwłaszcza kiedy przydział czasu na zadania nie jest ciągły, a rozdzielany pomiędzy kilka(naście) naprzemiennie kontynuowanych zadań.</p>
+
+<p>Co do pisania samych raportów i planowania czasu - to właśnie jest praca dla managera i żaden program go nie zastąpi, nawet przy dużym wkładzie dobrej woli ze strony zespołu. Pomyślcie o tym, jeśli znajdziecie się w podobnej sytuacji.</p>

@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: Jesień Linuksowa
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 9
+date: 2004-05-04 19:13:58.000000000 +02:00
+categories:
+- varia
+tags: []
+comments: []
+---
+Ustroń, 8, 9, 10 października 2004<br />
+<br />
+Koszt ~ 120 PLN<br />
+<br />
+Oficjalna strona: <a href="http://jesien.linux.org.pl/">tutaj</a>.

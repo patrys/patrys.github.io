@@ -1,0 +1,83 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #006: Papież to, papież tamto'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 66
+date: 2005-03-17 21:42:57.000000000 +01:00
+categories:
+- comic
+tags: []
+comments:
+- id: 717
+  author: Jajcus
+  author_url: ''
+  date: '2005-03-17 21:46:54 +0100'
+  date_gmt: '2005-03-17 21:46:54 +0100'
+  content: Oooo, wielkie dzięki za alta. Przynajmniej wiem gdzie mi się w FF obrazek
+    nie wyświetla (brak routingu ode mnie do icenter.pl) ;-)
+- id: 718
+  author: gozda
+  author_url: ''
+  date: '2005-03-17 21:47:15 +0100'
+  date_gmt: '2005-03-17 21:47:15 +0100'
+  content: świetne! :)
+- id: 719
+  author: Patrys
+  author_url: ''
+  date: '2005-03-17 21:48:36 +0100'
+  date_gmt: '2005-03-17 21:48:36 +0100'
+  content: Dziwna sprawa z tym routingiem, bo łącze tepsiane i raczej problemów z
+    nim nie było dotąd.
+- id: 720
+  author: Jajcus
+  author_url: ''
+  date: '2005-03-17 21:50:04 +0100'
+  date_gmt: '2005-03-17 21:50:04 +0100'
+  content: To raczej mój ISP ma coś nie tak z BGP. Już admina męczę. Nie mogę się
+    doczekać, kiedy to naprawią i w końcu upragniony komiks obejrzę ;-)
+- id: 721
+  author: djurban
+  author_url: ''
+  date: '2005-03-17 22:05:26 +0100'
+  date_gmt: '2005-03-17 22:05:26 +0100'
+  content: Juz widze teksty ze &quot;Patrys to urban polskeigo joggera&quot; :)
+- id: 722
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-03-17 22:20:27 +0100'
+  date_gmt: '2005-03-17 22:20:27 +0100'
+  content: ':) Grafika jest bardzo fajna'
+- id: 723
+  author: Patrys
+  author_url: ''
+  date: '2005-03-17 23:23:34 +0100'
+  date_gmt: '2005-03-17 23:23:34 +0100'
+  content: djurban to urban, ja jestem faszystą AFAIK ^_^
+- id: 724
+  author: bazyl
+  author_url: ''
+  date: '2005-03-17 23:56:07 +0100'
+  date_gmt: '2005-03-17 23:56:07 +0100'
+  content: Malo sie nie poplakalem :D
+- id: 725
+  author: rav
+  author_url: ''
+  date: '2005-03-18 09:57:57 +0100'
+  date_gmt: '2005-03-18 09:57:57 +0100'
+  content: hmm raczej Czeczot;) (dla osób nie w temacie - rysownik współpracujący
+    m. in. z &quot;Nie&quot;)
+- id: 726
+  author: Express
+  author_url: ''
+  date: '2005-03-21 08:54:29 +0100'
+  date_gmt: '2005-03-21 08:54:29 +0100'
+  content: A ja mam graficzną przeglądarkę i mi się komiks nie wyświetlił...
+---
+<p>Coś dla wszystkich, którzy mają choć trochę poczucia humoru i choć odrobinę dość czytania o tym, że Karol Wojtyła zjadł ogórka na śniadanie. Przepraszam, za marną jakość grafiki, ale jestem programistą, a nie grafikiem.</p>
+
+<p class="strip"><img src="http://patrys.icenter.pl/comic/006-pope.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>

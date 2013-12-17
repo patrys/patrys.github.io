@@ -1,0 +1,141 @@
+---
+layout: post
+status: publish
+published: true
+title: Skinowanie bloga
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 75
+date: 2005-04-05 23:56:37.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 845
+  author: Igor
+  author_url: ''
+  date: '2005-04-05 23:59:00 +0200'
+  date_gmt: '2005-04-05 23:59:00 +0200'
+  content: Mozilla - debesciak!
+- id: 846
+  author: DiJiobello
+  author_url: ''
+  date: '2005-04-06 00:00:03 +0200'
+  date_gmt: '2005-04-06 00:00:03 +0200'
+  content: Baaardzo mi się podoba &quot;mozilla&quot;.
+- id: 847
+  author: szzzzzz...ej?
+  author_url: ''
+  date: '2005-04-06 00:04:29 +0200'
+  date_gmt: '2005-04-06 00:04:29 +0200'
+  content: |-
+    no i w koncu
+    <br/>powrocil jedyny sluszny
+- id: 848
+  author: rav
+  author_url: ''
+  date: '2005-04-06 00:11:05 +0200'
+  date_gmt: '2005-04-06 00:11:05 +0200'
+  content: jestem pod wrażeniem:)
+- id: 849
+  author: da.killa
+  author_url: ''
+  date: '2005-04-06 00:18:11 +0200'
+  date_gmt: '2005-04-06 00:18:11 +0200'
+  content: Mozilla rulez - az się chce zakosić szablon :)
+- id: 850
+  author: Patrys
+  author_url: ''
+  date: '2005-04-06 00:21:15 +0200'
+  date_gmt: '2005-04-06 00:21:15 +0200'
+  content: '@da.killa: prościej wziąć sobie sam CSS chyba ;)'
+- id: 851
+  author: da.killa
+  author_url: ''
+  date: '2005-04-06 00:22:59 +0200'
+  date_gmt: '2005-04-06 00:22:59 +0200'
+  content: Już nie będę taki plagiator i nie wezmę :)
+- id: 852
+  author: maz
+  author_url: ''
+  date: '2005-04-06 00:28:59 +0200'
+  date_gmt: '2005-04-06 00:28:59 +0200'
+  content: |-
+    Jak na mój gust, szablonik &quot;mozilla&quot; jest bombowy :D
+    <br/>Szkoda, tylko że Operka nie widzi zaokrągleń ;)
+- id: 853
+  author: s
+  author_url: ''
+  date: '2005-04-06 00:29:21 +0200'
+  date_gmt: '2005-04-06 00:29:21 +0200'
+  content: mozilla ladna :D
+- id: 854
+  author: batou
+  author_url: ''
+  date: '2005-04-06 00:32:23 +0200'
+  date_gmt: '2005-04-06 00:32:23 +0200'
+  content: 'Nie będę oryginalny: mozilla w pytkę. ;)'
+- id: 855
+  author: Krystek
+  author_url: ''
+  date: '2005-04-06 03:05:50 +0200'
+  date_gmt: '2005-04-06 03:05:50 +0200'
+  content: '&#039;Mozilla&#039; wymiata, a &#039;Pretty boxes&#039; dobrze się czyta
+    po X godzinach przed monitorem, gdy są już kłopoty z czytaniem ;)'
+- id: 856
+  author: nbw
+  author_url: ''
+  date: '2005-04-06 06:43:56 +0200'
+  date_gmt: '2005-04-06 06:43:56 +0200'
+  content: Jak to mówią starzy rosjanie - KUTGW ;)
+- id: 857
+  author: gozda
+  author_url: ''
+  date: '2005-04-06 07:14:01 +0200'
+  date_gmt: '2005-04-06 07:14:01 +0200'
+  content: theme mozilla jest świetny, na dużych rozdzielczościach w końcu tekst nie
+    zajmuje 1/3 ekranu i można coś sensownie poczytać. :)
+- id: 858
+  author: Jajcus
+  author_url: ''
+  date: '2005-04-06 08:12:31 +0200'
+  date_gmt: '2005-04-06 08:12:31 +0200'
+  content: |-
+    A czemu &quot;na przywitanie&quot; dostałem wersję bez szablonu? Jakiś sensowny default by się jednak przydał...
+    <br/>Inna sprawa, że to może mój Firefox dzisiaj szaleje... np. przy wejściu na pierwszą stronę w okienku z pytaniem o użytkownika/hasło do proxy miał wpisane zapamiętane wartości, a nigdy wcześniej ich nie pamiętał, mimo że uparcie kazałem mu zapamiętywać ;-)
+- id: 859
+  author: Patrys
+  author_url: ''
+  date: '2005-04-06 09:34:31 +0200'
+  date_gmt: '2005-04-06 09:34:31 +0200'
+  content: '@Jajcus: Defaultem jest Kubrick. Możliwe, że miałeś już kiedyś ustawiony
+    cookie (z czasów ciemnego layoutu) z nazwą szablonu, który teraz nie istnieje
+    i teraz go wyłapał przełącznik styli.'
+- id: 860
+  author: Greybrow
+  author_url: ''
+  date: '2005-04-06 12:05:31 +0200'
+  date_gmt: '2005-04-06 12:05:31 +0200'
+  content: |-
+    też tak miałem i myślałem, że to kolejny 1337 wymysł naszego drogiego blogisty :)
+    <br/>Ale że w moim maxthonie mam guziczek do zmiany na styl jedyny słuszny (http://greybrow.iq.pl) to czytało się dość wygodnie.
+- id: 861
+  author: Smoothguy
+  author_url: ''
+  date: '2005-04-06 15:39:59 +0200'
+  date_gmt: '2005-04-06 15:39:59 +0200'
+  content: Dla mnie evil jest najlepszy, tylko przydałoby się, żebyś dodał jeszcze
+    style do input i textarea w nim, bo biały formularz strasznie razi na ciemnym
+    tle. :&gt;
+- id: 862
+  author: jpc
+  author_url: ''
+  date: '2005-04-09 21:04:02 +0200'
+  date_gmt: '2005-04-09 21:04:02 +0200'
+  content: TeZetWu. WyPaS! :P
+---
+<p>Jako, że znalazłem chwilę czasu na kreatywną zabawę z kodem, pozwoliłem sobie dorobić kilka theme'sów dla tego bloga. Ku uciesze molestujących mnie ludzi, powrócił, znany dobrze tym z was, którzy czytają mnie dłużej, zestaw <q>evil</q>. Dla używających przeglądarek napędzanych mozillowym silnikiem Gecko gratka - theme <q>mozilla</q>, czyli zestaw pełen okrągłości i nawiązań kolorystycznych do <a href="http://mozilla.org/" title="The Mozilla Organization">stron Organizacji</a>.</p>
+
+<p>Stosowna funkcjonalność dostępna jest na głównej stronie, w prawym panelu. Mam nadzieję, że się spodoba.</p>

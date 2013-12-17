@@ -1,0 +1,174 @@
+---
+layout: post
+status: publish
+published: true
+title: Krótko o zbyt nowoczesnych technologiach
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 159
+date: 2005-09-27 20:07:08.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 2217
+  author: Enleth
+  author_url: ''
+  date: '2005-09-27 20:09:45 +0200'
+  date_gmt: '2005-09-27 20:09:45 +0200'
+  content: Ja bym jeszcze wspomniał o *błędach* w specyfikacji i DTD 1.1 - bo są...
+- id: 2218
+  author: Patrys
+  author_url: ''
+  date: '2005-09-27 20:10:55 +0200'
+  date_gmt: '2005-09-27 20:10:55 +0200'
+  content: Jeśli chodzi o DTD, to można zignorować, bo jako aplikacja XML, XHTML ma
+    dużo lepsze narzędzia do kontroli semantycznej i syntaktycznej.
+- id: 2219
+  author: Egree
+  author_url: ''
+  date: '2005-09-27 21:01:25 +0200'
+  date_gmt: '2005-09-27 21:01:25 +0200'
+  content: Na szczęście na stronach czysto amatorskich, jakimi najczęściej bywają
+    blogi, nie ma to większego znaczenia. Można się bawić w co tylko się chce.
+- id: 2220
+  author: steelheart
+  author_url: ''
+  date: '2005-09-27 21:23:46 +0200'
+  date_gmt: '2005-09-27 21:23:46 +0200'
+  content: |-
+    &quot;klient wkleja tekst z Worda i strona umiera, a u konkurencji wszystko działa.&quot;
+    <br/>gdzie wkleja ? w kod ? a kto mu daje mozliwosc ?
+    <br/>wkleja w posta ? a kto tego nie przeparsuje ? ;)
+    <br/>
+- id: 2221
+  author: Patrys
+  author_url: ''
+  date: '2005-09-27 21:36:19 +0200'
+  date_gmt: '2005-09-27 21:36:19 +0200'
+  content: |-
+    steelheart:
+    <br/>
+    <br/>Przeparsować na co? Klient włącza w swoim CMS edytor WYSIWYG, który korzysta z designMode przeglądarki. Jeśli przeparsowanie polega na usunięciu tagów, to idea WYSIWYG właśnie umarła. I nie, nie jest to wina samego edytora, bo ten może najwspanialszy kod generować - samej przeglądarki nie da się powstrzymać przed wklejeniem nieprawidłowego kodu. Tu pojawia się problem pisania intelignentnego parsera SGML.
+- id: 2222
+  author: Phantom
+  author_url: ''
+  date: '2005-09-27 21:44:37 +0200'
+  date_gmt: '2005-09-27 21:44:37 +0200'
+  content: Też do tego dziś doszedłem po lekturze webesteem...
+- id: 2223
+  author: Riddle
+  author_url: ''
+  date: '2005-09-27 22:25:08 +0200'
+  date_gmt: '2005-09-27 22:25:08 +0200'
+  content: Ano. Też się spotkałem z tym czymś. Nie rozumiem ludzi którzy używają 1.1
+    i nie są to potężne aplikacje Webowe. Nawet na blogach nie rozumiem.
+- id: 2224
+  author: m
+  author_url: ''
+  date: '2005-09-28 00:32:18 +0200'
+  date_gmt: '2005-09-28 00:32:18 +0200'
+  content: |-
+    @Patrys:
+    <br/>... i czy nie jest tak, ze strona zaczyna byc renderowana dopiero po sciagnieciu i przeparsowaniu calego xml?
+- id: 2225
+  author: Patrys
+  author_url: ''
+  date: '2005-09-28 10:37:26 +0200'
+  date_gmt: '2005-09-28 10:37:26 +0200'
+  content: |-
+    m:
+    <br/>
+    <br/>True, dla XML serwowanego jako application/xhtml+xml nie istnieje renderowanie progresywne, bo przed parsowaniem następuje kontrola składni dokumentu.
+- id: 2226
+  author: Jajcus
+  author_url: ''
+  date: '2005-09-28 10:39:58 +0200'
+  date_gmt: '2005-09-28 10:39:58 +0200'
+  content: |-
+    Patrys: a co szkodzi zacząć wyświetlać stronę i przestać w momencie napotkania błędu? Przecież są nawet walidujące parsery SAX (wiem, walidacja tu i tak nie wchodzi w grę).
+    <br/>To jest możliwa optymalizacja, która będzie mogła być stosowana jak już XML będzie obsługiwany prawidłowo.
+- id: 2227
+  author: steelheart
+  author_url: ''
+  date: '2005-09-28 10:51:33 +0200'
+  date_gmt: '2005-09-28 10:51:33 +0200'
+  content: |-
+    geez jesli CMS tworzy kontent nie zgodny z xml to jaki sens robic dla niego warstwe prezentacji w tym ostatnim ?
+    <br/>a jesli cms tworzy kontent OK a user wkleja jako tresc cos co powstało poza i jest nie halo, to imo nalezy przeparsowac, zwalidowac i ew. poinformowac ze jest lama ;)
+    <br/>przeciez majac DTD mozna to latwo zrobic chyba kazdym parserem w javce
+- id: 2228
+  author: Tomash
+  author_url: ''
+  date: '2005-09-28 11:00:25 +0200'
+  date_gmt: '2005-09-28 11:00:25 +0200'
+  content: |-
+    Argument z htmlem z Worda jest akurat średnio trafiony, bo istnieje Tidy dla PHP.
+    <br/>
+    <br/>Natomiast reszta tekstu - świetna.
+- id: 2229
+  author: Bellois
+  author_url: ''
+  date: '2005-09-28 17:07:37 +0200'
+  date_gmt: '2005-09-28 17:07:37 +0200'
+  content: bo ludzie mysla, ze trzeba byc nowoczesnym i uzywac nowych zabawek, gdy
+    stare sie znudza
+- id: 2230
+  author: steelheart
+  author_url: ''
+  date: '2005-09-28 18:15:28 +0200'
+  date_gmt: '2005-09-28 18:15:28 +0200'
+  content: |-
+    mała poprawka:
+    <br/>ludzie w wiekszosci nie myślą...
+- id: 2231
+  author: porneL
+  author_url: ''
+  date: '2005-10-06 15:16:22 +0200'
+  date_gmt: '2005-10-06 15:16:22 +0200'
+  content: |-
+    Oh, jakże absolutnie nie zgadzam sie z tym tekstem.
+    <br/>
+    <br/>Transistional to formalizacja zupy z tagów. Zupełnie bez sensu. Jeśli ktoś robi elegancki kod, to niech celuje w Strict. W przeciwnym wypadku syf XMLowy jest niewiele lepszy od syfu HTMLowego.
+    <br/>
+    <br/>XHTML/1.1 nie *wymaga* serwowania jako application/xhtml+xml (SHOULD NOT != MUST NOT). To jest tylko zalecenie (silniejsze niż przy 1.0) z dopuszczeniem serwowania jako text/html, które zostało specjalnie zrobione pod kątem IE.
+    <br/>
+    <br/>I tak żadna wersja XHTML nie ma sensu, jeśli robi się pod IE, bo w nim siłą rzeczy nie da się wykorzystać *niczego*, co daje XHTML (test: &lt;script /&gt;)
+    <br/>
+    <br/>*Wszystkie* wersje XHTML wymagają ścisłej kontroli składni, bo XML jej wymaga. To, że przeglądarki akceptują tagzupę podaną jako text/html to odrębna sprawa i nie należy na tym polegać (bo - patrz akapit wyżej).
+    <br/>
+    <br/>Za możliwość zepsucia XHTML winny jest webmaster, który nie obchodzi się z XML jak należy. Henri Sivonen dobrze to opisuje - XML nie należy traktować jako text, a jako drzewo node&#039;ów: http://hsivonen.iki.fi/producing-xml/ i wtedy żadna siła go nie popsuje. W PHP5 wyczyszczenie WYSIWYGa jet tak proste jak DOMDocument::loadHTML()-&gt;saveXML();
+    <br/>
+    <br/>Wersja 1.1 nie wnosi wiele do rozszerzalności. Zobacz listę zmian - przeniesienie atrybutu lang do przestrzeni nazw XML i dodanie znaków ruby.
+    <br/>
+    <br/>Z tą rozszerzalnością to głupawo jest - otóż żadna wersja XHTML opublikowana przez W3C w praktyce nie jest rozszerzalna! DTD jest bardzo ścisłe i nie dopuszcza żadnej &quot;samowolki&quot; (nawet trzeba oddzielne DTD dla MathML, SVG, nie można w sposób błogosławiony przez W3C dodać RDF, itd.). Potencjalna rozszerzalność jest w XML, ale póki DTD czuwa nad dokumentem, póty jest on nierozszerzalny (albo piszesz własny, który nie jest &#039;standardem w3c&#039;).
+    <br/>
+    <br/>Semantyka XHTML/1.0 nie różni się *niczym* od HTML/4. Nawet nie ma sekcji specyfikacji XHTML odpowiedzialnej za semantykę! XHTML/1.1 wprowadza minimalne zmiany, które IMHO specjalnie semantyczniejsze nie są (usunięcie html id/ol start, blockquote i form tylko z blokową treścią...).
+    <br/>
+    <br/>Dla XML istnieje wyświetlanie progresywne (zob. SAX events). Tylko Gecko cierpi na prowizorkę w implementacji (o czym piszą na mozilla.org). XML+CSS bez problemu może być wyświetlany progresywnie. Tylko XSLT nie może ze względu na XPath.
+    <br/>
+    <br/>
+- id: 2232
+  author: Siergiej
+  author_url: ''
+  date: '2005-10-11 21:42:20 +0200'
+  date_gmt: '2005-10-11 21:42:20 +0200'
+  content: Kilka miesięcy temu dostałem zadanie przemodelowania strony na której byłem
+    webmasterem. Teraz mogę się poszczycić tym że strona jest w xhtml1.1, serwowana
+    jest jako application/xhtml+xml z negocjacją dla &quot;starszych&quot; przeglądarek,
+    aktualizacja nie jest częsta, a jak już jest do dostaje stos plików ms-word i
+    dokładne wytyczne. Do mnie należy wklejenie tych wordowskich tekstów na stronę.
+    Takie strony można tworzyć, ale nie dla klientów którzy widząc &quot;xhtml&quot;
+    myślą że ten x jest literówką.
+---
+<p>Jeśli decydujesz się na używanie <abbr title="Extensible HyperText Markup Language">XHTML</abbr>, to wybierz wersję 1.0. Wszystko jedno, czy zdecydujesz się na wersję przejściową (transitional) czy ścisłą (strict), będzie to lepszy wybór niż wersja 1.1. Przeżyłem dziś starcie z jednym z naszych kontraktowych współpracowników (pisałem już, że ostatnio większość szablonów trafia do pocięcia na outsourcing) i chciałbym swoje argumenty przytoczyć również poniżej.</p>
+
+<p>Powodów preferowania wersji 1.0 może być kilka, przede wszystkim <abbr>XHTML</abbr> 1.1 wymaga serwowania jako typ <abbr title="Multipurpose Internet Mail Extensions">MIME</abbr> <code>application/xhtml+xml</code>. Typ ten nie jest obsługiwany przez przeglądarkę Internet Explorer i powoduje w niej wyświetlenie kodu źródłowego dokumentu.</p>
+
+<p>Po drugie, <abbr>XHTML</abbr> 1.1 wymaga ścisłej kontroli składni <abbr title="Extensible Markup Language">XML</abbr> i jakikolwiek błąd zatrzymuje caly proces przetwarzania strony. O ile z naszego punktu widzenia (jako programistów), poprawna składnia języka jest jak najbardziej pożądana, o tyle różne systemy publikacji treści pozwalają końcowemu użytkownikowi na zepsucie kodu w większym lub mniejszym stopniu. Z punktu marketingowego nie wygląda to najlepiej - klient wkleja tekst z Worda i strona umiera, a u konkurencji wszystko działa. Szczerze mówiąc, boję się, że to właśnie będzie największy problem przy szerszej popularyzacji formatów opartych na <abbr>XML</abbr> - nie potrafią wybaczać błędów (świat byłby dziś rajem, gdyby było to regułą już przy pierwszych wersjach <abbr title="HyperText Markup Language">HTML</abbr>).</p>
+
+<p>Poza tym, jedyna przewaga wersji 1.1 nad poprzedniczką jest możliwość łatwego rozszerzania języka, co przy braku wsparcia ze strony powszechnie używanych agentów nie jest żadnym argumentem.</p>
+
+<p>Mówiąc krócej - nie zawsze warto żyć na krawędzi i chwytać się wszystkich nowości, warto poczekać, aż dostęp do nich uzyska przynajmniej zadowalająca część z naszych potencjalnych odbiorców.</p>

@@ -1,0 +1,73 @@
+---
+layout: post
+status: publish
+published: true
+title: Pong!
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 112
+date: 2005-06-23 23:49:41.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1390
+  author: Nina
+  author_url: ''
+  date: '2005-06-23 23:53:09 +0200'
+  date_gmt: '2005-06-23 23:53:09 +0200'
+  content: Dzięki wielkie. Nie wiesz nawet jak mi dzisiaj pomogłeś. Właśnie tym wpisem.
+    Muah. ;)
+- id: 1391
+  author: Patrys
+  author_url: ''
+  date: '2005-06-23 23:59:52 +0200'
+  date_gmt: '2005-06-23 23:59:52 +0200'
+  content: Hmm, pewnie nie miałaś pomysłu, jak spędzić najbliższe 3 godziny? ;]
+- id: 1392
+  author: Nina
+  author_url: ''
+  date: '2005-06-24 00:02:41 +0200'
+  date_gmt: '2005-06-24 00:02:41 +0200'
+  content: W sumie powinnam się uczyć. Jutro mam egzamin, który będzie prawdopodobnie
+    pierwszym oblanym egzaminem na studiach - w ciągu trzech lat. Mam otwarte cztery
+    książki - bo czytam je jednocześnie ;) i zaczęłam się zastanawiać jak zwała się
+    moja ulubiona gra na Amigę... i wiem, dzięki Tobie :&gt;  PANG!! (nie mylić z
+    Pongiem ;))
+- id: 1393
+  author: Patrys
+  author_url: ''
+  date: '2005-06-24 00:03:53 +0200'
+  date_gmt: '2005-06-24 00:03:53 +0200'
+  content: W PANG! się strzelało linką z kotwiczką, takie asteroids w poziomie. Uwielbiam
+    tą grę, mam nawet wersję na komórkę.
+- id: 1394
+  author: HoBBit °¸°
+  author_url: ''
+  date: '2005-06-24 00:04:02 +0200'
+  date_gmt: '2005-06-24 00:04:02 +0200'
+  content: |-
+    ej ej to dzisiaj juz piatek :`(
+    <br/>cosiezrylemtomoje
+    <br/>a co do tego Patrys: ja nierozumieju (:
+- id: 1395
+  author: Nina
+  author_url: ''
+  date: '2005-06-24 00:05:18 +0200'
+  date_gmt: '2005-06-24 00:05:18 +0200'
+  content: No! Najlepsza na świecie. Miałam wtedy hym Commodore Amiga CDTV (czy jakoś
+    tak) i jak rozwaliłam joystick to musiałam w Panga grać pilotem... :)
+- id: 1396
+  author: Jezuch
+  author_url: ''
+  date: '2005-06-24 10:27:51 +0200'
+  date_gmt: '2005-06-24 10:27:51 +0200'
+  content: Można też te 3 godziny po pracy spędzić w autobusie ;&gt;
+---
+<p>Co można zrobić w trzy godziny po pracy? Można pójść na piwo, można obejrzeć ciekawy film (byle długi), poczytać książkę, pooglądać telewizję (jeśli jest się głuchym, ślepym i odpornym na głupotę, albo wyjątkowo ceni się reklamy). Można też pójść do <a href="http://monochrome.pl/">grafika</a> do domu i pobawić się flashem.</p>
+
+<p>Artystycznie zdolności posiadam absolutnie zerowe, nie znam się specjalnie na Macromedia Flashu MX, znam się za to na programowaniu i sprawia mi to niesamowitą frajdę, a tak się akurat złożyło, że jeden z klientów zamówił od nas... Ponga! Takiego ze starusieńkich automatów Atari, z wbudowanym telewizorem (kiedy o płaskich ekranach nikt jeszcze nie słyszał) i z pokrętłem zamiast joysticka.</p>
+
+<p>Efektem trzygodzinnego dopieszczania i testowania jest <a href="http://patrys.icenter.pl/test/2005-06-23-pong/">najnudniejsza gra na świecie</a>. W wersji pełnej można, naturalnie, pograć myszką i zapisać swój wynik online.</p>

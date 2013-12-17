@@ -1,0 +1,213 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Prywatnie: Operacja Twoja Stara'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 131
+date: 2005-07-17 21:53:03.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1797
+  author: Kelner
+  author_url: ''
+  date: '2005-07-17 21:55:31 +0200'
+  date_gmt: '2005-07-17 21:55:31 +0200'
+  content: Heh, wszyscy się starzejemy. Kto by pomyślał, że ja kupię Maca &quot;bo
+    ładny&quot;?
+- id: 1798
+  author: Carstein
+  author_url: ''
+  date: '2005-07-17 22:05:41 +0200'
+  date_gmt: '2005-07-17 22:05:41 +0200'
+  content: "Kurde, ja już nie pamiętam kiedy ostatni raz grałem na jakiś LAN party.
+    Pamiętam, że wtedy jeszcze miałem dwie myszki (ps/2 i usb - bo ps/2 miał lepszy
+    refresh rate :P). \n<br/>\n<br/>A co do starzenia się, to faktycznie - ostatnio
+    w tydzień wypijam takie ilości alkoholu, jakie na obozach w Hiszpanii szły na
+    afterparty rano. :)"
+- id: 1799
+  author: Bellois
+  author_url: ''
+  date: '2005-07-17 22:41:53 +0200'
+  date_gmt: '2005-07-17 22:41:53 +0200'
+  content: przykre jest czytanie o zyciu czlowieka zniewolonego przez gry komputerowe...
+- id: 1800
+  author: Puck
+  author_url: ''
+  date: '2005-07-17 23:08:39 +0200'
+  date_gmt: '2005-07-17 23:08:39 +0200'
+  content: Oooj, ostatni raz w Quake`a zamiatali mną jeszcze przed maturą. :) Trzeba
+    by odświeżyć railguna.
+- id: 1801
+  author: HoBBit
+  author_url: ''
+  date: '2005-07-18 00:00:07 +0200'
+  date_gmt: '2005-07-18 00:00:07 +0200'
+  content: |-
+    Bellois; BeeeZeeeDURA
+    <br/>gen.PatryS: wczoraj naszla mnie mysl zeby skonczyc z tym... ale wyobraz sobie jeszcze jak by byl NataS XyHoo AruuuuuŚ i Qwiat dodatkowo :]
+    <br/>w tej chwili jak bym sie dowiedzial ze robicie granie to na bosaka z Tofikiem na glowie przyjde ;D
+- id: 1802
+  author: Patrys
+  author_url: ''
+  date: '2005-07-18 00:37:15 +0200'
+  date_gmt: '2005-07-18 00:37:15 +0200'
+  content: Dobra, wrzuciłem update.
+- id: 1803
+  author: Twoja Stara
+  author_url: ''
+  date: '2005-07-18 09:26:36 +0200'
+  date_gmt: '2005-07-18 09:26:36 +0200'
+  content: Chuba Twoja !
+- id: 1804
+  author: carstein
+  author_url: ''
+  date: '2005-07-18 11:55:14 +0200'
+  date_gmt: '2005-07-18 11:55:14 +0200'
+  content: |-
+    No i tylko czekać na operation flashpoint 2, ew. wziąść to nowe coś, czego używają wojskowi do trenowania walk :)
+    <br/>
+    <br/>jak mi się przypomni link, to podeśle.
+- id: 1805
+  author: carstein
+  author_url: ''
+  date: '2005-07-18 12:11:56 +0200'
+  date_gmt: '2005-07-18 12:11:56 +0200'
+  content: |-
+    Znalazłem:
+    <br/>http://www.virtualbattlefieldsystems.com/
+    <br/>
+    <br/>Fajne, ale może być nieco drogie.
+- id: 1806
+  author: Patrys
+  author_url: ''
+  date: '2005-07-18 14:33:30 +0200'
+  date_gmt: '2005-07-18 14:33:30 +0200'
+  content: |-
+    carstein:
+    <br/>
+    <br/>Przecież to jest właśnie nowy engine Flashpointa :]
+- id: 1807
+  author: carstein
+  author_url: ''
+  date: '2005-07-18 14:45:17 +0200'
+  date_gmt: '2005-07-18 14:45:17 +0200'
+  content: |-
+    Patrys:
+    <br/>Nii, to jest stary engine. Nowy engine jest w Armed Assalut i w OF 2. Popatrz sobie na stronach Bohemia Interactive.
+- id: 1808
+  author: Patrys
+  author_url: ''
+  date: '2005-07-18 15:28:53 +0200'
+  date_gmt: '2005-07-18 15:28:53 +0200'
+  content: |-
+    To teraz nadrabianie zaległości i zakupy:
+    <br/>
+    <br/>http://www.cenega.pl/gra_opis.php?ID=629
+- id: 1809
+  author: riddle
+  author_url: ''
+  date: '2005-07-18 20:24:49 +0200'
+  date_gmt: '2005-07-18 20:24:49 +0200'
+  content: Polecam Battlefield 2 :&gt;
+- id: 1810
+  author: Patrys
+  author_url: ''
+  date: '2005-07-18 20:25:40 +0200'
+  date_gmt: '2005-07-18 20:25:40 +0200'
+  content: W porównianiu z Flashpointem, Battlefield 1 &amp; 2 to strzelanki na miarę
+    Quake&#039;a.
+- id: 1811
+  author: m
+  author_url: ''
+  date: '2005-07-18 21:04:29 +0200'
+  date_gmt: '2005-07-18 21:04:29 +0200'
+  content: hehe, tradycja w narodzie drzemie - szacuken :). Brakowalo chyba tylko
+    sprzataczki, ktora wieczorami przychodzila posprzatac salę ;). No i ten punkt
+    zborny... dobrze, ze nie niezborny, jego mac ;)
+- id: 1812
+  author: Carstein
+  author_url: ''
+  date: '2005-07-18 21:11:21 +0200'
+  date_gmt: '2005-07-18 21:11:21 +0200'
+  content: "No też właśnie chciałem zjechać battlefield 1 &amp; 2, ale widze, że kolega
+    już mnie wyręczył...\n<br/>\n<br/>Zresztą pamiętam, jak ktoś kiedyś się nabijał,
+    jak by to było, gdyby chcieć w flashpoint zaimplementować realia quake - wyobrażaci
+    sobie ten dziarski pluton komandosów szarżujących na wroga rytmicznie podskakując?
+    ;)\n<br/> i takie dziarskie: hop hop hop ... "
+- id: 1813
+  author: Patrys
+  author_url: ''
+  date: '2005-07-18 21:13:53 +0200'
+  date_gmt: '2005-07-18 21:13:53 +0200'
+  content: 'To ja dla kontry pochwalę inną grę, w którą zagrywam się z lubością: America&#039;s
+    Army. Też realistyczny symulator, z tym, że bardziej nastawiony na planowanie
+    grupowe i potyczki z żywymy ludźmi niż na długie kampanie w trybie cooperative.'
+- id: 1814
+  author: Carstein
+  author_url: ''
+  date: '2005-07-18 21:33:19 +0200'
+  date_gmt: '2005-07-18 21:33:19 +0200'
+  content: "Hmm, grałem przez pewien czas (nawet dobiłem do honor 15), ale jestem
+    lekko zdegustowany. Generalnie to jest gra na LAN i dla zgranej ekpiy, a to co
+    się dzieje w internecie, to sajgon. Nikt nie kryje ci pleców, nawet jak jesteś
+    dowódcą drużyny, to cię ludzie olewają itp itp. \n<br/>\n<br/>Gra ma potencjał,
+    to fakt, ale autorzy do końca nie mogli się zdecydować w którą stronę iść (żołnierz
+    wytrzyma 4-5 postrzałów z m16? - teoretycznie tak, ale pociągnie tak kilka minut
+    - w grze jest to regułą). Zresztą ja nigdy nie miałem dobrej ekpiy do gry, więc
+    może dlatego tak marudze. \n<br/>\n<br/>Być może aby dobrze grać w drużynowe gry
+    wojskowe trzeba mieć ekipię z delikatnym przeszkoleniem wojskowym :)."
+- id: 1815
+  author: PawelS
+  author_url: ''
+  date: '2005-07-19 18:33:15 +0200'
+  date_gmt: '2005-07-19 18:33:15 +0200'
+  content: Ostatnie zdjęcie w galerii bardzo realistycznie obrazuje to co się tam
+    działo ;D
+- id: 1816
+  author: nbw
+  author_url: ''
+  date: '2005-07-20 17:52:02 +0200'
+  date_gmt: '2005-07-20 17:52:02 +0200'
+  content: |-
+    Flashpoint 1 dla mnie miał właśnie tę wadę, że był uber-rzeczywisty.
+    <br/>
+    <br/>I zdecydowanie wolę właśnie partyjkę w Battlefield z _kumatymi_ ludźmi niż one shot-you&#039;re dead we flashpoint.
+- id: 1817
+  author: °¸° HoBBit
+  author_url: ''
+  date: '2005-07-21 01:22:46 +0200'
+  date_gmt: '2005-07-21 01:22:46 +0200'
+  content: 'do nbw: dlatego własnie po kilku/nastu godzinach w OF przychodziła chwila
+    na Q1 lub UT :)'
+---
+<p>Piątek, 2030 Żulu Time.</p>
+
+<p>Telefon od Sh69fara. Jest misja do wykonania. Szybki prysznic. Laptop zapakowany do plecaka, portfel w stanie gotowości bojowej, strój maskujący (2x chusta + gogle). Wymarsz.</p>
+
+<p>Piątek, 2120 Żulu Time</p>
+
+<p>Punkt zborny, oddział Alpha już czyta swój briefing (<q>Three... Two... One... Go! Go! Go!</q>) oddział Bravo przygotowuje się do misji (<q>Kochanie, a jak ustawić, żeby myszka chodziła szybciej?</q>). Załatwiłem z kwatermistrzem fakt swojego przybycia i otrzymałem polecenie wyładowania sprzętu ciężkiego. Rozłożyłem się w kantynie, przy jednym ze stolików, gdzie zasiadali oficerowie.</p>
+
+<p>Dokonując gwałtu analnego na własnej osobie, zmusiłem się do rozdziewiczenia swojego notebooka. Asus pierwszy raz za swojej egzystencji zobaczył był Windows. Instalacja tymczasowa, tak zwana <q>dwudniówka</q> na specjalnie wygospodarowanej partycji. <q>Zapoznaj się z Windows!</q> <q>To nowe przeżycie!</q> Przy okazji okazało się, że Windows nie potrafi założyć sobie partycji bez pomocy Linuksa. Na dysku mój standardowy desktopowy podział, czyli mały <code>/boot</code> z ext2, nastepnie partycja wymiany na 512 MB, a cała reszta to <code>/</code> z xfs. Dodatkowo 5 GB wolnej przestrzeni na końcu. Windows uparcie twierdził, że wyczerpałem limit partycji podstawowych i dalsza instalacja wymaga przeformatowania układu dysku (czyżby wykrył Linuksa?). Po krótkim epizodzie erotycznym z użyciem płyty PLD Live i <code>cfdisk</code> (czytaj: wyruchałem Windowsa i sam założyłem partycję z FAT32), dalsza instalacja przeszła bez problemów.</p>
+
+<p>Po tej operacji przyszło mi wyruszyć na zwiad w kierunku okolicznych terenów o podwyższonej wartości strategicznej - na stacji benzynowej przyległej do nieczynnego już od godziny <a href="http://tgg.wroc.pl/">TGG</a> zakupiłem plecak pełen napojów energetycznych Lech i Carlsberg, następnie uzupełniłem braki prowiantu w tamtejszym McDonaldzie.</p>
+
+<p>Ciepło przywitany w bazie (zapewne z powodu niesionej paczki z cheeseburgerami), ochoczo rozpocząłem mozolny proces instalacji (posiłkując się - dosłownie - przyniesionymi dobrami - wszak był to mój pierwszy piątkowy posiłek). Już po chwili byłem gotowy do walki - <em>Operacja Flashpoint: Resistance</em> powitała mnie proroczym napisem: <q>Genius at play</q>.</p>
+
+<p>Walki trwały niemalże bez przerwy przez kolejne 24 godziny. Niemalże, bo niezbędne były chwile odpoczynku na zrobienie kawy, otwarcie świeżego piwa, czy wymianę załogi (jako jedyny nie położyłem się spać). Kilka razy robiliśmy też przerywniki w Quake 1 (gdzie zamiatałem wszystkich nawet pod koniec imprezy) i Unreal Tournament (gdzie zamiatano mną).</p>
+
+<p>Było bardzo przyjemnie, ale przy okazji wyszło na to, że się starzejemy. Wypiliśmy mniej alkoholu, paru osób brakowało, a w sobotę wieczorem prawie nikt już nie miał siły grać (początkowo zakładaliśmy, że skończymy w niedzielę około południa). Inna sprawa, że kiedyś komputery wrzucało się luzem (czasem dosłownie, jeden ze stałych imprezowych komputerów - z braku obudowy - był zawsze montowany na gazetach na miejscu) do jakiegoś malucha i wiozło na miejsce, a dziś sprowadzane z zachodu oryginalne obudowy trzeba owijać styropianem i folią, a potem transportować w kartonie, odpowiednio unieruchomine. Nie wspomnę o szklanej podkładce do myszy Sh69fara. :)</p>
+
+<p>Imprezę uważam za udaną, choć prawdopodobnie była ostatnim flashpointowym LAN party. Powstaje tylko pytanie:</p>
+
+<blockquote><p>- Co na to twoja stara?</p>
+
+<p>- Chyba twoja!</p></blockquote>
+
+<p><strong>Update:</strong> żeby nie było, że nic nie piliśmy, napisałem <q>mniej niż zwykle</q> mając na myśli 5x Lech 0,66 l + 5x Carlsberg 0,5 l + 1,5x Carlsberg 0,5l od HoBBita + 0,5x Carsberg 0,5 l od YamroZa. Dowody do obejrzenia w <a href="http://gallery.room-303.com/Imprezy/2005.07.15%20-%20Operacja%20Twoja%20Stara/">galerii</a>.</p>

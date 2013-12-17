@@ -1,0 +1,89 @@
+---
+layout: post
+status: publish
+published: true
+title: Kulinaria
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 72
+date: 2005-03-29 21:38:55.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 805
+  author: Cachotterie
+  author_url: ''
+  date: '2005-03-29 21:42:47 +0200'
+  date_gmt: '2005-03-29 21:42:47 +0200'
+  content: |-
+    Tylko nie McDonalda, dobrze? :P
+    <br/>
+    <br/>Początek z wspaniałą restauracją bardziej mi pasował.
+    <br/>
+    <br/>I tak w ogóle: i kto to mówi, ten co to w kuchni umie wody nie przypalić i mikrofalę obsłużyć? :PPP
+- id: 806
+  author: Tomash
+  author_url: ''
+  date: '2005-03-29 23:17:03 +0200'
+  date_gmt: '2005-03-29 23:17:03 +0200'
+  content: |-
+    Analogia ciekawa, ale dlaczego w takim razie (czego oboje jesteście najlepszym przykładem ;)) to faceci wolą siedzieć w kuchni i gotować, a kobiety do restauracji*?
+    <br/>
+    <br/>* - moja koleżanka nienawidziła programowania, kiedy na uczelni przez dwa semestry próbowali w nią wcisnąć C i C++ (po jednym semestrze); teraz mamy semestr Javy i programowanie zaczęło jej się bardzo podobać.
+- id: 807
+  author: Nina
+  author_url: ''
+  date: '2005-03-30 19:17:36 +0200'
+  date_gmt: '2005-03-30 19:17:36 +0200'
+  content: |-
+    Cach: to i tak lepszy ode mnie jest ;) bo ja wodę na herbatę też kiedyś przypaliłam ;) no i zdarzyło się zaparzać herbatę nieprzegotowaną wodą ;)
+    <br/>
+    <br/>Tomash: ja nie lubię chodzić do restauracji ;P wolę jak ktoś coś dla mnie ugotuje ;)
+    <br/>
+    <br/>I czy wszystkie kobiety mające styczność z C/C++ w szkole czują niechęć do tych języków?
+- id: 808
+  author: Cachotterie
+  author_url: ''
+  date: '2005-03-30 19:19:45 +0200'
+  date_gmt: '2005-03-30 19:19:45 +0200'
+  content: |-
+    Chyba nie znam takiej która by lubiła C/C++, pomijając już że ogólnie znam mało kobiet programujących (ale jeśli już, to w czymś o wyższych poziomach abstrakcji).
+    <br/>
+    <br/>Tak właśnie :P To jest kwestia chęci i umiejętności myślenia abstrakcyjnego vs. myślenia pragmatycznego i przyziemnego ;))
+- id: 809
+  author: sztywny
+  author_url: ''
+  date: '2005-03-30 19:29:57 +0200'
+  date_gmt: '2005-03-30 19:29:57 +0200'
+  content: 'Można na to spojrzeć z drugiej strony. Próba napisania czegoś bardziej
+    fantazyjnego w C/C++ to jak próba zbudowania drapacza chmur z użyciem cegieł,
+    szpachli i drabiny... '
+- id: 810
+  author: Tomash
+  author_url: ''
+  date: '2005-03-30 21:06:22 +0200'
+  date_gmt: '2005-03-30 21:06:22 +0200'
+  content: "Sztywny: wszystko jest kwestią czasu i odpowiednio dużego zespołu programistów
+    :). Całe KDE jest w C++, GNOME jest w C (chociaż to akurat uważam za błąd projektowy,
+    taką gimnastykę tam odstawiają że strach). \n<br/>Chociaż jak to ładnie ujął Eckel
+    &quot;CPU time is cheap, programmer&#039;s time isn&#039;t&quot;, więc oczywiście
+    masz rację."
+- id: 811
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2005-03-31 08:47:17 +0200'
+  date_gmt: '2005-03-31 08:47:17 +0200'
+  content: Jestem człowiekiem luksusowym, wybieram restaurację.
+- id: 812
+  author: Jezuch
+  author_url: ''
+  date: '2005-04-02 14:12:39 +0200'
+  date_gmt: '2005-04-02 14:12:39 +0200'
+  content: Może jestem kobietą, bo nie cierpię C++ ;)
+---
+<p>Jako, że dziś od powrotu do domu robię za helpdesk do spraw Visual C++ (brr) i <abbr title="Microsoft Foundation Classes">MFC</abbr> (brrr), miałem okazję przemyśleć to i owo i zweryfikować swój pogląd na kolejne generacje języków programowania. Wiem już, czemu C/C++ pozostają moimi ulubionymi językami, mimo istnienia takich cudów techniki, jak Java. A oto i prawda objawiona:</p>
+
+<p>Można pójść do wspaniałej restauracji, takiej ze wspaniałą obsługą, rewelacyjną kuchnią, idealnie skomponowanym menu i najeść się do syta. Ale o ile przyjemniej samemu ugotować coś zjadliwego? Wiedzieć, co jest w środku, czerpać przyjemność z samego procesu twórczego, nawet jeśli efekt końcowy nie wygląda jak na zdjęciach z McDonalda. C/C++ to rodzina języków, które cieszą samym faktem, że program w ogóle działa (a przynajmniej się kompiluje). :&gt;</p>

@@ -1,0 +1,52 @@
+---
+layout: post
+status: publish
+published: true
+title: Nie ma mocnych
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 46
+date: 2004-10-19 20:28:40.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 334
+  author: gozda
+  author_url: ''
+  date: '2004-10-19 20:30:42 +0200'
+  date_gmt: '2004-10-19 20:30:42 +0200'
+  content: "O kurcze, mam ten sam problem...\n<br/>-- \n<br/>Łykasz Gandecki &#039;gozda&#039;
+    ;-)"
+- id: 335
+  author: Jezuch
+  author_url: ''
+  date: '2004-10-20 13:21:30 +0200'
+  date_gmt: '2004-10-20 13:21:30 +0200'
+  content: Zliterówkowanie &#039;u&#039; z &#039;y&#039; zdarza mi się podejrzanie
+    często - dobrze że nie nezywam się Łykasz i grozi mi najwyżej Krzusztof ;)
+---
+Dziś dzwoni do nas telefon, wczeny poranek, niepełny skład w biurze. Agnieszka ostrożnie podnosi słuchawkę.<br />
+<br />
+- Słucham?<br />
+- Coś wam nie działa tam.<br />
+- Ehm... słucham?<br />
+- No coś wam nie chodzi, strona wam nie chodzi.<br />
+- Jaka strona?<br />
+- No wasza przecież. I email mi nie chodzi. A ja go muszę sprawdzić.<br />
+- Dobrze, zapiszę, jaki jest adres?<br />
+- Jaki adres?!<br />
+- No ten email, który Panu nie działa...<br />
+- Żaden mi nie działa!<br />
+- ...<br />
+- (piiii piiii piiii piiii piiii piiii)<br />
+<br />
+Parę dni wcześniej Łukasz odkrył tajemnicę niebezpiecznego emaila:<br />
+<br />
+- Mój podpis pod emailem jest potencjalnie niebezpieczny!<br />
+- E, czemu?<br />
+- Bo wystarczy, że będę pisał do jakiejś dziewczyny i przez pomyłkę zamiast "u" wcisnę "y", a zamiast kropki dam znak zapytania.<br />
+- A jak się podpisujesz?<br />
+- "Łukasz."

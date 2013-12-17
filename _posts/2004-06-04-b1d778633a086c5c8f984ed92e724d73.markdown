@@ -1,0 +1,88 @@
+---
+layout: post
+status: publish
+published: true
+title: Wiem, o co pytam
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 26
+date: 2004-06-04 17:31:22.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 69
+  author: Jezuch
+  author_url: ''
+  date: '2004-06-04 17:34:29 +0200'
+  date_gmt: '2004-06-04 17:34:29 +0200'
+  content: |-
+    Homo Biurens?... ;)
+    <br/>Ciekawe czy programistów też nawiedzają tacy SynowiePrezesa(TM)...
+- id: 70
+  author: Patrys
+  author_url: ''
+  date: '2004-06-04 17:42:29 +0200'
+  date_gmt: '2004-06-04 17:42:29 +0200'
+  content: A ja poza administracją siecią jestem właśnie programistą... :/
+- id: 71
+  author: jarek (zgoda)
+  author_url: ''
+  date: '2004-06-04 21:24:50 +0200'
+  date_gmt: '2004-06-04 21:24:50 +0200'
+  content: Mnie nie nawiedzają. Chlip, chlip...
+- id: 72
+  author: Express
+  author_url: ''
+  date: '2004-06-04 22:51:05 +0200'
+  date_gmt: '2004-06-04 22:51:05 +0200'
+  content: Ech, lubi cię ten SynPrezesa(tm).
+- id: 73
+  author: been
+  author_url: ''
+  date: '2004-06-05 09:48:19 +0200'
+  date_gmt: '2004-06-05 09:48:19 +0200'
+  content: niedlugo zacznie dzwonić opowiadając Ci o swojej niespełnionej miłości
+    do sąsiada :( chlip chlip
+- id: 74
+  author: szszzzzzz....ej?
+  author_url: ''
+  date: '2004-06-05 12:44:14 +0200'
+  date_gmt: '2004-06-05 12:44:14 +0200'
+  content: |-
+    jajebie
+    <br/>tego pod ie u mnie na uczelni to w ogole nie widac;]
+    <br/>engi czytal pod linksem ;]
+    <br/>
+- id: 75
+  author: Ukochana Siostrzyczka
+  author_url: ''
+  date: '2004-06-06 13:52:39 +0200'
+  date_gmt: '2004-06-06 13:52:39 +0200'
+  content: Zapomniales wspomniec ze Twoja ukochana jedyna siostrzyczka ma dzisiaj
+    urodziny ;DD
+- id: 76
+  author: Bor-Suk-A
+  author_url: ''
+  date: '2004-07-23 20:51:16 +0200'
+  date_gmt: '2004-07-23 20:51:16 +0200'
+  content: "Na telefon bezpowodu jest rozwiazanie? Za kazdym razem gdy dzwoni sziefostwo
+    podnos mowiac \n<br/>- Podwyzka ?\n<br/>W 100% zniecheci toto do dzwonienia lub
+    tez w koncu ja dostaniesz..."
+---
+Dzwoni telefon. SynPrezesa&trade;, bo któżby inny znał mój telefon na biurko.<br />
+<br />
+- Ej, cześć.<br />
+- Słucham.<br />
+- Ej, ty zrobiłeś mojemu ojcu aliasa czy jak?<br />
+- O czym ty do mnie mówisz?<br />
+- A nie, już wiem, o co mi chodzi.<br />
+- Ale ja nie wiem o co chodzi, o co ci chodzi?<br />
+- To spoko, cześć.<br />
+<br />
+Morał: już od lat obserwujemy w kulturze biurowej narastający trend tak zwanego dzwonienia w żadnej sprawie. Jak dowodzą najnowsze badania, człowiek jest z natury jednostką romantyczną i potrzebującą ciepła i bliskości drugiej osoby. Niestety, codzienne życie uczy pośpiechu i nie pozostawia wiele czasu na sprawy duchowe.<br />
+<br />
+Dlatego, coraz częściej, najbardziej zabiegane (mimo swej słusznej budowy ciała) osoby w biurze (a niewątpliwie SynPrezesa&trade; się do nich zalicza) podnoszą telefon i wykręcają numer losowego pracownika. Czyż tak trudno zrozumieć, że wszystko, czego łakną, to usłyszeć ciepłe "słucham?" w słuchawce? :)

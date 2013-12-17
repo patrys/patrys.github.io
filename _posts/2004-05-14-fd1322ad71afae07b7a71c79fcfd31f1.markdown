@@ -1,0 +1,41 @@
+---
+layout: post
+status: publish
+published: true
+title: To potrwa tylko godzinkę
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 16
+date: 2004-05-14 16:03:49.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 31
+  author: Greybrow
+  author_url: ''
+  date: '2004-05-18 01:39:56 +0200'
+  date_gmt: '2004-05-18 01:39:56 +0200'
+  content: |-
+    może szybciej tej nowej pracy poszukaj.
+    <br/>albo dużo melisy pij, ponoć pomaga.
+- id: 32
+  author: pio
+  author_url: ''
+  date: '2004-05-19 15:57:35 +0200'
+  date_gmt: '2004-05-19 15:57:35 +0200'
+  content: |-
+    extra stronka ... oby tak dalej
+    <br/>
+    <br/>http://www.nirvana-shop.com/ref.php?id=5409fdd38c18f5
+---
+Środa, godzina 15:15.<br />
+<br />
+SynPrezesa&trade; przychodzi do biura i oznajmia, że mamy się zwijać z robotą, bo punkt 16:00 wszystkie terminale jadą do sklepu i zostaną wymienione na nowsze. Może i trochę na ostatnią chwilę i nagle, może nikt nie wiedział o co chodzi, może SynPrezesa&trade; nie pracuje w naszej firmie, ale nikt do gadania nic nie miał. Po chwili okazało się, że deadline uległ skróceniu do 15:30. Wszystko jak leci trafiło do busa i pojechało do sklepu. Koło 18:00 nowe komputery zawitały w nasze skromne progi.<br />
+<br />
+Od razu musieliśmy zająć się ich konfiguracją. Dodam, że według umowy pracuję do 18:00. Oczywiście na wstępie okazało się, że jeden z "nowiutkich" Pentium II 266 jest padnięty i czeka go droga powrotna. To jeszcze nic. Oczywiście komputer, na którym stał Windows i WinFax wyjechał na złom, a nowy przyjechał z czystym dyskiem. Cały czwartek poszedł na jego konfiurację i zmuszenie do obsługi drukarki i skanera na USB. Zdziwiony SamPrezes&trade; rzekł tedy: "a mi syn mówił, że to tylko podmiana komputerów, godzinka i gotowe". I w ten oto sposób SynPrezesa&trade; wyniesion został do rangi specjalisty od wszystkiego, a ja, biedny administrator pozostałem tym, co wszystko psuje i nie umie w godzinę uruchomić dwunastu nowych komputerów. Na szczęście w czwartek z pomocą przyszedł mi mój BezpośredniPrzełożony&trade;, bo SynPrezesa&trade; nie był łaskaw zaszczycić nas swoją "specjalistyczną" obecnością. Komputery było komu wymieniać, jednak kiedy przyszło je skonfigurować, nagle przypomniał sobie, że on przecież u nas nie pracuje.<br />
+<br />
+Koniec końców sytuacja wróciła do normy dzisiaj około 14:00, kiedy od zra skonfigurowany został ostatni z komputerów, służący za workstację gnome/xfce i loghost dla reszty maszyn. A ja dalej jestem głupi i nie umiem zainstalować wszystkiego w godzinkę :).

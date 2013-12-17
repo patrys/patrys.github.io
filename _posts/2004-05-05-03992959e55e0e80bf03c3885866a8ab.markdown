@@ -1,0 +1,59 @@
+---
+layout: post
+status: publish
+published: true
+title: Backup bywa niebezpieczny
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 11
+date: 2004-05-05 21:31:18.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 21
+  author: remiq
+  author_url: ''
+  date: '2004-05-05 22:36:29 +0200'
+  date_gmt: '2004-05-05 22:36:29 +0200'
+  content: No dobrze, ile lat ma ten syn? :&gt;
+- id: 22
+  author: Patrys
+  author_url: ''
+  date: '2004-05-05 22:37:07 +0200'
+  date_gmt: '2004-05-05 22:37:07 +0200'
+  content: Dwadzieścia dwa. Dokładnie tyle, co i ja.
+- id: 23
+  author: remiq
+  author_url: ''
+  date: '2004-05-05 22:38:54 +0200'
+  date_gmt: '2004-05-05 22:38:54 +0200'
+  content: To o jakieś 15 więcej niż sądziłem :&gt;
+- id: 24
+  author: ssszzzz....szz.zzzzzz.zzzz....
+  author_url: ''
+  date: '2004-05-05 22:53:16 +0200'
+  date_gmt: '2004-05-05 22:53:16 +0200'
+  content: przeceniles goscia remiq
+- id: 25
+  author: mrman
+  author_url: ''
+  date: '2004-05-06 00:23:54 +0200'
+  date_gmt: '2004-05-06 00:23:54 +0200'
+  content: a Ty musisz dawać mu hasła? nawiasem mówiąc bardzo ciekawie czyta mi się
+    tego joga ;D
+- id: 26
+  author: jiji
+  author_url: ''
+  date: '2004-07-19 14:13:14 +0200'
+  date_gmt: '2004-07-19 14:13:14 +0200'
+  content: powinien się jog nazywać syn prezesa :)
+---
+Swego czasu pisaliśmy w robocie taki skrypt do automatycznego backupu danych. Ot wywołanie partimage w trybie wsadowym, żeby się połączył z serwerem i zrzucił obraz partycji. Żadna filozofia. Skrypt dodatkowo zakładał w / symlink o nazwie backup, coby nikomu nie przyszło do głowy w tym czasie mieszać w poldku czy rpm-ie. Wszystko działało cacy, skrypt był wołany z crontaba, zakładał swój symlink, czekał 10 czy 15 minut i zaczynał backup. Wszystko było na dobrej drodze do sukcesu, ale...
+
+Ale katastrofa zaczęła się właśnie od tego kilkunastominutowego oczekiwania. SynPrezesa&trade; nie mógł przeczekać tych paru minut, więc zabił skrypt z palca. Oczywiście pozostał prowadzący do nikąd symlink w głównym katalogu. Co więc zrobił? Włączył midnighta, przeszedł na koniec listy plików i katalogów w /, gdzie znajdował się nasz nieszczęsny link, coś tam powciskał i już po chwili nie było... <code>/bin</code> (!). Jak wiadomo, klawisze Home i F8 są tak blisko siebie, że czasem człowiek się pomyli i wciśnie dwa na raz ;D.
+
+Morał: <code>rm -f /backup</code> nigdy cię nie zawiedzie, nie ufaj mc i synom wysoko postawionych osób :).

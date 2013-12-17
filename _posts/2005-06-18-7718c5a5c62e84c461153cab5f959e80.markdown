@@ -1,0 +1,117 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #012: Marzenie informatyka'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 108
+date: 2005-06-18 21:25:12.000000000 +02:00
+categories:
+- comic
+tags: []
+comments:
+- id: 1317
+  author: Nina
+  author_url: ''
+  date: '2005-06-18 21:26:14 +0200'
+  date_gmt: '2005-06-18 21:26:14 +0200'
+  content: |-
+    Kurde. Akurat teraz jak ja łyk piwa wzięłam.
+    <br/>
+    <br/>Idę po chusteczki.
+- id: 1318
+  author: martinez
+  author_url: ''
+  date: '2005-06-18 21:34:16 +0200'
+  date_gmt: '2005-06-18 21:34:16 +0200'
+  content: Wykonanie przednie, ale o co chodzi? :-))
+- id: 1319
+  author: jarv
+  author_url: ''
+  date: '2005-06-18 23:28:12 +0200'
+  date_gmt: '2005-06-18 23:28:12 +0200'
+  content: stary - kamy juz nie ma, ale poczekaj jak ci cos pokaze w poniedzialek...
+    ;]
+- id: 1320
+  author: rorio
+  author_url: ''
+  date: '2005-06-20 17:27:17 +0200'
+  date_gmt: '2005-06-20 17:27:17 +0200'
+  content: eee... o co tu biega?
+- id: 1321
+  author: Patrys
+  author_url: ''
+  date: '2005-06-20 18:40:31 +0200'
+  date_gmt: '2005-06-20 18:40:31 +0200'
+  content: Hmm, żeby zrozumieć głębszy sens tego paska, należy poznać odrobinę języków
+    obcych, a szczególnie liznąć co-nieco z francuskiego ;]
+- id: 1322
+  author: qeek
+  author_url: ''
+  date: '2005-06-20 21:23:55 +0200'
+  date_gmt: '2005-06-20 21:23:55 +0200'
+  content: |-
+    lol
+    <br/>faktycznie, ciężko się zorientować ;)
+- id: 1323
+  author: Patrys
+  author_url: ''
+  date: '2005-06-21 00:07:21 +0200'
+  date_gmt: '2005-06-21 00:07:21 +0200'
+  content: Od razu widać, o czym kto myśli ;)
+- id: 1324
+  author: qeek
+  author_url: ''
+  date: '2005-06-21 00:08:13 +0200'
+  date_gmt: '2005-06-21 00:08:13 +0200'
+  content: ee... nie potwierdzam nie zaprzeczam ;)
+- id: 1325
+  author: rorio
+  author_url: ''
+  date: '2005-06-21 09:10:02 +0200'
+  date_gmt: '2005-06-21 09:10:02 +0200'
+  content: kurde, patrys w tym jest jakieś głębsze przesłanie...
+- id: 1326
+  author: kupel
+  author_url: ''
+  date: '2005-07-03 21:48:03 +0200'
+  date_gmt: '2005-07-03 21:48:03 +0200'
+  content: pojehane to jest
+- id: 1327
+  author: knur
+  author_url: ''
+  date: '2005-07-03 21:48:37 +0200'
+  date_gmt: '2005-07-03 21:48:37 +0200'
+  content: ide po kiełbase
+- id: 1328
+  author: laki
+  author_url: ''
+  date: '2005-07-03 21:49:17 +0200'
+  date_gmt: '2005-07-03 21:49:17 +0200'
+  content: jebać stare baby
+- id: 1329
+  author: jpc
+  author_url: ''
+  date: '2005-08-11 21:12:54 +0200'
+  date_gmt: '2005-08-11 21:12:54 +0200'
+  content: Francuski, francuskim, ale dlaczego przed monitorem? ;]
+- id: 2841
+  author: Sh`eenaz
+  author_url: ''
+  date: '2005-12-24 20:24:32 +0100'
+  date_gmt: '2005-12-24 19:24:32 +0100'
+  content: Dziekuje za ten szczery banan na mojej facjacie. Jesteś czikita. Tak zdecydowanie.
+    Nie żaden zwykły banan ;-)
+- id: 25272
+  author: Matius
+  author_url: http://ematius.pl/
+  date: '2010-11-25 20:15:19 +0100'
+  date_gmt: '2010-11-25 19:15:19 +0100'
+  content: xD Dobre, gościu jesteś pro! xDD
+---
+<p>Z góry przepraszam wszystkich urażonych, ale tak mi się jakoś skojarzyło było ;)</p>
+
+<p class="strip"><img src="http://comic.room-303.com/strips/012-it-dream.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>

@@ -1,0 +1,36 @@
+---
+layout: post
+status: publish
+published: true
+title: Gnickr!
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 204
+wordpress_url: http://www.room-303.com/blog/2005/12/28/gnickr/
+date: 2005-12-28 00:56:42.000000000 +01:00
+categories:
+- linux
+tags: []
+comments:
+- id: 2842
+  author: da.killa
+  author_url: http://golf-olszewka.pl/blog/
+  date: '2005-12-28 01:01:20 +0100'
+  date_gmt: '2005-12-28 00:01:20 +0100'
+  content: Dałbyś może namiary na tego speca, co? :)
+- id: 2843
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2005-12-28 01:06:43 +0100'
+  date_gmt: '2005-12-28 00:06:43 +0100'
+  content: Przecież dałem :P
+---
+<p>Od dłuższego czasu szukałem wygodnego narzędzia pod Gnome do zarządzania obrazkami na <a href="http://www.flickr.com/">Flickr!</a>. Zupełnie nieoczekiwanie, <a href="http://golf-olszewka.pl/blog/">da.killa</a> podrzucił mi wczoraj link do <a href="http://gnickr.sourceforge.net/">Gnickr!</a> - klienta, który zamiast własnego interfejsu oferuje integrację z systemem plików Gnome.</p>
+
+<p class="strip"><a href="http://www.flickr.com/photos/90175672@N00/77822285/" title="Photo Sharing"><img src="http://static.flickr.com/38/77822285_194fc6edd8.jpg" alt="gnickr!" /></a></p>
+
+<p>Program jest dość świeży i doczekał się dopiero wersji 0.0.2, ale już oferuje sporo możliwości - wyświetla zestawy zdjęć jako katalogi, pokazuje miniaturki obrazków i pozwala zarządzać nimi tak, jak zwykłymi plikami - możemy je więc wycinać, kopiować i przeciągać na serwer i z powrotem.</p>
+
+<p>Użytkowników <abbr title="PLD Linux Distribution">PLD</abbr> ucieszy zapewne fakt, że <a href="http://cvs.pld-linux.org/cgi-bin/cvsweb/SPECS/gnickr.spec">stosowny plik <code>spec</code></a> jest już gotowy w repozytorium <abbr title="Concurrent Versioning System">CVS</abbr> i można go sobie zbudować (uwaga - wymaga <code>python-gnome</code> w wersji 2.12.3 lub nowszej).</p>

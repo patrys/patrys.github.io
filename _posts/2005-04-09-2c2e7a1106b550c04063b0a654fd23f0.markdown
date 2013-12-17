@@ -1,0 +1,288 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #008: Dziś o 13:37...'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 77
+date: 2005-04-09 16:35:10.000000000 +02:00
+categories:
+- comic
+tags: []
+comments:
+- id: 893
+  author: Smoothguy
+  author_url: ''
+  date: '2005-04-09 16:37:49 +0200'
+  date_gmt: '2005-04-09 16:37:49 +0200'
+  content: Boskie! Ale błąd rzeczowy - o 13:37 nie jest ciemno. :P
+- id: 894
+  author: Cachotterie
+  author_url: ''
+  date: '2005-04-09 16:38:48 +0200'
+  date_gmt: '2005-04-09 16:38:48 +0200'
+  content: |-
+    Hehe, na to samo zwróciłam uwagę ;)
+    <br/>Pozostaje przyjąć że Patrys nie miesza w naszej strefie czasowej tylko na jakimś biegunie or sth ;)
+- id: 895
+  author: Patrys
+  author_url: ''
+  date: '2005-04-09 16:38:56 +0200'
+  date_gmt: '2005-04-09 16:38:56 +0200'
+  content: Godzina jest taka celowo, kto się interesuje komputerami, ten pewnie załapie
+    dowcip. Chodzi o bycie &quot;trendy&quot;.
+- id: 896
+  author: K a s p r z o l
+  author_url: ''
+  date: '2005-04-09 16:43:42 +0200'
+  date_gmt: '2005-04-09 16:43:42 +0200'
+  content: Świetny strip
+- id: 897
+  author: XyC
+  author_url: ''
+  date: '2005-04-09 16:44:16 +0200'
+  date_gmt: '2005-04-09 16:44:16 +0200'
+  content: |-
+    ROTFL!!!
+    <br/>Ale spoko, ja w ramach empatii o 2137 zgasiłem... dwa niebieskie neony na obudowie :]
+- id: 898
+  author: pmz
+  author_url: ''
+  date: '2005-04-09 16:55:03 +0200'
+  date_gmt: '2005-04-09 16:55:03 +0200'
+  content: Świetne! :-)
+- id: 899
+  author: DeeJay1
+  author_url: ''
+  date: '2005-04-09 17:22:42 +0200'
+  date_gmt: '2005-04-09 17:22:42 +0200'
+  content: Patrys, poproszę o litość dla mojej przepony, jeszcze kilka takich stripów
+    i będę musiał ją łatać :)
+- id: 900
+  author: Raf
+  author_url: ''
+  date: '2005-04-09 17:52:42 +0200'
+  date_gmt: '2005-04-09 17:52:42 +0200'
+  content: |-
+    1337 = l33t = leet = elite :P
+    <br/>Genialne Patrys.
+- id: 901
+  author: Spider
+  author_url: ''
+  date: '2005-04-09 18:34:57 +0200'
+  date_gmt: '2005-04-09 18:34:57 +0200'
+  content: cudne :) zycie w krzywym zwierciadle wg. patrysa :)
+- id: 902
+  author: rash
+  author_url: ''
+  date: '2005-04-09 18:55:42 +0200'
+  date_gmt: '2005-04-09 18:55:42 +0200'
+  content: pwnz! ;-)
+- id: 903
+  author: Smoothguy
+  author_url: ''
+  date: '2005-04-09 22:10:02 +0200'
+  date_gmt: '2005-04-09 22:10:02 +0200'
+  content: 'Patrys: Nie no, co znaczy 1337 to wiem, tak się tylko czepiam. :P No ale
+    możemy uznać żeś jest na biegunie południowym 22 czerwca. :P'
+- id: 904
+  author: da.killa
+  author_url: ''
+  date: '2005-04-09 22:42:28 +0200'
+  date_gmt: '2005-04-09 22:42:28 +0200'
+  content: Szczęka mi opadła! Super strip!
+- id: 905
+  author: Age
+  author_url: ''
+  date: '2005-04-10 10:59:27 +0200'
+  date_gmt: '2005-04-10 10:59:27 +0200'
+  content: dobre.
+- id: 906
+  author: Age
+  author_url: ''
+  date: '2005-04-10 11:05:06 +0200'
+  date_gmt: '2005-04-10 11:05:06 +0200'
+  content: btw, apropo notki o polskich pracownikach, to sie zastanow chlopcze co
+    piszesz, bo jak do mnie ktos przychodzi i pyta o cos, co jest mi nieznane (np
+    o pora tudziez selera :) to tez nie wiem czego on chce. Moze Pani w kiosku jest
+    nowa i jeszcze nie kuma wszystkiego. A juz napewno trudno od niej wymagac zeby
+    wiedziala co to Linux + czy jakis Srinux Sragazin.
+- id: 907
+  author: Raf
+  author_url: ''
+  date: '2005-04-10 12:47:36 +0200'
+  date_gmt: '2005-04-10 12:47:36 +0200'
+  content: 'Age: Chyba śnisz. Jak pracuje w kiosku to ma wiedzieć co sprzedaje. Według
+    tego co mówisz to ktoś kto pracuje w warsztacie samochodowym nie musi się znać
+    na kołach tak? Rewelka...'
+- id: 908
+  author: XyC
+  author_url: ''
+  date: '2005-04-10 13:11:18 +0200'
+  date_gmt: '2005-04-10 13:11:18 +0200'
+  content: Raf ma rację. Zawsze można przecież zrobić jakieś krótkie szkolenie do
+    nowo przyjętego pracownika.
+- id: 909
+  author: Cachotterie
+  author_url: ''
+  date: '2005-04-10 13:14:20 +0200'
+  date_gmt: '2005-04-10 13:14:20 +0200'
+  content: Krótkie szkolenie? Jak większy kiosk sprzedaje kilkaset tytułów to myślisz
+    że &quot;krótkie szkolenie&quot; by zasadniczo pomogło? :] Następnego dnia po
+    takim szkoleniu nie pamiętałbyś 1/5 tego co Ci pokazywali, a co dopiero po tygodniu
+    :] Widać Linux + nie jest jakoś super popularną gazetą do szukania w kioskach
+    i dlatego kobita nie kojarzy.
+- id: 910
+  author: anonim
+  author_url: ''
+  date: '2005-04-10 16:48:17 +0200'
+  date_gmt: '2005-04-10 16:48:17 +0200'
+  content: Zmień styl w &lt;IMG&gt; na display:block; bo na razie masz inline; A może
+    to float?
+- id: 911
+  author: Patrys
+  author_url: ''
+  date: '2005-04-10 16:50:39 +0200'
+  date_gmt: '2005-04-10 16:50:39 +0200'
+  content: Chyba nie rozumiem - &lt;img&gt; jest częścią paragrafu, jak może mieć
+    display inny niż inline?
+- id: 912
+  author: anonim
+  author_url: ''
+  date: '2005-04-10 17:03:58 +0200'
+  date_gmt: '2005-04-10 17:03:58 +0200'
+  content: 'Nie zaglądam do CSS, więc opieram się na domysłach - w chwilo obecnej
+    link &quot;Wróć na główną&quot;, jak i &quot;Komentarze #&quot; są obok obrazka,
+    a powinny być, jak mniemam, pod nim. Wynika to z tego, że klasa strip ma jakiegoś
+    float albo display:inline; Może się mylę i uzyskany efekt jest przez Ciebie zamierzonym
+    - tego nie wiem, niemniej dolna krawędź obrazka jest *pod* całością wpisu. Ech,
+    ciężko to opisać :-)'
+- id: 913
+  author: Patrys
+  author_url: ''
+  date: '2005-04-10 17:06:53 +0200'
+  date_gmt: '2005-04-10 17:06:53 +0200'
+  content: Nie, klasa strip nie ma floatowania ani zmienianego display, t ozwykły
+    paragraf ze środkowaniem tekstu. I nie widziałem, żeby którakolwiek przeglądarka
+    tak się zachowywała (IE6/FF1.0/Moz1.7/Konq).
+- id: 914
+  author: Cachotterie
+  author_url: ''
+  date: '2005-04-10 17:08:14 +0200'
+  date_gmt: '2005-04-10 17:08:14 +0200'
+  content: U mnie tyż. Znaczy nie pod całością wpisu, ale zaiste link jest po prawej
+    od obrazka, a nie pod nim. Czego ja używam to wiesz :P
+- id: 915
+  author: anonim
+  author_url: ''
+  date: '2005-04-10 17:09:22 +0200'
+  date_gmt: '2005-04-10 17:09:22 +0200'
+  content: Opera 8.0 b3. Zaiste, sprawdziłem w FF, efekt jest zupełnie inny. W Operze,
+    napis &quot;Wróć na główną&quot; jest wciśnięty między obrazek a prawą krawędź
+    głównej kolumny i umiejsciowiony przy samej górze obrazka. Może to ten link ma
+    floata?
+- id: 916
+  author: Cachotterie
+  author_url: ''
+  date: '2005-04-10 17:09:36 +0200'
+  date_gmt: '2005-04-10 17:09:36 +0200'
+  content: Aha, obok jest tylko w evil i kubrick, za to w pretty boxes i mozilla jest
+    pod :)
+- id: 917
+  author: XyC
+  author_url: ''
+  date: '2005-04-10 17:10:23 +0200'
+  date_gmt: '2005-04-10 17:10:23 +0200'
+  content: |-
+    SOX#1: U mnie wszystko działa :&gt;
+    <br/>
+    <br/>Firefox 1.0.2 @1280x1024
+- id: 918
+  author: Patrys
+  author_url: ''
+  date: '2005-04-10 17:11:37 +0200'
+  date_gmt: '2005-04-10 17:11:37 +0200'
+  content: 'Widzę właśnie, ale to błąd Opery. Po display: block każdy floatowany element
+    powinien wymusić złamanie wiersza.'
+- id: 919
+  author: pmz
+  author_url: ''
+  date: '2005-04-10 17:12:00 +0200'
+  date_gmt: '2005-04-10 17:12:00 +0200'
+  content: |-
+    U mnie link jest _pod_ obrazkiem. Używam stylu mozilla i Firefoksa 1.0.2
+    <br/>
+    <br/>anonim: brak ci słów? Zrób screenshota! :-P
+- id: 920
+  author: Cachotterie
+  author_url: ''
+  date: '2005-04-10 17:13:16 +0200'
+  date_gmt: '2005-04-10 17:13:16 +0200'
+  content: Myślę że skrinszot niepotrzebny, Patrys ma operę, a to ewidentnie w niej
+    coś się krzaczy. Ciekawe tylko, że w dwóch stylach jest dobrze, a w dwóch pozostałych
+    nie, mimo że, jak sądzę, akurat te części szablonów pewnie są podobne :)
+- id: 921
+  author: K a s p r z o l
+  author_url: ''
+  date: '2005-04-10 17:14:49 +0200'
+  date_gmt: '2005-04-10 17:14:49 +0200'
+  content: To ja dodam, że tak mam w konqu 3.3.2 z prawej strony obrazka przy mniejszych
+    fontach. Jak powiększę font link do strony głównej ląduje pod obrazkiem.
+- id: 922
+  author: anonim
+  author_url: ''
+  date: '2005-04-10 17:18:15 +0200'
+  date_gmt: '2005-04-10 17:18:15 +0200'
+  content: 'Hint: spróbuj ustawić rozmiary obrazka za pomocą height i width. Może
+    to pomoże?'
+- id: 923
+  author: Patrys
+  author_url: ''
+  date: '2005-04-10 17:21:56 +0200'
+  date_gmt: '2005-04-10 17:21:56 +0200'
+  content: Na co dzień pracuję jako webdeveloper. Ta strona to odpoczynek dla mnie,
+    gdyby tak bardzo mi zależało na jej interoperacyjności, to zrezygnowałbym z przezroczystych
+    plików PNG (IE nie umie). Sprawę pewnie załatwiłoby wstawienie niełamliwej spacji
+    przed sam link. Z tym, że to jest tak zwany ugly hack. A rozmiarów obrazków nie
+    podaję dla wygody (choć dla linkowanych zewnętrznie grafik powinno się to podawać
+    dla przyspieszenia renderowania strony).
+- id: 924
+  author: wariat
+  author_url: ''
+  date: '2005-04-10 17:24:32 +0200'
+  date_gmt: '2005-04-10 17:24:32 +0200'
+  content: |-
+    W Ponga mowisz ...
+    <br/>http://www.blinkenlights.de/interactive.en.html ;-)
+- id: 925
+  author: Hawk
+  author_url: ''
+  date: '2005-04-11 00:17:27 +0200'
+  date_gmt: '2005-04-11 00:17:27 +0200'
+  content: Pong... Gdzieś już widziałem coś podobnego... :) http://ars.userfriendly.org/cartoons/?id=19990203
+- id: 926
+  author: Age
+  author_url: ''
+  date: '2005-04-11 05:56:12 +0200'
+  date_gmt: '2005-04-11 05:56:12 +0200'
+  content: 'Raf : noo, a kioskarka czy tam kto, przez calezy zycie marzyla o tym zeby
+    zostac kioskarka i od wczesnych lat mlodosci studiowala pisma komputerowe coby
+    zadowolic spragnionych wiedzy informatykow. Chodzilo mi o to raczej, ze trza wziasc
+    pod uwage fakt ze moze nowa byla i jeszcze sie w tym nie lapie. Chetnie bym posnila
+    jak to zasugerowales ale niestety musze isc do pracy. I o kurwa, u nas na sklepie
+    tez sa gazety i tez nie wiem jakie. CHyba sie zwolnie na wlasne zyczenie bom niegodna.'
+- id: 927
+  author: Raf
+  author_url: ''
+  date: '2005-04-11 15:32:49 +0200'
+  date_gmt: '2005-04-11 15:32:49 +0200'
+  content: 'Age: Kiosk, a sklep to niebo a ziemia ;)'
+---
+<p>Pomysłowość bezmyślnych ludzi mnie przeraża. Ciekawe, co by się stało, gdyby łańcuszek papieżowych trendów głosił <q><cite>dziś o 21:37 wystawiamy na 2 godziny telewizory plazmowe przed budynek</cite></q>. Podejrzewam, że byłbym bogatszy o kilka telewizorów.</p>
+
+<p>Łańcuszkom mówimy nie i w zamian propagujemy własny - dziś o 13:37 gasimy światła i gramy w Ponga!</p>
+
+<p class="strip"><img src="http://patrys.icenter.pl/comic/008-pong.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>

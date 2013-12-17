@@ -1,0 +1,63 @@
+---
+layout: post
+status: publish
+published: true
+title: Web2.0, part 2
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 222
+wordpress_url: http://www.room-303.com/blog/2006/01/28/web20-part-2/
+date: 2006-01-28 17:36:04.000000000 +01:00
+categories:
+- varia
+- web
+tags: []
+comments:
+- id: 3168
+  author: froger3
+  author_url: http://outrospectivegear.jogger.pl/
+  date: '2006-01-28 18:33:16 +0100'
+  date_gmt: '2006-01-28 17:33:16 +0100'
+  content: brakuje taga "osobiste" :)
+- id: 3170
+  author: estral
+  author_url: ''
+  date: '2006-01-28 19:26:53 +0100'
+  date_gmt: '2006-01-28 18:26:53 +0100'
+  content: Ten cykl zapowiada się bardzo interesująco. Licze na kolejne, równie dobre
+    odsłony :-]
+- id: 3171
+  author: bellois
+  author_url: http://jabba.pl/bellois
+  date: '2006-01-28 19:46:34 +0100'
+  date_gmt: '2006-01-28 18:46:34 +0100'
+  content: Buahaha, świetne :-)
+- id: 3172
+  author: DeeJay1
+  author_url: http://www.actus.org.pl/
+  date: '2006-01-28 20:12:54 +0100'
+  date_gmt: '2006-01-28 19:12:54 +0100'
+  content: Ja tam preferuję "lorem ipsum", od Web 2.0 bolą mnie oczy i mam zawroty
+    głowy :P
+- id: 3177
+  author: K!
+  author_url: http://blog.krzysiek.org
+  date: '2006-01-29 17:17:32 +0100'
+  date_gmt: '2006-01-29 16:17:32 +0100'
+  content: "Ja chciałbym tylko zwrócić uwagę na to, że podczas szukania w archiwum,
+    gdy nic nie zostaje znalezione, na górze pojawia się błąd:\r\n„Warning: strtotime()
+    [function.strtotime]: Called with an empty time parameter. in /home/.hawn/revolta/room-303.com/blog/wp-includes/template-functions-links.php
+    on line 53\r\ntrackback:ping=\"http://www.room-303.com/blog/1969/12/31//trackback/\"
+    /&gt;”."
+- id: 3185
+  author: Piotrek / savek
+  author_url: http://diary.savek.info
+  date: '2006-02-01 16:04:14 +0100'
+  date_gmt: '2006-02-01 15:04:14 +0100'
+  content: Świetne :))) od razu wiadomo o co chodzi :)
+---
+<p class="strip"><a href="http://www.flickr.com/photos/90175672@N00/92177298/" title="Photo Sharing"><img src="http://static.flickr.com/25/92177298_39accd3839.jpg" width="500" height="375" alt="Web 2.0" /></a></p>
+
+Technorati Tags: <a href="http://technorati.com/tag/web2.0" rel="tag">web2.0</a>, <a href="http://technorati.com/tag/joke" rel="tag">joke</a>, <a href="http://technorati.com/tag/tag" rel="tag">tag</a>, <a href="http://technorati.com/tag/tagset" rel="tag">tagset</a>, <a href="http://technorati.com/tag/tagcloud" rel="tag">tagcloud</a>

@@ -1,0 +1,96 @@
+---
+layout: post
+status: publish
+published: true
+title: Oddam projekt w dobre ręce
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 85
+date: 2005-05-07 14:06:23.000000000 +02:00
+categories:
+- software
+- code
+tags: []
+comments:
+- id: 1015
+  author: Mswider@jogger.pl
+  author_url: ''
+  date: '2005-05-07 15:04:14 +0200'
+  date_gmt: '2005-05-07 15:04:14 +0200'
+  content: Witam! Dzięki twoim informacją potwierdziłem informacje, które uzyskałem
+    z innych źródeł. Przydało mnie się to bardzo! Dziękuję ci!
+- id: 1016
+  author: Express
+  author_url: ''
+  date: '2005-05-09 11:49:22 +0200'
+  date_gmt: '2005-05-09 11:49:22 +0200'
+  content: |-
+    A co z Wurmzami? Są jeszcze szanse na reaktywację?
+    <br/>Jakoś zawsze bardziej do mnie przemawiały niż Gusanos.
+- id: 1017
+  author: Jerrec
+  author_url: ''
+  date: '2005-05-10 08:15:00 +0200'
+  date_gmt: '2005-05-10 08:15:00 +0200'
+  content: "Mówiąc szczerze chyba lepiej by było gdyby Patrys pomógł Basarze z(*cough*napisał*cough*)
+    AI do Gusanos...\n<br/>\n<br/>LOSP połączył się z Gusanos. Więc czemu nie przenieść
+    części Wurmz! do G? "
+- id: 1018
+  author: Greybrow
+  author_url: ''
+  date: '2005-05-10 14:29:56 +0200'
+  date_gmt: '2005-05-10 14:29:56 +0200'
+  content: I części LSP do G może też?
+- id: 1019
+  author: Krymzon
+  author_url: ''
+  date: '2005-05-10 19:33:29 +0200'
+  date_gmt: '2005-05-10 19:33:29 +0200'
+  content: |-
+    Oj z częścią LSP to może być trudno, bo jest oparte na zupełnie innym silniku. Chociaż przekonywaliśmy się wielokrotnie, że w obecności Patrysa termin &quot;niemożliwe&quot; traci znaczną część obszaru swej stosowalności ^_^
+    <br/>
+    <br/>Natomiast na patrysowe AI w Gusanos cały czas po cichu liczę... Boty w Wurmz!, mimo że dalekie od bycia dopracowanymi, kosiły. A skrypty w LUA to coś, czym chętnie i ja bym się zajął, gdyby och implementacja dawała troszkę więcej możliwości, niż w ostatnich órz:
+    <br/>-Zmienne przekazywane między klatkami! Robak musi coś pamiętać, żeby się nie zaciąć na trudnej mapie.
+    <br/>-Położenie obiektów - szansa na napisanie algorytmów omijania pocisków:P
+    <br/>-Przypisywanie plików ze skryptami inteligencji do plików profilu gracza, co da możliwość organizowania turniei botów ^_^
+- id: 1020
+  author: Patrys
+  author_url: ''
+  date: '2005-05-10 19:52:15 +0200'
+  date_gmt: '2005-05-10 19:52:15 +0200'
+  content: |-
+    Krymzon:
+    <br/>
+    <br/>- każdy bot ma własną pamięć, więc wszystkie zmiennie są zachowywane między klatkami.
+    <br/>
+    <br/>- położenia obiektów nie ma, ale trzebaby najpierw dzielić obiekty na drzewo quad, żeby wygodnie je przeszukiwać
+    <br/>
+    <br/>- każdy bot może mieć własny skrypt AI, w pliku .cfg z profilem się to defniuje
+- id: 1021
+  author: Krymzon
+  author_url: ''
+  date: '2005-05-10 22:47:03 +0200'
+  date_gmt: '2005-05-10 22:47:03 +0200'
+  content: |-
+    Ajwaj, co do tej pamięci to się widać niezbyt dobrze w skrypty wczytałem:(  Jeśli chodzi o własny skrypt dla bota, to widziałem, że szykowałeś coś takiego, ale chyba w końcu w żadnym .cfg, które do mnie dotarło, nie było rzeczonej definicji. Nie wiedziałem, że silnik to już obsługuje.
+    <br/>
+    <br/>Skoro jednak te prace były tak zaawansowane, ino skryptów brakowało, może warto byłoby włączyć Wurmzowe AI do Gusanos?:&gt;
+- id: 1022
+  author: eh
+  author_url: ''
+  date: '2005-06-18 14:14:23 +0200'
+  date_gmt: '2005-06-18 14:14:23 +0200'
+  content: Ten klon wyglada rewelacyjnie. Szkoda ze pewnie nigdy nie zobaczymy grywalnej
+    wersji.
+---
+<p>Niegdyś bardzo blisko związany z <a href="http://liero.org.pl">Ligą Liero</a>, popełniłem klona tej przewspaniałej gry, który zwał się <a href="http://d11clan.net/viewdownloads.php?Type=13">Wurmz!</a>. Gra cieszyła się sporą popularnością, niestety jej kod nie nadawał się do niczego z paru względów - w połowie napisany był w C, w połowie w C++ (gra w międzyczasie przeszła na C++, ale nie miałem czasu przepisać całości kodu), projekt prowadziłem w strzępach wolnego czasu, więc każda funkcja była zbiorem brzydkich hacków (z braku wolnego liczył się czas realizacji, a nie sposób). Projekt został w końcu zastąpiony przez <a href="http://gusanos.sourceforge.net/">Gusanos</a>.</p>
+
+<p>Równolegle prowadziłem projekt innego klona Liero, gry opartej na wektorach, z realistyczną fizyką i ładniejszą grafiką. To właśnie tego projektu, <a href="http://lierosp.sourceforge.net/">Liero Sequel Project</a>, dotyczy ta notka.</p>
+
+<p class="strip"><img src="http://wirusy.room-303.com/lierosp/2005-05-07-lierosp.png" alt="Screenshot z gry" /></p>
+
+<p>Projekt utknął (z braku mojego czasu) na etapie implementacji silnika. Napisałem kompletny system obsługi kolizji (realistyczna fizyka). Wygląda (moim skromnym zdaniem) <a href="http://wirusy.room-303.com/lierosp/2005-05-07-lierosp-big.png">całkiem nieźle</a>, działa pod Windows i pod Linuksem. Współpracujący ze mną grafik (Dzięcioł / Woodpecker Studios) obiecał zaspokoić każdą zachciankę graficzną. Potrzeba jeszcze przepisać engine odpowiedzialny za particle (gracze, bronie) i napisać engine wykrywania kolizji obiekt/obiekt (obiekty mają okrągłe bounding-boksy, więc nie powinno być to trudne).</p>
+
+<p>Pytanie brzmi: czy są jacyś chętni?</p>

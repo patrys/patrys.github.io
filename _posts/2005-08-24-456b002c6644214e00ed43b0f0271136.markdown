@@ -1,0 +1,220 @@
+---
+layout: post
+status: publish
+published: true
+title: The Daily WTF
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 146
+date: 2005-08-24 19:13:45.000000000 +02:00
+categories:
+- software
+- code
+tags: []
+comments:
+- id: 2012
+  author: zimny k.
+  author_url: ''
+  date: '2005-08-24 19:14:43 +0200'
+  date_gmt: '2005-08-24 19:14:43 +0200'
+  content: Nieźle, nieźle.. skąd to?
+- id: 2013
+  author: Patrys
+  author_url: ''
+  date: '2005-08-24 19:15:20 +0200'
+  date_gmt: '2005-08-24 19:15:20 +0200'
+  content: Nie powiem, bo mi szkoda kopać leżącego.
+- id: 2014
+  author: Reinmar
+  author_url: ''
+  date: '2005-08-24 19:16:25 +0200'
+  date_gmt: '2005-08-24 19:16:25 +0200'
+  content: Kopać nie musimy... Ale pośmiać bym się pośmiał ;p
+- id: 2015
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-08-24 19:26:14 +0200'
+  date_gmt: '2005-08-24 19:26:14 +0200'
+  content: Windows 95 - stare dobre czasy, gdy życie było proste ;-)
+- id: 2016
+  author: Jezuch
+  author_url: ''
+  date: '2005-08-24 19:29:51 +0200'
+  date_gmt: '2005-08-24 19:29:51 +0200'
+  content: Pierwszy raz widzisz coś takiego? Dziiiiiwne...
+- id: 2017
+  author: 把泛物 就把孤
+  author_url: ''
+  date: '2005-08-24 19:31:25 +0200'
+  date_gmt: '2005-08-24 19:31:25 +0200'
+  content: |-
+    Ło matko... Jak dla mnie, wystarczyłoby:
+    <br/>
+    <br/>if(sizeof($tab)&gt;0)
+    <br/>
+    <br/>A jeśliby można:
+    <br/>
+    <br/>if(sizeof($tab))
+- id: 2018
+  author: Reinmar
+  author_url: ''
+  date: '2005-08-24 19:35:03 +0200'
+  date_gmt: '2005-08-24 19:35:03 +0200'
+  content: |-
+    No i właśnie w tym problem... Ale niestety takie twory odchodzą kiedy ktoś uczy się z internetu, a nie ma studiów informatycznych, czy chociażby jakiegoś zmysłu informatycznego...
+    <br/> Przynajmniej z mojego punktu widzenia to tak wynika
+- id: 2019
+  author: Patrys
+  author_url: ''
+  date: '2005-08-24 19:37:27 +0200'
+  date_gmt: '2005-08-24 19:37:27 +0200'
+  content: |-
+    Akurat w tym przypadu wystarczyłoby:
+    <br/>
+    <br/>if($tab)
+    <br/>{
+    <br/>[...]
+    <br/>}
+- id: 2020
+  author: myak
+  author_url: ''
+  date: '2005-08-24 20:15:15 +0200'
+  date_gmt: '2005-08-24 20:15:15 +0200'
+  content: |-
+    Reinmar:
+    <br/>Ty myslisz, ze studenci wydzialow/kierunkow informatycznych nie popelniaja takich zbrodni? Na takie studia idzie mnostwo przypadkowych osob, bo za tym stoi dobra kasa. I bardzo wiele z tych osob nie ma tego zmyslu, o ktorym mowisz ani checi do nauki - pozniej wlasnie pojawiaja sie takie rzeczy.
+- id: 2021
+  author: Reinmar
+  author_url: ''
+  date: '2005-08-24 20:21:04 +0200'
+  date_gmt: '2005-08-24 20:21:04 +0200'
+  content: |-
+    myak: To może znamy innych ludzi ;p
+    <br/>
+    <br/>Chociaż... Czekaj. Moja informatyczka z gim. była po studiach inf.-nych. A to zapomniałem o Takich ludziach ;] Wybacz ;p
+- id: 2022
+  author: myak
+  author_url: ''
+  date: '2005-08-24 20:23:44 +0200'
+  date_gmt: '2005-08-24 20:23:44 +0200'
+  content: |-
+    Reinmar:
+    <br/>Pewnie innych :) Ja na potwierdzenie swoich slow moge tylko powiedziec, ze kiedys jednemu kolesiowi z EiTI PW pisalem program na zaliczenie.. I naprawde duzo jest takich przypadkow.
+- id: 2023
+  author: Jezuch
+  author_url: ''
+  date: '2005-08-24 20:27:48 +0200'
+  date_gmt: '2005-08-24 20:27:48 +0200'
+  content: A po co pisałeś? To tylko psuje renomę uczelni i wydziałowi (*mojemu* wydziałowi)
+- id: 2024
+  author: myak
+  author_url: ''
+  date: '2005-08-24 20:30:17 +0200'
+  date_gmt: '2005-08-24 20:30:17 +0200'
+  content: To byl znajomy znajomego i zostalem bardzo wylewnie poproszony. Taki czlowiek
+    i tak nie ma zapewne szans utrzymac sie na *Twoim* wydziale bo w koncu bedzie
+    kiedys musial napisac cos sam..
+- id: 2025
+  author: zdzichu
+  author_url: ''
+  date: '2005-08-24 20:34:38 +0200'
+  date_gmt: '2005-08-24 20:34:38 +0200'
+  content: "Szczery wybuch śmiechu towarzyszył pojawieniu się tego wpisu w feedzie
+    z pld planet. Pięęęękny kod.\n<br/>Jak można znać tak zawansowane konstrukcje
+    jak a?b:c a nie wiedzieć jak if działa... "
+- id: 2026
+  author: DarkStar blog.krakowiacy.info
+  author_url: ''
+  date: '2005-08-24 20:50:22 +0200'
+  date_gmt: '2005-08-24 20:50:22 +0200'
+  content: Buhahahaha! :D A pamiętacie klasyczny (i słynny) przykład z tabliczką mnożenia?
+- id: 2027
+  author: Paweł Ciupak
+  author_url: ''
+  date: '2005-08-24 20:51:31 +0200'
+  date_gmt: '2005-08-24 20:51:31 +0200'
+  content: |-
+    &gt; A pamiętacie klasyczny (i słynny) przykład z tabliczką mnożenia?
+    <br/>
+    <br/>Szczerze mówiąc, o takim czymś nie słyszałem. Mógłby ktoś wyjaśnić mi, o co chodzi?
+- id: 2028
+  author: LoPMX
+  author_url: ''
+  date: '2005-08-24 21:23:11 +0200'
+  date_gmt: '2005-08-24 21:23:11 +0200'
+  content: Hehehe... no prosze ;] ciekawe... w ogole ciekawy blog. Gratuluje.
+- id: 2029
+  author: Tomash
+  author_url: ''
+  date: '2005-08-25 00:45:45 +0200'
+  date_gmt: '2005-08-25 00:45:45 +0200'
+  content: |-
+    Tak jest, Myak, broń honoru studentów Fizyki Technicznej PW :). Jezuch, może w Waszym gmachu mamy tylko (co poniektórzy) języki obce, ale na innych wydziałach Polibudy też się programuje ;)
+    <br/>
+    <br/>Patrys, to jest mocne - ale wiadomo o co chodzi w tym kodzie. Może zamieścisz HTML+SQL, który ostatnio Ci pokazałem? ;)
+    <br/>(kto czyta thedailywtf.com powinien kojarzyć;))
+    <br/>
+    <br/>Tabliczka mnożenia - AFAIR pacjent serią zagnieżdżonych instrukcji zaimplementował (hardkodował) tabliczkę mnożenia do bodajże 10*10
+    <br/>
+    <br/>Z mocnych rzeczy to jeszcze dobra była rozbiórka inta na bity :].
+- id: 2030
+  author: myak
+  author_url: ''
+  date: '2005-08-25 00:47:22 +0200'
+  date_gmt: '2005-08-25 00:47:22 +0200'
+  content: |-
+    Tomash:
+    <br/>Najpierw musialbym zaczac bronic honoru wykladowcow/cwiczeniowcow u nas na fizyce..
+- id: 2031
+  author: Patrys
+  author_url: ''
+  date: '2005-08-25 00:48:11 +0200'
+  date_gmt: '2005-08-25 00:48:11 +0200'
+  content: |-
+    Tomash:
+    <br/>
+    <br/>Jak tylko znajdę osobiście coś takiego, to zamieszczę. To znalazłem sam i siedziałem dobrych 15 minut, upewniając się, że nie przeoczyłem jakiegoś kruczka, który to uzasadnia.
+- id: 2032
+  author: Tomash
+  author_url: ''
+  date: '2005-08-25 01:00:39 +0200'
+  date_gmt: '2005-08-25 01:00:39 +0200'
+  content: |-
+    Myak: bronić czego? :]
+    <br/>
+    <br/>Patrys: try this ;&gt;
+    <br/>http://www.thedailywtf.com/forums/33585/ShowPost.aspx
+- id: 2033
+  author: Draakhan
+  author_url: ''
+  date: '2005-08-25 14:04:26 +0200'
+  date_gmt: '2005-08-25 14:04:26 +0200'
+  content: Też kiedyś miałem ciekawy przypadek kodu z pewnej firmy, którego miałem
+    się nauczyć i wykorzystywać :D Jak ktoś chce zobaczyć to http://draakhan.jogger.pl/comment.php?eid=124703
+- id: 2034
+  author: Jezuch
+  author_url: ''
+  date: '2005-08-25 20:32:15 +0200'
+  date_gmt: '2005-08-25 20:32:15 +0200'
+  content: 'Myak: ach, to Ty jesteś z innego wydziału? A więc to sabotaż?? ;)'
+- id: 2035
+  author: myak
+  author_url: ''
+  date: '2005-08-25 21:58:08 +0200'
+  date_gmt: '2005-08-25 21:58:08 +0200'
+  content: |-
+    Jezuch:
+    <br/>Aye, ja z fizyki jestem. I najchetniej bym tego programu nie pisal bo tez chce kiedys pracowac w sektorze IT (a taki czlowiek moze ze mna konkurowac o miejsce pracy) ale coz.. zostalem poproszony o splacenie dlugu wdziecznosci :)
+---
+<p>Dzisiejszą nagrodę otrzymuje ode mnie autor poniższego kodu:</p>
+
+<blockquote><pre>if (sizeof($tab) > 0 ? true : false)
+{
+	// [...] - tutaj kod
+}</pre></blockquote>
+
+<p>Autora i źródła nie podam z podziwu dla tak zaawansowanych konstrukcji.</p>
+
+<p>PS: Podobno dzisiaj Windows 95 (Windows Chicago) obchodzi swoje 10. urodziny.</p>

@@ -1,0 +1,129 @@
+---
+layout: post
+status: publish
+published: true
+title: Tajna korporacja
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 47
+date: 2004-10-19 20:51:16.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 336
+  author: da.killa
+  author_url: ''
+  date: '2004-10-19 21:09:45 +0200'
+  date_gmt: '2004-10-19 21:09:45 +0200'
+  content: |-
+    &gt; Okazało się, że jedno z zastrzeżeń dotyczyło napisów na
+    <br/>&gt; stronie: &quot;Lorem ipsum dolor sit amet...&quot;.
+    <br/>
+    <br/>ROTL!
+- id: 337
+  author: da.killa
+  author_url: ''
+  date: '2004-10-19 21:24:34 +0200'
+  date_gmt: '2004-10-19 21:24:34 +0200'
+  content: Domyślam się, że nie możesz nigdzie pokazeć dzieła &quot;artystki&quot;?
+- id: 338
+  author: Patrys
+  author_url: ''
+  date: '2004-10-19 21:25:45 +0200'
+  date_gmt: '2004-10-19 21:25:45 +0200'
+  content: Niestety, żaden hoat nie chce się zgodzić na utrzymanie tego szablonu ;).
+    Poza tym nie chcę identyfikować owej firmy.
+- id: 339
+  author: da.killa
+  author_url: ''
+  date: '2004-10-19 21:28:18 +0200'
+  date_gmt: '2004-10-19 21:28:18 +0200'
+  content: Szkoda. Lubię hardcore design :)
+- id: 340
+  author: siwa
+  author_url: ''
+  date: '2004-10-19 22:06:53 +0200'
+  date_gmt: '2004-10-19 22:06:53 +0200'
+  content: |-
+    O. Znam. Artystka zrobiła nam layout gazety. Niestety na okładce nie przewidziała istnienia miesiąca października i nijak nie mogę się zmieścić. Albo będzie z dzieleniem, albo musze w winiecie zmienić czcionkę...
+    <br/>Lewy margines na 12,587 mm pomijam, bo to detal.
+- id: 341
+  author: afc
+  author_url: ''
+  date: '2004-10-20 19:09:18 +0200'
+  date_gmt: '2004-10-20 19:09:18 +0200'
+  content: Nie dosc, ze mnie w pracy wkurwiaja obowiazkiem pracowania w cmyku i rozdzielczosciach
+    zaczynajacych sie przy 3000px to jeszcze Ty drogi Patrysie utrudniasz mi zycie,
+    ze musze sobie w kochanej przegladarce wciskac ctrl+a czytajac notki ;)
+- id: 342
+  author: da.killa
+  author_url: ''
+  date: '2004-10-20 19:10:33 +0200'
+  date_gmt: '2004-10-20 19:10:33 +0200'
+  content: 'afc: nie możesz po prostu najechać myszką nad wpis?'
+- id: 343
+  author: Patrys
+  author_url: ''
+  date: '2004-10-20 19:55:39 +0200'
+  date_gmt: '2004-10-20 19:55:39 +0200'
+  content: Albo zmienić arkusz styli, klikając na ikonkę na dole okna Mozilli/Firefoxa?
+    Czyżby Twoja Kochana Przeglądarka była produktem Microsoftu?
+- id: 344
+  author: afc
+  author_url: ''
+  date: '2004-10-22 12:25:09 +0200'
+  date_gmt: '2004-10-22 12:25:09 +0200'
+  content: |-
+    Komputerowe cioty ;P
+    <br/>
+    <br/>da.killa: W mozilli przy najechaniu i scrollowaniu strony tekst i tak gasnie :)
+    <br/>
+    <br/>Patrys: tak =]
+- id: 345
+  author: been
+  author_url: ''
+  date: '2004-10-29 21:26:00 +0200'
+  date_gmt: '2004-10-29 21:26:00 +0200'
+  content: "nie zważajcie na afca to ciota ;p\n<br/>\n<br/>a swoja drogą to zawsze
+    znajdzie się klient który do idealnie dobranej tonacji dopierdoli jakis pomaranczowy
+    wielki napis gotycka czcionką &quot;FIRMA STASZKA&quot;. i niestety za jego kase
+    czasem trzeba to pchnąć ehh "
+---
+Negocjacje w sprawie wykonania projektu serwisu korporacyjnego. Przybywa mroczna wysłanniczka z krainy cienia. Przedstawicielka klienta konwersuje z grafikiem:<br />
+<br />
+- Ja tutaj przygotowałam projekt graficzny i chciałabym, żebyście się na tym wzorowali. Macie zachować układ, tylko wprowadzić drobne poprawki, strona już jest zaakceptowana.<br />
+- Uhm... ech... tak, zajmiemy się tym.<br />
+- I pamiętajcie, konkurencja nie śpi, więc chcemy mieć ten taki jakby portal korporacyjny, ale nie chcemy się ujawniać.<br />
+- Słucham?<br />
+- Nie chcemy się ujawniać!<br />
+- Hmm... rozumiem... dobrze... (?)<br />
+- Dziękuję, do widzenia.<br />
+<br />
+Po chwili kłopotliwej ciszy, grafik zdaje się powracać do życia, rzecze przeto w te słowy do project managera:<br />
+<br />
+- Łukasz, ja mam za dobre serce, ty jej powiedz.<br />
+- A co?<br />
+- Chodź, zobaczysz.<br />
+- ...<br />
+- ...<br />
+- Ratunku! To ja takie strony we FrontPage robiłem 6 lat temu, tylko kolory miały lepsze.<br />
+- Daj spokój, poza tym nie można nic większego przerabiać, to co my mamy im zrobić? Dali ponoć zaakceptowaną stronę.<br />
+- Czekaj zadzwonię do nich.<br />
+<br />
+Tak oto, nasz dzielny PM dodzwonił był się do siedziby najwyższych władnych podejmowania decyzji w siedzibie klienta.<br />
+<br />
+- Nic nie rozumiem, przecież przedstawiliśmy Państwu projekt strony, a Państwo nam z czymś takim wyjeżdżacie?<br />
+- No a co jest nie tak?<br />
+- Delikatnie mówiąc, to ja takie strony robiłem sześć lat temu proszę Pani. Ta strona jest lekko nie na czasie, no i kuleje mocno kolorystyka.<br />
+- Ale ta Pani jest artystką!<br />
+- Ja rozumiem, ale ludzie na ogół specjalizują się w konkretnej dziedzinie, np. malarz obrazów nie pomaluje pokoju... tak samo malarz pokojowy nie umie malować obrazów.<br />
+<br />
+(głos z głębi naszej sali: - No tu mamy do czynienia z tym drugim przypadkiem!)<br />
+<br />
+- Ale jej projekt jest taki jakiś ładniejszy i czytelniejszy.<br />
+- To ja się może odezwę później...<br /> 
+<br />
+Koniec końców, odpukać, przeszedł projekt Jarvisa. Okazało się, że jedno z zastrzeżeń dotyczyło napisów na stronie: "Lorem ipsum dolor sit amet...".

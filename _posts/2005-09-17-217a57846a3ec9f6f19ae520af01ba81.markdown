@@ -1,0 +1,77 @@
+---
+layout: post
+status: publish
+published: true
+title: Standardy i standardy w sieci
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 155
+date: 2005-09-17 21:13:12.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 2129
+  author: Tomash
+  author_url: ''
+  date: '2005-09-18 21:03:54 +0200'
+  date_gmt: '2005-09-18 21:03:54 +0200'
+  content: Doskonale powiedziane. Mniej więcej to samo zrozumiałem, kiedy dwa tygodnie
+    temu dostałem pracę jako programista w pewnej firmie. Standardy bardzo proszę
+    (CMS autorstwa kolegi z pracy działa nawet w lynxie - oto potęga układu na CSS),
+    ale istnieją też prawa marketingu i psychologii, które każą przykuć użytkownika
+    czymś, co się rusza i jest interaktywne.
+- id: 2130
+  author: Tomash
+  author_url: ''
+  date: '2005-09-18 21:05:00 +0200'
+  date_gmt: '2005-09-18 21:05:00 +0200'
+  content: PS. Dude, coś masz z synchronizacją zegarów spaprane - notka z przyszłości,
+    komentarze przed czasem pojawienia się? ;)
+- id: 2131
+  author: Patrys
+  author_url: ''
+  date: '2005-09-19 18:44:37 +0200'
+  date_gmt: '2005-09-19 18:44:37 +0200'
+  content: Hm? U mnie wszystko jest ok.
+- id: 2132
+  author: Riddle
+  author_url: ''
+  date: '2005-09-19 18:49:19 +0200'
+  date_gmt: '2005-09-19 18:49:19 +0200'
+  content: Autentyk, że nie jest…  chcesz screena?
+- id: 2133
+  author: Patrys
+  author_url: ''
+  date: '2005-09-19 18:51:04 +0200'
+  date_gmt: '2005-09-19 18:51:04 +0200'
+  content: |-
+    Ale jaki ja mogę mieć wpływ na datę posta?
+    <br/>
+    <br/>U mnie jest napisane &quot;Ta notka została wysłana 17 września 2005 o 21:13:12.&quot;
+- id: 2134
+  author: Tomash
+  author_url: ''
+  date: '2005-09-19 21:19:43 +0200'
+  date_gmt: '2005-09-19 21:19:43 +0200'
+  content: Ofak, pardon, nie popatrzyłem na DZIEŃ ;)
+---
+<p>O ile robię wszystko, co w mojej mocy, żeby popularyzować wsparcie dla standardów i poprawianie usability w sieci, nie każdy przypadek jest taki sam i nie zawsze można ślepo stosować te same reguły.</p>
+
+<p>W większości przypadków faktycznie, powinno się ograniczyć technologie wspierające (czyli tak naprawdę wszystko poza <abbr title="HyperText Markup Language">HTML</abbr>) do minimum, zapewniając tym samym jak najlepszą dostępność do informacji dla osób korzystających z różnych urządzeń i oprogramowania. Nie chcemy przecież któregoś dnia zalogować się do swojego systemu bankowego tylko po to, żeby dowiedzieć się, że brakuje nam 16 wtyczek, z czego 8 nie jest dostępnych dla naszej platformy (co jest coraz powszechniejszym problemem, nie dotyczy już tylko urządzeń przenośnych, ale także komputerów pracujących na procesorach rodzin <abbr title="Advanced Microchip Devices">AMD</abbr>64 i <abbr title="PowerPC">PPC</abbr>). Wszystko jest jednak warunkowane przez target, dla którego przeznaczony jest nasz produkt.</p>
+
+<p>Głupotą byłoby zrezygnowanie z technologii takich jak Flash, czy zagnieżdżone wideo na stronach reklamujących najnowszą grę komputerową - serwis tego typu jest przeznaczony dla wąskiej grupy odbiorców, raczej nie grozi nam nawał użytkowników uzbrojonych w telefony komórkowe, <abbr title="Personal Digital Assistant">PDA</abbr> czy konsolowe przeglądarki pracujące pod kontrolą systemów uniksowych. Zwłaszcza, jeśli gra przeznaczona jest dla jednej konkretnej platformy. Jej podstawową funkcją jest pokazanie odwiedzającym namiastki tego, co znajdą w reklamowanym produkcie, stąd zastosowanie znajdą tam najnowsze technologie multimedialne.</p>
+
+<p>Podobna sytuacja ma miejsce w przypadku aplikacji webowych. Zamknięte systemy, wymagające logowania, takie jak intranety, ekstranety czy panele kontrolne <abbr title="Content Management System">CMS</abbr> służą jedynie swoim użytkownikom. Nie musimy martwić się tym, że zostaną nieprawidłowo zaindeksowane przez wyszukiwarki, a układ hierarchiczny z definicji nie przypomina typowej strony internetowej. Wszechobecne formularze i układ aplikacyjny z definicji dyktują strukturę dokumentów, która często nie może być tak czysta, jak w przypadku zwykłych serwisów - musi sprostać projektowi graficznemu, który niejednokrotnie bardziej przypomina aplikację rodem z pakietu <abbr title="Microsoft">MS</abbr> Office niż dokument stworzony w <abbr>HTML</abbr>.</p>
+
+<p>Tutaj znajdują zastosowanie gorące nowinki ze świata, z modnym ostatnio hasłem <abbr title="Asynchronous Javascript And XML">AJAX</abbr> na czele. Jeśli aplikacja ma wyglądać jak zwykły program, to funkcjonalność typu drag-n-drop z zapisywaniem danych w locie (bez przeładowania) jest dla użytkownika czymś naturalnym. W przeciwieństwie do usability typowych stron, w kwestii aplikacji standardy wyznacza <a href="http://www.rubyonrails.org/">Ruby on Rails</a> i świetny framework <a href="http://script.aculo.us/">script.aculo.us</a>.</p>
+
+<p>Kwestia wsparcia dla przeglądarek z wyłączonym <abbr title="JavaScript">JS</abbr> nie jest problemem, sprzedajemy program i ma on swoje wymagania. Nikt nie oczekuje, że Windows XP zacznie działać na 286, nikt też nie narzeka, że najnowsze mordobicie na konsolę nie nadaje się do użytku po wyłączeniu telewizora.</p>
+
+<p>Inaczej wygląda sprawa ze specyficznymi klientami - w pewnych warunkach nie jest możliwe zastosowanie czystego układu (strukturalny dokument + <abbr title="Cascading Style Sheets">CSS</abbr>). Nie jest to jednak powód do tego, żeby całkowicie zarzucić wsparcie dla styli - zbudowanie układu hybrydowego (tabela do pocięcia układu + <abbr>CSS</abbr> do zgrania całości) daje dużo więcej korzyści niż sama satysfakcja. Strona jest przede wszystkim dużo lżejsza, a przez to ładuje się szybciej (choć układy tabelaryczne nie pozwalają na renderowanie progresywne w takim zakresie, jak oparte na czystej strukturze) i jest znacznie łatwiejsza w edycji (a wprowadzając zmiany w arkuszu styli możemy w prosty sposób zmienić wygląd setek podstron). Zapewniamy sobie też identyczny wygląd we wszystkich przeglądarkach, także w tych przyszłych (wyobraź sobie, jak wyglądałoby teraz 95% internetu, gdyby przeglądarki nagle porzuciły wsparcie dla przestarzałych elementów, jak <code>&lt;font/&gt;</code>).</p>
+
+<p>Z drugiej strony są też ekstremiści, którzy nawet dane typowo tabelaryczne (jak zestawienia statystyczne, czy cenniki) zamieniają na groteskowe konstrukcje, które według nich są bardziej semantyczne. To jednak - na szczęście - kwalifikuje się w większości przypadków jako nieszkodliwe geekostwo i zajęcia typu proof of concept. Użycie takiego wynalazku w realnym projekcie komercyjnym może tylko wystawić autora na publiczne pośmiewisko - jest dowodem zupełnego braku zrozumienia semantyki języka.</p>
+
+<p>Podsumowując - twarde zapieranie się rękoma i nogami przed zastosowaniem bogatych multimediów czy oparciem funkcjonalności na językach skryptowych po stronie agenta przy argumentacji, że to dla dobra usability, nie zawsze jest właściwe. W niektórych, specyficznych przypadkach, odwiedzający oczekuje takiej właśnie funkcjonalności i wzbranianie się przed nią jest działaniem na szkodę użytkownika.</p>

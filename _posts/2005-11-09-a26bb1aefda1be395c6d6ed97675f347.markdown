@@ -1,0 +1,83 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #020: Prawdziwy cyber seks'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 176
+date: 2005-11-09 01:31:01.000000000 +01:00
+categories:
+- comic
+tags: []
+comments:
+- id: 2416
+  author: psz
+  author_url: ''
+  date: '2005-11-09 01:32:52 +0100'
+  date_gmt: '2005-11-09 01:32:52 +0100'
+  content: Coś nie halo z tym strip&#039;em ... kawa jest ;)
+- id: 2417
+  author: qwiat
+  author_url: ''
+  date: '2005-11-09 01:36:13 +0100'
+  date_gmt: '2005-11-09 01:36:13 +0100'
+  content: eee to jest pusty kubek informatyka, ten brąz to osad ;]
+- id: 2418
+  author: pmz
+  author_url: ''
+  date: '2005-11-09 01:36:21 +0100'
+  date_gmt: '2005-11-09 01:36:21 +0100'
+  content: Ale filtrujesz jakoś to standardowe wyjście, prawda? ;-)
+- id: 2419
+  author: psz
+  author_url: ''
+  date: '2005-11-09 01:37:11 +0100'
+  date_gmt: '2005-11-09 01:37:11 +0100'
+  content: To przecież raczej strona odpowiadająca powinna mieć stosownego firewall&#039;a
+    ;)
+- id: 2420
+  author: froger3
+  author_url: ''
+  date: '2005-11-09 07:58:50 +0100'
+  date_gmt: '2005-11-09 07:58:50 +0100'
+  content: to pewnie cola w tym kubku jest :D
+- id: 2421
+  author: str()
+  author_url: ''
+  date: '2005-11-09 08:48:14 +0100'
+  date_gmt: '2005-11-09 08:48:14 +0100'
+  content: |-
+    The UNIX way of Sex:
+    <br/>gunzip-strip-touch-finger-pipe-mount-fsck-more-yes-umount-sleep
+    <br/>O make clean zapomnieli ;-)
+- id: 2422
+  author: deadlink
+  author_url: ''
+  date: '2005-11-09 12:21:48 +0100'
+  date_gmt: '2005-11-09 12:21:48 +0100'
+  content: Nigdzie nie widać braku kawy. ;&gt;
+- id: 2423
+  author: Aarin
+  author_url: ''
+  date: '2005-11-15 14:33:35 +0100'
+  date_gmt: '2005-11-15 14:33:35 +0100'
+  content: '&quot;Tutaj w graficznych przeglądarkach wyświetla się komiks&quot; -
+    Jeśli Firefox nie jest graficzną przeglądarką, to co nią jest?'
+- id: 2424
+  author: Patrys
+  author_url: ''
+  date: '2005-11-15 19:06:18 +0100'
+  date_gmt: '2005-11-15 19:06:18 +0100'
+  content: |-
+    Aarin:
+    <br/>
+    <br/>http://patrys.jogger.pl/comment.php?eid=162958
+    <br/>
+    <br/>Czytaj komentarze.
+---
+<p>Dzisiejszy komiks jest sponsorowany przez wpół do drugiej w nocy i brak kawy.</p>
+
+<p class="strip"><img src="http://comic.room-303.com/strips/020-cyber-sex.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>

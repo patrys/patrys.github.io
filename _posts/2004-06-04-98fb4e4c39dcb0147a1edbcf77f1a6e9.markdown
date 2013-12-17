@@ -1,0 +1,42 @@
+---
+layout: post
+status: publish
+published: true
+title: Krótka rozprawka o paluszku i główce
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 25
+date: 2004-06-04 11:00:51.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 68
+  author: been
+  author_url: ''
+  date: '2004-06-05 09:46:32 +0200'
+  date_gmt: '2004-06-05 09:46:32 +0200'
+  content: "no bo wiesz.. jak klient czeka 30 dni na wykonanie usługi to jedna godzina
+    wiecej czekania to mały procent w opoznieniu. a jak przychodzi klient i godzine
+    musi czekac to masz 100% opóznienia a na takie opóznienie nie mozna sobie pozwolić
+    :D (to z filmu)\n<br/>takze synbrydżesa (nasha) ma opóznienie rzedu 2-3% ;)  pozdro "
+---
+Tytułem wprowadzenia napomknę, że (jak zapewne wiecie) pracujemy nad systemem obsługi sprzedaży dla naszej firmy. Ekipa składa się z trzech osób, a potężny skład jej zasilam ja, MójWspółpracownik&trade; oraz nikt inny, jak sam SynPrezesa&trade;. Prace toczą się równolegle na całej linii, a całość jest nadzorowana przez system kontroli wersji (subversion). System ten poza rozlicznymi zaletami pozwala także przeglądać listę ostatnich zmian, a (co za tym idzie) także sprawdzić, z jaką częstotliwością konkretny pracownik się obija.<br />
+<br />
+Jako, że syn najwyższego zapewnia nas regularnie o swoim zaangażowaniu w projekt, postanowiłem poszperać w statystykach serwera kontroli wersji. Szczegółów oszczędzę, dośc powiedzieć, że zaryłem byłem paszczęką w naszą polską glebe, kiedy okazało się, że system w krótkim czasie doczekał się wersji tysiąc pięćsetnej. Zgodnie z regułą przyświecającą znamienitemu reżyserowi zwanemu wszem i wobec jako Hitchcock, zaczęło się od trzęsienia ziemi (widocznie moja żuchwa uderzyła była zbyt mocno), a potem napięcie rosło. Okazało się, że SynPrezesa&trade; dynamicznie rozwija system, niestety nie jest to system sprzedaży, a system kompleksowego wypoczynku na kanapie. Ostatnia wersja, w której coś zmienił miała numer poniżej 600. To w oczywisty sposób wskazuje na błąd automatyki, przecież nikt nawet nieśmiałby podejrzewać SynaPrezesa&trade; o, za przeproszeniem, bezczynność w tak długim okresie czasu. Postanowiłem przywrócić więc dobre imię mojego idola i w te pędy udałem się na rozmowę:<br />
+<br />
+- Hmm, wydaje mi się, że od dość dawna nasz system nie wykrył z twojej strony żadnej aktywności.<br />
+- Noooo.<br />
+- A jakiż jest tego powód?<br />
+- Nie mam jak pracować. Nie mam komputera.<br />
+- W biurze jest pełno terminali, wolna stacja robocza plus twój własny sparc, co to trzyma 128 adresów.<br />
+- Ale ja nie umiem pracować w biurze. Muszę w domu. Nie mam komputera.<br />
+- Jak nie masz. miałeś dwa?<br />
+- No ale oba stoją w biurze i czekają aż BezpośredniPrzełożony&trade; łaskawie ruszy dupę i mi je do domu zawiezie.<br />
+- A termin zamknięcia tego etapu systemu dawno minął.<br />
+- A ja jadę do domu coś zjeść.<br />
+<br />
+Morał: żyjemy w dobie, gdzie krucho o posadę. Firmy zatrudniają pracowników na zlecenie i zwalniają zaraz po wykonaniu pracy. Rynek pracy działa na zasadzie "Murzyn zrobił swoje, Murzyn może odejść". Tylko specjalnie wypracowana strategia pozwala przetrwać w tak trudnych warunkach rodem z dżungli. U podstaw strategii tej leżą rozbudowane Public Relations i znajomości, a najchętniej konotacje rodzinne. Poza tym hołduje ona powiedzeniu rodem z czasów socjalistycznych: "nie można niczego robić w pośpiechu, pracę trzeba szanować, wtedy wystarczy na dłużej". :)

@@ -1,0 +1,76 @@
+---
+layout: post
+status: publish
+published: true
+title: Frogatto
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 962
+wordpress_url: http://room-303.com/blog/?p=962
+date: 2010-07-19 01:06:42.000000000 +02:00
+categories:
+- gry
+tags: []
+comments:
+- id: 25096
+  author: k
+  author_url: ''
+  date: '2010-07-19 07:17:16 +0200'
+  date_gmt: '2010-07-19 05:17:16 +0200'
+  content: Frogatto wywodzi się z Wesnoth (częściowo engine i częściowo devteam),
+    ale o ile kod jest na GPL, tak te całe pixel-arty etc. nie są na wolnej licencji,
+    niestety.
+- id: 25097
+  author: Puzzle
+  author_url: http://dopasuj.pl
+  date: '2010-07-19 09:40:51 +0200'
+  date_gmt: '2010-07-19 07:40:51 +0200'
+  content: Rzeczywiście gra jest rewelacyjna. Fajne znalezisko.
+- id: 25104
+  author: ciastek
+  author_url: ''
+  date: '2010-07-25 23:41:22 +0200'
+  date_gmt: '2010-07-25 21:41:22 +0200'
+  content: "Kod Warsow jest na GPL, media nie.\r\nhttp://www.warsow.net/wiki/index.php?title=About#Philosophy"
+- id: 25105
+  author: Patrys
+  author_url: http://room-303.com/blog/
+  date: '2010-07-26 00:11:33 +0200'
+  date_gmt: '2010-07-25 22:11:33 +0200'
+  content: "ciastek:\r\n\r\nKod silnika jest otwarty, bo to silnik Quake II, ale sama
+    logika (AI, tryby gry) chyba nie jest?"
+- id: 25118
+  author: GiM
+  author_url: http://gim.jogger.pl/
+  date: '2010-07-30 21:32:43 +0200'
+  date_gmt: '2010-07-30 19:32:43 +0200'
+  content: '@k: dziwi Cię to, że art/music nie jest wolny?'
+- id: 25130
+  author: marb
+  author_url: ''
+  date: '2010-08-18 06:17:13 +0200'
+  date_gmt: '2010-08-18 04:17:13 +0200'
+  content: "Z ostatniego postu na ich stronie można się dowiedzieć, że pracują nad
+    nieskończonymi losowymi poziomami.\r\nChociaż spodziewałem się innego sposobu
+    na generowanie losowych poziomów, to przy odpowiedniej liczbie segmentów i tak
+    może być ciekawie."
+- id: 27724
+  author: jeremi360
+  author_url: http://ubualchemy.blogspot.com/
+  date: '2011-01-12 16:18:20 +0100'
+  date_gmt: '2011-01-12 15:18:20 +0100'
+  content: "@k\r\nGrafika i muza  w frogatto są otwarte i są wzięte ze strony http://www.opengameart.org/"
+---
+<p>Dziś przekonałem się, że grywalne wytwory opensource nie kończą się na <a href="http://www.wesnoth.org/">Bitwie o Wesnoth</a>, <a href="http://www.nethack.org/">NetHacku</a> i <a href="http://alientrap.org/nexuiz/index.php">Nexuiz</a> (ten ostatni ma podobno trafić pod koniec roku na konsole)¹.</p>
+
+<p>Znalazłem jednak <a href="http://www.frogatto.com/">Frogatto</a> i opadła mi szczęka. Aż trudno uwierzyć, że coś tak pięknego powstało i ukrywa się pomiędzy pięćset dwunastym roguelike i tysiąc piątą grą o epickich przygodach pingwina Tuksa.</p>
+
+<p><small>¹ <a href="http://www.warsow.net/">Warsow</a>, choć grą jest dobrą i wygląda ślicznie, nie ma otwartego kodu.</small></p>
+
+<p class="strip"><a href="http://www.flickr.com/photos/patrys/4806134333/" title="Frogatto by patrys, on Flickr"><img src="http://farm5.static.flickr.com/4081/4806134333_225ac9705b_z.jpg" width="640" height="502" alt="Frogatto" /></a></p>
+
+<p>Frogatto można nazwać platformówką, jednak byłoby to określenie bardzo krzywdzące. Co prawda skaczemy po platformach by połykać kolejnych przeciwników i pluć nimi w stylu Kirbiego, lecz rozgrywka nie ogranicza się do nieustannego biegnięcia-w-prawo. Pojawiają się walki z <span class="noTypo">bossami</span>, dźwignie, zamknięte drzwi, klucze, ukryte części poziomów, a nawet całe dodatkowe plansze. Jest też złoto, które zbieramy, by następnie wydać je w sklepie na nowe umiejętności dla głównego bohatera. W każdej chwili możemy również powrócić do zwiedzonej już części świata i jeszcze raz przeczesać zakamarki w poszukiwaniu ukrytych monet.</p>
+
+<p>To wszystko ubrane jest w prześliczny pixel art, przywodzący na myśl <span class="noTypo">Flashback</span> i prace <a href="http://www.pixinspace.com/">Henka Nieborga</a> oraz oprawę dźwiękową żywcem wyjętą z czasów świetności szesnastobitowców. Jedyną wadą gry jest fakt, że nie starcza jej na zbyt długo. Serdecznie polecam.</p>

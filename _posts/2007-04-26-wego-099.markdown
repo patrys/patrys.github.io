@@ -1,0 +1,148 @@
+---
+layout: post
+status: publish
+published: true
+title: Wego 0.99
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 364
+wordpress_url: http://room-303.com/blog/2007/04/26/wego-099/
+date: 2007-04-26 18:16:45.000000000 +02:00
+categories:
+- web
+- software
+tags: []
+comments:
+- id: 7697
+  author: nbw
+  author_url: http://enbewu.net/blog/
+  date: '2007-04-26 18:33:43 +0200'
+  date_gmt: '2007-04-26 17:33:43 +0200'
+  content: 'Uprzedzając potencjalne pytania: zamrożenie stabilnego WEGO zaplanowane
+    jest na drugi tydzień maja (2007 roku ;). Dodanie kolejnych systemów płatności
+    online nie będzie wiązało się z oczekiwaniem na kolejną wersję WEGO.'
+- id: 7698
+  author: Luken
+  author_url: http://luken.jogger.pl/
+  date: '2007-04-26 18:48:29 +0200'
+  date_gmt: '2007-04-26 17:48:29 +0200'
+  content: A jaka będzie licencja?
+- id: 7699
+  author: Patrys
+  author_url: http://room-303.com/blog/
+  date: '2007-04-26 18:50:59 +0200'
+  date_gmt: '2007-04-26 17:50:59 +0200'
+  content: Proprietary, to komercyjny soft. Właścicielem praw majątkowych jest iCenter.pl
+- id: 7700
+  author: Marcin Badurowicz
+  author_url: http://www.ktos.info/
+  date: '2007-04-26 19:26:04 +0200'
+  date_gmt: '2007-04-26 18:26:04 +0200'
+  content: A wersji demo na stronie Wego się kiedyś doczekamy? ;-)
+- id: 7701
+  author: nbw
+  author_url: http://enbewu.net/blog/
+  date: '2007-04-26 19:29:12 +0200'
+  date_gmt: '2007-04-26 18:29:12 +0200'
+  content: Doczekacie :)
+- id: 7702
+  author: anghan
+  author_url: http://anghan.jogger.pl
+  date: '2007-04-26 19:32:35 +0200'
+  date_gmt: '2007-04-26 18:32:35 +0200'
+  content: "Bardzo ciekawa sprawa. Jakoś nigdy nie umiałem się przekonać do większości
+    CMSów. Zawsze czegoś, brakuje, albo coś jest za sztywne by dostosować to do siebie.
+    A może w złych miejscach szukałem. \r\n\r\nPrzyłączam się do pytania czy będzie
+    jakieś DEMO lub możliwość skorzystania z pełnej wersji na zasadzie tylko w domu,
+    nie wypuszczając na świat. Albo czas dwa tygodnie, a jak nie skasujesz to płacisz
+    itp.? Zresztą wiecie lepiej."
+- id: 7703
+  author: ehh
+  author_url: ''
+  date: '2007-04-26 19:58:23 +0200'
+  date_gmt: '2007-04-26 18:58:23 +0200'
+  content: Ten system dość dużo zmienił się od tego 1,5 roku. Mam nadzieję że nie
+    będzie już tak drastycznych zmian.
+- id: 7704
+  author: Bigi
+  author_url: ''
+  date: '2007-04-26 20:21:11 +0200'
+  date_gmt: '2007-04-26 19:21:11 +0200'
+  content: Jak możecie oferować sprzedaż nieukończonego softu ?
+- id: 7705
+  author: Patrys
+  author_url: http://room-303.com/blog/
+  date: '2007-04-26 20:25:29 +0200'
+  date_gmt: '2007-04-26 19:25:29 +0200'
+  content: "Bigi:\r\n\r\nA jaka jest definicja \"ukończonego softu?\" Zdecydowaliśmy,
+    że publiczna wersja 1.0 będzie miała ficzery X, Y i Z. Moglibyśmy z nich zrezygnować
+    i wydać system rok temu, czy wtedy uznałbyś, że jest skończony?\r\n\r\nSystem
+    jest stale w rozwoju i chyba nie oczekujesz, że skoro sprzedało się ileś kopii,
+    to nie można nic już ulepszyć?"
+- id: 7706
+  author: Crash
+  author_url: http://crash.jogger.pl
+  date: '2007-04-26 21:20:12 +0200'
+  date_gmt: '2007-04-26 20:20:12 +0200'
+  content: Łe, znów nie ma niczego o gorionie ;)
+- id: 7707
+  author: anghan
+  author_url: http://anghan.jogger.pl
+  date: '2007-04-26 21:23:49 +0200'
+  date_gmt: '2007-04-26 20:23:49 +0200'
+  content: '@Crash: Było minęło ;)'
+- id: 7708
+  author: carstein
+  author_url: http://carstein.jogger.pl
+  date: '2007-04-26 21:59:27 +0200'
+  date_gmt: '2007-04-26 20:59:27 +0200'
+  content: Teraz to można co najwyżej coś o Bućko napisać. Gorion to pieśń przeszłośći.
+- id: 7710
+  author: s
+  author_url: ''
+  date: '2007-04-27 11:02:07 +0200'
+  date_gmt: '2007-04-27 10:02:07 +0200'
+  content: fri bućko [;
+- id: 7711
+  author: Cypherq
+  author_url: http://cypherq.wordpress.com/
+  date: '2007-04-27 12:52:15 +0200'
+  date_gmt: '2007-04-27 11:52:15 +0200'
+  content: Skrobniesz coś kiedyś o systemie wtyczek? Wielu ludzi zainteresowały by
+    na pewno Twoje rozwiązania :&gt;
+- id: 7712
+  author: Luken
+  author_url: http://luken.jogger.pl/
+  date: '2007-04-27 14:18:38 +0200'
+  date_gmt: '2007-04-27 13:18:38 +0200'
+  content: Chętnie bym usłyszał o tym, jak rozwiązaliście w Wego problem wielu języków.
+- id: 7713
+  author: 'Wego: Wtyczki at Room 303'
+  author_url: http://room-303.com/blog/2007/04/27/wego-wtyczki/
+  date: '2007-04-27 14:46:33 +0200'
+  date_gmt: '2007-04-27 13:46:33 +0200'
+  content: '[...] pisałem o dodaniu do Wego CMS wtyczek dla systemów płatności online.
+    Cypherq poprosił o szczegóły dotyczące implementacji. Noszę się z zamiarem przygotowania
+    kilkuetapowego howto, kiedy tylko [...]'
+- id: 7717
+  author: ehh
+  author_url: ''
+  date: '2007-04-27 16:38:13 +0200'
+  date_gmt: '2007-04-27 15:38:13 +0200'
+  content: 'Luken: A jaki jest problem z językami? To jest bardzo prosta rzecz:)'
+---
+<p class="strip"><a href="http://www.flickr.com/photos/patrys/473634448/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/189/473634448_7563b5c8ef.jpg" alt="Wego CMS" height="89" width="500" /></a></p>
+
+<p>Nieuchronnie zbliża się publicznie dostępna wersja <a href="http://cms.wego.pl/">Wego CMS</a> (system wdrażany klientom jest od 1,5 roku). Kolejne etapy dodawania funkcjonalności, refaktoryzacji kodu, upraszczania silnika (najwięcej nadmiarowego kodu zniknęło po ukazaniu się stabilnego PHP 5) doprowadziły nas do miejsca, z którego premierę widać gołym okiem.</p>
+
+<p>W ostatnich dniach do stabilnego drzewa dołączyła obsługa wpinanych systemów obsługi płatności. Znaczy to dokładnie tyle, że integracja tego typu usług sprowadza się do napisania (kilkudziesięciu linii kodu) wtyczki. Z tej okazji napisałem też dwa pierwsze moduły płatności:</p>
+
+<p class="strip"><a href="http://www.platnosci.pl/"><img src="http://www.platnosci.pl/themes/platnosci/images/platnosci.gif" alt="Platnosci.pl" /></a>
+Platnosci.pl</p>
+
+<p class="strip"><a href="http://www.paypal.com/"><img src="https://manager.paypal.com/images/paypal_logo.gif" alt="PayPal" /></a>
+PayPal</p>
+
+<p>Całkiem prawdopodobne, że w najbliższych dniach pojawi się więcej możliwości — AllPay, Przelewy24, (jeśli prowadzisz serwis tego typu albo chciałbyś płacić w Sieci za pomocą innego systemu, zostaw namiary na API w komentarzach).</p>

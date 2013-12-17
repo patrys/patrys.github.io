@@ -1,0 +1,17 @@
+---
+layout: post
+status: publish
+published: true
+title: Ambitna praca administratra sieci
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 5
+date: 2004-05-04 14:55:49.000000000 +02:00
+categories:
+- varia
+tags: []
+comments: []
+---
+Praca na stanowisku administratora sieci linuksowej to nie żadna bułka z masłem. Na człowieka spada potężny ciężar odpowiedzialności. Na ten przykład właśnie skończyłem pisać moduł do osCommerce pokazujący (sic!) status ludzi na GG. Nie pytajcie, jak to się ma do administracji siecią, ale takie czasy, że człowiek nie wybrzydza. Jak się postawi w prywatnej firmie szefowi i powie, że to nie jego działka, to może sobie powolutku nowej posady szukać. Poza tym, jakoś leci.

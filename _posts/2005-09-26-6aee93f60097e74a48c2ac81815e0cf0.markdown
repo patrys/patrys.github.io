@@ -1,0 +1,461 @@
+---
+layout: post
+status: publish
+published: true
+title: Nie mów nie Explorerowi
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 158
+date: 2005-09-26 22:05:01.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 2171
+  author: Enleth
+  author_url: ''
+  date: '2005-09-26 22:08:20 +0200'
+  date_gmt: '2005-09-26 22:08:20 +0200'
+  content: Ponawiam pytanie, gdze przelewać na piwo? :)
+- id: 2172
+  author: batou
+  author_url: ''
+  date: '2005-09-26 22:11:06 +0200'
+  date_gmt: '2005-09-26 22:11:06 +0200'
+  content: |-
+    &quot;&quot;&quot;Akcja ta kierowana jest do twórców stron internetowych. Jesteś jednym z Nas? W takim razie na pewno znasz stwierdzenie Tak, tak, tak byłoby lepiej i znacznie prościej, ale pod jakąś starą przeglądarką nie będzie działać, trzeba zrobić to na około. Czy nie czas, żeby to się zmieniło? Żeby wreszcie robienie stron było przyjemne?&quot;&quot;&quot;
+    <br/>
+    <br/>Do twórców? Ale chyba nie twórców komercyjnych, tylko nastolatków ,,pacz ziom, zrobiłem layout wczoraj wieczorem!&#039;&#039;
+    <br/>
+    <br/>&quot;&quot;&quot;Niestety, aby tak się stało, musimy porzucić wszelkie powiązania ze starymi przeglądarkami. Nie możemy się wciąż ograniczać, nie stosować fantastycznego wynalazku jakim jest kanał przeźroczystości w PNG, używać margin: auto do centrowania elementów bez używania dziwnych skryptów w JS... Przykładów jest wiele.&quot;&quot;&quot;
+    <br/>
+    <br/>Ten akapit mówi o podaży bez popytu, więc szkoda nawet komentować.
+    <br/>
+    <br/>Kaszana. Rewolucję chca zrobić. Ziemię krwia niewiernych zbrukać. Haha.
+- id: 2173
+  author: Bellois
+  author_url: ''
+  date: '2005-09-26 22:11:46 +0200'
+  date_gmt: '2005-09-26 22:11:46 +0200'
+  content: 'Pozwolę się nie zgodzić. Zwracanie uwagi na IE ma sens tylko tam, gdzie
+    w gre wchodza pieniadze. W innych przypadkach wole byc radykalnym zlosliwcem.
+    Nie beda wkladal wiecej prawy w moje strony tylko dla tego, ze ludzie maja ochote
+    uzywac bubli. '
+- id: 2174
+  author: Patrys
+  author_url: ''
+  date: '2005-09-26 22:13:12 +0200'
+  date_gmt: '2005-09-26 22:13:12 +0200'
+  content: Pozwolę sobie zauważyć, że &quot;więcej pracy&quot; oznacza na ogół kilka
+    linijek CSS (hack na boxmodel).
+- id: 2175
+  author: batou
+  author_url: ''
+  date: '2005-09-26 22:14:11 +0200'
+  date_gmt: '2005-09-26 22:14:11 +0200'
+  content: A polemiki ze zwolennikami podejmować nie trzeba, bo kilka lat temu wszystko
+    co było w tym temacie do powiedzenia powiedziałe imć Zeldman.
+- id: 2176
+  author: Bellois
+  author_url: ''
+  date: '2005-09-26 22:16:31 +0200'
+  date_gmt: '2005-09-26 22:16:31 +0200'
+  content: 'Ach, hacki na box model mi nie przeszkadzaja i moge je stosowac. Chodzi
+    o to, ze jesli na przyklad ja wszystko poprawnie zakoduje, a layout zacznie sie
+    sypac w IE to nie bede sie zastanawial, jakiego to kolejnego buga ma byc to cos.
+    Po prostu zignoruje ten fakt. '
+- id: 2177
+  author: qvist
+  author_url: ''
+  date: '2005-09-26 22:21:50 +0200'
+  date_gmt: '2005-09-26 22:21:50 +0200'
+  content: |-
+    boxmodel, PNG24 etc. lepszym rozwiazaniem od hackow jest serwowanie warunkowo dla IE drugiego arkusza stylow
+    <br/>
+    <br/>paradosem jest tez to, ze IE w niektorych przypadkach lepiej sobie radzi niz FF czy Opera
+- id: 2178
+  author: Enleth
+  author_url: ''
+  date: '2005-09-26 22:22:18 +0200'
+  date_gmt: '2005-09-26 22:22:18 +0200'
+  content: 'Bellios: bugów IE jest kilka, jak się z nimi trochę walczyło, widać od
+    razu który zadziałał.'
+- id: 2179
+  author: Bellois
+  author_url: ''
+  date: '2005-09-26 22:24:28 +0200'
+  date_gmt: '2005-09-26 22:24:28 +0200'
+  content: Enleth - tak, tak, a najwazniejszym bugiem jest sam fakt jego istnienia
+    :)
+- id: 2180
+  author: Patrys
+  author_url: ''
+  date: '2005-09-26 22:26:07 +0200'
+  date_gmt: '2005-09-26 22:26:07 +0200'
+  content: |-
+    Bellois:
+    <br/>
+    <br/>Większość popularnych bugów opisałem przy okazji cyklu &quot;Standards vs. reality&quot;.
+- id: 2181
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-09-26 22:48:01 +0200'
+  date_gmt: '2005-09-26 22:48:01 +0200'
+  content: |-
+    Patrys, niedawno napisałeś, że:
+    <br/>&quot;(...)sprzedajemy program i ma on swoje wymagania. Nikt nie oczekuje, że Windows XP zacznie działać na 286(...)&quot;
+    <br/>
+    <br/>Dlaczego by nie wprowadzić podobnych wymagań dla stron WWW (nie mówię tu o CPU). Wyszło by to na dobre zarówno dla twórców stron jak i dla użytkowników :)
+    <br/>
+    <br/>Wiem, że 90% ZU nie wie o istnieniu innych przeglądarek, ale np. pisząc jakiś wewn. system dla firmy, można się pokusić o podniesienie wymagań co do przeglądarki.
+- id: 2182
+  author: Nivertius
+  author_url: ''
+  date: '2005-09-26 22:49:28 +0200'
+  date_gmt: '2005-09-26 22:49:28 +0200'
+  content: |-
+    Cóż, widać, że Ty też nie do końca rozumiesz o co tam chodzi tak w ogóle.
+    <br/>Po pierwsze [dotyczy komentarza batou] - jest tam napisane, że do wszystkich twórców. Jeżeli &#039;ziom&#039; zrobił layout, który według standardów się nie rozjeżdża, wygląda bardzo dobrze, to dlaczego nie? Strasznie podzieliłeś &#039;ziomów&#039; którzy czasem robią lepsze rzeczy od &#039;profesjonalistów&#039;, którzy czasem tworzą chłam.
+    <br/>Po drugie tam jest wyraźnie napisane &#039;strony niekomercyjne&#039; czyli te, w których nie liczy sie ilość ludzi odwiedzających strone. Oczywiście zostało to pominięte.
+    <br/>Po trzecie, to że duża grupa ludzi nie pojmuje akcji to już ich sprawa. Tam nigdzie nie ma napisane, żeby złośliwie blokować przeglądarkę, która nie wysyła &#039;application/xhtml+xml&#039; w &#039;Accept&#039;.
+    <br/>Po czwarte na szczęście nie dla 90% tylko 80% - ale faktycznie może tak wyglądać. HTML z zasady był stworzony do tego, żeby był kompatybilny wstecz i jeżeli każda przeglądarka obsługiwała by jego pewną część, to strona byłaby wyświetlana ładniej lub brzydziej - ale na pewno czytelnie.
+    <br/>Po piąte te więcej pracy to jednak więcej pracy, żeby przeglądarka która nie tyle nie obsługuje standardów, co obsługuje je źle działała jak należy. Osobiście robiłem stronę, w której dosłownie co drugi selektor CSS zaczynał się od &#039;* html&#039; - specjalnie dla IE. Na tej samej stronie pod IE znikał następny po elemencie z ustawionym floatowaniem. Dwie godziny szukania, rozwiązane w nerwach przez dodanie &#039;&lt;div/&gt;&#039;. I nie powiem, że to jest rzadkość, bo błędy w IE są najdziwniejsze.
+    <br/>Po szóste, wiele ludzi, jak zrobi stronę według standardów [tak, Wy byście powiedzieli &#039;przeciw IE&#039;] to da znaczek w stylu &#039;too cool for IE&#039; albo coś, żeby powiadomić użytkownika badziewia, że to wina webmastera.
+    <br/>Ale cóż, jedni nie zgadzają się z DesignHappy, inni, jak i ja nie lubią jak ktoś ma pikselowo określoną, stałą szerokość strony, bo ja nie chcę wiedzieć, jak ta strona wygląda w bardzo dużej rozdzielczości.
+- id: 2183
+  author: Patrys
+  author_url: ''
+  date: '2005-09-26 22:49:40 +0200'
+  date_gmt: '2005-09-26 22:49:40 +0200'
+  content: |-
+    Jam Łasica:
+    <br/>
+    <br/>Pisałem, ale odnośnie webapps, a nie serwisów. Wymagać mogę od klienta, ale nie od jego klientów.
+- id: 2184
+  author: treacle
+  author_url: ''
+  date: '2005-09-26 22:53:20 +0200'
+  date_gmt: '2005-09-26 22:53:20 +0200'
+  content: "@Patrys: \n<br/>Gdzie można znaleźć ten cykl, byłbym zainteresowany wielce.
+    Przez wyszukiwarke na joggu nie znalazłem. Więc sądzę, źe gdzieś indziej to musi
+    się znajdować."
+- id: 2185
+  author: Patrys
+  author_url: ''
+  date: '2005-09-26 22:54:25 +0200'
+  date_gmt: '2005-09-26 22:54:25 +0200'
+  content: |-
+    Nivertius:
+    <br/>
+    <br/>Powstrzymaj swój atak, bo ja nie zamierzam z tobą walczyć. Rozumiem przesłanie akcji, ale jest na tyle uzależnione od wiedzy an temat standardów, że większość ludzi zrozumie je opacznie. Właśnie dlatego nie popieram akcji.
+    <br/>
+    <br/>Zeldman i Meyer pokazywali setki razy, że można zrobić stronę zgodną ze standardami i działającą prawidłowo pod IE. Ja zarabiam robiąc takie właśnie strony.
+- id: 2186
+  author: Patrys
+  author_url: ''
+  date: '2005-09-26 22:56:30 +0200'
+  date_gmt: '2005-09-26 22:56:30 +0200'
+  content: |-
+    treacle:
+    <br/>
+    <br/>W Google wpisz: standards versus reality site:patrys.jogger.pl
+    <br/>
+    <br/>Chyba będę musiał dodać normalną wyszukiwarkę do bloga.
+- id: 2187
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-09-26 22:57:03 +0200'
+  date_gmt: '2005-09-26 22:57:03 +0200'
+  content: |-
+    &gt; Zeldman i Meyer pokazywali setki razy, że można zrobić stronę zgodną ze standardami i działającą prawidłowo pod IE
+    <br/>
+    <br/>Ale wtedy to bedzie &quot;Design&quot; bez &quot;Happy&quot;
+- id: 2188
+  author: Patrys
+  author_url: ''
+  date: '2005-09-26 22:57:34 +0200'
+  date_gmt: '2005-09-26 22:57:34 +0200'
+  content: Ale niehappy będzie jedna osoba zamiast tysięcy.
+- id: 2189
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-09-26 22:58:26 +0200'
+  date_gmt: '2005-09-26 22:58:26 +0200'
+  content: To skąd nazwa BrowseHappy?
+- id: 2190
+  author: Nivertius
+  author_url: ''
+  date: '2005-09-26 23:01:28 +0200'
+  date_gmt: '2005-09-26 23:01:28 +0200'
+  content: |-
+    Patrys:
+    <br/>I ja nie zamierzam walczyć. Ja zamierzam tylko wytłumaczyć o co tam w ogóle chodzi. Nie mówię &#039;nie rób pod IE&#039;, choć tak też można. Nawet nie mówię &#039;nie rób pod jedną przeglądarke&#039;. Mówię &#039;rób według standardów&#039;.
+    <br/>Bo jedno to zrobić zgodną ze standardami a druga to dorobić zgodność z IE, bo nie pamiętam strony w której tego nie trzeba było robić. I nie mówię o stronach, które pod IE po prostu muszą działać.
+    <br/>A co do tego, że niektórzy ją niepoprawnie zrozumieją to jak już powiedziałem ich sprawa. Nie wszyscy muszą robić strony.
+- id: 2191
+  author: Patrys
+  author_url: ''
+  date: '2005-09-26 23:11:11 +0200'
+  date_gmt: '2005-09-26 23:11:11 +0200'
+  content: |-
+    Nivertius:
+    <br/>
+    <br/>Ja jestem raczej za dawaniem przykładu, że każdy layout może działać nawet pod IE - to jest dobra metoda popularyzacji standardów.
+    <br/>
+    <br/>Co do tego, że nie wszyscy muszą robić strony - zgadzam się zupełnie, problem w tym, że nie ma żadnego egzaminu, a FrontPage wchodzi w skład pakietu Office.
+- id: 2192
+  author: jpc
+  author_url: ''
+  date: '2005-09-26 23:19:12 +0200'
+  date_gmt: '2005-09-26 23:19:12 +0200'
+  content: 'Patrys: skąd pomysł, że tysiące ludzi, którzy porzucą IE będzie nieszczęśliwa?
+    ;]'
+- id: 2193
+  author: Nivertius
+  author_url: ''
+  date: '2005-09-26 23:20:35 +0200'
+  date_gmt: '2005-09-26 23:20:35 +0200'
+  content: |-
+    Patrys:
+    <br/>To jest leczenie skutków a nie przyczyn. W związku z tym, że to zdanie jest krótkie, ale wyczerpuje temat, przeczytaj je jeszcze raz ;-D
+    <br/>Jednak po przeanalizowaniu po raz kolejny tego wpisu stwierdzam, że nie był on tak ofensywny jak mi się wydawało. To batou podsycił ogień. Bo ja też, wbrew pozorom mówię &#039;Nie mów nie IExplorerowi&#039;. Ja mówię &#039;Mów nie robieniu pod przeglądarkę lub naprawianiu przeglądarki przez dodatkowe głupoty na stronie&#039;.
+- id: 2194
+  author: batou
+  author_url: ''
+  date: '2005-09-26 23:22:02 +0200'
+  date_gmt: '2005-09-26 23:22:02 +0200'
+  content: |-
+    &quot;&quot;&quot;Niestety, aby tak się stało, musimy porzucić wszelkie powiązania ze starymi przeglądarkami.&quot;&quot;&quot;
+    <br/>
+    <br/>Tak dla pełnej jasności - cytat.
+- id: 2195
+  author: Nivertius
+  author_url: ''
+  date: '2005-09-26 23:24:44 +0200'
+  date_gmt: '2005-09-26 23:24:44 +0200'
+  content: |-
+    Batou:
+    <br/>Pełnej jasności nie doznałem - rozwiń co Ci się w tym nie podoba?
+    <br/>Czy jakbym zmienił na &#039;...wszelkie powiązania z niestandardowymi przeglądarkami.&#039; to byś był usatysfakcjonowany?
+- id: 2196
+  author: Patrys
+  author_url: ''
+  date: '2005-09-26 23:32:39 +0200'
+  date_gmt: '2005-09-26 23:32:39 +0200'
+  content: |-
+    jpc:
+    <br/>
+    <br/>Bo większość i tak się nie przesiądzie, bo nie będzie wiedzieć na co i po co (&quot;inne strony przecież działają&quot;).
+    <br/>
+    <br/>Nivertius:
+    <br/>
+    <br/>Ja do akcji nic nie mam, dodałbym tylko wielkie ostrzeżenie dla tych, którymi się nie przejmujesz - dla ignorantów.
+- id: 2197
+  author: Nivertius
+  author_url: ''
+  date: '2005-09-26 23:33:36 +0200'
+  date_gmt: '2005-09-26 23:33:36 +0200'
+  content: |-
+    Patrys:
+    <br/>Napisz tylko jakie a się pojawi.
+- id: 2198
+  author: batou
+  author_url: ''
+  date: '2005-09-26 23:34:04 +0200'
+  date_gmt: '2005-09-26 23:34:04 +0200'
+  content: |-
+    Nie. Bo chodzi mi o fragment ,,musimy porzucić wszelkie powiązania&#039;&#039;, który jest 1) faszystowski bo ,,musimy&#039;&#039; jest tak samo słuszne jak ,,nie musimy&#039;&#039; (porzucać powiązań ze starymi przeglądarkami), bo jak widać wyżej ,,nawet w IE SIĘ DA&#039;&#039;, 2) ,,porzucić wszelkie powiązania&#039;&#039; znacznie różni się od ,,rób wg standardów&#039;&#039; to jest po prostu ,,nie rób pod wybrane przeglądarki (najpewniej IE)&#039;&#039;, bo IE jest jednak ze standardami mocno na bakier i nie mam tu na myśli tylko box modelu (czcionki, wielkości względne, wymienione na kluczowej stronie png).
+    <br/>
+    <br/>Napis ,,zielone&#039;&#039; na czerwonej kartce jest zabawny, a tłumaczenie ,,musimy porzucić wszelkie powiązania ze starymi przeglądarkami&#039;&#039; na ,,musimy zacząć pisać strony zgodnie ze standardami&#039;&#039; nie.
+    <br/>
+    <br/>Chodzi mi o to, że jak chcesz napisać ,,musimy zacząc tworzyć strony zgodnie ze standardami&#039;&#039; to napisz ,,musimy zacząć tworzyć strony zgodnie ze standardami&#039;&#039;, a nie sugeruj, że będziesz terroryzował ,,dzieci gorszego boga&#039;&#039; zmuszając je do zmiany przeglądarki przez jej dyskryminację.
+    <br/>
+    <br/>To jest trudne? Prościej się tego rozpisać nie da.
+- id: 2199
+  author: Nivertius
+  author_url: ''
+  date: '2005-09-26 23:38:03 +0200'
+  date_gmt: '2005-09-26 23:38:03 +0200'
+  content: |-
+    Batou:
+    <br/>Stwierdzam jedno - czepiasz się i to jeszcze bardzo nieprzyjemnie. Tam nigdzie nie ma napisane, że to chodzi o IE.
+    <br/>Ale dobrze, zmienię, co mi tam.
+- id: 2200
+  author: batou
+  author_url: ''
+  date: '2005-09-26 23:44:12 +0200'
+  date_gmt: '2005-09-26 23:44:12 +0200'
+  content: |-
+    Nivertus:
+    <br/>Może nawet chodzić o XYZ, która ma grupę użytkowników równą 42, problemy z box modelem i nie wyświetla png, a w standardach nadal nie będzie chodzić o ograniczanie dostępu (użytkownikom tej przeglądarki), na co ciągle wskazuje wypowiedź o ,,porzucaniu wszelkich powiązań&#039;&#039;. Przykro mi, nie ja to wymyśliłem. Już lepiej byłoby ,,porzucić wszelkie nawyki nabyte przy pracy dedykowanej tym przeglądarkom&#039;&#039;.
+    <br/>
+    <br/>Jeśli pisanie w języku polskim sprawia Ci trudność, to może spróbuj w innym. Co innego, że przy przesłaniu ,,olewać przeglądarki-inwalidów&#039;&#039; (i nie mam tu na myśli przeglądarek dla inwalidów, go figure) faktycznie napisałeś dokładnie to, co chciałeś przekazać.
+- id: 2201
+  author: Riddle
+  author_url: ''
+  date: '2005-09-27 04:14:40 +0200'
+  date_gmt: '2005-09-27 04:14:40 +0200'
+  content: |-
+    Ciekawe jakie głosy się podniosą, jak ja sobie oleję Operę, bo mnie wkurza niesamowicie (podczas gdy IE i Firefox rednerują stronę w 99% identycznie, pomijając braki IE w obsłudze :hover, :focus i takich hi-tech bajerów). No ale to za jakiś czas, może do tego czasu rozwiążę problem.
+    <br/>
+    <br/>Bo to o to chodzi - jak bardzo chce Ci się grzebać w kodzie. html&gt;body jest nieszkodliwe, usunięcie whitespaces z &lt;ul/&gt;,&lt;li/&gt; też, dodawanie kodu html jest i nie będę tego używał.
+    <br/>
+    <br/>Ach, koment powstał pod wpływem wielkich emocji: http://riddle.jogger.pl/comment.php?eid=152301
+    <br/>
+- id: 2202
+  author: Hawk
+  author_url: ''
+  date: '2005-09-27 14:15:19 +0200'
+  date_gmt: '2005-09-27 14:15:19 +0200'
+  content: Trcohe offtopic. Kliknalem sobie komentarze i powital mnie ladny popup
+    przedstawiajacy sie jako http://badania.hit.gemius.pl z pytaniem czy chce wziasc
+    udzial w jakiejs durnej ankiecie. To tak informacyjnie pisze :)
+- id: 2203
+  author: Patrys
+  author_url: ''
+  date: '2005-09-27 15:54:12 +0200'
+  date_gmt: '2005-09-27 15:54:12 +0200'
+  content: Tak działa bezpłatna wersja stat.pl - niestety, z  braku alternatywy, póki
+    co musi zostać.
+- id: 2204
+  author: futrzak
+  author_url: ''
+  date: '2005-09-27 20:20:55 +0200'
+  date_gmt: '2005-09-27 20:20:55 +0200'
+  content: Poprawienie mojego jogga pod IE zajęło 15 minut. Po co dodawać jakieś paski
+    i umieszczać informacje &quot;twojsza przęglądarka jest gorsza niż mojsza?
+- id: 2205
+  author: Patrys
+  author_url: ''
+  date: '2005-09-27 20:22:14 +0200'
+  date_gmt: '2005-09-27 20:22:14 +0200'
+  content: |-
+    futrzak:
+    <br/>
+    <br/>Żeby tej inszej było coraz mniej, a tych najszych więcej :]
+- id: 2206
+  author: mcv
+  author_url: ''
+  date: '2005-09-27 20:50:46 +0200'
+  date_gmt: '2005-09-27 20:50:46 +0200'
+  content: |-
+    ,,W dużo przyjaźniejszym tonie jest zakodować stronę tak, by działała wszędzie i umieścić na niej napis: (...) Jeżeli używasz przeglądarki Internet Explorer (...), to wiedz, że ze względu na jej przestarzałość, włożyłem dodatkową pracę, by witryna ta wyświetlała się prawidłowo&#039;&#039;.
+    <br/>
+    <br/>Problem w tym, że niektórym (np. mi) tej dodatkowej pracy nie chce się wkładać. Musiałbym instalować IE pod jakimś Wine, pewnie jeszcze nielegalnie (poza tym nie chce mi się żadnych EULI czytać), bo oczywiście kupno i instalacja Windows nie wchodzi w grę. Musiałbym robić sobie nieprzyjemność ;-) i tego IE odpalać. Musiałbym wreszcie siąść i badać co nie działa, a co działa i robić ,,arkusz poprawiający&#039;&#039;.
+    <br/>
+    <br/>Nie chce mi się i mój ,,target&#039;&#039; niewiele by na tym zyskał.
+    <br/>
+    <br/>Ale częściowo się zgadzam i zaraz zrobię tę jedną rzecz. Infobara już dodałem. A zaraz jeszcze usunę arkusz stylów dla IE (w komentarzach warunkowych). Mój jogger będzie wyświetlany domyślnie, ale przynajmniej jakoś będzie.
+    <br/>
+    <br/>PS: Zauważyłem, że czasem po wstawieniu infobara na jakąś stronę IE się zawiesza, konkretnej przyczyny nie znam. ktoś miał podobne doświadczenia? ;-)
+- id: 2207
+  author: mcv
+  author_url: ''
+  date: '2005-09-27 20:51:51 +0200'
+  date_gmt: '2005-09-27 20:51:51 +0200'
+  content: Uuuu, siadłem do pracy i chyba coś mi się pokiełbasiło. Jak niby ja chciałem,
+    za pomocą komentarzy warunkowych, usunąć &lt;link/&gt; dla IE? O_o?
+- id: 2208
+  author: Patrys
+  author_url: ''
+  date: '2005-09-27 20:53:03 +0200'
+  date_gmt: '2005-09-27 20:53:03 +0200'
+  content: |-
+    mcv:
+    <br/>
+    <br/>Ja bez IE pod Wine to nie mam nawet co siadać do pracy. Robię głównie komercyjne serwisy.
+- id: 2209
+  author: mroq
+  author_url: ''
+  date: '2005-09-27 23:55:06 +0200'
+  date_gmt: '2005-09-27 23:55:06 +0200'
+  content: Właśnie klient na mnie nawrzeszczał, bo IE źle renderuje styl dashed linii.
+    W takich momentach jestem za całkowitą izolacją IE.
+- id: 2210
+  author: didimos
+  author_url: ''
+  date: '2005-09-30 20:40:54 +0200'
+  date_gmt: '2005-09-30 20:40:54 +0200'
+  content: |-
+    Tak sobie przeglądam Twoje archiwum, i oto co znajduję:
+    <br/>http://patrys.jogger.pl/comment.php?eid=55272&amp;startid=200407
+    <br/>
+    <br/>:)
+    <br/>
+- id: 2211
+  author: Riddle
+  author_url: ''
+  date: '2005-09-30 22:03:45 +0200'
+  date_gmt: '2005-09-30 22:03:45 +0200'
+  content: No a ja zrobiłem pierwszy lejałt na Joggera na tabelkach, i co? :) I nawet
+    w IE ciął.
+- id: 2212
+  author: Elsindel
+  author_url: ''
+  date: '2005-10-01 12:25:30 +0200'
+  date_gmt: '2005-10-01 12:25:30 +0200'
+  content: |-
+    Pamietajcie, ze uzytkownik nie zmieni oprogramowania tylko dlatego, ze jedna na kilkanascie czy kilkadziesiat podstron wyglada dla niego bardzo zle (tzn. layout kompletnie sie rozsypuje - nie-specjalisci nie zauwazaja bledow w renderowaniu stron, ktore dla nas sa oczywiste!!).
+    <br/>
+    <br/>Gdyby kazdego dnia internauta trafial na serwis *nie do uzytku*, zaczalby sie moze zastanawiac, czy to nie jest spowodowane jego przegladarka (moglby zapytac speca itp.). Ale w 99% przypadkow olewanie standardow, albo odwrotnie (to a propos browsehappy i negatywnego podejscia do IE) - strony, ktore sa zgodne ze standardami, ale w IE wlasnie nie wygladaja poprawnie - nie powoduje zadnej widocznej utraty funkcjonalnosci. Uzytkownik czasem cos zauwazy, jakis drobiazg, ale drobiazgi zwiazane z renderingiem interesuja autorow i wlascicieli witryn, nie ich odbiorcow.
+    <br/>
+    <br/>Akcje tego typu zadzialaja na pewno na pewna czesc ludzi, ale same w sobie maja przyzerowe znaczenie dla rozwoju sieci. IE dziala wystarczajaco dobrze, by nie bylo zadnych niemal argumentow zwiazanych z jego &#039;poprawnoscia wyswietlania&#039; dla normalnych uzytkownikow: &quot;przeciez wszystko mi dziala!&quot;. Jasne, ze dziala. I cale szczescie.
+    <br/>
+    <br/>Powtarzam: przeceniacie wplyw niezgodnosci IE ze standardami na userow. Tego wplywu nie ma i nie bedzie, nigdy. Firmy nie moga sobie pozwolic na strate uzytkownikow IE, a to firmy wyznaczaja kierunek rozwoju WWW. Inne cechy przegladarek moga spowodowac, ze IE stanie sie mniej popularny, ale i wtedy IE bedzie walczyl poprzez poprawienie tych wlasnie cech. Standardy to walka z gory przegrana; musieliscie przeciez czytac ogloszenia o IE7, moze widzieliscie juz bete: jest lepiej, ale wciaz mnostwo podstawowych rzeczy ma byc nieobslugiwanych. &quot;Bo css2 jest niebezpieczny&quot; !! MS wie, co robi.
+- id: 2213
+  author: Patrys
+  author_url: ''
+  date: '2005-10-01 12:33:57 +0200'
+  date_gmt: '2005-10-01 12:33:57 +0200'
+  content: |-
+    Elsindel:
+    <br/>
+    <br/>Wszystko prawda, ludzie nie zwracają uwagi na wygląd stron, bo szukają głównie informacji. Nie dotyczy to tych bardziej technicznie-sieciowo świadomych, ale oni nie używają też IE.
+    <br/>
+    <br/>Dlatego zawsze lepiej pozwolić przeglądarce, żeby wyświetliła stronę tak, jak umie, niż blokować do niej dostęp przez rozjechaną grafikę. W końcu całą idea CSS opiera się na parsowaniu obsługiwanej części arkusza i fallbackach dla pozostałego kodu (zgodność w przód i wstecz).
+    <br/>
+    <br/>Gorzej, jeśli strona jest źle pocięta i czytelność tekstu zależy na przykład od przezroczystości tła.
+- id: 2214
+  author: Piotr Mikołajski
+  author_url: ''
+  date: '2005-10-02 17:56:53 +0200'
+  date_gmt: '2005-10-02 17:56:53 +0200'
+  content: |-
+    Dziwi mnie trochę wiara w ZU, który po przeczytaniu takiej informacji od razu pobiegnie zmieniać przeglądarkę.
+    <br/>ZU działa tak, że jeżeli strona mu się nie otwiera, to sobie znajdzie następną. Jeśli będzie używał IE i pojawi mu się durny komunikat w stylu &quot;używasz kIEpskiej przeglądarki&quot;, to on sobie wygoogla coś innego.
+    <br/>Zdobywanie rynku ma sens przez osobiste promowanie alternatywnych przeglądarek. Sam zainstalowałem FF na czort wie ilu kompach i tam już IE nikt nie używa. Każdej osobie musiałem poświęcić chwilę, wyjaśniając co i jak, ale teraz wiem, że oni się nie przesiądą nawet na IE 7 czy IE 8 :)
+    <br/>A sam IE zacznie zdychać wtedy, gdy przestaną go używać firmy. Tutaj warto sugerować znajomym szefom zmianę przeglądarki ze względu na bezpieczeństwo danych etc. Ich renderowanie stron oraz zgodność z W3C nie obchodzi, ale na hasło &quot;wirus&quot; są w stanie zrobić wiele ;)
+- id: 2215
+  author: Wszystko, wszystko przeczytale
+  author_url: ''
+  date: '2005-10-03 19:58:52 +0200'
+  date_gmt: '2005-10-03 19:58:52 +0200'
+  content: Ale po co wogóle strony www? Nie lepiej iść na łąkę z dziewczyną i pić
+    wino? Po co jakieś strony?!
+- id: 2216
+  author: porneL
+  author_url: ''
+  date: '2005-10-06 15:55:38 +0200'
+  date_gmt: '2005-10-06 15:55:38 +0200'
+  content: |-
+    DesignHappy, żeby coś zdziałać, musiało by najpierw przygotować coś bijącego CSSZenGarden. Ich nudna stronka i chaotyczny postulat świata nie zawróci.
+    <br/>
+    <br/>Wspieranie IE jest irytujące. Brak selektorów, minimalna obsługa display, brak GC, brak tego i tamtego można jeszcze wytrzymać, ale jego ogromna ilość bugów jest dobijająca. Przy jakimkolwiek nietrywialnym layoucie zdarza się, że boxy hasLayout przycinają jakiś pozycjonowany element, że blokowe linki tworzą nieusuwalne odstępy w listach, że floaty się dziko rozciągają albo spadają od jakiejś &quot;niewidocznej spacji&quot;, etc.
+    <br/>
+    <br/>Box-modelu IE5 w ogóle nie wspieram, póki stronę da się czytać. Ta przeglądarka jest na wymarciu i nawet jeśli patrzeć na statystyki, to opłaca się dołożyć starań dla 20% nie-IE zamiast 5% IE5. IE5 olewam nawet komercyjnie - z góry zapowiadam klientowi, że jak chce wsparcie dla IE5/win i IE5/mac, to płaci extra, a za NN4 to musi mnie nosić w lektyce ;)
+    <br/>
+    <br/>No i za te strony, co mają pięknie działać w IE6, to mi się jeszcze oberwie, jak wyjdzie IE7 - z poprawionym parsowaniem CSS i wsparciem dla selektorów (żegnaj &quot;* html&quot;, &quot;html&gt;body&quot;), ale z pozostawionym syfem od hasLayout i nieruszonym display - wszystko się całkiem sypnie.
+    <br/>
+    <br/>Stawianie *wymagań* do publicznej strony w większości przypadków dla mnie jest lamerstwem. Da się zrobić dropdown menu i nawigację, która działa bez JS. Da się wstawić Flash i alternatywę dla bezpluginowców. To nie są trudne i czasochłonne rzeczy (pestka w porównaniu z MS-CSS). Jeśli się pokombinuje, to nawet wiele AJAXów da się zrobić ładnie degradujących się do formularzy i sesji. IMHO stronka nie musi wyglądać pięknie - jeśli użytkownik dokopie się do tego, czego szukał, to strona spełnia zadanie.
+    <br/>
+    <br/>
+---
+<p>Nie popierałem i nie popieram akcji takich jak <a href="http://pl.designhappy.org/">DesignHappy</a>. Dlaczego? Dają leniwym i niedouczonym <q>webmasterom</q> pretekst do kiepskiego budowania serwisów. Spora grupa ludzi zupełnie nie pojmuje założeń tego typu akcji i buduje strony, które rozjeżdżają się zupełnie w przeglądarkach innych niż Firefox i Opera.</p>
+
+<p>Jednym z głównych argumentów kampanii promującej tandem <abbr title="Extensible HyperText Markup Language">XHTML</abbr> + <abbr title="Cascading Style Sheets">CSS</abbr> jest zwiększone wsparcie dla przeglądarek tak przyszłych, jak i obecnych. Cóż to za wsparcie, jeśli dla 90% użytkowników sieci serwis wygląda jak efekt zabawy trzylatka z nożyczkami. To dostarcza tylko kolejnych głosów przeciwko standardom - <q>obiecywali lepsze serwisy, a najprostszego układu się nie da zrobić.</q> Sam coraz częściej słyszę: <q>Wy poważnie używanie czystego <abbr>CSS</abbr>? <em>Przecież tam nic nie działa!</em></q></p>
+
+<p>Sam chętnie przerwałbym wsparcie dla <abbr title="Internet Explorera">IE</abbr> (a wspieramy go wstecz do wersji 5.5), jednak z pewnością nie do momentu, kiedy przestaną go używać odwiedzający serwisy użytkownicy. Standardy to między innymi większa dostępność, a lenistwo nie jest usprawiedliwieniem dla serwowania większości użytkowników sieczki.</p>
+
+<p>Co się zaś tyczy stron prywatnych, to świadomi standardów sami zdecydują, jak zakodować swoje strony domowe. Wątpię też, żeby czyjakolwiek strona zachęciła większą grupę ludzi do przesiadki na nowoczesną przeglądarkę. W dużo przyjaźniejszym tonie jest zakodować stronę tak, by działała wszędzie i umieścić na niej napis: <q>jeżeli używasz przeglądarki Internet Explorer w wersji 6 lub starszej, to wiedz, że ze względu na jej przestarzałość, włożyłem dodatkową pracę, by witryna ta wyświetlała się prawidłowo. Zrób nam obu przysługę i przesiądź się na jedną z <a href="http://browsehappy.pl/" title="BrowseHappy">nowocześniejszych alternatyw</a>. Będziesz zadowolony, słowo, a dzięki tobie sieć stanie się lepszym miejscem.</q></p>

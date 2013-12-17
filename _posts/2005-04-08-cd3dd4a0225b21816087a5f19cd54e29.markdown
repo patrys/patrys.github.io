@@ -1,0 +1,285 @@
+---
+layout: post
+status: publish
+published: true
+title: Fakty i mity
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 76
+date: 2005-04-08 02:38:26.000000000 +02:00
+categories:
+- linux
+tags: []
+comments:
+- id: 863
+  author: koorek
+  author_url: ''
+  date: '2005-04-08 02:49:07 +0200'
+  date_gmt: '2005-04-08 02:49:07 +0200'
+  content: hmm, zabrzmialo jak ogloszenie :P
+- id: 864
+  author: sztywny
+  author_url: ''
+  date: '2005-04-08 06:39:06 +0200'
+  date_gmt: '2005-04-08 06:39:06 +0200'
+  content: Bez przesady. Debian i Gentoo mają więcej pakietów...
+- id: 865
+  author: pmz
+  author_url: ''
+  date: '2005-04-08 08:01:53 +0200'
+  date_gmt: '2005-04-08 08:01:53 +0200'
+  content: 'sztywny: ile pakietów liczy sobie PLD?'
+- id: 866
+  author: sztywny
+  author_url: ''
+  date: '2005-04-08 08:05:11 +0200'
+  date_gmt: '2005-04-08 08:05:11 +0200'
+  content: Nie mam pojęcia, ale po pobieżnym przejrzeniu repo naprawdę nie sądze żeby
+    było ich więcej niż w Gentoo czy Debianie.
+- id: 867
+  author: ja
+  author_url: ''
+  date: '2005-04-08 08:23:16 +0200'
+  date_gmt: '2005-04-08 08:23:16 +0200'
+  content: "# poldek                                                   \n<br/>Loading
+    [pdir]ac...\n<br/>Loading [pdir]ac-ready...\n<br/>Loading [pdir]ac-test...\n<br/>Przeczytano
+    13460 pakietów\n<br/>\n<br/>Tak więc masz rację - gentoo i debian mają więcej
+    pakietów - razem."
+- id: 868
+  author: sztywny
+  author_url: ''
+  date: '2005-04-08 08:26:49 +0200'
+  date_gmt: '2005-04-08 08:26:49 +0200'
+  content: I to jest 13460 unikalnych pakietów? Nie sądze... Chyba że ftp://ftp.pld.org.pl/pool
+    to nie jest pełne repozytorium oficjalnych pakietów PLD?
+- id: 869
+  author: mmazur
+  author_url: ''
+  date: '2005-04-08 10:56:57 +0200'
+  date_gmt: '2005-04-08 10:56:57 +0200'
+  content: "To co jest na ftpie, to nie są wszystkie pakiety (poza tym ftp.pld-linux.org,
+    a nie pld.org.pl, a pool jest chyba martwy). Specy mamy jakieś 8500. \n<br/>\n<br/>Co
+    do tekstu, to on by się zasadniczo nadawał do wrzucenia na nasze wiki do &#039;jak
+    zostać deviloperem&#039;. Jak tylko poprawisz tego Release Maintainera na Release
+    Managera :)"
+- id: 870
+  author: Patrys
+  author_url: ''
+  date: '2005-04-08 11:11:46 +0200'
+  date_gmt: '2005-04-08 11:11:46 +0200'
+  content: Oops... faktycznie, ale ze względu na godzinę, sam sobie się nie dziwię
+    :)
+- id: 871
+  author: PawelK
+  author_url: ''
+  date: '2005-04-08 13:05:38 +0200'
+  date_gmt: '2005-04-08 13:05:38 +0200'
+  content: 'Z tego 1505 z perlem, 623 z php i okolicami, 275 z dwoma wersjami apche,
+    180  tetexem, 174 zkernelem. Za to firefox pojawil się w działającej wersji kilka
+    miesięcy po premierze. Często to co jest w innych dystrybucjach w jednym pakiecie
+    w pld jest w kilkunastu. To taki mój kameczyek do mierzenia dystrybucji przez
+    statystyki. '
+- id: 872
+  author: koorek
+  author_url: ''
+  date: '2005-04-08 13:56:51 +0200'
+  date_gmt: '2005-04-08 13:56:51 +0200'
+  content: |-
+    PawelK, i dzieki tym malutkim pakiecikom jest dobrze. To byla jedna z tych rzeczy ktrore mnie pchnely ku PLD. Mialem dosyc sytuacji, w ktorych chcac miec kmix musialem instalowac kdemultimedia z cala masa innego softu. Poza tym gentoo tez zaczyna sie rozbijac na kawalki (kde). Czyli to co dobre i tak bedzie na wierzchu :P
+    <br/>
+    <br/>Inna sprawa, ze w PLD jest naprawde duzo oprogramowania, nieraz zdziwilem sie (i nie tylko ja), ze spec juz jest. I to czasem do jakis azjatyckich progsow.
+- id: 873
+  author: koorek
+  author_url: ''
+  date: '2005-04-08 13:57:11 +0200'
+  date_gmt: '2005-04-08 13:57:11 +0200'
+  content: Sorki, mialo byc egzotycznych nie azjatyckich :P
+- id: 874
+  author: Cachotterie
+  author_url: ''
+  date: '2005-04-08 14:04:59 +0200'
+  date_gmt: '2005-04-08 14:04:59 +0200'
+  content: |-
+    Kochanie, wyczuwam dyskretną nutkę propagandy :P
+    <br/>I nadal twierdzę &quot;ja się do tego nie nadaję&quot; ;))
+- id: 875
+  author: Patrys
+  author_url: ''
+  date: '2005-04-08 14:05:08 +0200'
+  date_gmt: '2005-04-08 14:05:08 +0200'
+  content: "Nie bardzo rozumiem zarzuty odnośnie rozbicia paczek...\n<br/>\n<br/>Czy
+    w Debianie jest pakiet &quot;php&quot; zawierający wszystko, od CLI po moduły
+    PEAR? A może pakiet &quot;perl&quot; zawierający wszystkie możliwe biblioteki
+    Perla?\n<br/>\n<br/>Fakt, że mamy duże rozbicie (żeby uniknąć ciągnięcia zbędnych
+    rzeczy), ale nie na poziomie osobnych plików spec. Jeśli pakiet jest rozbijany,
+    to z jednego pliku spec najzwyczajniej buduje się kilka plików RPM.\n<br/>\n<br/>O
+    wielkości dystrybucji nie świadczy to, że ma X plików na FTP i Y plików w CVS.
+    Używając Debiana na serwerach (nie mam często wpływu na wybór systemu) często
+    muszę z palca dobudowywać różne rzeczy do systemu. W PLD w najgorszym wypadku
+    musiałem napisać &quot;cd ~/rpm/SPECS; ./builder pakiet&quot;.\n<br/>\n<br/>Tak
+    samo błędny jest zarzut nieaktualności pakietów. Nie oceniaj nas po zawartości
+    repozytorium FTP. Firefox nowy był wcześniej, tylko leżał w CVS zbudowany tylko
+    do ac-test. "
+- id: 876
+  author: sztywny
+  author_url: ''
+  date: '2005-04-08 14:07:20 +0200'
+  date_gmt: '2005-04-08 14:07:20 +0200'
+  content: Gdzie moge zobaczyć listę wszystkich pakietów w PLD jeśli takowego nie
+    posiadam?
+- id: 877
+  author: Patrys
+  author_url: ''
+  date: '2005-04-08 14:08:27 +0200'
+  date_gmt: '2005-04-08 14:08:27 +0200'
+  content: '@sztywny: http://cvs.pld-linux.org/cgi-bin/cvsweb/SPECS/'
+- id: 878
+  author: sztywny
+  author_url: ''
+  date: '2005-04-08 14:11:52 +0200'
+  date_gmt: '2005-04-08 14:11:52 +0200'
+  content: Faktycznie, robi wrażenie...
+- id: 879
+  author: jpc
+  author_url: ''
+  date: '2005-04-09 21:08:41 +0200'
+  date_gmt: '2005-04-09 21:08:41 +0200'
+  content: |-
+    [jpc@jpc ~/rpm/SPECS] ls . |wc -l
+    <br/>8472
+    <br/>
+    <br/>Zbyt dużo, żeby zrobić &quot;grep coś_tam *&quot;. Od pewnego czasu trzeba robić &quot;grep coś_tam -R .&quot; ;]
+- id: 880
+  author: pmz
+  author_url: ''
+  date: '2005-04-09 21:12:08 +0200'
+  date_gmt: '2005-04-09 21:12:08 +0200'
+  content: 'jpc: to nie jest śmiesze ;-P'
+- id: 881
+  author: jpc
+  author_url: ''
+  date: '2005-04-09 21:16:42 +0200'
+  date_gmt: '2005-04-09 21:16:42 +0200'
+  content: /me śpiewa ,,Było ich zbyt wielu, by powiedzieć dużo...&#039;&#039; :P
+- id: 882
+  author: smk
+  author_url: ''
+  date: '2005-04-10 19:33:39 +0200'
+  date_gmt: '2005-04-10 19:33:39 +0200'
+  content: |-
+    do &#039;ja&#039;:
+    <br/># find /usr/portage -name &#039;*.ebuild&#039; -print | wc -l
+    <br/>18912
+    <br/>
+    <br/>(to tak gwoli ścisłości. /me PLD lubi i uważa, że jest git)
+- id: 883
+  author: jpc
+  author_url: ''
+  date: '2005-04-10 21:34:34 +0200'
+  date_gmt: '2005-04-10 21:34:34 +0200'
+  content: 'smk: każdy ebuild od osobnego programu? Skąd oni mają tego TYLE? ;]'
+- id: 884
+  author: gozda
+  author_url: ''
+  date: '2005-04-11 10:02:12 +0200'
+  date_gmt: '2005-04-11 10:02:12 +0200'
+  content: |-
+    bo oni maja rozne ebuildy do roznych wersji tego samego progsa.
+    <br/>Pierwszy z brzegu katalog:
+    <br/>.-(/mnt/gentoo/usr/portage/app-admin/webmin)------------------------------------------------------------------------------------------------------------------------------------------(root@pstryk)-
+    <br/>`--# ls
+    <br/>ChangeLog  files  Manifest  metadata.xml  webmin-1.160.ebuild  webmin-1.170.ebuild  webmin-1.170-r3.ebuild  webmin-1.180.ebuild
+    <br/>
+    <br/>Dzielac ta liczbe 18912 przez cztery (zakladajac ze kazdy soft ma srednio cztery wersje w gentoo) wyjdzie nam liczba mniejsza niz w PLD. Dziekuje za uwage. ;&gt;
+- id: 885
+  author: smoku
+  author_url: ''
+  date: '2005-04-11 10:39:50 +0200'
+  date_gmt: '2005-04-11 10:39:50 +0200'
+  content: |-
+    jpc: oczywiście, że nie..
+    <br/>
+    <br/>ale ja odnosiłem się do tego:
+    <br/>-- 8&lt; -- 8&lt; --
+    <br/># poldek
+    <br/>Loading [pdir]ac...
+    <br/>Loading [pdir]ac-ready...
+    <br/>Loading [pdir]ac-test...
+    <br/>Przeczytano 13460 pakietów
+    <br/>-- 8&lt; -- 8&lt; --
+    <br/>
+    <br/>to też są pakiety, a nie oddzielne programy...
+- id: 886
+  author: jpc
+  author_url: ''
+  date: '2005-04-11 20:13:44 +0200'
+  date_gmt: '2005-04-11 20:13:44 +0200'
+  content: |-
+    Z drugiej strony na FTP PLDowym też nie ma wszystkiego, co leży w CVSie (a ebuild to raczej jak plik spec, a nie jak paczka RPM).
+    <br/>Tak czy siak --- największe na pewno są PLD, Debian i Gentoo.
+- id: 887
+  author: jpc
+  author_url: ''
+  date: '2005-04-11 21:55:47 +0200'
+  date_gmt: '2005-04-11 21:55:47 +0200'
+  content: Btw. Zmien ,,Kevina Mitnicka&#039;&#039; na ,,lcamtufa&#039;&#039;. Będzie
+    bardziej poprawnie (lcamtuf bardziej mi się kojarzy ze specjalistą niż Mitnick,
+    który był złodziejem) i bardziej swojsko. ;]
+- id: 888
+  author: zdzichuBG
+  author_url: ''
+  date: '2005-04-17 16:26:45 +0200'
+  date_gmt: '2005-04-17 16:26:45 +0200'
+  content: Zamiast porównywać ebuildy i spece po 10 do tego samego, porównajcie lepiej
+    ilość źródłowych *.tar.{gz,bz2} do których się te especobuildy odwołują.
+- id: 889
+  author: Patrys
+  author_url: ''
+  date: '2005-04-17 16:28:16 +0200'
+  date_gmt: '2005-04-17 16:28:16 +0200'
+  content: Porównajcie też rozmiary swoich męskości przy okazji i zacznijcie wojnę
+    o to, kto dłużej używa linuksa/bsd/hpux/solarisa/whatever.
+- id: 890
+  author: jpc
+  author_url: ''
+  date: '2005-04-17 16:29:58 +0200'
+  date_gmt: '2005-04-17 16:29:58 +0200'
+  content: 'Patrys: Po co. I tak wszyscy wiedzą, że używam linuksa dopiero od paru
+    lat, ale za to (a może dzięki temu :P) mam najdłuższego członka!'
+- id: 891
+  author: djurban
+  author_url: ''
+  date: '2005-04-18 01:14:04 +0200'
+  date_gmt: '2005-04-18 01:14:04 +0200'
+  content: BSD ssie.
+- id: 892
+  author: tas
+  author_url: ''
+  date: '2005-04-19 10:38:50 +0200'
+  date_gmt: '2005-04-19 10:38:50 +0200'
+  content: 'czemu tylko pld brak na distrowatch.com? Można spokojnie znaleźć wymienione
+    tam (polskie distra): aurox, pingwinek, hakin9, linux+ live, czasami przewija
+    się navyn-os. PLD tylko brak, które wydawało mi się jedną z najpotężniejszych
+    polskich distro. No, może poza Auroxem, ale to pewnie kwestia sporna.'
+---
+<p>Jeśli jesteś jedną z osób, które zwykły mówić <q><cite>ja nigdy nie zostanę deweloperem, bo się do tego nie nadaję</cite></q>, to właśnie za chwilę stracisz część swoich argumentów. Ale może od początku.</p>
+
+<p>Jeśli usłyszałeś od kogoś, że <q><cite>w PLD są tylko spece</cite></q>, to twój rozmówca miał rację, tylko źle go zrozumiałeś. W PLD spece są, ale w repozytorium.</p>
+
+<p>Oczywiście, to tylko jeden z moich kiepskich żartów, ale jego celem jest podkreślenie, że nie wszyscy pracujący przy dystrybucji muszą być (i nie są) bogami Linuksa. Jeśli wydaje ci się, że przy tak dużym tworze pracuje dwieście klonów Kevina Mitnicka, to właśnie padłeś ofiarą mitu. PLD swoją wielkość (a jesteśmy bodaj największą dystrybucją na świecie, jeśli chodzi o ilość dostępnych i możliwych do zbudowania pakietów) zawdzięcza właśnie rozdrobnieniu pomiędzy sporą liczbę osób o bardzo różnych zainteresowaniach i potrzebach. Panuje tu jedna zasada - rób to, na czym się znasz i czego sam używasz. Dzięki temu mamy ogromny przekrój pakietów, od tych stricte desktopowych do tych o bardzo specyficznych zastosowaniach serwerowych. A kto nad tym panuje? Teoretycznie nikt, w praktyce całością kieruje Release Manager, czyli opiekun danej linii dystrybucji. Jego praca nie polega oczywiście na staniu i poganianiu innych za pomocą bicza. Praca jest całkowicie dobrowolna i wykonywana w wolnym czasie (za wyjątkiem jednego człowieka, którego wszyscy chyba znają, ale jest on w rzeczywistości klastrem ludzi zamieszkujących na stałe w czeluściach naszego CVS). Nad jakością, niejako przy okazji, czuwa ogół deweloperów. Za zepsucie czegokolwiek czeka cię lincz publiczny i siedem lat ciężkich robót w pobliskiej restauracji szybkiej obsługi na literę <q>M</q>. W praktyce skończy się najwyżej na krótkim flame'ie, ciężko bowiem kogoś zwolnić z wolontariatu. Nie zdarzyło się chyba jeszcze, żeby ktoś wskutek pomyłki utracił prawo dokonywania zmian w dystrybucji. Jak więć można pomóc?</p>
+
+<p>Pomóc może prawie każdy. Tutaj pewnie odezwą się głosy mówiące <q><cite>ja nie umiem programować</cite></q>, ale smutna prawda jest taka, że nie jest to umiejętność niezbędna ani nawet wymagana, a w codziennej pracy często nieprzydatna. Wymagane jest za to pewne doświadczenie w pracy z systemami linuksowymi. Pozostałe umiejętności zależeć będą od kierunku, w jakim zechcesz się udać. Oczywiście, mamy programistów i własne projekty OpenSource, ale na tym dystrybucja się nie kończy. Gro pracujących nad nią ludzi stanowią opiekunowie bazy pakietów i to o nich w mowie potocznej mówi się <q>deweloperzy</q>.</p>
+
+<p>Podstawowym zadaniem takiego dewelopera jest dbanie o to, by dystrybucja (przynajmniej w ramach danej linii) była spójna, ale jednocześnie dostarczała niezbędnej funkcjonalności każdemu użytkownikowi, nie stając się jednocześnie dinozaurem ze względu na przestarzałe oprogramowanie. Codzienna (termin zwyczajowy, nie oznacza konieczności pracy od poniedziałku do niedzieli) praca polega na edycji plików <code>spec</code> - instrukcji dla farmy maszyn budujących pakiety. Jeśli pakiet jest potrawą, a komputer budujący kucharzem, to plik <code>spec</code> jest przepisem na przyrządzenie tej potrawy. Wygląda trochę jak strona z książki kucharskiej dla opornych, <q>potrzebujesz następujących składników, następnie weź takie naczynie i wsyp do niego to i tamto, mieszając powoli aż do uzyskania jednolitej konsystencji</q>. Brzmi groźnie, ale składnia recepty jest dość prosta i opanowanie jej nie zajmuje więcej niż dwa dni. Zwłaszcza, że krótki opis, przykładowy plik i linki do szczegółowej dokumentacji znajdują się w naszym poradniku dewelopera.</p>
+
+<p>A jak zostać deweloperem? To proste - trzeba chcieć. Na początek dobrze zapisać się na <a href="http://lists.pld-linux.org/">listy dyskusyjne</a> do tego celu przeznaczone. Rozsądnie jest też znaleźć sobie opiekuna na start - osobę, która wyjaśni wątpliwości, pomoże, doradzi i, co najważniejsze, będzie miała uprawnienia wprowadzić nasze zmiany do dystrybucji. A należy tu zaznaczyć, że całość utrzymywana jest w repozytorium CVS, do którego prawo zapisu mają tylko deweloperzy. Stąd początkowe ulepszenia musimy komuś podsyłać, jeśli nie mamy opiekuna, to możemy wysłać je na listę pld-devel-pl. Tutaj kilka uwag pro-forma - opiekuna nie szukamy na siłę, jeśli nikogo nie znamy, to nie wysyłamy do wszystkich maila z pytaniem, kto się podejmie; poprawki przysyłamy w postaci czystego tekstu, nie pakujemy plików <code>spec</code> zipem, tarem ani rarem; poprawki do istniejących plików wysyłamy w postaci zunifikowanej łatki (wypluwa ją z siebie <code>diff -u</code>); nie zniechęcamy się, jeśli nikt nam nie podziękuje i nie padnie do stóp, a bardziej prawdopodobne jest, że ktoś zwróci nam uwagę na kilka błędów w naszych pierwszych <q>dziełach</q>.</p>
+
+<p>Pliki <code>spec</code> brzmią strasznie? Mamy też <a href="http://pl.docs.pld-linux.org/">dział dokumentacji</a>, a ta przy dynamicznie rozwijającym się oprogramowaniu szybko się dezaktualizuje. Panowie zajmujący się tą działką z chęcią przywitają skorych do pomocy. Potrzebujemy także zainteresowanych prowadzeniem tłumaczeń dokumentacji na inne języki. Wymagana jest przede wszystkim znajomość opisywanego tematu, podstawowa chociażby wiedza z dziedzin gramatyki i ortografii oraz umiejętność pisania w sposób zrozumiały. Jeśli uważasz, że dokumentacja to dla ciebie zbyt wiele, pozwól, że zaproszę cię do rozwoju <a href="http://pld-linux.org/">naszej oficjalnej strony</a>. Ta ostatnia oparta jest o publicznie dostępne Wiki i nie wymaga żadnych specjalnych uprawnień do wprowadzania na niej zmian. Zanim jednak ruszysz sprawdzić, czy da się za jej pomocą pozdrowić ciocię, uprzedzę że zmiany w każdym aspekcie dystrybucji są natychmiast widoczne dla wszystkich zapisanych na stosowne listy monitorujące, więc swym przebojowym <q>włamaniem</q> możesz co najwyżej zyskać paru wrogów i etykietkę niespecjalnie rozwiniętego intelektualnie.</p>
+
+<p>Jeśli i to nie spełnia twoich oczekiwań, możesz zawsze uwolnić swoją duszę artysty. Z otwartymi ramionami przyjmiemy wszystko, co nadaje się do publikacji - tapety, wygaszacze, style, skórki do programów, zestawy dźwiękowe czy własne kursory. Jedynym warunkiem jest licencja pozwalająca na swobodną dystrybucję danego elementu i odpowiednio wysoki poziom wykonania (choć o gustach się nie dyskutuje, przypominam o istnieniu pojęcia smaku).</p>
+
+<p>Co zaś mitów się tyczy, jeśli planujesz zasilić nasze szeregi dla sławy czy poklasku, to trafiłeś kiepsko. Nikt jeszcze na tym nie zarobił, a i płeć przeciwna nie darzy większą sympatią ludzi związanych z Linuksem. Pracujemy dla siebie samych i dla własnych korzyści, czy to z powodu dostępu do szerokiego oprogramowania, czy możliwości lepszego poznania używanej przez siebie platformy.</p>
+
+<p>Pozdrawiam i żegnam się powoli, jako że godzina już niemłoda. Mam nadzieję, że kogokolwiek zainteresowałem.</p>

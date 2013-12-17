@@ -1,0 +1,87 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #017: Dni wolne są najgorsze'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 141
+date: 2005-08-18 17:51:42.000000000 +02:00
+categories:
+- comic
+tags: []
+comments:
+- id: 1935
+  author: Bad Kitty
+  author_url: ''
+  date: '2005-08-18 18:00:17 +0200'
+  date_gmt: '2005-08-18 18:00:17 +0200'
+  content: niestety geek&#039;ostwo zobowiązuje :]
+- id: 1936
+  author: qeek
+  author_url: ''
+  date: '2005-08-18 18:03:03 +0200'
+  date_gmt: '2005-08-18 18:03:03 +0200'
+  content: Normalka :D
+- id: 1937
+  author: froger3
+  author_url: ''
+  date: '2005-08-18 18:50:14 +0200'
+  date_gmt: '2005-08-18 18:50:14 +0200'
+  content: so geek :D
+- id: 1938
+  author: jpc
+  author_url: ''
+  date: '2005-08-18 18:56:45 +0200'
+  date_gmt: '2005-08-18 18:56:45 +0200'
+  content: |-
+    Mam dokładnie tak samo. ;]
+    <br/>
+    <br/>,,Zaczęło się wolne, w końcu można się wziąć za coś pożytecznego.&#039;&#039; (;
+- id: 1939
+  author: DarkStar blog.krakowiacy.info
+  author_url: ''
+  date: '2005-08-18 21:52:53 +0200'
+  date_gmt: '2005-08-18 21:52:53 +0200'
+  content: Ja się podczas urlopu obijam, chociaż poświęciłem trochę czasu na dokształcanie
+    się. ;P
+- id: 1940
+  author: konman
+  author_url: ''
+  date: '2005-08-19 00:05:18 +0200'
+  date_gmt: '2005-08-19 00:05:18 +0200'
+  content: Świetne! ;)
+- id: 1941
+  author: enigma
+  author_url: ''
+  date: '2005-08-19 13:21:37 +0200'
+  date_gmt: '2005-08-19 13:21:37 +0200'
+  content: Kiedy jest wolne, można pracować... nad tym nad czym się chce, a nie nad
+    tym, nad czym się musi.
+- id: 1942
+  author: Express
+  author_url: ''
+  date: '2005-08-19 13:47:52 +0200'
+  date_gmt: '2005-08-19 13:47:52 +0200'
+  content: A ja w środę zaczynam urlop i nie zamierzam nad niczym pracować. Wyjeżdżam
+    na wakacje i mam wszystko gdzieś.
+- id: 1943
+  author: Nina
+  author_url: ''
+  date: '2005-08-19 14:16:45 +0200'
+  date_gmt: '2005-08-19 14:16:45 +0200'
+  content: Ta, już ja wiem, jak to Patrysowa praca w trakcie urlopu wygląda ;) - wczoraj
+    miałam okazje się o tym przekonać ;) w czasie pięciu godzin, w trakcie których
+    gadał jak nakręcony ;-)
+- id: 1944
+  author: RAFi
+  author_url: ''
+  date: '2005-08-27 13:00:44 +0200'
+  date_gmt: '2005-08-27 13:00:44 +0200'
+  content: Obrazek jakby z mojego życia wyjęty.
+---
+<p>Urlop to taki okres, kiedy możemy w końcu robić to, na co mamy ochotę.</p>
+
+<p class="strip"><img src="http://comic.room-303.com/strips/017-free-time.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>

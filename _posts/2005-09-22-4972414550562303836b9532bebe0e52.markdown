@@ -1,0 +1,265 @@
+---
+layout: post
+status: publish
+published: true
+title: Strony wielojęzyczne
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 157
+date: 2005-09-22 20:32:01.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 2145
+  author: Enleth
+  author_url: ''
+  date: '2005-09-22 20:37:21 +0200'
+  date_gmt: '2005-09-22 20:37:21 +0200'
+  content: Na jakie konto przelewać równowartość piw, żeby takie wpisy się tu pojawiały
+    częściej? ;)
+- id: 2146
+  author: Patrys
+  author_url: ''
+  date: '2005-09-22 20:44:11 +0200'
+  date_gmt: '2005-09-22 20:44:11 +0200'
+  content: Powinienem wprowadzić płatne wpisy na wyższych poziomach? :D
+- id: 2147
+  author: Adi
+  author_url: ''
+  date: '2005-09-22 20:45:43 +0200'
+  date_gmt: '2005-09-22 20:45:43 +0200'
+  content: "Format wyświetlania dat i podawania godzin określa norma ISO 8601, czyli
+    będzie to wyświetlane np. tak: \n<br/>2005-09-29 20:45+01:00"
+- id: 2148
+  author: Patrys
+  author_url: ''
+  date: '2005-09-22 20:46:23 +0200'
+  date_gmt: '2005-09-22 20:46:23 +0200'
+  content: |-
+    Adi:
+    <br/>
+    <br/>A znajdziesz klienta, który się na to zgodzi?
+- id: 2149
+  author: Adi
+  author_url: ''
+  date: '2005-09-22 20:49:49 +0200'
+  date_gmt: '2005-09-22 20:49:49 +0200'
+  content: A czemu miałby się nie zgodzić? Bo &quot;egzotycznie&quot; wygląda?
+- id: 2150
+  author: Patrys
+  author_url: ''
+  date: '2005-09-22 20:50:46 +0200'
+  date_gmt: '2005-09-22 20:50:46 +0200'
+  content: |-
+    Adi:
+    <br/>
+    <br/>Bo w życiu nie widział tak zapisanego czasu. Prawdopodobnie podobnie jak większość odwiedzających serwis.
+- id: 2151
+  author: Adi
+  author_url: ''
+  date: '2005-09-22 20:54:08 +0200'
+  date_gmt: '2005-09-22 20:54:08 +0200'
+  content: A gdyby dać linki (w poszczególnych językach) do opisania sposobu zapisywania
+    w ten sposób czasu? Zresztą poza tym plusem i tym co jest za nim idzie się łatwo
+    domyśleć, o co chodzi...
+- id: 2152
+  author: Enleth
+  author_url: ''
+  date: '2005-09-22 20:56:29 +0200'
+  date_gmt: '2005-09-22 20:56:29 +0200'
+  content: 'Adi: instancja z którą musiałbyś to omówić byłaby albo durnym szefem firmy,
+    albo durnym przedstawicielem firmy, z których żaden nie zrozumie po co to i nie
+    będzie tego chciał. A żaden użytkownik nie wpadnie na tak debilny pomysł, jak
+    szukanie na stronie opisu formatu daty...'
+- id: 2153
+  author: Adi
+  author_url: ''
+  date: '2005-09-22 21:00:32 +0200'
+  date_gmt: '2005-09-22 21:00:32 +0200'
+  content: No to faktycznie jest problem, ale uważam, że najlepiej jednak stosować
+    ten sposób zapisu daty... Zresztą jakie macie alternatywy?
+- id: 2154
+  author: muzzy
+  author_url: ''
+  date: '2005-09-22 21:30:24 +0200'
+  date_gmt: '2005-09-22 21:30:24 +0200'
+  content: |-
+    czemu nie
+    <br/>czw wrz 22 21:29:44 CEST 2005
+    <br/>albo
+    <br/>1127417384 :D
+- id: 2155
+  author: Adi
+  author_url: ''
+  date: '2005-09-22 21:34:53 +0200'
+  date_gmt: '2005-09-22 21:34:53 +0200'
+  content: "&gt; czemu nie\n<br/>&gt; czw wrz 22 21:29:44 CEST 2005\n<br/>\n<br/>A
+    dla angielskojęzycznych:\n<br/>Thu Sept 22 21:29:44 CEST 2005? ;)\n<br/>\n<br/>&gt;
+    albo\n<br/>&gt; 1127417384 :D\n<br/>\n<br/>Rzeczywiście, bardziej zrozumiałe :D\n<br/> "
+- id: 2156
+  author: Elsindel
+  author_url: ''
+  date: '2005-09-23 07:22:32 +0200'
+  date_gmt: '2005-09-23 07:22:32 +0200'
+  content: |-
+    Patrys: Format podany przez Adiego jest bardzo naturalny i stosowany choćby w Polsce (z wyjątkiem, oczywiście, ostatniego członu +01:00; także zamiast znaku - częściej korzystamy z kropki). I sadze, ze prawie wszyscy zrozumieja &quot;2005-10-15 07:48&quot; ;) To raz.
+    <br/>
+    <br/>Fajnie piszesz, ale dodalbym jeszcze przynajmniej wzmianke o dwoch waznych problemach w robieniu stron wielojezycznych:
+    <br/>
+    <br/>- zazwyczaj serwis jest dostepny w calosci w co najmniej jednym jezyku, i w co najmniej jednym jezyku tylko jego czesc jest dostepna. Mozemy zalozyc, ze serwis jest drzewem, ktorego kazdy wezel ma jedna lub wiecej wersji jezykowych. Problem polega na tym, ze gdy robie odnosnik ze strony A do strony B w wersji polskiej, wiem, ze strona B istnieje (gdy polska wersja jest ta glowna), ale jednoczesnie ten sam odnosnik juz nie dziala np. dla wersji angielskiej, bo o ile mam A po angielsku, o tyle B po angielsku juz nie ma. Oczywiscie fajnie byloby miec mechanizm, w ktorym wstawiam &quot;link_do(&#039;A&#039;)&quot;, i ktory w zaleznosci od aktualnej wersji jezykowej zrobi albo link do A w tej wersji jezykowej, albo - jesli takiej wersji A nie ma - zrobi link do wersji domyslnej. (Taki wlasnie mechanizm  kiedys napisalem, i troche uproscil prace nad sama zawartoscia serwisu.) Oczywiscie trzeba wowczas jakos oznaczyc link prowadzacy do innej wersji jezykowej
+    <br/>
+    <br/>- napisales mniej-wiecej, ze standardem przy przelaczaniu jezyka jest wyswietlenie tej samej strony w innej wersji jezykowej po kliknieciu w odnosnik np. &quot;english&quot;. Jesli to miales na mysli, to nie moge sie zgodzic. To nie jest standard, choc byc nim powinien. Znakomita wiekszosc stron, z ktorymi mialem do czynienia dawno temu i ktore ogladam dzisiaj ma statyczny link do innej wersji jezykowej prowadzacy do strony glownej. I tyle. Jesli ktos ma URL-e zawierajace fragment okreslajacy jezyk, to jest szczesliwy i powinno mu sie udac zrobic latwo przelacznik jezykow zachowujacy strone, na ktorej user wlasnie jest. (Dodatkowo, znow, jesli nie ma wersji jezykowej danej strony, albo nazwe tej wersji trzeba rozszerzyc o informacje, ze prowadzi do strony glownej, albo ukryc - kolejna trudnosc, jesli chcemy robic to co najmniej polautomatycznie,a nie recznie na kazdej podstronie... zwlaszcza jesli serwis tlumaczony jest z opoznieniem)
+- id: 2157
+  author: Luki
+  author_url: ''
+  date: '2005-09-23 10:30:57 +0200'
+  date_gmt: '2005-09-23 10:30:57 +0200'
+  content: |-
+    Witam,
+    <br/>Chetnie poczytalbym jeszcze o kodowaniu roznych wersji jezykowych. Zaletach i wadach utf.
+    <br/>Pozdrawiam.
+- id: 2158
+  author: Tomash
+  author_url: ''
+  date: '2005-09-23 11:32:04 +0200'
+  date_gmt: '2005-09-23 11:32:04 +0200'
+  content: Wady UTF? Zwiększona (względem kodowań jednobajtowych) objętość pliku.
+    Więcej grzechów nie pamiętam ;).
+- id: 2159
+  author: Jajcus
+  author_url: ''
+  date: '2005-09-23 11:33:48 +0200'
+  date_gmt: '2005-09-23 11:33:48 +0200'
+  content: 'Tomash: jeszcze różna długość różnych znaków — utrudnia operacje na tekście.
+    Ale to problem programistów, nie użytkownika.'
+- id: 2160
+  author: Patrys
+  author_url: ''
+  date: '2005-09-23 12:09:50 +0200'
+  date_gmt: '2005-09-23 12:09:50 +0200'
+  content: |-
+    Elsindel:
+    <br/>
+    <br/>Kwestia, co przyjmie się za standardy - ja mówię, co uważam za standard z punktu widzenia usability, nie co 90% stron w sieci uznało za normę - inaczej używałbym FrontPage i HTML 3.0.
+    <br/>
+    <br/>Słuszna uwaga odnośnie brakujących tłumaczeń lub nieco odmiennej konstrukcji wersji językowych, to często jest problemem, powinienem o tym wspomnieć, ale wyleciało mi to zupełnie z głowy.
+    <br/>
+    <br/>Co do formatu daty, to w zależności od projektu stosuję &quot;2005-09-23 12:00 CET&quot; albo &quot;23. września 2005, 12:00 (CET)&quot;.
+    <br/>
+    <br/>Luki:
+    <br/>
+    <br/>Używamy już tylko Unicode (z wyjątkiem spadku po poprzednich webmasterach, gdzie nadal króluje Latin2).
+    <br/>
+    <br/>Jajcus:
+    <br/>
+    <br/>W praktyce każdy język server-side ma dedykowane funkcje do obsługi Unicode, więc to raczej nie problem.
+    <br/>
+    <br/>Problem jest za to z niektórymi serwerami MySQL, często po przeniesieniu serwisu okazuje się, że baza pracuje domyślnie w jakimś egzotycznym kodowaniu (tyczy się głównie starszych wersji MySQL i dziwnych firm hostingowych - od wersji 4.1 poprawnie działa zapytanie &quot;SET NAMES &#039;utf8&#039;;&quot;).
+- id: 2161
+  author: Enleth
+  author_url: ''
+  date: '2005-09-23 12:39:32 +0200'
+  date_gmt: '2005-09-23 12:39:32 +0200'
+  content: |-
+    Niestety, MySQL sux. Nawet po SET NAMES się czasem cuda dzieją, stuprocentowo pewny sposób to rekompilacja serwera ze wsparciem *tylko* dla UTF, ale to jak się ma własny...
+    <br/>Poza tym, z UTF8 problemów raczej nie ma. A w każdym razie, mniej niż z robieniem strony na wielu kodowaniach.
+- id: 2162
+  author: Patrys
+  author_url: ''
+  date: '2005-09-23 12:52:46 +0200'
+  date_gmt: '2005-09-23 12:52:46 +0200'
+  content: |-
+    Nie &quot;MySQL sux&quot;, tylko niektórzy admini robią cyrk z konfiguracją. Od wersji bodaj 4.1 &quot;SET NAMES&quot; działa niezależnie od tego, jakie cuda się wpisze w plikach .conf dla danego klastra i usługi.
+    <br/>
+    <br/>Używam MySQL z pełnym wsparciem dla całej listy kodowań i nie mam (i nigdy nie miałem) problemów. Problemy pojawiają się na cudzych maszynach (np. klient zażyczy sobie hosting w innej firmie).
+- id: 2163
+  author: Elsindel
+  author_url: ''
+  date: '2005-09-23 14:22:26 +0200'
+  date_gmt: '2005-09-23 14:22:26 +0200'
+  content: Do czego jest Wam potrzebne wsparcie kodowan w MySQL? (pytam serio, chcialbym
+    sie dowiedziec) Jedyne, co mi przychodzi do glowy w tej chwili, to poprawny full
+    text search.
+- id: 2164
+  author: Jajcus
+  author_url: ''
+  date: '2005-09-23 14:24:24 +0200'
+  date_gmt: '2005-09-23 14:24:24 +0200'
+  content: 'Elsindel: no cóż... niektórzy lubią mieć różne dane przedstawione w kolejności
+    alfabetycznej... ;-)'
+- id: 2165
+  author: Patrys
+  author_url: ''
+  date: '2005-09-23 15:09:47 +0200'
+  date_gmt: '2005-09-23 15:09:47 +0200'
+  content: |-
+    Dokładnie, chodzi o prolemy z sortowaniem (dane zapisane jako kodowanie o stałej długości znaku - jeden oktet - sortują się jak śmieci) i indeksy do zapytań fulltext (MATCH ... AGAINST ...).
+    <br/>
+    <br/>Poza tym ciężko się diagnozuje usterki z kodowaniem na stronie, kiedy phpMyAdmin pokazuje chińskie diakrytyki.
+- id: 2166
+  author: Elsindel
+  author_url: ''
+  date: '2005-09-23 16:11:48 +0200'
+  date_gmt: '2005-09-23 16:11:48 +0200'
+  content: "To znaczy, ze przy ustawionym blednym kodowaniu ś, ą, ż, ź, ł itd. znajda
+    sie po prostu nie tam, gdzie powinny? (istotnie, w roznych miejscach widzialem
+    taki blad; no i w roznych jezykach moze on sie roznie objawic) Bo caly alfabet
+    lacinski bedzie raczej poprawnie sortowany. :) \n<br/>\n<br/>Ok, dzieki za wyjasnienie."
+- id: 2167
+  author: Warlock
+  author_url: ''
+  date: '2005-09-26 18:34:57 +0200'
+  date_gmt: '2005-09-26 18:34:57 +0200'
+  content: Jak usuniecie polskie znaki to nie bedziecie miec zadnych juz problemow
+    z kodowaniem ;)
+- id: 2168
+  author: m
+  author_url: ''
+  date: '2005-09-30 14:33:06 +0200'
+  date_gmt: '2005-09-30 14:33:06 +0200'
+  content: Kodowanie to pryszcz... nie ma to jak zapuszczone bazy produkcyjne chodzace
+    od 10 lat na archaicznym DB2/400 ;). Ajuto!
+- id: 2169
+  author: Oleksa
+  author_url: ''
+  date: '2005-10-10 13:00:40 +0200'
+  date_gmt: '2005-10-10 13:00:40 +0200'
+  content: |-
+    Czesc panoowie. Prowadze bloga http://kijow.e-stoisko.com
+    <br/>W Wiekszosci swojej na lacine i z polskimi znakami, ale czasem trafia sie cyrylica, wiec orocz UTF8 neima lepszego wyjscia. Naradcie tylko dobry redaktor tekstowy, ktory sprawnie pisze polski litery.
+- id: 2170
+  author: Patrys
+  author_url: ''
+  date: '2005-10-10 18:49:23 +0200'
+  date_gmt: '2005-10-10 18:49:23 +0200'
+  content: |-
+    Oleksa:
+    <br/>
+    <br/>Najwygodniej chyba zmienić chwilowo mapowanie klawiatury na &quot;polski programisty&quot; i używać normalnie alt+litera. Z tym powinien sobie poradzić każdy edytor wspierający UTF8.
+---
+<p>Jako, że przyjęliśmy Europę w poczet krajów słowiańskich, coraz większą popularnością cieszą się witryny wielojęzyczne. Wiąże się z tym kilka problemów, które dobrze jest rozwiązać już na etapie planowania i projektowania, gdyż późniejsze radzenie sobie z nimi rodzi coraz więcej kłopotów.</p>
+
+<p>Pierwsza sprawa to domyślna wersja językowa - wielu ludzi zastanawia się, czy stronę domyślnie wyświetlać po polsku, gdyż większość odbiorców operuje tym właśnie językiem, czy może po angielsku, by obcokrajowcy nie uciekli na widok krzaczków i szlaczków. Odpowiedź jest prosta - należy skorzystać z mechanizmów negocjacji zawartości dostarczanych przez sam protokół <abbr title="HyperText Transport Protocol">HTTP</abbr>. Przeglądarka wraz z żądaniem wysłania dokumentu podaje również listę języków i stopień ich preferowania (parametr <q>q</q>, podawany w skali od 0 do 1). Różne przeglądarki zachowują się różnie - niektóre nie podają listy preferencji wcale, inne nie definiują stopnia preferowania danego języka lub jego odmiany (bo <code>en</code> jest czym innym niż <code>en-US</code>, o czym za chwilę). Standard mówi, że jeśli nie jest używana skala preferencji, to obowiązująca jest kolejność, w jakiej języki zostały podane - od najważniejszego, do najmniej ważnego. Podobnie jest, jeśli kilka języków posiada taki sam współczynnik <q>q</q>.</p>
+
+<p>Przed wybraniem wersji językowej należy więc przesortować języki według ich zadeklarowanego stopnia preferowania (nie jest określona kolejność, w jakiej przeglądarki wysyłają listę języków, więc te o najniższym współczynniku preferencji mogą pojawić się równie dobrze na początku, w środku, jak i na końcu listy). Następnie iterując po elementach listy należy sprawdzić, czy nasz serwis oferuje daną wersję i - jeśli tak, wysłać ją do przeglądarki i przerwać dalsze testy. Specjalna uwaga dotyczy języków o <q>q</q> równym 0 - <em>zerowy współczynnik <q>q</q> oznacza, że internauta pod żadnym pozorem nie życzy sobie oglądać stron w danym języku</em>. Druga uwaga jest na temat odmian języka - jeśli agent wysłał sam identyfikator języka, bez podtypu, to jako pasującą uznaje się każdą odmianę danego języka (na przykład <code>en</code> pasuje tak do <code>en-us</code>, jak do <code>en-gb</code>, jeśli akurat te dwie odmiany oferujemy) - zasada ta nie ma zastosowania w drugą stronę, jeśli internauta domaga się konkretnej odmiany języka, to jako pasującą uznaje się tylko tę jedną konkretną.</p>
+
+<p>Co jeśli żadna z oferowanych przez nas wersji nie pasuje do listy wysłanej w nagłówkach przez agenta? Powinniśmy wybrać ten język, którego będzie używać największa grupa naszych odwiedzających. Oczywiście, dla niektórych (na przykład tych z nieprawidłowo skonfigurowanymi przeglądarkami) będzie to błędny wybór, jednak tutaj znajduje zastosowanie inny mechanizm - przełączanie języków w locie.</p>
+
+<p>Z przełączaniem w locie (za pomocą linków na stronie) wiąże się najwięcej problemów. Oczywiście metoda ta musi mieć pierwszeństwo przed negocjacją języka (wyobraźmy sobie Polaka, który ogląda nasz serwis za pośrednictwem komputera w niemieckiej kafejce i jego frustrację, kiedy okazuje się, że sklep, który ma pod domem, uparcie uszczęśliwia go stroną w języku obcym). Najpopularniejszą metodą jest zastosowanie ciasteczek i zapisywanie w nich tłumaczenia, jak jednak zmienić wersję językową? Część rynku zaskarbiły sobie szkaradne ikonki z flagami państw, choć same tworzą więcej problemów niż rozwiązują.</p>
+
+<p>Ikona flagi z definicji przywiązana jest do konkretnego kraju (lub regionu, jak nadużywana powszechnie ikona Zjednoczonego Królestwa, mylnie nazywana flagą Anglii). Problem polega na tym, że języki do krajów przywiązane nie są, stąd frustracja sporej części mieszkańców Kanady, którzy nawykli już do klikania ikonki symbolizującej małe państwo żabojadów, o którym słyszeli kiedyś, że leży na drugim końcu świata. Nie wszystkie kraje darzą się sympatią, a konieczność klikania flagi <q>sąsiada</q> kłóci się u niektórych z odczuciami patriotycznymi. Dlatego właśnie najlepszym rozwiązaniem jest użycie linków tekstowych. Co na nich napisać? Nazwę danego języka <em>w danym języku</em> (chyba, że cieszy cię wizja odwiedzenia strony międzynarodowej korporacji z siedzibą w <abbr title="Republice Południowej Afryki">RPA</abbr> i poszukiwanie angielskiej wersji pośród dwudziestu linków na oko wyglądających jak jedno z afrykańskich narzeczy. Jedno jest pewne, każdy zna nazwę własnego języka, choć nie każdy musi znać jej wszystkie tłumaczenia.</p>
+
+<p>Kolejna rzecz to sam mechanizm przełączania wersji - popularna metoda polega na zapisaniu ciasteczka i przerzuceniu agenta na tę samą stronę, która w zależności od zawartości ciasteczka wyświetli się w jednym bądź drugim języku. O ile metoda ta działa dla żywych odwiedzających, o tyle nie sprawdza się w przypadku robotów i wyszukiwarek. Nieraz już zdarzało nam się poprawiać serwisy, których klienci skarżyli się, że Google zaindeksował trzy czwarte podstron <q>po arabsku</q>. Najlepiej, gdyby każdy dokument posiadał unikalny <abbr title="Uniform Resource Indicator">URI</abbr> - to zapewni pełne indeksowanie zawartości dla każdego z języków i zaowocuje znacznie lepszą pozycją w wynikach wyszukiwania.</p>
+
+<p>Oprócz problemów czysto technicznych, istnieje jeszcze cała masa problemów logicznych. Są to między innymi:</p>
+
+<ul>
+<li>format wyświetlania dat (zależy to od kraju i niezależnie od wybranego formatu, część ludzi będzie się zastanawiać, czy chodzi o pierwszego lutego, czy drugiego stycznia)</li>
+<li>sposób podawania godzin (konieczne jest wybranie i podanie strefy czasowej)</li>
+<li>dostosowanie formularzy (na zachodzie modne jest pytanie o tytuł, z jakim należy się do klienta zwracać - niestety, tytuły takie nie funkcjonują we wszystkich kręgach kultorowych, a tam gdzie działają, ich liczba jest różna; amerykanie często popełniają błąd prosząc o <q>zipcode</q> w angielskiej wersji serwisów, podczas gdy reszta świata używa kodów pocztowych)</li>
+</ul>
+
+<p>Problemy te jednak znacznie odbiegają od głównej treści notki, więc jeśli będę o nich pisał szerzej, to zdecydowanie przy innej okazji.</p>

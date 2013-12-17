@@ -1,0 +1,55 @@
+---
+layout: post
+status: publish
+published: true
+title: Nalepsze zawsze zostaje na koniec
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 43
+date: 2004-08-31 14:37:09.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 312
+  author: queer
+  author_url: ''
+  date: '2004-08-31 14:43:59 +0200'
+  date_gmt: '2004-08-31 14:43:59 +0200'
+  content: 'Zapewne musisz wystosować podanie w trzech kopiach o prawo zapisu, ewentualnie
+    w załączniku wysłać opis zamierzonych zmian :P '
+- id: 313
+  author: bazyl
+  author_url: ''
+  date: '2004-08-31 14:56:11 +0200'
+  date_gmt: '2004-08-31 14:56:11 +0200'
+  content: zapomniałeś o harmonogramie nowych uploadów z dokładnością co do minuty.
+    A.. i ważne, żeby były w nim napisane rzeczy zrozumiałe dla Prezesa&amp;trade;
+- id: 314
+  author: strzyg
+  author_url: ''
+  date: '2004-09-03 16:06:21 +0200'
+  date_gmt: '2004-09-03 16:06:21 +0200'
+  content: 'Co za wspaniałomyślność! Otrzymałeś nawet kopię kodu źródłowego stron
+    i stosowne zrzuty z bazy danych. Łał. '
+- id: 315
+  author: Pain
+  author_url: ''
+  date: '2004-09-15 00:12:32 +0200'
+  date_gmt: '2004-09-15 00:12:32 +0200'
+  content: |-
+    Nie ma to jak wykonywać sensowną pracę, ay?
+    <br/>Na przykład ja, za momencik, wracam z sensem wkuwać. Bo za 8 godzin i 45 minut mam poprawkę. :]
+- id: 316
+  author: Wampirek
+  author_url: ''
+  date: '2004-09-15 00:14:13 +0200'
+  date_gmt: '2004-09-15 00:14:13 +0200'
+  content: Ja mam za 11h45min :/
+---
+Męczyłem się już czas jakiś, zmuszony do pracy na "demonie szybkości", jak ochrzczony został przeze mnie mój dotychczasowy współpracownik, Pentium 350, 128 MB RAM, kiedy to dowiedziałem się, że nie mam już prawa modyfikować kodu stron na serwerze WWW. Straciłem tam konto. Otrzymałem przeto kopię kodu źródłowego stron i stosowne zrzuty z bazy danych. Na moje pytanie, co też mam z nową zdobyczą uczynić, odpowiedź otrzymałem taką: "uruchom u siebie kopię i tam pracuj". Biorąc pod uwagę, że mój dzielny rumak ledwo dźwigał jadącego na nim okrakiem Gnoma, podwożenie dodatkowo pewnego Apacza było grubo ponad jego siły. Kolejne dwa dni minęły produktywnie jak nigdy dotąd.<br />
+<br />
+Zaskoczył mnie za to powrót z dwudniowego wyjazdu od Warszawy. Po powrocie znalazłem przy swoim biurku nowiutki komputer (nowy w sensie jego egzystencji w naszym biurze, nie biorę pod uwagę daty produkcji). Szybkie przełożenie dysku, reboot, konfiguracja iksów (mam nVidię zamiast tamtego S3!), maszynka stoi, śpiewa, tańczy, usuwa ciążę i buty wiąże. Tylko co mi po poprawkach na stronie w wersji offline, kiedy dalej nie mam prawa nałożyć ich na wersję online...

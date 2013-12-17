@@ -1,0 +1,185 @@
+---
+layout: post
+status: publish
+published: true
+title: O autorze
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 90
+date: 2005-05-18 01:09:31.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1061
+  author: Patrys
+  author_url: ''
+  date: '2005-05-18 02:04:12 +0200'
+  date_gmt: '2005-05-18 02:04:12 +0200'
+  content: |-
+    Właśnie zauważyłem z pomocą Natasa, że na mojego nicka Google, całkiem słusznie, podpowiada:
+    <br/>
+    <br/>Did you mean: parties?
+- id: 1062
+  author: przemek
+  author_url: ''
+  date: '2005-05-18 02:34:22 +0200'
+  date_gmt: '2005-05-18 02:34:22 +0200'
+  content: Czyli że polityk-wędrowniczek z Ciebie będzie. :]
+- id: 1063
+  author: Igor
+  author_url: ''
+  date: '2005-05-18 09:29:30 +0200'
+  date_gmt: '2005-05-18 09:29:30 +0200'
+  content: Ciekawa Lektura, jak (prawie :P) zwykle.
+- id: 1064
+  author: Bad Kitty
+  author_url: ''
+  date: '2005-05-18 09:50:18 +0200'
+  date_gmt: '2005-05-18 09:50:18 +0200'
+  content: |-
+    no i wylazł z nory... :]
+    <br/>ale nie martw się... człowiek porażony paralizatorm nie rusza się aż tak źle :]
+- id: 1065
+  author: Raf
+  author_url: ''
+  date: '2005-05-18 09:51:33 +0200'
+  date_gmt: '2005-05-18 09:51:33 +0200'
+  content: Yay! Świetny opis swojej osoby. Jakbym czytał o sobie :) Miło, że nie jestem
+    sam hłe hłe :P
+- id: 1066
+  author: Cachotterie
+  author_url: ''
+  date: '2005-05-18 12:05:40 +0200'
+  date_gmt: '2005-05-18 12:05:40 +0200'
+  content: |-
+    Dodałabym jeszcze &quot;nie biorę odpowiedzialności za swoje słowa&quot;.
+    <br/>To właściwie jedyna prawdziwa wada. Z całą resztą wyżej wymienionych się nie zgadzam.
+    <br/>Przepraszam, musiałam, to się więcej nie powtórzy.
+- id: 1067
+  author: Bad Kitty
+  author_url: ''
+  date: '2005-05-18 15:55:27 +0200'
+  date_gmt: '2005-05-18 15:55:27 +0200'
+  content: nie mam zamiaru się spierać jednak nie mogę się z tobą zgodzić Cachotterie
+- id: 1068
+  author: Patrys
+  author_url: ''
+  date: '2005-05-18 18:27:29 +0200'
+  date_gmt: '2005-05-18 18:27:29 +0200'
+  content: O, jestem aż tak zły, że ktoś tego postanowił bronić :)
+- id: 1069
+  author: Bad Kitty
+  author_url: ''
+  date: '2005-05-18 18:37:49 +0200'
+  date_gmt: '2005-05-18 18:37:49 +0200'
+  content: meaw!
+- id: 1070
+  author: Patrys
+  author_url: ''
+  date: '2005-05-18 18:38:10 +0200'
+  date_gmt: '2005-05-18 18:38:10 +0200'
+  content: Wrrrr... WOOF!
+- id: 1071
+  author: Mr. Dick Blowjob
+  author_url: ''
+  date: '2005-05-18 19:30:25 +0200'
+  date_gmt: '2005-05-18 19:30:25 +0200'
+  content: |-
+    Niestety, ale to prawda.&lt;br /&gt;
+    <br/>Patrys jest cholernie niesłowny. Przykładów nie trzeba daleko szukać..:&lt;br /&gt;
+    <br/>- chodźmy na jednego&lt;br /&gt;
+    <br/>- ja już nie pije&lt;br /&gt;
+    <br/>- nie będę cię wyciągał na picie&lt;br /&gt;
+    <br/>- dzisiaj lajtowo, bo rano wstaję&lt;br /&gt;
+    <br/>- nie jestem pijany&lt;br /&gt;
+    <br/>- przecież wiem gdzie jestem&lt;br /&gt;
+    <br/>Dodałbym do tego:
+    <br/>- już wychodzę z domu&lt;br /&gt;
+    <br/>- nie spóźnię się&lt;br /&gt;
+    <br/>- zjem tylko, nawet nie siadam do kompa&lt;br /&gt;
+    <br/>Wynurza się całkiem ciekawy obraz człowieka... więc, pozwolę sobie cytować:&lt;br /&gt;
+    <br/>- ukrywanie nazwiska w przypadku patrysa nie ma sensu, bo google zna je aż nadto, podobnie jak spora ilość patroli policyjnych w naczym mieście.&lt;br /&gt;
+    <br/>- programowania atari ani amigii nie pamietam... opcje sa dwie - albo się nie znaliśmy, albo miał mocniejszą głowę ode mnie&lt;br /&gt;
+    <br/>- rozmawia z komputerami... no tak, widziałem też jak rozmawiał z &#039;trzema chujowymi dziwkami&#039; czy z słuchawkami od walkmana. Ani dziwek ani słuchawek nie zmusił do żadnych sztuczek, ale myślę, że pracuje nad tym...&lt;br /&gt;
+    <br/>- deweloper PLD... no tak, jak wiadomo, tam to wszyscy chleją...&lt;br /&gt;
+    <br/>- aspołeczny? nie zgadzam się - na moich oczach zaprzyjaźnił się z naszym dzielnicowym, próbował się też zaprzyjaźnić z policjantem, którego (przypadkiem) walnął stołkiem, jednak bełkotanie uniwmożliwiło skuteczną negocjację połączenia. Na moich oczach witał się w wieloma ochroniarzami i innymi miśkami.
+    <br/>Reszta się plus minus zgadza.
+- id: 1072
+  author: Cachotterie
+  author_url: ''
+  date: '2005-05-18 19:33:38 +0200'
+  date_gmt: '2005-05-18 19:33:38 +0200'
+  content: A ja jednak przyznaję że nie... W każdym razie nie z tą nieodpowiedzialnością.
+    :]
+- id: 1073
+  author: zap
+  author_url: ''
+  date: '2005-05-19 18:32:49 +0200'
+  date_gmt: '2005-05-19 18:32:49 +0200'
+  content: Niezbyt wiele musiałbym zmieinac opisując siebie :)))
+- id: 1074
+  author: Tomash
+  author_url: ''
+  date: '2005-05-20 10:55:14 +0200'
+  date_gmt: '2005-05-20 10:55:14 +0200'
+  content: Zdjęcie &quot;jestem deweloperem&quot; po prostu rozmontowuje, brawo za
+    pomysł :).
+- id: 1075
+  author: HoBBit
+  author_url: ''
+  date: '2005-05-23 02:37:09 +0200'
+  date_gmt: '2005-05-23 02:37:09 +0200'
+  content: |-
+    jest tak aspoleczny ze zima ciężko go z mojej bramy wygonić - oto dowody:
+    <br/>ostanie zdjęcie od góry :]
+- id: 4429
+  author: Dreake
+  author_url: http://emerald.easyisp.pl
+  date: '2006-08-05 19:42:29 +0200'
+  date_gmt: '2006-08-05 18:42:29 +0200'
+  content: Distra pogratulowac...
+---
+<p>Może to późno, żeby się przedstawiać, bo tego jogga prowadzę już ponad rok. Nie wiem, czy kogokolwiek to interesuje, ale sam lubię czytać takie notki. Jeśli się kogoś śledzi (online, naturalnie) przez dłuższy czas, to czasem miło zdać sobie sprawę, że za kodem <abbr title="HyperText Markup Language">HTML</abbr> stoi też człowiek.</p>
+
+<p class="strip"><img src="http://patrys.room-303.com/images/photos/photo-sepia.jpg" alt="Zdjęcie Patrysa." /></p>
+
+<p>Oto więc i podstawowy zestaw danych:</p>
+
+<ul>
+<li>oficjalnie: Patryk Zawadzki</li>
+<li>nieoficjalnie: Patrys</li>
+<li>urodzony 13. listopada 1982</li>
+<li>wzrost: 183 cm</li>
+<li>waga: niewiele ponad 70 kg</li>
+<li>aktualnie pracuję jako webdeveloper dla <a href="http://icenter.pl/">Internet Center Polska</a></li>
+<li>od wojska ratuje mnie <a href="http://www.wsiz.wroc.pl/">WSIZ <q>Copernicus</q></a></li>
+<li>z zamiłowania <a href="http://ofz.prv.pl/">alkoholik</a></li>
+<li>stanu wolnego</li>
+</ul>
+
+<p>Czemu nie ukrywam nazwiska? Cóż to za ukrywanie, kiedy <a href="http://cvs.pld-linux.org/cgi-bin/cvsweb/CVSROOT/users">sprawdzić może mnie każdy</a>. Nieformalnie nikt nie mówi do mnie ani po imieniu, ani po nazwisku. Patrys (bez kreseczki nad <q>s</q>). Tak nazywają mnie znajomi, współpracownicy i rodzina, tak się też przedstawiam.</p>
+
+<p>Komputerami zajmuję się od dziecka. Pierwsze próby programowania swojego Atari przeprowadzałem jeszcze przed ukończeniem nauczania początkowego. Poważniej programowaniem zająłem się już na Amidze 500. Ponad dziesięć lat temu okiełznałem także PC.</p>
+
+<p>Jestem geekiem. Uwielbiam komputery, potrafię z nimi rozmawiać i zmusić je do wykonywania różnych sztuczek. Stąd też moje zainteresowanie programowaniem i Linuksem.</p>
+
+<p class="strip"><img src="http://patrys.room-303.com/images/photos/pld-developer.jpg" alt="Jestem deweloperem PLD Linux Distribution." /></p>
+
+<p>Jestem <a href="http://cia.navi.cx/stats/author/patrys">deweloperem</a> na rzecz <a href="http://pld-linux.org/" title="PLD Linux Distribution">PLD</a>. Zaczęło się w styczniu 2004. Chętnie odpowiem na pytania dotyczące tej dystrybucji. Wcześniej używałem Slackware i Debiana, jednak ten pierwszy jest nierealny w utrzymaniu na serwerze, a ten drugi przegrywa z kretesem w starciu z <a href="http://poldek.pld.org.pl/">poldkiem</a>.</p>
+
+<p>Używam <a href="http://gnomedesktop.org/">Gnome</a>. Do przeglądania <abbr title="World Wide Web">WWW</abbr> wykorzystuję <a href="http://firefox.pl/">Firefoksa</a>. Pocztę czytam w <a href="http://www.gnome.org/projects/evolution/">Evolution</a> i tam też zarządzam swoim kalendarzem. Książką adresową nie muszę zarządzać, bo kontaktów nie ma w niej zbyt wiele.</p>
+
+<p class="strip"><img src="http://patrys.room-303.com/images/photos/photo-beer.jpg" alt="Uwielbiam piwo." /></p>
+
+<p>Prywatnie jestem aspołeczny. Nie lubię ludzi. Najlepiej czuję się w nocy, wtedy wylegamy na ulicę, raczyć się piwem na ławce. Nie boję się innych, jestem antisocial. Mimo to, mam na swoim rosterze (w <del><a href="http://psi.affinix.com/">Psi</a></del> <ins><a href="http://gajim.org/">Gajimie</a></ins>) kilkaset kontaktów. Drugim wyjątkiem są koncerty i imprezy (w <a href="http://www.liverpool.wroclaw.pl/">Liverpoolu</a>), ale o tym później.</p>
+
+<p>W związkach jestem tragiczny. Nie kupuję kwiatów, nie prawię komplementów. Jestem nudny, jak flaki z olejem. W końcu jestem geekiem.</p>
+
+<p>Nie umiem tańczyć. Moje ruchy lepsze są tylko nieco od mężczyzny rażonego paralizatorem. Nie lubię tańczyć. Mimo to, są osoby z którymi przetańczyć mogę całą noc, z ogromną radością. Zwłaszcza w okolicznościach oferowanych przez wspomniany Liverpool.</p>
+
+<p>Jestem chaotyczny i bardzo sobie chaos cenię. Nie planuję rzeczy z dużym wyprzedzeniem, większość czasu zagospodarowuję spontanicznie. Na piwo umawiam się na ogół pięć minut przed wyjściem z domu. Zapytany, co będę robił jutro, często nie potrafię odpowiedzieć. Czasem tak skonstruowane zarządzanie czasem jest przyczyną spóźnienia.</p>
+
+<p>Na dokładkę palę, piję, a czasem nawet przeklinam. Tak właściwie, to czasem tego nie robię. Więcej grzechów nie pamiętam...</p>

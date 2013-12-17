@@ -1,0 +1,79 @@
+---
+layout: post
+status: publish
+published: true
+title: Kernel panic
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 45
+date: 2004-09-26 18:07:19.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 329
+  author: Jezuch
+  author_url: ''
+  date: '2004-09-27 10:56:36 +0200'
+  date_gmt: '2004-09-27 10:56:36 +0200'
+  content: '...jesteśmy uratowani! Nudno nie będzie z takimi klientami :]'
+- id: 330
+  author: DarkStar
+  author_url: ''
+  date: '2004-09-28 13:09:15 +0200'
+  date_gmt: '2004-09-28 13:09:15 +0200'
+  content: Ide gdzie indziej... Nudno. Niestety to juz nie to. :)
+- id: 331
+  author: Znudzony
+  author_url: ''
+  date: '2004-09-29 12:46:34 +0200'
+  date_gmt: '2004-09-29 12:46:34 +0200'
+  content: Nuuda. Toz to szara codziennosc od ktorej czlowiek probowal uciec czytujac
+    to co bylo wczesniej.
+- id: 332
+  author: Smoothguy
+  author_url: ''
+  date: '2004-09-29 15:13:30 +0200'
+  date_gmt: '2004-09-29 15:13:30 +0200'
+  content: Aj tam, narzekacie. Tylko dlatego tak mówicie, bo po super wpisach z poprzedniej
+    pracy te wydają się marne. Ale tak nie jest. Tego typu humor jakoś miło mi się
+    czyta.
+- id: 333
+  author: qwiat
+  author_url: ''
+  date: '2004-10-01 15:40:59 +0200'
+  date_gmt: '2004-10-01 15:40:59 +0200'
+  content: te &quot;ciasteczka&quot; mnie roz...smieszyły ;]
+---
+Witam w kolejnej porcji codziennych smaczków życia biurowego. Tym razem najwięcej radości miał nasz administrator sieci, Px2:<br />
+<br />
+- Halo, słucham, w czym mogę pomóc?<br />
+- Bo mi nie działa strona.<br />
+- To znaczy?<br />
+- No nie wyświetla się. I poczta też.<br />
+- A jaka to domena?<br />
+- To znaczy?<br />
+- Adres?<br />
+- JakaśDomena&trade;.<br />
+- Już sprawdzam... sekundę... przepraszam, ale u nas nie ma takiej strony. Jest Pan na pewno naszym klientem?<br />
+- Nie.<br />
+<br />
+Następnie odwiedziły nas dwie panie. Słowo "internet" w nazwie firmy zobowiązuje:<br />
+<br />
+- Dzień dobry.<br />
+- Dzień dobry, w czym możemy pomóć? - odezwało się chórem pięć męskich głosów.<br />
+- Bo ja bym chciała internet podłączyć - odrzekła z rozbrajającą szczerością jedna z Pań.<br />
+<br />
+Zawiedzione Panie opuściły biuro. Nastąpiła chwila ciszy, którą przerwało nagłe:<br />
+<br />
+- W sumie, to ja bym mógł je testowo przyłączyć do mojej prywatnej magistrali...<br />
+- ...<br />
+- Buahahaha...<br />
+<br />
+Typowo geekowskie były za to urodziny Jarvisa. Jako dobrze wychowany człowiek, przytransportował ze sobą do pracy przekąski, wino i ciastka, celem uraczenia swoich ulubionych współpracowników, czyli jedynych jakich ma, z nami w roli głównej. W czasie biesiady przyszło mi opuścić nasze, zwykle zaciszne, biuro, które przeistoczyło było się w świątynię rozpusty. Po przymusowej wizycie w szkole powróciłem do naszego legowiska, by z przerażeniem w oczach i bólem na twarzy dostrzec wyraźny brak korzystnie oprocentowanych trunków.<br />
+<br />
+- Nie ma już wina, ale czemu nie bierzesz ciasteczek?<br />
+- Polityka bezpieczeństwa odrzuca dla tej domeny.<br />
+- LOL!

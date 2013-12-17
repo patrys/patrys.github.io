@@ -1,0 +1,176 @@
+---
+layout: post
+status: publish
+published: true
+title: Pimp my design!
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 138
+date: 2005-08-10 22:35:46.000000000 +02:00
+categories:
+- web
+tags: []
+comments:
+- id: 1887
+  author: YamroZ
+  author_url: ''
+  date: '2005-08-10 22:54:19 +0200'
+  date_gmt: '2005-08-10 22:54:19 +0200'
+  content: Patrys wytłumacz mi 1 bardzo ważną kwestię. Jak to się stało że nasza rura
+    zamieniła się w magic stick ?!?
+- id: 1888
+  author: Patrys
+  author_url: ''
+  date: '2005-08-10 22:55:17 +0200'
+  date_gmt: '2005-08-10 22:55:17 +0200'
+  content: Mógłbyś spytać &quot;jakim prawem&quot;, wtedy odpowiedziałbym &quot;by
+    the LAW&quot; ;)
+- id: 1889
+  author: YamroZ
+  author_url: ''
+  date: '2005-08-10 22:56:16 +0200'
+  date_gmt: '2005-08-10 22:56:16 +0200'
+  content: No chyba twoim !!!
+- id: 1890
+  author: sztywny
+  author_url: ''
+  date: '2005-08-11 09:16:47 +0200'
+  date_gmt: '2005-08-11 09:16:47 +0200'
+  content: Łał, Patrys, ty to masz przygody :S
+- id: 1891
+  author: Express
+  author_url: ''
+  date: '2005-08-11 10:04:40 +0200'
+  date_gmt: '2005-08-11 10:04:40 +0200'
+  content: "A w mojej firmie SynPrezesa zmontował stronę.\n<br/>Oparta jest na ramkach,
+    ale to to jeszcze pal licho.\n<br/>Ramka nawigacyjna zrobiona przyzwoicie, ma
+    tylko jednego małego flashka wyświetlającego datę i czas. Powiedzmy - do przyjęcia.\n<br/>\n<br/>Ale
+    ramka z treścią... po kolei:\n<br/>- nazwa firmy\n<br/>- &gt;Miejsce na baner&lt;
+    specjalnie pokolorowane\n<br/>- (*) tenże baner \n<br/>- (*) mały flash z przejeżdżającym
+    napisem informacyjnym (z lewej do prawej!) \n<br/>- napis (img) informacyjny nt.
+    przedsięwzięcia, w polu o innym kolorze i z borderem.\n<br/>- (*) trzy obrazki
+    z cyframi oraz... \n<br/>- (*) trzy napisy (też img) jako odnośniki  oraz...\n<br/>-
+    zmienione tło dla tych napisów\n<br/>- zdjęcie firmy w czasie pracy, logo przedsięwzięcia,
+    napis &quot;Zapraszamy&quot; i fotka typu marketoidalnego - uśmiechnięta panienka\n<br/>-
+    rameczka: \n<br/>- - dwoma obrazkami\n<br/>- - copyright\n<br/>- - dane kontaktowe
+    firmy\n<br/>- - (*) dwie flashki, które są jedynie linkami do plików do ściągnięcia.\n<br/>-
+    do tego wszystkiego tego kilka linii, pionowych i poziomych łączących ww elementy.\n<br/>\n<br/>Już
+    jest nieźle, co? Te flashki głównie. Ale teraz pora na legendę (uwaga, złapcie
+    się klawiatury):\n<br/>\n<br/>Wszystko, czego nie poprzedziłem gwiazdką (*) to
+    obrazek tła!\n<br/>\n<br/>...ale to przecież SynPrezesa, on się zna..."
+- id: 1892
+  author: Patrys
+  author_url: ''
+  date: '2005-08-11 11:28:05 +0200'
+  date_gmt: '2005-08-11 11:28:05 +0200'
+  content: |-
+    Express:
+    <br/>
+    <br/>Zastanawia mnie, jak ta strona wygląda przy zmianie wielkości okna ;]
+- id: 1893
+  author: Express
+  author_url: ''
+  date: '2005-08-11 13:40:36 +0200'
+  date_gmt: '2005-08-11 13:40:36 +0200'
+  content: |-
+    Wbrew pozorom się nie rozjeżdża całkowicie, bo wszystko poza tłem jest w tabelach(*) ze sztywnymi wymiarami
+    <br/>
+    <br/>Przyjrzałem się jeszcze raz: to tło, to jest tło tabeli! Foksowy zoom robi fajne rzeczy. &lt;table&gt; się poszerza, a tło nie więc zaczyna się zawijać...
+    <br/>O napisach (patrz niżej) nie wspomnę...
+    <br/>
+    <br/>
+    <br/>(*) Tabela w tabeli to na porządku dziennym jest...
+    <br/>Do tego &lt;font&gt; co chwila...
+    <br/>On to robił w Dreamweaverze, ale chyba potem dodatkowo popsuł ręcznie. Poza tym program sam nie myśli, tym musi się zająć człowiek...
+    <br/>
+    <br/>A, pomyliłem się: dane kontaktowe są normalnie, tekstowo, ale oczywiście w tło wycelowane tabelką :)
+    <br/>--------
+    <br/>Adres podam dopiero, jak zmienię robotę, bo teraz się wstydzę :)
+- id: 1894
+  author: paczor
+  author_url: ''
+  date: '2005-08-11 14:35:17 +0200'
+  date_gmt: '2005-08-11 14:35:17 +0200'
+  content: |-
+    Nihil novi sub sole. Rady radami, a i tak w prawie każdym projekcie widzę właśnie to niewłaściwe podejście do szablonów. Bo człowiek już taki jest (leniwy), że tak jest łatwiej bo potem zawsze można powiedzieć, że przecież szablon wygląda jak layout i zgarnąć kasę.
+    <br/>A co do dizajnu SynaPrezesa to bym się hamował ze skrajnie webocentrycznym podejściem. Bardzo kląłem na gości, którzy zamiast ładnie ciąć obrazki wsadzali na stronę jeden wielki z klikalną mapą. Kląłem dopóki nie uświadomiłem sobie, że czasem nakład kodu trzymającego pocięte obrazki do kupy jest większy niż jeden prosty obrazek z tą mapą.
+- id: 1895
+  author: Express
+  author_url: ''
+  date: '2005-08-11 15:21:40 +0200'
+  date_gmt: '2005-08-11 15:21:40 +0200'
+  content: "Tak, tylko po pierwsze tu prawie nie ma klikania, a po drugie &quot;byle
+    kto&quot; (czyt.: ja) nie jest w stanie wprowadzić drobnych poprawek (a SynPrezesa
+    jest na urlopie). Wszystko siedzi w jpgu, źródła ma tylko jedna osoba (zgadnij
+    kto :) , o ile w ogóle je ma, a dekompresja, edycja i kompresja itd. wpływa na
+    jakość. A poza tym &lt;div id=&quot;costam&quot;&gt; + costam {background-color:
+    blue; left: ...itd} będzie nieco mniejsze od wielkiego obrazka wypełnionego na
+    niebiesko... \n<br/>Kod kodem, a wiem, że niektóre osoby, które używają tej strony
+    wciąż mają modemy.\n<br/>\n<br/>Oczywiście zupełnie pomijam to, o czym Patrys
+    nieraz pisał: dostępność; a więc przeglądarki tekstowe, braille i inne."
+- id: 1896
+  author: been
+  author_url: ''
+  date: '2005-08-16 10:05:03 +0200'
+  date_gmt: '2005-08-16 10:05:03 +0200'
+  content: to zdjęcie to reklama podprogowa, nie chodzi o Patrysa ani jego lage ale
+    o logo orlenu w tle. przyznaj sie ile dostałeś? :D
+- id: 1897
+  author: Bellois
+  author_url: ''
+  date: '2005-08-18 16:31:29 +0200'
+  date_gmt: '2005-08-18 16:31:29 +0200'
+  content: 'To zdjecie wyglada jak tragiczne polaczenie dresiarza i skejta. Szczerze
+    mowiac, to wstydzilbym sie stac obok Ciebie na ulicy. '
+- id: 1898
+  author: Patrys
+  author_url: ''
+  date: '2005-08-18 16:32:57 +0200'
+  date_gmt: '2005-08-18 16:32:57 +0200'
+  content: |-
+    Bellois:
+    <br/>
+    <br/>Straszniemi przykro, jak tylko dostaniesz sądowy nakaz stania przy mnie na ulicy, pobiegnę do domu wbić się w gajer :D
+- id: 1899
+  author: siwa
+  author_url: ''
+  date: '2005-08-19 15:03:08 +0200'
+  date_gmt: '2005-08-19 15:03:08 +0200'
+  content: |-
+    Lata doświadczenia podpowiadają mi nieśmiało, że za 10 lat nie będziesz się już chciał  fotografować z profilu bez koszulki...
+    <br/>
+    <br/>(nie obraziłeś się, prawda?)
+- id: 1900
+  author: Patrys
+  author_url: ''
+  date: '2005-08-19 15:04:18 +0200'
+  date_gmt: '2005-08-19 15:04:18 +0200'
+  content: Regualarnie wykonuję ćwiczenia na beerceps - np. podnoszenie ciężarów do
+    ust i ciosy karate w szyję ;]
+- id: 1901
+  author: siwa
+  author_url: ''
+  date: '2005-08-19 15:05:03 +0200'
+  date_gmt: '2005-08-19 15:05:03 +0200'
+  content: Nieomieszkam pocwiczyć dzisiaj wieczorem w Twojej intencji ;)
+---
+<p>Dziś, drodzy zgromadzeni, profesor Pimpin pokaże wam, jak ważne jest rozdzielenie wyglądu i treści.</p>
+
+<p class="strip"><img src="http://patrys.room-303.com/images/photos/photo-pimp.jpg" alt="Profesor Pimpin" title="Art courtesy of monochrome.pl" /><br />
+Profesor Pimpin przy pracy.</p>
+
+<p>Jako, że od pewnego czasu mój pracodawca zleca cięcie części projektów webmasterom zewnętrznym (outsourcing jest jazzy), oszczędza nam to dużo czasu, który możemy poświęcić na programowanie silników <abbr title="PHP Hypertext Preprocessor">PHP</abbr>... albo na ponowne cięcie wyżej wspomnianych projektów.</p>
+
+<p>Problem z outsourcingiem polega na tym, że wszyscy zarzekają się, że są istnymi geniuszami, a ich praca warta jest każdych pieniędzy. Dziesiątki, ba - nawet setki, lat w braży, tysiące projektów na karku, pełen profesjonalizm. Rzeczywiście, ostatnio dostałem do ręki projekt wykonany z pozoru bez zarzutu. Szybki rzut okiem do kodu źródłowego ujawnił tylko kilka usterek, ale szablony zostały przygotowane zgodnie z <abbr title="Extensible HyperText Markup Language">XHTML</abbr> 1.1 i bez użycia tabel.</p>
+
+<p>Później jednak zainteresował mnie jeden z formularzy, gdzie przycisk wysyłający dane niebezpiecznie nachodził na dolną krawędź fieldsetu. Nic to, pomyślałem, i zająłem się swoją pracą, czyli powoływaniem owego cuda do życia. Mniej-więcej w połowie podłączania szablonów do swojego systemu <abbr title="Content Management System">CMS</abbr> zapragnąłem zmodyfikować podpis wspomnianego formularza, gdyż do granic eksploatowane przez nas <em>lorem ipsum</em> zdawało się niewiele mówić przeciętnemu odwiedzającemu serwis. Podmieniłem przeto tekst na nieco inny i w tym miejscu szczęki moje rozwarły się by tak pozostać na czas dłuższy. Tekst, owszem, wydłużył się, jednak ostatnie pola formularza znalazły się już daleko za nim, nie wspominając o przycisku, który już wcześniej leżał na dolnej krawędzi. Obecnie przebywał prawdopodobnie około 200 pikseli niżej, niestety nie mogłem tego zweryfikować, gdyż wylewająca się treść formularza była skrupulatnie przykrywana przez inny boks na stronie.</p>
+
+<p>Webmaster tnąc szablony sugerował się projektem i konkretnymi tekstami zastępczymi, jakie zostały tam umieszczone. Cały boks formularza był tak naprawdę namalowany na jego tle, więc wydłużenie jego zawartości spowodowało wylanie się treści poza widoczne pod spodem ramki. Myślenie o designie w kontekście konkretnej treści jest jednym z największych błędów popełnianych przez niespecjalnie doświadczonych webmasterów. Robienie stron na własne potrzeby nie wymaga specjalnej elastyczności - gorzej, kiedy klient postanowi zastąpić proponowane treści własnymi. W końcu to jego serwis i po to właśnie kupił od nas system zarządzania treścią.</p>
+
+<p>Drugi problem dotyczący wspomnianego serwisu to skrypty <abbr title="JavaScript">JS</abbr> i ich przywiązanie do szablonu. Odpowiedzialne są one za podświetlanie przycisków i podpowiedzi w formularzach. Wszystko działało bez zarzutu do czasu, kiedy zostaliśmy zmuszeni dodać na jednej z podstron kolejny formularz i kiedy to okazało się, że jest to dość trudne. Skrypty, co prawda, znajdowały się w zewnętrzym pliku, ale uparcie wyszukiwały w nim konkretne przyciski i konkretne pola formularzy. Wymusiłoby to na nas dopisywanie obsługi każdego formularza, każdego jego pola i wszystkich nowych przycisków do pliku ze skryptami. W końcu zdecydowałem się zrezygnować z zaproponowanego przez autora rozwiązania (co było samo w sobie dość problematyczne ze względu na bliskie powiązanie ich z funkcjonalnością serwisu) i skorzystać ze sprawdzonych wielokrotnie skryptów własnego autorstwa, o których <a href="http://patrys.jogger.pl/comment.php?eid=132407">pisałem w lipcu</a>.</p>
+
+<p>Podsumowując - czas oszczędzony na traktowaniu layoutu dosłownie (z dokładnością do piksela) to czas, który trzeba - prędzej czy później - z nawiązką włożyć w ponowne przeprojektowanie szablonu, kiedy treść przestanie spełniać jego oczekiwania (choć powinno być odwrotnie, to szablon powinien być dla treści, a nie treść dla szablonu).</p>
+
+<p>Na koniec drobna dygresja - bardzo kiepskim pomysłem jest tworzenie graficznych przycisków formularzy poprzez wymuszenie pustego napisu na przycisku i zastąpienie jego tła obrazkiem. Kiedy - podczas testów wspomnianych szablonów - na próbę zablokowałem arkusze <abbr title="Cascading Style Sheets">CSS</abbr>, moim oczom ukazały się niewiele mówiące szare kwadraciki. Nie muszę chyba pisać, że nie budziły skojarzeń ze słowami typu <q>przelicz</q> czy <q>wyślij</q>. Czasem pomysłowość w stosowaniu <abbr>CSS</abbr> mnie przeraża, zwłaszcza że istnieje <code>&lt;input type="image" /&gt;</code>...</p>

@@ -1,0 +1,76 @@
+---
+layout: post
+status: publish
+published: true
+title: Krótka lekcja architektury wnętrz
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 32
+date: 2004-07-19 20:48:39.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 130
+  author: Cachotterie
+  author_url: ''
+  date: '2004-07-19 21:38:12 +0200'
+  date_gmt: '2004-07-19 21:38:12 +0200'
+  content: Patryś, Ty chyba aniołem jesteś jak to wszystko wytrzymujesz :&gt;
+- id: 131
+  author: Wampirek
+  author_url: ''
+  date: '2004-07-19 22:29:57 +0200'
+  date_gmt: '2004-07-19 22:29:57 +0200'
+  content: Może go np. &quot;całkowitym przypadkiem&quot; ze schodów spuścicie? ;)
+    Przecież może się potknąć o jakąś rurkę, czy inny karton ;)
+- id: 132
+  author: remiq
+  author_url: ''
+  date: '2004-07-19 22:52:02 +0200'
+  date_gmt: '2004-07-19 22:52:02 +0200'
+  content: |-
+    &gt;  O, wiem. Zmienimy zamki.
+    <br/>ROTFL! Jak idzie SynowiPrezesa w nowej firmie?
+- id: 133
+  author: alchemik
+  author_url: ''
+  date: '2004-07-20 01:36:06 +0200'
+  date_gmt: '2004-07-20 01:36:06 +0200'
+  content: To nawet nie jest śmieszne, ani trochę zabawne - to jest  p r z e r a ż
+    a j ą c e !
+---
+Dziś rano pierwszy raz od trzech dni zobaczyliśmy z MoimWspółpracownikiem&trade; swoje biuro. Pewnie wielu z was wydawać by się mogło, że biura pozostawione zamknięte na trzy doby po ponownym otwarciu choć po części przypominają stan, w jakim zostały odizolowane od reszty świata? Człowiek uczy sie na błędach. Zaraz po otwarciu drzwi dobiegł mych uszu niepokojący chrzęst sobiegający spod moich stóp. Krótkie spojrzenie w dół upewniło mnie w przekonaniu, że coś jest nie tak. Szuflada z narzędziami/śrubkami/kołkami/kablami/częściami komputerowymi uległa rozprzestrzenieniu na znaczną część podłogi. Możnaby nawet powiedzieć, że zasymulowała raytracing i śledząc, gdzie śrubki dotarły, a gdzie nie, możnaby dość precyzyjnie wyznaczyć punkt impaktu. Nie miałem jednak szansy nacieszyć się nowoodkrytym znaleziskiem, bo zadzwonił klient z pytaniem, kiedy uaktualnimy jego stronę, umieszczając na niej przekazany nam do zeskanowania plan zagospodarowania budynku. Byłbym mu rychło odpowiedział, gdyby nie fakt, że plan pozostawiony przeze mnie w czwartek na szczycie monitora najwyraźniej samoczynnie opuścił miejsce swego stałego zameldowania. Spośród kół ratunkowych wybrałem telefon do przyjaciela.<br />
+<br />
+- Tiiiit... tiiiit... tiiiit... ... tit tit tit tit<br />
+<br />
+SynPrezesa&trade; nie odpowiada. Nie wiem w ogóle, skąd na myśl mogło mi przyjść, że to on odpowiada za zastany krajobraz biura. Być może to lokalna flora w postaci występujących na frontowej ścianie winorośli przedarła się do wnętrza budynku i tak złośliwie wszystko porozrzucała? Stojąc przed tym oto dysonansem poznawczym, przez niektórych nazywanym rozterkami bądź problemem wyboru, zostałem natychmiast postawiony w stan gotowości przez SamegoPrezesa&trade;, który postanowił do mnie zadzwonić.<br />
+<br />
+- Dzień dobry.<br />
+- Dzień dobry.<br />
+- Jak tam w Warszawie?<br />
+- A dziękuję, obyło się bez specjalnych ekscesów.<br />
+- A w biurze?<br />
+- W tej sprawie gorzej, nie mogę dodzwonić się do SynaPrezesa&trade;, a mam niejasne przeczucie, że to on porozrzucał całą zawartość szuflady po podłodze naszego biura.<br />
+- Aha, dzwoń na numer domowy, komórki może nie odbierać, bo pewnie śpi.<br />
+- Nie będę już mówił, że zginęła mi dokumentacja pozostawiona przez klienta, a dzisiaj jeszcze muszę ją umieścić na stronie internetowej i zwrócić.<br />
+- Wiesz co, posprzątajcie tam. Tak będzie najlepiej. Bo na niego to nie ma co liczyć. O, wiem. Zmienimy zamki.<br />
+<br />
+Tak oto dowiedziałem się, że jedyna metoda na powstrzymanie kogoś, kto nie pracuje w danej firmie przed wejściem na jej teren to wymiana zamków do biura. Coś w tym jest, bo SynPrezesa&trade; już wielokrotnie odmawiał zdania swojego kompletu kluczy do serwerowni. Jeśli zamknąć dziecku piaskownicę, to skąd będzie wynosić cudze zabawki? O ile sprzątnięcie zawartości dość sporej szuflady o wymiarach 100x50 cm z podłogi biura jest jeszczew rzeczą wykonalną, to zupełnie nie mam pomysłu, co zrobić z kolekcją rusztowań, rurek, kartonów i reflektorów, które od środy zajmują większą część powierzchni biura mojego BezpośredniegoPrzełożonego&trade;. Do nich to również SynPrezesa&trade; zdaje się nie przyznawać.<br />
+<br />
+Parę godzin później nasz firmowy pupil postanowił nawiedzić nasze biuro. Wtoczył się do pokoju, niczym doświadczony fakir zręcznie i lekko stąpając po leżących na ziemi śrubkach i rzucił niedbale swoje stałe "czeeeeeeść" wypowiadane z werwą i entuzjazmem godnymi kulawego ślimaka po nalewce wchodzącego po pionowej ścianie. Bystrym wzrokiem szybko zauważyl, że nie jesteśmy zbyt szczęśliwi z faktu, że rebootował router zamiast sprawdzić, czemu sieć nie działa podczas małej awarii pod naszą nieobecność. Szybko dopadła go też niepokojąca myśl, że nie podoba nam się również nowa koncepcja wystroju wnętrz, a właściwie podłóg. Pomyślał pewnie: "jasny gwint, moje wyśrubowane gusta nie trafiają w ich oczekiwania, trzeba się z tego jakoś wykręcić". Powiedział więc:<br />
+<br />
+- No bo tego, router się zawiesił i przyszedłem go rebootować.<br />
+- A czemu dokumenty mojego klienta z mojego biurka nagle znalazły się w szufladce na biurku u kogoś zupełnie innego i w innym pokoju?<br />
+- No bo ciągle spadały z tego monitora.<br />
+- Jak to spadały? Same?<br />
+- No bo przecież był przeciąg.<br />
+- W zamkniętym biurze przeciąg?<br />
+- No bo router się zawiesił i musiałem tu wejść.<br />
+- I otwierać wszystko na oścież żeby wcisnąć power na obudowie?<br />
+- No bo brałem te narzędzia no i ten router...<br />
+- A szuflada też się pewnie zawiesiła, co?!<br />
+- To ja muszę iść, czeeeeśc.

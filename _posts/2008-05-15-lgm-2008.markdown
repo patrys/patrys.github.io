@@ -1,0 +1,101 @@
+---
+layout: post
+status: publish
+published: true
+title: LGM 2008
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 445
+wordpress_url: http://room-303.com/blog/?p=445
+date: 2008-05-15 18:31:11.000000000 +02:00
+categories:
+- linux
+- software
+tags: []
+comments:
+- id: 19651
+  author: Olek Nowodzińśki
+  author_url: http://webcadence.net
+  date: '2008-05-15 19:40:56 +0200'
+  date_gmt: '2008-05-15 18:40:56 +0200'
+  content: W PT o 14:25 w D-20 B był świetny pokaz zwisów Blendera na wszystkie możliwe
+    sposoby ;) Wersji z SVN - naturalnie. Gdyby nie wygadany prowadzący, to ludzie
+    by pozasypiali oglądając te xkille ;)
+- id: 19653
+  author: Alvarus
+  author_url: http://www.blog.alvarus.org
+  date: '2008-05-15 19:44:44 +0200'
+  date_gmt: '2008-05-15 18:44:44 +0200'
+  content: a może zbyt słaba promocja organizatorów?
+- id: 19655
+  author: Reinmar
+  author_url: ''
+  date: '2008-05-15 21:10:21 +0200'
+  date_gmt: '2008-05-15 20:10:21 +0200'
+  content: "Alvarus: Trochę śledziłem poczynania organizatorów, bo miałem mały wkład
+    w tę imprezę jeszcze kilka miesięcy temu i mogę powiedzieć, że poza dwoma plakatami
+    w C13 (PWr) i jednym newsem na Linux.pl nic więcej nie widziałem. Moim zdaniem
+    skopana sprawa, bo to ja musiałem znajomym oznajmiać że międzynarodowa konferencja
+    (?) odbywa się tuż pod ich nosem.\r\n\r\nA jeśli chodzi o sam LGM, to też chciałbym
+    podziękować organizatorom, bo mimo że mnie nie było na niczym ciekawym (chroniczny
+    brak czasu), to z tego co widziałem spotkanie żyło i rzeczywiście się coś działo
+    :)\r\n\r\nA Tobie Patrys bóg zapłać łagodnym wyrokiem za linki do prezentacji,
+    bo byłem wściekły że nie udało mi się na kilka pójść."
+- id: 19657
+  author: Reinmar
+  author_url: ''
+  date: '2008-05-15 21:13:24 +0200'
+  date_gmt: '2008-05-15 20:13:24 +0200'
+  content: '@Oleq: Nie Blendera, tylko Scribusa :P No i wspomnijmy że prezentacja
+    była prowadzona z malutkiego i niezbyt żwawego Eee PC :D'
+- id: 19660
+  author: misiek
+  author_url: ''
+  date: '2008-05-15 21:39:58 +0200'
+  date_gmt: '2008-05-15 20:39:58 +0200'
+  content: 'Ktory to Ty: http://flickr.com/photos/nemus/2492933770/in/pool-776360@N22
+    ,bo qcze nie moge znalezc osoby podobnej do tej co jest na zdjeciu po prawej(o
+    autorze):P.'
+- id: 19661
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2008-05-15 22:38:26 +0200'
+  date_gmt: '2008-05-15 21:38:26 +0200'
+  content: "misiek:\r\n\r\nPoszukaj tutaj: http://flickr.com/photos/andyfitz/2494496204/sizes/l/in/pool-776360@N22/"
+- id: 19662
+  author: misiek
+  author_url: ''
+  date: '2008-05-15 23:36:01 +0200'
+  date_gmt: '2008-05-15 22:36:01 +0200'
+  content: "Po prawej:). No i widze znaczek Gnome. Dzieki! \r\nBalem sie, ze ludzie
+    moga sie tak diametralnie zmienic wchodzac na informatyczna droge kariery:). Na
+    szczescie nie:) - uff."
+- id: 19672
+  author: DeeJay1
+  author_url: ''
+  date: '2008-05-16 16:38:11 +0200'
+  date_gmt: '2008-05-16 15:38:11 +0200'
+  content: djurban podobno oprowadzał ludzi po Wrocławiu, tylko nikt nie wie kiedy
+    ;)
+- id: 20785
+  author: Sleepwalker
+  author_url: ''
+  date: '2008-07-27 23:49:15 +0200'
+  date_gmt: '2008-07-27 22:49:15 +0200'
+  content: http://flickr.com/photos/andyfitz/2494496204/sizes/l/in/pool-776360@N22/
+    -----&gt; Ha i ja na tym zdjęciu jestem ;pp Fakt organizacja kiepska ale naszczęście
+    i w dalekie strony informacja o lgm doszła (Lublin) i nie ma co nie można było
+    tego tak poprostu ominąć. W dzień interesujące wykłady, szkoda tylko że czasami
+    trzebabyło wybierać na który iść, gdyż wykłady były prowadzone w tym samym czasie.
+    A po seri wykładów integracja :) Fajnie było sobie podukać poangielsku z obcokrajowcami
+    na przeróżne tematy :) Również składam podziękowania organizatorom, Dzięki. Pozdrawiam
+---
+<p>W dniach 8-11. maja odbyła się trzecia edycja <a href="http://libregraphicsmeeting.org/2008/">Libre Graphics Meeting</a>. Ci z was, którzy się nie pojawili (i mam nadzieję, że żałują), mogą obejrzeć <a href="http://flickr.com/groups/776360@N22/pool/">zdjęcia</a> i <a href="http://www.river-valley.tv/conferences/lgm2008/">nagrania wideo</a> z poszczególnych prezentacji.</p>
+
+<p><a href="http://pld-linux.org/">PLD Linux</a> był dzielnie reprezentowany przez czteroosobowy zespół w składzie: DeeJay1, djurban, emes i ja. Djurban gdzieś zagubił się w piątek, prawdopodobnie ukamienowany przez resztę deweloperów KDE. Towarzyszył nam dzielnie Jarv, któremu raz nawet udało się przyjść przed 12:30. Jeśli ktoś się zastanawiał, kim jest ten typ w pomarańczowej bluzie i koszulce z logo GNOME, to przyznaję się do winy.</p>
+
+<p>Chciałem przy okazji serdecznie podziękować organizatorom, choć nie obyło się bez drobnych wpadek. Nie pojawił się na przykład absolutnie nikt z polskiej prasy. O konferencji, która pierwszy &mdash; i możliwe, że jedyny &mdash; raz odbyła się we Wrocławiu, nie poinformowała nawet gazetka Tesco. To tłumaczy śladową liczbę grafików, którzy przyszli na prezentacje, sporą część reprezentacji Polski stanowili studenci, którzy odwiedzali wykłady w przerwach między normalnymi zajęciami Politechniki Wrocławskiej.</p>
+
+<p>O treści samych prezentacji nie będę się rozpisywał. Co straciliście na wykładach, możecie zobaczyć sami. Najbardziej oczekiwanym momentem była jednak prezentacja <a href="http://peach.blender.org/">projektu Peach</a>, która odbyła się pobliskim Multikinie. Zapominalscy na oficjalną premierę filmu Big Buck Bunny będą musieli poczekać do 20. maja.</p>

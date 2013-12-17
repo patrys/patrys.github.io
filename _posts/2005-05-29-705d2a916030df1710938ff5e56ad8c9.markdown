@@ -1,0 +1,161 @@
+---
+layout: post
+status: publish
+published: true
+title: Gadżety
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 94
+date: 2005-05-29 18:10:45.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1148
+  author: Jajcus
+  author_url: ''
+  date: '2005-05-29 18:12:17 +0200'
+  date_gmt: '2005-05-29 18:12:17 +0200'
+  content: Co ty? Jakąś akcję promocyjną na Joggerze sobie robisz? ;-)
+- id: 1149
+  author: Patrys
+  author_url: ''
+  date: '2005-05-29 18:14:03 +0200'
+  date_gmt: '2005-05-29 18:14:03 +0200'
+  content: |-
+    Promocyjną? :P
+    <br/>
+    <br/>To ja bym nagie zdjęcia wrzucał i podał numer telefonu ;)
+    <br/>
+    <br/>Albo lepiej nie, nagie zdjęcia mogłyby nie odnieść pożądanego skutku...
+    <br/>
+    <br/>A co do wpisu, raczej mam dziwne hobby i tyle.
+- id: 1150
+  author: Igor
+  author_url: ''
+  date: '2005-05-29 18:17:37 +0200'
+  date_gmt: '2005-05-29 18:17:37 +0200'
+  content: |-
+    Nom, wyglada na akcje promocyjna.
+    <br/>
+    <br/>A co do kierunku, w ktorym zmierza Twoj image, proponuje od razu wystapienie w masce p.gaz :&gt;
+    <br/>Tutaj znajdziesz na bank sporo inspiracji:
+    <br/>http://www.manekin.org/manekin.html :]
+- id: 1151
+  author: cenebris
+  author_url: ''
+  date: '2005-05-29 18:38:17 +0200'
+  date_gmt: '2005-05-29 18:38:17 +0200'
+  content: Fajne nieśmiertelniki - gdzie se można takie załatwić?
+- id: 1152
+  author: Patrys
+  author_url: ''
+  date: '2005-05-29 18:39:46 +0200'
+  date_gmt: '2005-05-29 18:39:46 +0200'
+  content: |-
+    Moje zostały kupione grubo ponad rok temu tutaj:
+    <br/>
+    <br/>http://allegro.pl/show_user_auctions.php?uid=1590857
+- id: 1153
+  author: Yuras
+  author_url: ''
+  date: '2005-05-29 19:05:10 +0200'
+  date_gmt: '2005-05-29 19:05:10 +0200'
+  content: Niektóre sklepy z militariami zajmują się wybijaniem nieśmiertelników w
+    24h
+- id: 1154
+  author: Patrys
+  author_url: ''
+  date: '2005-05-29 19:10:12 +0200'
+  date_gmt: '2005-05-29 19:10:12 +0200'
+  content: Kiedyś było o to znacznie trudniej, teraz nieśmiertelniki dają nawet do
+    gazet dla 13-latek.
+- id: 1155
+  author: cenebris
+  author_url: ''
+  date: '2005-05-29 19:14:11 +0200'
+  date_gmt: '2005-05-29 19:14:11 +0200'
+  content: Dzięki za info. Szkoda tylko, że brak polskich liter...
+- id: 1156
+  author: Tomash
+  author_url: ''
+  date: '2005-05-29 19:53:30 +0200'
+  date_gmt: '2005-05-29 19:53:30 +0200'
+  content: |-
+    Z tego co widzę na zdjęciu, nie zaszkodziłoby Ci wyjść na zewnątrz. Letnią pogodę mamy, wiesz? Słonko świeci, młynarska karnacja robi się passe ;).
+    <br/>
+    <br/>Okulary i nieśmiertelniki - w pytę. Chociaż w sumie jeśli ubierasz się WYŁĄCZNIE w gadżety, to nie dziwię się, że ludzie reagują dziwnie ;).
+- id: 1157
+  author: DeeJay1
+  author_url: ''
+  date: '2005-05-29 22:26:50 +0200'
+  date_gmt: '2005-05-29 22:26:50 +0200'
+  content: Dobry geek musi mieć masę gadżetów, akurat ja z znam więcej geeków, którzy
+    wyglądają jak Ty niż takich co wyglądają na &quot;typowego&quot; geeka :)
+- id: 1158
+  author: riddle
+  author_url: ''
+  date: '2005-05-29 23:30:36 +0200'
+  date_gmt: '2005-05-29 23:30:36 +0200'
+  content: A wiesz, że od blokowania powietrza do głowy robi się kuku z nimi i skórą?
+    ;-)
+- id: 1159
+  author: Smoothguy
+  author_url: ''
+  date: '2005-05-30 14:42:43 +0200'
+  date_gmt: '2005-05-30 14:42:43 +0200'
+  content: 'Tomash: Tylko przy takiej temperaturze, jaka jest teraz, wyjście na świerze
+    powietrze, żeby się poopalać, to samobójstwo. :&gt;'
+- id: 1160
+  author: m
+  author_url: ''
+  date: '2005-05-31 16:50:04 +0200'
+  date_gmt: '2005-05-31 16:50:04 +0200'
+  content: |-
+    A taki duży chłopiec... ;)
+    <br/>Powiedz lepiej, czy na heineken open air festival jedziesz :)
+- id: 1161
+  author: iss
+  author_url: ''
+  date: '2005-06-01 19:59:10 +0200'
+  date_gmt: '2005-06-01 19:59:10 +0200'
+  content: Akcja promocyjna czy nie, ale działa. Widziałem dziś Patrysa z okna autobusu,
+    gdy do domu wracałem i nawet przez chwilę nie miałem wątpliwości, że Patrys to
+    Patrys. A podobno Wrocław jest dużym miastem.
+- id: 1162
+  author: Bad Kitty
+  author_url: ''
+  date: '2005-06-01 20:25:53 +0200'
+  date_gmt: '2005-06-01 20:25:53 +0200'
+  content: Przecież to zwierze nocne! Może go ustrzelić żeby w dzień się nie szwędał
+    tu i tam... Meaw!
+- id: 22332
+  author: szto
+  author_url: ''
+  date: '2008-10-27 16:00:32 +0100'
+  date_gmt: '2008-10-27 15:00:32 +0100'
+  content: "to ci niespodzianka....\r\n\r\na myslalem ze tylko ja dorwalem takie gogle.."
+---
+<p>Geek to człowiek, który żyje swoim hobby. Jedną z cech geeków jest kolekcjonowanie dziwnych (przynajmniej z pozoru) rzeczy. Niektórzy kolekcjonują znaczki, inni karty sieciowe na chipsecie <code>RTL8139</code>, a jeszcze inni kobiety.</p>
+
+<p>Ja kolekcjonuję dziwne części codziennej garderoby. Do niedawna można było mnie poznać po chuście zawiązanej na głowie, smyczy <em>PLD Linux Distribution</em> i nieśmiertelnikach:</p>
+
+<p class="strip"><img src="http://patrys.room-303.com/images/photos/photo-dogtag.jpg" alt="Nieśmiertelniki" /></p>
+
+<p>Dla ciekawych, napis głosi, co następuje:</p>
+
+<blockquote><pre>PATRYS
+
+OJCIEC DYREKTOR
+
+MSR CREW</pre></blockquote>
+
+<p>Od niedawna, bo od soboty, do kompletu dołączyły stylowe okulary, używane niegdyś przez szwajcarskie wojska śnieżne:</p>
+
+<p class="strip"><img src="http://patrys.room-303.com/images/photos/gogle.jpg" alt="Gogle" /></p>
+
+<p>Wyglądam teraz jeszcze bardziej dziwnie, a staruszki z litością ustępują mi miejsca w środkach miejskiej komunikacji zbiorowej. Mimo wszystko, nie lubię wyglądać jak <q>typowy geek</q>, mój obecny image odpowiada mi znacznie bardziej, a i płeć przeciwna lgnie chętniej niż do przepoconego komputerowca. Efekt końcowy na załączonym obrazku:</p>
+
+<p class="strip"><img src="http://patrys.room-303.com/images/photos/photo-gogle.jpg" alt="Patrys w komplecie" /></p>

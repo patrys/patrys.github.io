@@ -1,0 +1,42 @@
+---
+layout: post
+status: publish
+published: true
+title: Cycu, mam plana...
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 6
+date: 2004-05-04 15:05:57.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 5
+  author: Katarina
+  author_url: ''
+  date: '2004-05-04 17:25:37 +0200'
+  date_gmt: '2004-05-04 17:25:37 +0200'
+  content: YYY trochę to wszystko mało czytelne ( taka drobna sugestia )
+- id: 6
+  author: Patrys
+  author_url: ''
+  date: '2004-05-04 17:26:14 +0200'
+  date_gmt: '2004-05-04 17:26:14 +0200'
+  content: Jak się najedzie, to się robi czytelne.
+- id: 7
+  author: Edge
+  author_url: ''
+  date: '2004-05-05 22:08:07 +0200'
+  date_gmt: '2004-05-05 22:08:07 +0200'
+  content: Napisz &quot;Modulacja pacha do obslugi Picitpi w jadrze Liero 1.33&quot;
+    :)
+- id: 8
+  author: sraka
+  author_url: ''
+  date: '2005-11-12 10:46:17 +0100'
+  date_gmt: '2005-11-12 10:46:17 +0100'
+  content: wal sie
+---
+Jeśli ktoś zna jakieś mądrze brzmiące i nic nieznaczące sformułowania z dziedziny informatyki, to zapraszam do współpracy. Szef zażyczył sobie plan moich zadań na tydzień na przód. Oczywiście stanowisko takie, że nie mam pojęcia, co będę robił jutro, ale coś napisać trzeba. Co ciekawe, muszę też napisać, w jakich godzinach poszczególne zadania bedą się zawierać. Jakieś sugestie? Może "przygotowanie systemu automatycznej kontroli asercji na poziomie submodułów ładowalnych pośrednio w jądrach rodziny 2.6.x"? Fajnie się nazywa? A ile to godzin może zająć? Pięć? Dobrze, piszemy osiem. ;)

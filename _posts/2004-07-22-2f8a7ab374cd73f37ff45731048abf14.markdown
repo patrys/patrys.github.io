@@ -1,0 +1,220 @@
+---
+layout: post
+status: publish
+published: true
+title: Każde dziecko chce być w reprezentacji
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 33
+date: 2004-07-22 20:27:38.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 134
+  author: Maszczuha
+  author_url: ''
+  date: '2004-07-22 20:52:12 +0200'
+  date_gmt: '2004-07-22 20:52:12 +0200'
+  content: |-
+    A co będzie jak SamPrezes dorwie się do joggera? ;-&gt;
+    <br/>A tak btw to dzięki za poprawę w szablonie...  teraz jest bosko :-)
+- id: 135
+  author: Jajcus
+  author_url: ''
+  date: '2004-07-22 20:53:52 +0200'
+  date_gmt: '2004-07-22 20:53:52 +0200'
+  content: |-
+    Patrys, a czy my napewno nie pracujemy w tej samej firmie? ;-)
+    <br/>Toż to prawie żywcem wzięte scenki z życia naszej firmy...
+    <br/>
+    <br/>
+    <br/>
+- id: 136
+  author: mefju
+  author_url: ''
+  date: '2004-07-22 20:59:21 +0200'
+  date_gmt: '2004-07-22 20:59:21 +0200'
+  content: "Chyba Pan SamPrezes™ nie maq pojęcia o istnieniu Jabbera i/lub joggera...
+    bo notki to moze dla połowy świata nie są, ale dla ćwierci - napewno ;-) \n<br/>pozdro
+    :D"
+- id: 137
+  author: krysk
+  author_url: ''
+  date: '2004-07-22 21:12:35 +0200'
+  date_gmt: '2004-07-22 21:12:35 +0200'
+  content: Tak czy siak dla osoby postronnej to jest niezła porcja humoru :-) Bardzo
+    lubię czytać te wpisy ;-)
+- id: 138
+  author: remiq
+  author_url: ''
+  date: '2004-07-22 21:18:03 +0200'
+  date_gmt: '2004-07-22 21:18:03 +0200'
+  content: Być może warto założyć własną firmę. Wraz ze współpracownikiem.
+- id: 139
+  author: Jajcus
+  author_url: ''
+  date: '2004-07-22 21:20:14 +0200'
+  date_gmt: '2004-07-22 21:20:14 +0200'
+  content: 'remiq: ale wtedy nie będzie miał Patrys o kim pisać...'
+- id: 140
+  author: remiq
+  author_url: ''
+  date: '2004-07-22 21:21:50 +0200'
+  date_gmt: '2004-07-22 21:21:50 +0200'
+  content: Szkoda człowieka. Pracować u takich idiotów...
+- id: 141
+  author: Patrys
+  author_url: ''
+  date: '2004-07-22 21:48:30 +0200'
+  date_gmt: '2004-07-22 21:48:30 +0200'
+  content: Przecież jest na głównej stronie disclaimer? ;]
+- id: 142
+  author: qwiat
+  author_url: ''
+  date: '2004-07-22 21:48:44 +0200'
+  date_gmt: '2004-07-22 21:48:44 +0200'
+  content: remiq - a jak sądzisz o czym bez przerwy rozmawiamy &quot;na papierosie&quot;
+    :) Jest jeden mankament, potrzeba nam trochę gotówki na rozkręcenie, no pomysł
+    juz jest. Ale ciiiii...
+- id: 143
+  author: Patrys
+  author_url: ''
+  date: '2004-07-22 22:28:39 +0200'
+  date_gmt: '2004-07-22 22:28:39 +0200'
+  content: Ach zapomniałem dopisać, SamPrezes zagroził, że mi nie przedłuży umowy,
+    którą sam kazałem skrócić... O_o
+- id: 144
+  author: remiq
+  author_url: ''
+  date: '2004-07-22 22:51:02 +0200'
+  date_gmt: '2004-07-22 22:51:02 +0200'
+  content: |-
+    Patrys: Żadnego disclaimera nie widziałem :P
+    <br/>qwiat: Cóż, w takim razie, życzę szczęścia w zbieraniu kasy na rozkręcenie własnego biznesu :)
+    <br/>
+- id: 145
+  author: Greybrow
+  author_url: ''
+  date: '2004-07-22 23:00:20 +0200'
+  date_gmt: '2004-07-22 23:00:20 +0200'
+  content: A ile kasy potrzebujesz? Może się zrzucimy :)
+- id: 146
+  author: Greybrow
+  author_url: ''
+  date: '2004-07-22 23:02:15 +0200'
+  date_gmt: '2004-07-22 23:02:15 +0200'
+  content: |-
+    a tak tytułem ps
+    <br/>odkąd pamiętam na słowie &quot;prezes&quot; ciąży klątwa
+- id: 147
+  author: speeedo
+  author_url: ''
+  date: '2004-07-22 23:25:14 +0200'
+  date_gmt: '2004-07-22 23:25:14 +0200'
+  content: no to sciepa dla patrysa na nowa firme ;&gt;
+- id: 148
+  author: MichalS-&gt;Patrys
+  author_url: ''
+  date: '2004-07-23 08:36:26 +0200'
+  date_gmt: '2004-07-23 08:36:26 +0200'
+  content: |-
+    Czy w tej firmie nie pracuje przypadkiem taki śmieszny gość o imieniu Dilbert?
+    <br/>
+    <br/>;)
+- id: 149
+  author: shoo
+  author_url: ''
+  date: '2004-07-23 13:16:09 +0200'
+  date_gmt: '2004-07-23 13:16:09 +0200'
+  content: |-
+    nie no ta sytuacja ze statusem to mnie rozwalila...
+    <br/>czego jak czego ale tego to sie nie spodziewalem. czyzby sam SynPrezesa maczal w tym palce? bo jak inaczej wytlumaczyc to ze prezes widzial twoj status. chyba mu nie dales swojego numer gg?!
+- id: 150
+  author: Express
+  author_url: ''
+  date: '2004-07-23 13:55:24 +0200'
+  date_gmt: '2004-07-23 13:55:24 +0200'
+  content: Kiedy (wreszcie) skończysz tam pracować powinieneś wręczyć SamemuPrezesowi
+    ades joggera. Wraz ze statystykami wizyt :)
+- id: 151
+  author: Siostra niegodna
+  author_url: ''
+  date: '2004-07-24 13:30:51 +0200'
+  date_gmt: '2004-07-24 13:30:51 +0200'
+  content: O. Bede miala prace ;D
+- id: 152
+  author: Krymzon
+  author_url: ''
+  date: '2004-08-02 19:57:55 +0200'
+  date_gmt: '2004-08-02 19:57:55 +0200'
+  content: Brawa sie naleza za smiech na Krzesle Najtwardszym. Disclaimer jak ta lala:)
+---
+Dzień zaczął się dosyć skromnie, tylko SamPrezes&trade; wpadł na chwilę, wydając z siebie przeraźliwy ryk i krzycząc, że tak dalej być nie może. Prawdziwego pracownika działu IT takie rzeczy nie przerażają, toteż z MoimWspółpracownikiem&trade; pomyśleliśmy, że znów coś nie działa i nikt nas nie raczył powiadomić. To był jednak błąd, o czym miałem się szybko przekonać. Nie wiedziałem jednak, że za chwilę popełnię błąd jeszcze większy, a karalny śmiercią nawet. Otóż w napadzie nagłej radości po przekomicznej scenie szturmu na nasze biuro, pozwoliłem sobie ustawić taki oto status na komunikatorze:
+
+<blockquote>Plan na dziś:<br />
+<br />
+[ ] wypłata<br />
+[ ] zwolnić się</blockquote>
+
+A nadmienić tu należy, że atak SamegoPrezesa&trade; skierowany był właśnie w system wymiany planów pracy pomiędzy działem IT a zarządem. Grunt, że ustawiając status nie byłem świadom mojej niebotycznej roli w domenie Public Relations na linii firma - reszta świata. SamPrezes&trade;, który akurat był korzystał z domowego komputera, niemal przypłacił mój wybryk życiem. Serce stanęło mu w piersi, a cała krew wbrew prawom powszechnego ciążenia znalazła się naraz w głowie. Firma jest jak rodzina. A krzywd wyrządzonych rodzinie się nie wybacza.<br />
+<br />
+Nie zdziwiło mnie przeto nagłe telefoniczne wezwanie na dywanik. Dziarskim krokiem ruszyłem na spotkanie z nieznanym, nawet po części nie przeczuwająć czającego się na mnie niebezpieczeństwa. Wszedłem oto do przenajświętszego pokoju w firmie, od drzwi już widząc, że coś jest nie tak. Jak bowiem często w jednym pokoju znajdują się trzy najważniejsze dla mojej zawodowej przyszłości osoby, na co dzień pracujące w różnych gabinetach? Przewodniczący komisji lustracyjnej zdecydowanym gestem wskazał mi najtwardsze krzesło w promieniu 3 kilometrów i miłym, aczkolwiek stanowczym głosem szepnął:
+
+<blockquote>- SIADAJ!<br />
+- Słucham.<br />
+- Przyszedłeś na sąd.</blockquote>
+
+Specjalnie religijną osobą nie jestem, wiem jednak, czym takie rzeczy pachną. Na szczęście rodzina wie, gdzie wyszedłem z domu i upomną się o zwłoki.
+
+<blockquote>- A moge wiedzieć, co zrobiłem?<br />
+- Chodzi o całokształt!<br />
+- Jesteście, a właściwie jesteś, bezczelny i arogancki w swoim zachowaniu.<br />
+- Co takiego zrobiłem tak właściwie?<br />
+- Chodzi o to, jak wyrażasz swój stosunek do pracy.<br />
+- A jak wyrażam?<br />
+- Z naszej strony to wygląda tak, że nic wam się nie podoba. Wszystko negujecie, nie chcecie przyjmować nowych zadań.<br />
+- Bo każde nowe zadanie to kolejne godziny po 22:00?<br />
+- To nie może tak być! Z naszej strony to wygląda inaczej, nie, to jest inaczej!<br />
+- To znaczy jak?<br />
+- Masz jakiś problem z tą pracą? Z zarobkami?<br />
+- O tym już rozmawialiśmy, dlatego tylko na dwa miesiące umowę podpisałem.<br />
+- Tak dalej być nie może. Bo ty nie chcesz wykonywać takich zadań ogólnie informatycznych.</blockquote>
+
+W tym momencie przypomniał mi się poprzedni telefon od SamegoPrezesa&trade;: "który z was mi naprawi satelitę?" oraz lukratywna propozycja fotografowania piłek.
+
+<blockquote>- Jakich zadań?<br />
+- Ja wiem, że to wszystko ma dwie strony, z jednej jesteś programistą, a z drugiej informatykiem i to się musi pogodzić jakoś. Płacimy ci za to, żeby sieć firmowa działała, ale to nie zarabia na siebie, dlatego musisz też pracować dla naszych klientów. Musisz mieć na to czas.<br />
+- Właściwie ostatnio tylko na to mam czas.<br />
+- Nie możesz zaniedbywać programowania, to za wolno idzie, ja bym chciał, żeby szło tak z osiem razy szybciej.<br />
+- Ale nas jest tylko dwóch...<br />
+- No właśnie, my nie wiemy, co wy robicie! Ja nie wiem, za co ci płacę!</blockquote>
+
+Tu nie wytrzymałem i pomimo swojej trudnej sytuacji, wybuchnąłem śmiechem. Aż chciało się dodać "jak nie wiecie, za co płacicie, to przeczytajcie umowę - tam jest napisane, że płacicie za administrację siecią, nie ma ani słowa o tworzeniu i uaktualnianiu stron o krzywych kręgosłupach i obciążeniu biednych dzieci z Koziej Wólki tornistrami i plecakami w latach 1027-1999". Zresztą, nie byłem świadom swego dualizmu korpuskularno-falowego, odwiecznego rozłamu na część informatyczną i programistyczną, przy czym podział jest na pół i obie połowy są za małe - jako że i programowanie, i aktualizacja stron są osiem razy zbyt wolne. Teoretycznie mógłbym przyspieszyć to dwukrotnie rezygnując z pewnych używek (sen, jedzenie, rodzina), jednak doba z pewnością do 96 godzin nie urośnie, by sprostać wymaganiom samej góry. Filozofię musiałem jednak odłożyć na bok:
+
+<blockquote>- I udzielamy ci oficjalnej nagany!<br />
+- A za co tym razem?<br />
+- Za twój szczeniacki wybryk na gadu!<br />
+- A co takiego zrobiłem?<br />
+- Twój status! To jest nie do przyjęcia, żeby taki wizerunek firmy kreować na zewnątrz!<br />
+- A jaki to ma związek z firmą?<br />
+- Dla mnie, jak widzę ciebie i w opisie słowo "firma", to jednoznacznie wiem o co chodzi!<br />
+- Ale tam nie było nawet słowa "firma". Poza tym status jest dla grupy znajomych a nie dla połowy świata.<br />
+- Nie może tak być! To niedopuszczalne!<br />
+- A gdybym ustawił status "zaraz się zastrzelę", to też by było niepoprawne politycznie?<br />
+- TAK!.. Albo może nie... No "zaraz się zastrzelę" to chyba nie, ale zależy w jakich godzinach...<br />
+- ...<br />
+- A teraz najważniejsza kwestia, musicie mieć system planowania i informowania mnie o postępach prac. Ja muszę wszystko wiedzieć. I nie mówię tu o programistycznych szczegółach, chodzi mi o ogólne rzeczy i terminy zamknięcia.<br />
+- Był wcześniej system, gdzie rozpisywaliśmy terminy i zadania, ale został odrzucony przez zarząd...<br />
+- Bo jak piszesz "modyfikacja modułu zamówień", to mi to nic nie mówi!</blockquote>
+
+Tak oto dowiedziałem się, że nawet zastrzelić się mogę tylko po godzinach, a kiedy przychodzi do programowania, SamPrezes&trade; chciałby jednocześnie nie wnikać w szczegóły i je znać.<br />
+<br />
+Nieomal zapomniałbym dodać, że to MójWspółpracownik&trade; ma na mnie taki zły wpływ. To wszystko ta bestyja, ten potwór szkaradny, ta wredna zaraza. Pewnie właśnie przez niego mam coraz więcej pracy, a odkąd zaczął pracować nad systemem sprzedaży, prace spowolniły, a nawet praktycznie stanęły w miejscu! Wiedziałem, że nie mogę ci ufać, tuś mi bratku! Gdyby tylko SamPrezes&trade; wiedział, że znamy się sporo dłużej niż ja pracuję w tej firmie, a na pewno wieki dłużej zanim z nim firma podjęła współpracę... Aż tyle czasu zwlekał, zanim krew mą psuć zaczął.<br />
+<br />
+Podsumowując: Starożytni się nie mylili, człowiek ma jednak naturę dwoistą. Jest za a nawet przeciw. Systemy planowania są najlepsze gdy, nie zawierają informacji o wykonaniu danego zadania. Poprzedni system miał kratkę przy każdej pozycji, w której stawialiśmy krzyżyk po zamknięciu zadania w terminie, niestety SamPrezes&trade; poinformował nas, że "te krzyżyki to sobie możemy na grobach postawić". A motto na dziś? "Ja się zaraz zastrzelę, ale tylko w godzinach 18:00-09:30".<br />
+<br />
+Ostatnia zaś wypowiedź, która padła pod moim adresem, to "wy sobie stworzyliście firmę w firmie!". Jakby się nad tym dłużej zastanowić, jest to święta prawda. Wszystko musimy robić sami, załatwiać sami, planować sami. Sami też musimy zarobić na swoją pensję, stanowimy właściwie we dwóch w pełni wartościową firmę. Jedna tylko myśl kołacze mi się po głowie. W takim razie... po co nam prezes?

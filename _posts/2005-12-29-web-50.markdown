@@ -1,0 +1,103 @@
+---
+layout: post
+status: publish
+published: true
+title: Web 5.0
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 205
+wordpress_url: http://www.room-303.com/blog/2005/12/29/web-50/
+date: 2005-12-29 21:07:22.000000000 +01:00
+categories:
+- web
+tags: []
+comments:
+- id: 2844
+  author: rasheed
+  author_url: http://www.mklimek.org
+  date: '2005-12-29 21:30:20 +0100'
+  date_gmt: '2005-12-29 20:30:20 +0100'
+  content: Jesteś dżezi, edży i w ogóle zajebiste pekaesy masz.
+- id: 2845
+  author: bellois
+  author_url: http://bellois.jabba.pl
+  date: '2005-12-29 22:19:31 +0100'
+  date_gmt: '2005-12-29 21:19:31 +0100'
+  content: Tak, Google to zdecydowanie mala rzecz ;)
+- id: 2846
+  author: Patrys
+  author_url: http://room-303.com/
+  date: '2005-12-29 23:11:33 +0100'
+  date_gmt: '2005-12-29 22:11:33 +0100'
+  content: Mała w sensie interfejsu - nie ma tam czata i forum. Technologia pod spodem
+    nie gra roli.
+- id: 2847
+  author: citizen
+  author_url: http://citizen.jogger.pl
+  date: '2005-12-29 23:31:02 +0100'
+  date_gmt: '2005-12-29 22:31:02 +0100'
+  content: Fajnie by było gdyby to web20.pl podczepić na 10przykazań.
+- id: 2848
+  author: DeeJay1
+  author_url: http://www.actus.org.pl/
+  date: '2005-12-30 10:52:06 +0100'
+  date_gmt: '2005-12-30 09:52:06 +0100'
+  content: Nadal nie czuję się swojo z tym całym Web2.0, gdzie się nie obrócę brakuje
+    mi jakichś usług albo feature i "dlaczego to nie działa jak chcę, dajcie mi linię
+    poleceń!" Community niech sobie będzie, ale oglądanie zdjęć z wesela ciotki jakiejś
+    starej panny z USA lub czytanie po raz kolejny o dupie Maryny (Jane,Ashley,etc.)
+    nie wpływa zasadniczo na rozwój społeczności, które miały się już bardzo dobrze
+    w czasach Fidonetu, gophera i packet radio. Cały ten hype wokół Netu ("patrzcie
+    jestesmy globalną społecznością, barieri już nie ma!") nie wywiera jakoś żadnego
+    pozytywnego wpływu na nasze życie, jedynie sprowadza wszystkich ludzi do pewnego
+    wspólnego mianownika ("Jak to nie używasz Flickr??!?!?!! Przecież wszyscy tego
+    używają!") i prędzej czy później dojdzie do takiego załamania jak społeczeństwo
+    industrialne w latach 60 i 70 w Stanach Zjednoczonych
+- id: 2849
+  author: Elsindel
+  author_url: http://www.elsindel.wroc.pl/blog
+  date: '2005-12-30 21:29:39 +0100'
+  date_gmt: '2005-12-30 20:29:39 +0100'
+  content: |-
+    Zgoda, Patrys.
+
+    Na mnie również nazewnictwo nie robi większego wrażenia; zresztą czytając ostatnio kilka tekstów na temat Web 2.0 doszedłem do wniosku, że organizatorzy konferencji pod tym tytułem zorientowali się chyba, co narobili - tj. ludzie więcej teraz dyskutują nad znaczeniem nazwy niż analizują trendy i wnioski z nich wypływające.
+
+    Minie, spokojna głowa. :)
+- id: 3181
+  author: frankos
+  author_url: http://www.olo.pl
+  date: '2006-01-29 21:17:00 +0100'
+  date_gmt: '2006-01-29 20:17:00 +0100'
+  content: "Patrys, widzę cięty jesteś na Web 2.0 ;) \r\n\r\nTrochę czasu minęło od
+    wypuszczenia Twojego posta - jakbyś miał nadal problemy z definicją Web 2.0 to
+    zapraszam na: http://www.olo.pl/blog/web-20/ ;)"
+- id: 3816
+  author: Tim, Oh Really? at Room 303
+  author_url: http://www.room-303.com/blog/2006/05/27/tim-oh-really/
+  date: '2006-05-27 10:55:06 +0200'
+  date_gmt: '2006-05-27 09:55:06 +0200'
+  content: '[...] Ja nieśmiało przypominam, że posiadam prawo pierwszeństwa do nazwy
+    Web 5.0, ph33r m3! [...]'
+- id: 3831
+  author: dr_bonzo
+  author_url: ''
+  date: '2006-05-29 08:47:40 +0200'
+  date_gmt: '2006-05-29 07:47:40 +0200'
+  content: "A czy to Sun (Java) nie zarejestrowalo przejscia z wersji 2 do 5.0 ?\r\n:P"
+---
+<p>Gdzie się nie spojrzy, straszy marketingowa paplanina. W sieci również, ostatnio straszy nawet bardziej, odkąd pojawił się absolutny hit: <q>Web 2.0</q>. Nikt nie ma pojęcia, co to takiego jest, ale pojawiają się na ten temat setki głosów. Czym jest <q>Web 2.0</q>?</p>
+
+<p>Nazwa sugerowałaby, że to druga generacja sieci <abbr title="World Wide Web">WWW</abbr>. Błąd, sieć z całą pewnością jest już znacznie dalej. Jeśli przyjąć, że pierwszą generacją były pierwsze klienty hipertekstu, tekstowe i obsługiwane z poziomu terminala, drugą generacją będzie era Mosaic, pierwszej szeroko stosowanej graficznej przeglądarki. Trzecia era przypada więc na okreś świetności Netscape, za czwartą wypada przyjąć zatem czas niepodzielnej dominacji Internet Explorera. Wobec tego czas obecny jest piątym etapem w życiu sieci — czasem dywersyfikacji rynku i szerokiej standaryzacji. Czasem lepszej sieci, ale nie ma to nic wspólnego z wyznawcami <q>Web 2.0.</q></p>
+
+<p>Można przyjąć, że to druga generacja sieciowego marketingu, ale i to nie ma wiele wspólnego z prawdą — druga generacja przypada z całą pewnością na dotcomowy boom z drugiej połowy lat dziewięćdziesiątych, kiedy to rozwój technologiczny połączony z masowym marketingiem przynosił przez krótki czas niewyobrażalne niemal fortuny. Wiemy wszyscy, jak skończyły dotcomy, więc dziś z pewnością nie znajdujemy się na tym etapie.</p>
+
+<p><q>Web 2.0</q> to nieudolna próba nazwania bardzo subtelnych zmian w spodobie budowania sieci. Nie da się ich wymienić i nie da się sprawdzić, czy <q>coś jest 2.0,</q> dlatego cały ruch nie ma dla mnie większego sensu. Nie znaczy to, że jestem przeciwny jego idei — wręcz przeciwnie, jak najbardziej popieram nastawienie serwisów na użytkownika (a nie na <em>klienta</em>), prospołeczne modelowanie aplikacji (choćby zastąpienie sztywnych kategorii przez swobodnie nadawane tagi), tworzenie małych narzędzi, które dobrze robią jedną rzecz (jak <a href="http://google.com/">Google</a>) i dużą otwartość w kontaktach ze społecznością sieci (jak choćby blogi firmowe z możliwością swobodnego komentowania). Cieszy również rozwój aplikacji typowo społecznych — serwisów opartych na idei <q>six degrees,</q> jak choćby <a href="http://linkedin.com/">LinkedIn</a>, czy nasz rodzimy <a href="http://spinacz.pl/">Spinacz</a>.</p>
+
+<p>Problem polega na tym, że <q>Web 2.0</q> stworzyło hype, a ten rządzi się swoimi prawami. Informacje przekazywane na zasadzie głuchego telefonu szybko ulegają zniekształceniu, a nie ma gdzie zasięgnąć konkretnych informacji. Dlatego — w powszechnym mniemaniu — <q>Web 2.0</q> to okrągłe rogi, pastelowe kolory i duże fonty na tle w skośne paski. Ludzie, zamiast filozofię działania, zapamiętali wygląd serwisów, które zapoczątkowały te zmiany. Tak właśnie umarła okazja na pozytywne zmiany, dziś to tylko powód do śmiechu.</p>
+
+<p>Z ciekawostek — hype można śledzić teraz także po polsku za sprawą prowadzonego przez wrocławską agencję interaktywną <a href="http://www.janmedia.pl/">Janmedia</a> blogu <a href="http://web20.pl/">Web 2.0</a>.</p>
+
+<p>Technorati Tags: <a href="http://technorati.com/tag/web" rel="tag">web</a>, <a href="http://technorati.com/tag/web2.0" rel="tag">web2.0</a></p>

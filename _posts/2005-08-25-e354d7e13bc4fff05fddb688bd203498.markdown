@@ -1,0 +1,161 @@
+---
+layout: post
+status: publish
+published: true
+title: The Daily WTF, part 3
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 148
+date: 2005-08-25 02:30:26.000000000 +02:00
+categories:
+- software
+- code
+tags: []
+comments:
+- id: 2050
+  author: nbw
+  author_url: ''
+  date: '2005-08-25 09:34:47 +0200'
+  date_gmt: '2005-08-25 09:34:47 +0200'
+  content: |-
+    Wspaniałe!
+    <br/>
+    <br/>Do mnie natomiast niedawno przyszedł &quot;wspaniały, nieoceniony, bezpieczny, szybki, rozszerzalny&quot; CMS klienckiego maga podpisującego się jako IT Specialist.
+    <br/>
+    <br/>System zmarł jak tylko odpaliłem go u siebie. Okazało się, że system nie działa bez register_globals i magic_quotes.
+- id: 2051
+  author: DarkStar blog.krakowiacy.info
+  author_url: ''
+  date: '2005-08-25 09:42:41 +0200'
+  date_gmt: '2005-08-25 09:42:41 +0200'
+  content: Patrys... czy wklejając ten kod nie złamałeś właśnie prawa? ;] To chyba
+    nie jest Open Source (tzn. nie był ;P)?
+- id: 2052
+  author: Patrys
+  author_url: ''
+  date: '2005-08-25 10:54:27 +0200'
+  date_gmt: '2005-08-25 10:54:27 +0200'
+  content: System jest dostępny za darmo i nie ma zastrzeżeń odnośnie dystrybucji,
+    więc nie widzę problemu. Poza tym wkleiłem tylko fragment kodu, który raz że nie
+    zdradza żadnej tajemnicy, bo służy do generowania punycode, a dwa, że jest do
+    niczego.
+- id: 2053
+  author: Enleth
+  author_url: ''
+  date: '2005-08-25 12:10:40 +0200'
+  date_gmt: '2005-08-25 12:10:40 +0200'
+  content: |-
+    1) Jak autor tego czegoś się znalazł tam gdzie pracuje?
+    <br/>2) Jak go tam można zastąpić? ;)
+- id: 2054
+  author: listek
+  author_url: ''
+  date: '2005-08-25 17:17:09 +0200'
+  date_gmt: '2005-08-25 17:17:09 +0200'
+  content: |-
+    Enleth: szybko ;)
+    <br/>Patrys podał nazwę firmy więc możesz spróbować... Mnie by pewnie nie chcieli ze względu na wiek :D
+- id: 2055
+  author: Jezuch
+  author_url: ''
+  date: '2005-08-25 20:41:36 +0200'
+  date_gmt: '2005-08-25 20:41:36 +0200'
+  content: Widziałem coś podobnego w swojej poprzedniej robocie. Dłubaliśmy tam w
+    ASP na IIS5, które to jakoś niechętnie się obchodzą z kodowaniem innym niż US-ASCII,
+    więc jeden sprytny kolega przerabiał kodowania &quot;po swojemu&quot;... [po jakichś
+    dwóch latach w końcu się dogrzebałem, że *da* się to zrobić normalnie, ale było
+    to mocno nieintuicyjne - ktoś zna numery stron kodowych UTF-8, np?. :)]
+- id: 2056
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-08-25 23:45:58 +0200'
+  date_gmt: '2005-08-25 23:45:58 +0200'
+  content: |-
+    Ja też znalazłem mały WTF
+    <br/>
+    <br/>int vmMain( int command, int arg0, int arg1, int arg2, int arg3, int arg4, int arg5, int arg6, int arg7, int arg8, int arg9, int arg10, int arg11  ) {
+---
+<p>No nie mogę. Ex aequo dzisiejszą nagrodę otrzymuje również zespół <a href="http://dinfo.pl/" rel="nofollow">dinfo.pl</a>. Jako ich partner, jesteśmy zmuszeni do korzystania z ich <abbr title="Application Programming Interface">API</abbr> do wykonywania wszelkich operacji na domenach. Właśnie wpisałem o-umlaut do formularza wyszukiwania domen i system zmarł z komunikatem <q>zły assert</q>. Szukałem błędu po swojej stronie, ale ich serwis okazywał się reagować tak samo. Zajrzałem przeto w otchłań bezdenną i wydobyłem z jej czeluści kod ichniej implementacji <em>punycode</em>, czyli systemu tłumaczenia nazw domen na obowiązujący standard <abbr title="International Domain Names">IDN</abbr>:</p>
+
+<blockquote><pre>function punycode($tryb,$tekst)
+{ //tryby: &quot;Encode&quot;/&quot;Decode&quot;
+	$iso = array(177,230,234,179,241,243,182,188,191,
+	161,198,202,163,209,211,166,172,175);
+
+	$uni = array(261,263,281,322,324,243,347,378,380,260,
+	262,280,321,323,211,346,377,379);
+
+	$tekst = iconv('utf-8', 'iso-8859-2', $tekst);
+
+	$print_ascii =&quot;\n\n\n\n\n\n\n\n\n\n\n\n\n\n&quot;.
+	&quot;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n !\&quot;&quot;.
+	&quot;#$%&amp;'()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJK&quot;.
+	&quot;LMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrs&quot;
+	&quot;tuvwxyz{|}~\n&quot;;
+
+	$domenatab=explode(&quot;.&quot;,$tekst);
+	//podzial domeny na tablice(rozdzial z kropek)
+
+	if ($tryb==&quot;Encode&quot;) {
+		$output=&quot;&quot;;
+		for ($l=0;$l&lt;count($domenatab);$l++){
+		//licznik slow miedzy kropkami
+			$tekstuni=array();
+			$tekst=$domenatab[$l];
+			$polskieznaczki=false;
+			for ($i=0;$i&lt;strlen($tekst);$i++) {
+				$znaleziony=0;
+				for ($j=0;$j&lt;count($iso);$j++) {
+					if (ord($tekst[$i])==$iso[$j])  {
+						$tekstuni[$i]=$uni[$j];
+						$znaleziony=1;
+						$polskieznaczki=true;
+						break;
+					}
+				}
+				if ($znaleziony==0) {
+					$tekstuni[$i]=ord($tekst[$i]);
+				}
+			}
+
+			// Encode: //
+			if ($polskieznaczki==true) {
+				$output .= &quot;xn--&quot;.
+				$this-&gt;punycode_encode(count($tekstuni), $tekstuni);
+			} else {
+				$output.=$domenatab[$l];
+			}
+			if ($l!=count($domenatab)-1) {
+				$output.=&quot;.&quot;;
+			}
+		} //for l=0....
+		$output_length=strlen($output);
+
+		// Convert to native charset and output: //
+		for ($j = 0;  $j &lt; $output_length;  ++$j) {
+			$c = ord($output[$j]);
+			if ($c &gt;= 0 &amp;&amp; $c &lt;= 127 &amp;&amp; isset($c)) {
+				if (ord($print_ascii[$c]) == 0) {
+					echo &quot;invalid_input&quot;;
+				}
+				$output[$j] = $print_ascii[$c];
+			} else {
+				echo &quot;zly assert (246)&quot;;
+				exit;
+			}
+		}
+		return str_replace(&quot;\r&quot;,&quot;&quot;,$output);
+	}
+	// [..]
+}</pre></blockquote>
+
+<p>Przejrzyściej napisanego kodu nie napisałem, mimo wszystko udało mi się dostrzec, że:</p>
+
+<ul>
+<li>system potrafi obsługiwać tylko domeny podane w Latin2</li>
+<li>ma na sztywno wpisanych kilka polskich znaków (pierwsze dwie tablice), a inne skrupulatnie olewa</li>
+<li>nie ma nic wspólnego z oryginalnym algorytmem punycode (tej części nie wklejałem), którego implementację w <abbr title="PHP Hypertext Preprocessor">PHP</abbr> na licencji <abbr title="GNU General Public License">GPL</abbr> można wygooglać w 10 sekund</li>
+<li>prześlicznie obsługuje błędy, nie ma to jak zabić skrypt w przypadku wprowadzenia nieobsługiwanych znaków do formularza</li>
+</ul>

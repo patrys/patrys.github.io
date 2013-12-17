@@ -1,0 +1,43 @@
+---
+layout: post
+status: publish
+published: true
+title: Ciężki żywot programisty, part 2
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 109
+date: 2005-06-21 18:52:26.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1330
+  author: Nina
+  author_url: ''
+  date: '2005-06-22 08:21:23 +0200'
+  date_gmt: '2005-06-22 08:21:23 +0200'
+  content: Hmmm. Postanowili polecieć, a dolecieli? ;)
+- id: 1331
+  author: jarv
+  author_url: ''
+  date: '2005-06-22 18:31:52 +0200'
+  date_gmt: '2005-06-22 18:31:52 +0200'
+  content: to bedzie w nastepny odcinku. ;]
+- id: 1332
+  author: Patrys
+  author_url: ''
+  date: '2005-06-22 19:47:16 +0200'
+  date_gmt: '2005-06-22 19:47:16 +0200'
+  content: Mam nadzieję, że ja dolecę dziś, wczoraj był dzień przerwy.
+---
+<p>Ciąg dalszy biurowej głupawki, dzisiaj postanowiliśmy polecieć po pracy na piwo. Zrobiliśmy to w starym stylu: <a href="http://gallery.room-303.com/W%20pracy/ICenter/">Odcinek pilotowy</a>.</p>
+
+<ul>
+<li>Pomysł serii: Yezooz</li>
+<li>Scenariusz i zdjęcia: <a href="http://monochrome.pl/">Jarv</a></li>
+<li>W rolach głównych: Patrys</li>
+</ul>
+
+<p>Jak poprzednio, odtwarzanie sponsoruje QuickTime, RealPlayer bądź Totem + w32codec.</p>

@@ -1,0 +1,59 @@
+---
+layout: post
+status: publish
+published: true
+title: Web2.0, part 3
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 223
+wordpress_url: http://www.room-303.com/blog/2006/01/29/web20-part-3/
+date: 2006-01-29 18:03:20.000000000 +01:00
+categories:
+- varia
+- web
+- code
+tags: []
+comments:
+- id: 3178
+  author: rasheed
+  author_url: http://mklimek.org
+  date: '2006-01-29 18:55:16 +0100'
+  date_gmt: '2006-01-29 17:55:16 +0100'
+  content: ':D'
+- id: 3179
+  author: Kon
+  author_url: http://www.konrad.mantorski.com
+  date: '2006-01-29 19:42:17 +0100'
+  date_gmt: '2006-01-29 18:42:17 +0100'
+  content: Ten przykład jest <strong>bezkonkurencyjny</strong>. :)
+- id: 3180
+  author: bellois
+  author_url: http://jabba.pl/bellois
+  date: '2006-01-29 20:39:59 +0100'
+  date_gmt: '2006-01-29 19:39:59 +0100'
+  content: Patrys właśnie stworzył comics2.0 :)
+- id: 3182
+  author: Riddle
+  author_url: http://riddle.jogger.pl
+  date: '2006-01-29 21:39:01 +0100'
+  date_gmt: '2006-01-29 20:39:01 +0100'
+  content: 'Eeee… układ hybrydowy to za lekki przykład. ;-) Brakuje Ci choćby czegoś
+    w stylu <code>style="width: 20px" width=20</code>'
+- id: 3183
+  author: stan
+  author_url: ''
+  date: '2006-01-30 19:42:40 +0100'
+  date_gmt: '2006-01-30 18:42:40 +0100'
+  content: aaa, ten gniecie reszte poprzedników. zajebioza :D
+- id: 3365
+  author: maverick
+  author_url: http://effigy.pl/blog
+  date: '2006-02-16 00:13:42 +0100'
+  date_gmt: '2006-02-15 23:13:42 +0100'
+  content: ROTFL
+---
+<p class="strip"><a href="http://www.flickr.com/photos/90175672@N00/92626279/" title="Photo Sharing"><img src="http://static.flickr.com/39/92626279_714a16ba1b.jpg" width="500" height="375" alt="Web 2.0" /></a></p>
+
+Technorati Tags: <a href="http://technorati.com/tag/web2.0" rel="tag">web2.0</a>, <a href="http://technorati.com/tag/standards" rel="tag">standards</a>, <a href="http://technorati.com/tag/html" rel="tag">html</a>, <a href="http://technorati.com/tag/xhtml" rel="tag">xhtml</a>, <a href="http://technorati.com/tag/code" rel="tag">code</a>, <a href="http://technorati.com/tag/beta" rel="tag">beta</a>

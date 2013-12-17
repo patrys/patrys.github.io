@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: Rzecz o obsłudze w pionie na poziomie
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 60
+date: 2005-02-28 20:42:32.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 682
+  author: batou
+  author_url: ''
+  date: '2005-02-28 21:01:37 +0100'
+  date_gmt: '2005-02-28 21:01:37 +0100'
+  content: Miałem kiedyś ten problem, ale nie znalazłem rozwiązania. Niezłe.
+---
+<p>Budowanie systemów <abbr title="Content Management System">CMS</abbr> wiąże się z potrzebą ich późniejszej sprzedaży klientom. W końcu jakaż byłaby korzyść z posiadania nieprzebranej ilości takich narzędzi na własny użytek. Klienci są niestety świadomi faktu nieprzydatności nieużywanych systemów, toteż starają się ze wszystkich swoich sił spożytkować swój nowy nabytek. Oczywiście, <q>wszystkie swoje siły</q> nie są zbyt duże w przypadku ludzi niespecjalnie <q>ukomputeryzowanych</q>, zwłaszcza tych uważających sieć za jeden duży dokument Worda. W końcu przychodzi dzień objawienia i radość używania kodu <abbr title="HyperText Markup Language">HTML</abbr> (na poziomie wersji 3.0) do formatowania tekstu. Wszystko zaczyna migać, świecic, kończy się era spójności graficznej serwisu. Niestety, większość przenosi swoje złe nawyki z programów typowo biurowych (a są złe o tyle, że do definiowania warstwy prezentacyjnej powinno się używać atrybutów akapitu, a nie spacji i linebreaków). Klient wie jednak lepiej, a nasza rola sprowadza się do zapewnienia, że w całym serwisie precyzyjnie <q>wyspacjowane</q> teksty będą wyglądać identycznie i żaden nie śmie nawet pomyśleć o zawinięciu się do drugiej linii. To samo odnosi się do odstępów wygenerowanych w pocie czoła przez nadużycie wymuszonych breaków.</p>
+
+<p>Wiadomość od klienta początkowo wydała nam się wyjątkowo kiepskim żartem. Moje wstępne przekonanie zostało potwierdzone przez rzucenie okiem na okno przeglądarki. Nie, to nie mogła być prawda, brzmiało wyjątkowo niedorzecznie. Wszystko było w najlepszym porządku. To przecież bzdura, żeby komuś znikały breaki. Klient twierdził, że w kodzie strony są, a w przeglądarce ich nie ma. Tak bezsensowne zachowanie przeglądarki nie może mieć miejsca... chyba, że jest się użytkownikiem Internet Explorera.</p>
+
+<p>Początkowe efekty obejrzenia strony w IE to napady szaleńczego śmiechu. Co drugi break egzystował na swoim miejscu, reszta - jako jeden mąż - odeszła samoczynnie w niebyt. W kodzie pojawiają się bez problemu, Explorer ich nie wyświetla. Cóż - zjawisko to widzę pierwszy raz w życiu. Sprawdziłem wszystko walidatorem. Zero śladów, brak punktu zaczepienia. Odpowiedź leżała jednak w <abbr title="Cascading Style Sheets">CSS</abbr>. Potężna salwa chichotu wstrząsnęła budynkiem w posadach, problematyczną regułą okazało się bowiem:</p>
+
+<blockquote><p><code>letter-spacing: 0.01em;</code></p></blockquote>
+
+<p>Jak widać, w pewnej firmie z siedzibą w Redmont wszystko jest możliwe. Póki co, klientowi przedstawiliśmy sugestię korzystania z dobrodziejstwa paragrafów. Jeśli się nie zgodzi, to mamy poważny problem - tekst bez rozsuwania znaków nie nadaje się do czytania, tekst z rozsuwaniem skleja się w jeden klocek. Z punktu widzenia klienta sprawa zawsze jest trywialna, <q>naprawcie</q>...</p>

@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: Flock - a social browser
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 166
+date: 2005-10-21 19:38:49.000000000 +02:00
+categories:
+- web
+- software
+tags: []
+comments:
+- id: 2334
+  author: rorio
+  author_url: ''
+  date: '2005-10-21 19:45:42 +0200'
+  date_gmt: '2005-10-21 19:45:42 +0200'
+  content: Już tylko twoje słowa utrzymują mnie przy życiu... Bóg zapłać!
+- id: 2335
+  author: Bellois
+  author_url: ''
+  date: '2005-10-21 21:09:09 +0200'
+  date_gmt: '2005-10-21 21:09:09 +0200'
+  content: A jednak uciekamy? ;)
+---
+<p>Żeby nie głodzić zainteresowanych, podczas chwilowego braku notek można poczytać o moich wrażeniach związanych z nową przeglądarką, o której ostatnio tak głośno. Moje starcia z <a href="http://www.flock.com/">Flockiem</a> dostępne są <a href="http://patrys.wordpress.com/">na WordPress.com</a>.</p>

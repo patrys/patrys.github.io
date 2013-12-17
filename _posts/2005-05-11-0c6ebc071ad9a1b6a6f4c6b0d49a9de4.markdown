@@ -1,0 +1,218 @@
+---
+layout: post
+status: publish
+published: true
+title: Propozycja nie do odrzucenia
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 87
+date: 2005-05-11 00:41:50.000000000 +02:00
+categories:
+- linux
+tags: []
+comments:
+- id: 1029
+  author: maz
+  author_url: ''
+  date: '2005-05-11 00:55:08 +0200'
+  date_gmt: '2005-05-11 00:55:08 +0200'
+  content: |-
+    Gnome szybsze od Windowsa ? Piękna demagogia ;)
+    <br/>
+- id: 1030
+  author: Bad Kitty
+  author_url: ''
+  date: '2005-05-11 09:36:27 +0200'
+  date_gmt: '2005-05-11 09:36:27 +0200'
+  content: potwierdzam... cud, miód i orzeszki :)
+- id: 1031
+  author: dunior
+  author_url: ''
+  date: '2005-05-11 11:38:48 +0200'
+  date_gmt: '2005-05-11 11:38:48 +0200'
+  content: |-
+    bardzo mi sie spodobalo to -nie mialem plyt z office.
+    <br/>
+    <br/>tiaaaa, a gdyby tak kazdy mial do wyboru kupic sobie windows + office albo zainstalowac np: linuxa to jak sądzisz? co by dominnowało na stacjach roboczych w domach?
+- id: 1032
+  author: Patryk
+  author_url: ''
+  date: '2005-05-11 12:21:48 +0200'
+  date_gmt: '2005-05-11 12:21:48 +0200'
+  content: |-
+    maz:
+    <br/>
+    <br/>Coś w tym dziwnego?
+    <br/>
+    <br/>dunior:
+    <br/>
+    <br/>Taki urok naszego kraju, że Windowsa i Office ma każdy, ale o licencjach nikt nie słyszał.
+- id: 1033
+  author: jpc
+  author_url: ''
+  date: '2005-05-11 12:52:32 +0200'
+  date_gmt: '2005-05-11 12:52:32 +0200'
+  content: Nie przeginasz? Ja pracowałem swego czasu na Win XP Prof na K6-3 400MHz
+    ze 128MB RAMu (fakt, że potem rozszerzyłem o 512 AFAIR). ;]
+- id: 1034
+  author: Cachotterie
+  author_url: ''
+  date: '2005-05-11 13:53:30 +0200'
+  date_gmt: '2005-05-11 13:53:30 +0200'
+  content: Też twierdzę że to przesada - ja jeszcze rok temu miałam Pentium II 466MHz
+    + 256RAMu i chodziło, ba! chodziło lepiej niż SuSE+KDE (w wersji 3.2 o ile mnie
+    pamięć nie myli). Nie bierzemy tu jednak pod uwagę softu dodatkowego, bez którego
+    lepiej windy w ogóle nie odpalać - typu antywirus i firewall. Pod linuxem nie
+    trzeba poświęcać X mocy procesora na tego typu wynalazki. Jak ktoś zainstaluje
+    sobie Kerio/Outposta albo coś na kształt, to nie ma aż takiego problemu, ale jeśli
+    ktoś tylko o nortonowskich produktach słyszał, to trzeba oddać że zmulony taki
+    komp potrafi być.
+- id: 1035
+  author: jpc
+  author_url: ''
+  date: '2005-05-11 13:54:35 +0200'
+  date_gmt: '2005-05-11 13:54:35 +0200'
+  content: Ah... ja nie używałem wtedy firewalla i antivirusa właśnie z takich powodów
+    (i nadal nie używam - zewnętrzny router chyba zdaje egzamin).
+- id: 1036
+  author: Cachotterie
+  author_url: ''
+  date: '2005-05-11 13:55:47 +0200'
+  date_gmt: '2005-05-11 13:55:47 +0200'
+  content: |-
+    Jak się ma zewnętrzny router to można... :) Ja nie miałam, przypuszczam że właścicielka kompa o którym mowa również nie :)
+    <br/>Swoją drogą, empiryczne badania na słabych kompach mi wykazywały że dużo lepiej niż XP sprawuje się 2k i u mnie właśnie 2k stało.
+- id: 1037
+  author: Tomash
+  author_url: ''
+  date: '2005-05-11 14:10:53 +0200'
+  date_gmt: '2005-05-11 14:10:53 +0200'
+  content: |-
+    Patrys, przegiąłeś. Na moim Celeronie 1.2 z 512 MB RAMu Windows XP śmiga, aż miło. Zresztą w czasach pierwszych wersji XP był to mniej więcej system docelowy, na którym miało śmigać.
+    <br/>
+    <br/>Firewall i antywirus? Dziękuję, postawiłem na Linuksie router i do niego podpiąłem modem Neo. Antywirusa i Ad-Aware odpalam raz na tydzień.
+    <br/>
+    <br/>Chociaż oczywiście Linux fajniejszy jest. More geeky :).
+- id: 1038
+  author: Cachotterie
+  author_url: ''
+  date: '2005-05-11 14:15:58 +0200'
+  date_gmt: '2005-05-11 14:15:58 +0200'
+  content: |-
+    Na stawianie routera z linuxem to można sobie pozwolić jak raz, ma się drugiego kompa, a dwa - nie obchodzi Cię że on nonstop chodzi równolegle i prąd zżera. Dla mnie to bezsens, jeśli to jest router dla jednego komputera :] Chyba że ktoś stawia sieć, ale nie o takim przypadku tu chyba mówimy.
+    <br/>Do jednego kompa to już prędzej chyba opłaca się postawić malutką skrzyneczkę - router sprzętowy, choć i to wydaje mi się przerostem formy nad treścią. Jak w domu stoi jeden komputer, postawiony dla osoby raczej słabo znającej się na kompach i wykorzystującej go głównie do poczty/WWW/office&#039;a, podpięty do siakiejś neostrady albo kablówki, to stawianie dodatkowo routera mnie osobiście wydaje się głupie.
+- id: 1039
+  author: jpc
+  author_url: ''
+  date: '2005-05-11 14:19:05 +0200'
+  date_gmt: '2005-05-11 14:19:05 +0200'
+  content: |-
+    Jeśli jest podpięty do Noe+ to router jest tymbardziej fajny - izoluje go od debilnego i problematycznego oprogramowania modemu DSL.
+    <br/>Pozwala też pominąć konfigurację sieci (DHCP) po zaoraniu systemu (i zapewnia, że zaden syf Ci tej konfiguracji nie pokręci).
+- id: 1040
+  author: Cachotterie
+  author_url: ''
+  date: '2005-05-11 14:23:15 +0200'
+  date_gmt: '2005-05-11 14:23:15 +0200'
+  content: |-
+    Nie wiem jak dokładnie działa neo (ja mam kablówkę) i o jakim debilnym oprogramowaniu DSL mówisz, trochę się dziwię, bo moja przyjaciółka ma neo od prawie roku, bez dodatkowego routera i nigdy nie narzekała, a antytalentem informatycznym jest takim że większego nie znam, więc gdyby coś było nie tak to raczej by mi już ze 20 razy w słuchawkę klęła.
+    <br/>Anyway, nawet jeśli rzeczywiście router sprawia że korzystanie z neo jest wygodniejsze, to wciąż twierdzę że niewielki routerek sprzętowy z interfejsem przez www jest trafniejszym wyborem niż stawianie drugiego kompa z linuxem (przypomnę że rozmawiamy o komputerze dla osoby z nikłym informatycznym backgroundem).
+- id: 1041
+  author: jpc
+  author_url: ''
+  date: '2005-05-11 14:31:48 +0200'
+  date_gmt: '2005-05-11 14:31:48 +0200'
+  content: |-
+    Napewno routerek sprętowy jest lepszym rozwiązaniem. Sam mam taki (z WiFi dodatkowo; bez modemu DSL, bo mam kablówkę z modemem po ethernecie).
+    <br/>
+    <br/>Oprogramowanie jest debilne, co nie znaczy, że się go nie da używać. Mnie on prostu przyprawia o kwękanie zmieszane z obrzydzeniem (dla wyglądu). ;]
+- id: 1042
+  author: Tomash
+  author_url: ''
+  date: '2005-05-11 14:32:34 +0200'
+  date_gmt: '2005-05-11 14:32:34 +0200'
+  content: Router udostępnia Neo trzem innym komputerom w domu (matki, ojca, mój)
+    - taką mam już zakręconą familię, że każdy blaszaka potrzebuje :].
+- id: 1043
+  author: Cachotterie
+  author_url: ''
+  date: '2005-05-11 14:33:19 +0200'
+  date_gmt: '2005-05-11 14:33:19 +0200'
+  content: No to w takim układzie to co innego :] Ja mówię o układzie jeden komp -
+    jeden router :&gt;
+- id: 1044
+  author: Tomash
+  author_url: ''
+  date: '2005-05-11 14:33:46 +0200'
+  date_gmt: '2005-05-11 14:33:46 +0200'
+  content: Zauważyłem ;)
+- id: 1045
+  author: MySZ
+  author_url: ''
+  date: '2005-05-11 23:05:14 +0200'
+  date_gmt: '2005-05-11 23:05:14 +0200'
+  content: a ja, w poczatkach bet winxp i nieco pozniej, uzywalem xp na cel 300 i
+    392mb ramu. oczywiscie wylaczone themesowanie (wiec wyglad podobny do w2k) i ogolnie
+    okrojony/skonfigurowany na tyle optymalnie na ile sie dalo, ale dalo sie w rozsadny
+    sposob pracowac :)
+- id: 1046
+  author: Patrys
+  author_url: ''
+  date: '2005-05-11 23:30:45 +0200'
+  date_gmt: '2005-05-11 23:30:45 +0200'
+  content: |-
+    Windows XP + Office XP + Norton AV mają naprawdę spore wymagania.
+    <br/>
+    <br/>BTW: dzisiaj do listy aplikacji dołączyło Psi. Witamy nowego użytkownika (a raczej użytkowniczkę) Jabbera.
+- id: 1047
+  author: rorio
+  author_url: ''
+  date: '2005-05-12 18:16:06 +0200'
+  date_gmt: '2005-05-12 18:16:06 +0200'
+  content: Ja kiedy ostatnio instalowałem xp&#039;ka dostałem załamania nerwowego...
+    Jezu! xp to straszna wiocha...
+- id: 1048
+  author: Kelner
+  author_url: ''
+  date: '2005-05-12 18:25:26 +0200'
+  date_gmt: '2005-05-12 18:25:26 +0200'
+  content: |-
+    Z drugiej strony GNOME też zżera sporo zasobów, a GTK nie należy do najszybszych bibliotek (niestety Qt zdaje mi się wydajniejsze).
+    <br/>No, ale masz moje gratulacje Patrys, tak trzymać.
+    <br/>P.S. A ja czekam na Debiana 3.1 i GNOME 2.10 po jego wydaniu.
+- id: 1049
+  author: Patrys
+  author_url: ''
+  date: '2005-05-12 19:16:53 +0200'
+  date_gmt: '2005-05-12 19:16:53 +0200'
+  content: |-
+    Gnome 2.10  / GTK+ 2.6 kolejny raz przyspieszyły, więc proszę mi tu nie rzucać skojarzeniami z czasów Gnome 1.4 i jego powolności. Nautilus w tej chwili chodzi mi szybciej od Konquerora. Poza tym koniec wojny X vs Y, bo wpis jest o czymś innym.
+    <br/>
+    <br/>BTW: wczoraj dokonało się też przejście na Jabbera i Psi.
+- id: 1050
+  author: Jezuch
+  author_url: ''
+  date: '2005-05-12 22:37:22 +0200'
+  date_gmt: '2005-05-12 22:37:22 +0200'
+  content: Kde zaczyna sensownie działać dopiero kiedy się go przepuści przez prelink.
+    Porównania prędkości przed tą operacją są zbrodnią.
+- id: 3201
+  author: Piotr Szymczak
+  author_url: http://szymczak.jogger.pl
+  date: '2006-02-04 02:10:31 +0100'
+  date_gmt: '2006-02-04 01:10:31 +0100'
+  content: "SSH dobra sprawa ... ale jak ktoś ma zewnętrze IP. Moje osiągnięcie to
+    walka z XP przez pomoc zdalną z kompem kuzyna 9 letniego internet przez modem
+    TP SA.\r\nTroche śmiesznie było i jakoś tak bardzo wolno ...."
+---
+<p>Ostatnio zostałem poproszony przez Bad Kitty (a.k.a. Puma) o reinstalację jej Windowsa. Zwykły, prosty Windows 98 SE. Komputer to Celeron 1.2 z 256 MB RAM, więc więcej nie uciągnie (sprawdzone empirycznie). W sobotę zabrałem się więc do roboty i Windows stanął. Niestety, nie miałem ze sobą płyt z Office'em.</p>
+
+<p>Office dowiozłem w niedzielę i, jako lokalny geek numer jeden, zostałem nominowany do jego instalacji. MS Biurowiec już przy starcie poinformował mnie, że musi zaktualizować biblioteki systemu, zanim będzie można skorzystać z dobrodziejstw Pana Spinacza, toteż pozwoliłem mu na upgrade, który to zakończył się (jak wszystko w produktach Redmont z tamtych czasów) prośbą o restart komputera.</p>
+
+<p>Po restarcie dowiedziałem się, że <q><code>explorer.exe wykonał nieprawidłową operację i zostanie zakończony</code></q>. To tyle z cyklu <q>i żyli długo i szczęśliwie</q>. Kolejny restart, włożenie płytki z Office, kolejna prośba o aktualizację. <q>Błąd aktualizacji, wybierz opcję <em>napraw produkt</em></q>. <em>Napraw produkt</em>, błąd instalacji, <cite>system Windows musi zostać uruchomiony ponownie</cite>. I tak w kółko, z tym, że Explorer wspaniałomyślnie przestał zdychać.</p>
+
+<p>Pojawiła sie koncepcja ponownej instalacji Windows od zera. Tutaj padła propozycja nie do odrzucenia: <q><cite>zainstaluj mi Linuksa</cite></q>. Od niedzieli stoi tam <a href="http://pld-linux.org">PLD</a> Ac (2.0). Gnome 2.10, Metacity, Nautilus, Firefox, Totem, Beep Media Player, GnuGadu. Dodatkowo serwer SSH i VNC, dla mnie. Szybsze od Windowsa, wygląda podobnie, nie ma wirusów. Nie ma strachu, że siostra coś ściągnie, uruchomi i wszystko padnie. Co ciekawe, pod Linuksem ten sam monitor pracuje bez problemu w wyższej rozdzielczości niż potrafił dać mu Windows (tak, umiem skonfigurować monitor pod Windowsem).</p>
+
+<p>Za system odpowiadam ja. Dziś okazało się, że w niedzielę zapomniałem dokonfigurować polską klawiaturę w Iksach. Z domu wykonałem szybkie logowanie na SSH, zmieniłem jedną linijkę w konfiguracji, poprosiłem o wylogowanie i zdalnie zrestartowałem GDM. Cud, miód i orzeszki, a do tego nie szczypie w oczy.</p>

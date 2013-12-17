@@ -1,0 +1,149 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #009: Technologia idzie naprzód'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 78
+date: 2005-04-17 18:05:59.000000000 +02:00
+categories:
+- comic
+tags: []
+comments:
+- id: 928
+  author: batou
+  author_url: ''
+  date: '2005-04-17 18:07:29 +0200'
+  date_gmt: '2005-04-17 18:07:29 +0200'
+  content: |-
+    ROTFL MAO!
+    <br/>
+    <br/>Nie, zaraz. Ten gość trochę podobny do mnie..
+- id: 929
+  author: queer
+  author_url: ''
+  date: '2005-04-17 18:10:35 +0200'
+  date_gmt: '2005-04-17 18:10:35 +0200'
+  content: |-
+    Intryguje mnie tematyka burzy mózgów, która inspirowała ten strip.
+    <br/>
+    <br/>PS. DRÓGI !!!!!11111
+- id: 930
+  author: batou
+  author_url: ''
+  date: '2005-04-17 18:11:13 +0200'
+  date_gmt: '2005-04-17 18:11:13 +0200'
+  content: Czeci! Ha, dwie trzecie pierwszości moje.
+- id: 931
+  author: queer
+  author_url: ''
+  date: '2005-04-17 18:11:40 +0200'
+  date_gmt: '2005-04-17 18:11:40 +0200'
+  content: Heh, no sorry. Pomyliło mi się z gg blogiem :)
+- id: 932
+  author: froger3
+  author_url: ''
+  date: '2005-04-17 18:12:05 +0200'
+  date_gmt: '2005-04-17 18:12:05 +0200'
+  content: dobre... śliczny pixelart *_*
+- id: 933
+  author: Patrys
+  author_url: ''
+  date: '2005-04-17 18:19:23 +0200'
+  date_gmt: '2005-04-17 18:19:23 +0200'
+  content: Ze względu na informację o małej sugestywności komiksu, pozwoliłem sobie
+    nieznacznie zmodyfikować ostatni kadr ;]
+- id: 934
+  author: batou
+  author_url: ''
+  date: '2005-04-17 18:20:35 +0200'
+  date_gmt: '2005-04-17 18:20:35 +0200'
+  content: Mała sugestywność? BZZZ wystarczy.. ;P
+- id: 935
+  author: Cachotterie
+  author_url: ''
+  date: '2005-04-17 18:27:52 +0200'
+  date_gmt: '2005-04-17 18:27:52 +0200'
+  content: Pocieszyłeś mnie tym że BZZ może wystarczyć, znaczy to bowiem żem niezepsuta
+    do szpiku kości, co Pewna Osoba (TM) ;) czasem mi sugeruje :P (moje skojarzenia
+    nie podążyły od razu w wiadomą stronę ;) )
+- id: 936
+  author: batou
+  author_url: ''
+  date: '2005-04-17 18:30:31 +0200'
+  date_gmt: '2005-04-17 18:30:31 +0200'
+  content: Ale takich kobiet jak Ty już pewnie nie produkują. Ja przynajmniej nie
+    widziałem. ;)
+- id: 937
+  author: Cachotterie
+  author_url: ''
+  date: '2005-04-17 18:31:26 +0200'
+  date_gmt: '2005-04-17 18:31:26 +0200'
+  content: Czy powinnam prosić o definicję &quot;takich&quot; ? ;) Czy usłyszę coś
+    podobnego do tego co Siwa - &quot;Ty jesteś nowoczesna niunia od komputerów&quot;
+    ? ;)
+- id: 938
+  author: batou
+  author_url: ''
+  date: '2005-04-17 18:34:04 +0200'
+  date_gmt: '2005-04-17 18:34:04 +0200'
+  content: |-
+    takich [tutaj] ,,osobniczki którym BZZZ nie wystarcza.&#039;&#039; ;D
+    <br/>
+    <br/>Na dżogerze są same nowoczesne niuniu od komputerów i nowoczesne wannabe niunie od komputerów.
+- id: 939
+  author: Raf
+  author_url: ''
+  date: '2005-04-17 18:46:10 +0200'
+  date_gmt: '2005-04-17 18:46:10 +0200'
+  content: Rewelka ^_^
+- id: 940
+  author: zdzichuBG
+  author_url: ''
+  date: '2005-04-17 18:56:02 +0200'
+  date_gmt: '2005-04-17 18:56:02 +0200'
+  content: a propos modyfikacji, poprawisz jeszcz literówkę w ,,joystick&#039;&#039;
+    ? ;)
+- id: 941
+  author: Patrys
+  author_url: ''
+  date: '2005-04-17 18:58:52 +0200'
+  date_gmt: '2005-04-17 18:58:52 +0200'
+  content: '@zdzichu: Done, dzięki :D'
+- id: 942
+  author: Sky Ace
+  author_url: ''
+  date: '2005-04-17 19:01:13 +0200'
+  date_gmt: '2005-04-17 19:01:13 +0200'
+  content: |-
+    O, i jeszcze &#039;kalibarcja&#039; wskoczyła.
+    <br/>
+    <br/>Batou, zbolu. Od razu pierwszy. A komiks fajny. :)
+- id: 943
+  author: Patrys
+  author_url: ''
+  date: '2005-04-17 19:04:19 +0200'
+  date_gmt: '2005-04-17 19:04:19 +0200'
+  content: '@Sky Ace: Done, kolejne podziękowania :D'
+- id: 944
+  author: batou
+  author_url: ''
+  date: '2005-04-17 19:05:45 +0200'
+  date_gmt: '2005-04-17 19:05:45 +0200'
+  content: Skaju, bo nudzę się strasznie dziś, chyba pójdę coś posprzątać. A cieszę
+    się kompem teraz ile mogę, bo mój czas przed monitorem jest policzony. I krótki.
+    :)
+- id: 945
+  author: Jerrec
+  author_url: ''
+  date: '2005-04-18 21:25:28 +0200'
+  date_gmt: '2005-04-18 21:25:28 +0200'
+  content: ROTFL! Dawno się tak nie uśmiałem.... &quot;Microsoft Intruder&quot;....
+    LOL!
+---
+<p>Zainspirowany niewielką burzą mózgów, która rozgorzała w firmie ostatnio, postanowiłem pójść o krok dalej.</p>
+
+<p class="strip"><img src="http://comic.room-303.com/strips/009-bluetooth.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>

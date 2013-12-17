@@ -1,0 +1,165 @@
+---
+layout: post
+status: publish
+published: true
+title: Banshee 1.0
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 450
+wordpress_url: http://room-303.com/blog/?p=450
+date: 2008-06-11 11:11:30.000000000 +02:00
+categories:
+- usability
+- software
+tags: []
+comments:
+- id: 20081
+  author: sl3dziu
+  author_url: http://sl3dziu.jogger.pl
+  date: '2008-06-11 11:33:10 +0200'
+  date_gmt: '2008-06-11 10:33:10 +0200'
+  content: Aż się boję, co za nowe flamewary zostaną rozpętane z 'okazji' tej wersji..
+    Znowu będą sobie ludzie skakać do oczu z powodu Mono..
+- id: 20084
+  author: Łukasz Horodecki
+  author_url: ''
+  date: '2008-06-11 13:30:12 +0200'
+  date_gmt: '2008-06-11 12:30:12 +0200'
+  content: Coś nie halo tu z logowaniem po openid i właśnie straciłem przez to długaśny
+    komentarz... Da się go jakoś wyciągnąć, czy muszę pisać od nowa?
+- id: 20085
+  author: Łukasz Horodecki
+  author_url: ''
+  date: '2008-06-11 14:08:30 +0200'
+  date_gmt: '2008-06-11 13:08:30 +0200'
+  content: "Stracony komentarz w skrócie. Minusy:\r\n\r\n- Brak możliwości wyłączenia
+    kolekcji wideo (mogliby to zrobić jako wtyczkę)\r\n- Filmów nie można przewijać
+    klawiszami poza trybem pełnoekranowym\r\n- Brak obsługi napisów\r\n- Nie importuje
+    .mkv do kolekcji mimo, że potrafi je odtworzyć\r\n- Błędy przy imporcie plików
+    wideo trafiają do \"Błędy\" w \"Kolekcja muzyczna\"\r\n- Gdy otwieram plik wideo
+    przez \"Otwórz położenie\" (btw: kiepsko to brzmi) Banshee nie przełącza się na
+    \"Bieżący utwór\", więc nie widzę obrazu\r\n- Edycja tagów pod \"Modyfikuj informacje
+    o ścieżce\"? Już miałem zrezygnować z szukania gdy w końcu tam kliknąłem...\r\n-
+    Czy mi się wydaje, czy Banshee rzeczywiście nie zmienia tagów w pliku tylko w
+    swojej bazie?\r\n- Nie wiadomo jak ustawić okładki albumów, których nie ściągnął
+    automat (większości) lub ściągnął źle\r\n- Nie łączy się z last.fm (\"Nie wykryto
+    żadnego połączenia sieciowego\"???)\r\n- Albumy są wydzielane na podstawie tagów
+    album i artist, przez co składanki w przeglądarce są rozbite na masę albumów po
+    jednej piosence...\r\n\r\nJak będą poprawiać to ostatnie, to mogliby przy okazji
+    zrobić coś, czego nie ma żaden testowany przeze player (a powinien mieć każdy),
+    czyli rozbijanie wielu wykonawców oddzielonych przecinkami przez co sortowanie
+    po wykonawcach w przeglądarce utworów zaczęłoby mieć sens.\r\n\r\nZalety: \r\n-
+    szybko chodzi\r\n- ładnie wygląda\r\n- działa\r\n\r\n:)"
+- id: 20086
+  author: Łukasz Horodecki
+  author_url: ''
+  date: '2008-06-11 14:13:16 +0200'
+  date_gmt: '2008-06-11 13:13:16 +0200'
+  content: Zapomniałem o tym, że zamiast kryptycznego krzyżyka przy braku pliku na
+    dysku mógłby się pojawić jakiś komunikat. Nie straciłbym czasu na zastanawianie
+    się czemu nic nie gra...
+- id: 20094
+  author: king.pest
+  author_url: http://dasnichts.net
+  date: '2008-06-12 13:06:52 +0200'
+  date_gmt: '2008-06-12 12:06:52 +0200'
+  content: "to i ja jeszcze dwie uwagi:\r\n- wada: banshee jest jedynym sensownym
+    odtwarzaczem jaki znam, który nie ma funkcji \"obserwowania\" katalogu z kolekcją
+    muzyczną (a przynajmniej ja nie mogę się tej funkcji nigdzie doszukać);\r\n- zaleta:
+    fajnie obsługuje odtwarzacze przenośne i w locie konwertuje pliki FLAC na oggi
+    (niestety wtyczka konwertująca (podobnie jak ta pobierająca okładki) nie jest
+    konfigurowalna, więc jeśli odtwarzacz nie obsługuje oggów, to na mp3 z automatu
+    nie konwertuje);\r\n\r\n@Da.killa: u mnie nie występują błędy z last.fm."
+- id: 20099
+  author: kklimonda
+  author_url: ''
+  date: '2008-06-13 03:38:58 +0200'
+  date_gmt: '2008-06-13 02:38:58 +0200'
+  content: "To też się dołączę do narzekania. Poza przytoczonymi minusami dorzucam
+    swoje :P.\r\n- Przy wyjściu z trybu pełnoekranowego Banshee znika z listy okien
+    i nie pojawia się przy alt-tab (to chyba jedynie występuje przy oglądaniu filmów
+    w HD.. co w sumie gdy to napisałem brzmi absurdalnie).\r\n- Nie obsługuje ani
+    gvfs ani nawet gnome-vfs. Cała moja muzyka leży na serwerze i za cholerę się do
+    niej nie mogę dobrać (bo dodatkowo mam buga z gvfs-fuse, przy próbie załadowania
+    folderu z jego pomocą gvfs-fuse pada).\r\n- Napisany w Mono.\r\n\r\nMoim zdaniem
+    zbyt szybko wydali wersję 1.0.. Bety wypuszczali jak z karabinu maszynowego.\r\n\r\nAle
+    wiecie co jest najgorsze? Że mimo tych wszystkich minusów to wciąż najlepszy odtwarzacz
+    muzyki dla GNOME jakiego widziałem. I to mnie naprawdę irytuje.\r\n\r\nA Rhythmbox
+    to już chyba po prostu umarł i tyle. Trzeba się z tym pogodzić (co pokazuje, że
+    jednak opłacani programiści szybciej i z większą motywacją piszą ;]). \r\n\r\n@king.pest:
+    A Banshee korzysta z HALa do \"wykrywania\" odtwarzaczy i ich możliwości? Bo może
+    jest po prostu coś źle wpisane w odpowiednim pliku .fdi, ja ze swoim W810i miałem
+    podobny problem."
+- id: 20101
+  author: king.pest
+  author_url: http://dasnichts.net
+  date: '2008-06-13 10:16:44 +0200'
+  date_gmt: '2008-06-13 09:16:44 +0200'
+  content: '@kklimonda: Banshee korzysta z HALa, może coś trzeba faktycznie w jego
+    konfiguracji pozmieniać. ja zostawiam jak jest, bo mój odtwarzacz obsługuje też
+    oggi.'
+- id: 20116
+  author: hm
+  author_url: ''
+  date: '2008-06-14 10:41:12 +0200'
+  date_gmt: '2008-06-14 09:41:12 +0200'
+  content: "Odtwarzacze muzyczne dla Gnome to w ogóle porażka. Banshee uważam za najlepszy
+    z nich ale i tak mu dużo jeszcze brakuje.\r\n\r\nWygląda dobrze w porównaniu z
+    Rhythmboksem. Amarokowi nie dorasta do pięt."
+- id: 20235
+  author: fsfsdfdsff
+  author_url: http://dkawsdkasdk
+  date: '2008-06-23 02:24:40 +0200'
+  date_gmt: '2008-06-23 01:24:40 +0200'
+  content: daSA www.wajrus.com :)
+- id: 20236
+  author: fsfsdfdsff
+  author_url: http://dkawsdkasdk
+  date: '2008-06-23 02:25:27 +0200'
+  date_gmt: '2008-06-23 01:25:27 +0200'
+  content: "Skomentuj wpis\r\n\r\nWitaj ponownie fsfsdfdsff (Zmień) \r\n\r\nlol niezłe"
+- id: 20237
+  author: fsfsdfdsff
+  author_url: http://dkawsdkasdk
+  date: '2008-06-23 02:26:51 +0200'
+  date_gmt: '2008-06-23 01:26:51 +0200'
+  content: widzialem Cie we Wrocku ale lcamtuf nie jestes ja sie z nim wychowywalem
+    w necie nie wiedzial co to nc :)
+- id: 20312
+  author: Livio
+  author_url: http://liviopl.jogger.pl/
+  date: '2008-06-27 11:23:56 +0200'
+  date_gmt: '2008-06-27 10:23:56 +0200'
+  content: "<blockquote>- Czy mi się wydaje, czy Banshee rzeczywiście nie zmienia
+    tagów w pliku tylko w swojej bazie?</blockquote>\r\n\r\nTa \"wada\" to domyślnie
+    niezaznaczona opcja w preferencjach :) ."
+- id: 21465
+  author: Martii
+  author_url: ''
+  date: '2008-09-09 17:10:26 +0200'
+  date_gmt: '2008-09-09 16:10:26 +0200'
+  content: Nie wiecie może jak łatwo przekonwertować to co miałem w rythmbox na banshee?
+    Mam sporo starych podcastów których mi banshee nie widzi (nie umie sobie znaleźć
+    ze w tym samym folderze co składuje dany podcast są jeszcze starsze pliki. Jedne
+    rozwiązanie to napisać jakiś skrypt co by wrzucał co trzeba do bazki sql gdzie
+    banshee wszystko trzyma. Ale to byłaby ostatnia opcja :)
+- id: 21473
+  author: lisulisu
+  author_url: ''
+  date: '2008-09-10 01:42:23 +0200'
+  date_gmt: '2008-09-10 00:42:23 +0200'
+  content: hmm...u mnie również banshee nie wykrywa połączenia z netem, jest to kwestia
+    używania ubudsl gdyż przy łączeniu się w inny sposób działa bezproblemowo... co
+    gorsza, nie znalazłem nic co mogłoby mi rozwiązać ten problem:/
+- id: 24336
+  author: aj 255
+  author_url: http://domowa.pl
+  date: '2009-03-23 21:16:25 +0100'
+  date_gmt: '2009-03-23 20:16:25 +0100'
+  content: hah niezle
+---
+<p class="strip"><a href="http://www.flickr.com/photos/patrys/2570301680/" title="Banshee 1.0 by patrys, on Flickr"><img src="http://farm4.static.flickr.com/3042/2570301680_69c3cbd74f.jpg" width="500" height="380" alt="Banshee 1.0" /></a></p>
+
+<p>Śliczny i wygodny. Autorzy Rhythmboksa mają teraz sporo do nadrobienia.</p>

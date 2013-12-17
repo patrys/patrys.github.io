@@ -1,0 +1,273 @@
+---
+layout: post
+status: publish
+published: true
+title: Będziesz miłował kod swój
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 189
+date: 2005-11-29 23:10:09.000000000 +01:00
+categories:
+- web
+- software
+- code
+tags: []
+comments:
+- id: 2761
+  author: Jam Łasica
+  author_url: ''
+  date: '2005-11-29 23:23:09 +0100'
+  date_gmt: '2005-11-29 23:23:09 +0100'
+  content: |-
+    Twój kolega stosuje chyba zasadę S.A.S.: Speed, Aggressive, Surprise ;)
+    <br/>
+    <br/>&gt; usuwam białe znaki z końców wierszy.
+    <br/>Edytory z KDE mają opcje autoczyszczenia kodu przy zapisywaniu. Nigdy więcej nadmiarowych spacji :)
+- id: 2762
+  author: Patrys
+  author_url: ''
+  date: '2005-11-29 23:25:40 +0100'
+  date_gmt: '2005-11-29 23:25:40 +0100'
+  content: |-
+    Każdy sensowny edytor ma taką opcję, a ja w Quancie mam dodatkowo włączone wyświetlanie białych znaków.
+    <br/>
+    <br/>A kolega stosuje raczej RAC - Rapid Application Complication.
+- id: 2763
+  author: Carstein
+  author_url: ''
+  date: '2005-11-29 23:28:31 +0100'
+  date_gmt: '2005-11-29 23:28:31 +0100'
+  content: |-
+    Truizmy, truizmy, truizmy ....
+    <br/>Gdyby tak jeszcze ktoś się do nich stosował :P
+    <br/>
+    <br/>Prawda jest taka, że większość programistów piszę tak, że  woła to o pomstę do nieba. Nawet komentarzy nie chce im się pisać, bo &quot;przecież ja rozumiem, o co w tym chodzi&quot;.
+    <br/>
+    <br/>ps. Ale bardzo mi się podoba twój sposób formatowania zapytań SQL (wielowierszowo) - muszę to u siebie zastosować.
+- id: 2764
+  author: Patrys
+  author_url: ''
+  date: '2005-11-29 23:31:27 +0100'
+  date_gmt: '2005-11-29 23:31:27 +0100'
+  content: |-
+    Carstein:
+    <br/>
+    <br/>Przy czytelnie napisanym kodzie brak komentarzy nie jest dużym problemem.
+- id: 2765
+  author: Carstein
+  author_url: ''
+  date: '2005-11-29 23:34:14 +0100'
+  date_gmt: '2005-11-29 23:34:14 +0100'
+  content: |-
+    Teoretycznie nie, ale czasami lepiej w komentarzu wyjaśnić o co tobie chodziło - w sumie to raczej miałem na myśli pisanie tzw. dokumentacji funkcji w pythonie:
+    <br/>def funkcja():
+    <br/>  &quot;&quot;&quot; Jestem sobie funkcja i nic nie robie &quot;&quot;&quot;
+    <br/>  pass
+    <br/>
+    <br/>Coś w tym stylu
+- id: 2766
+  author: Jam Łasica
+  author_url: ''
+  date: '2005-11-29 23:34:58 +0100'
+  date_gmt: '2005-11-29 23:34:58 +0100'
+  content: |-
+    &gt; Każdy sensowny edytor ma taką opcję
+    <br/>A właśnie w NetBeans nie widzę :(
+    <br/>
+- id: 2767
+  author: Patrys
+  author_url: ''
+  date: '2005-11-29 23:36:33 +0100'
+  date_gmt: '2005-11-29 23:36:33 +0100'
+  content: "U nas do tego służą komentarze phpDoc:\n<br/>\n<br/>/**\n<br/> * Funkcja
+    robi nic\n<br/> * @param string cokolwiek\n<br/> * @returns string to samo\n<br/>
+    */\n<br/>function robNic($a)\n<br/>{\n<br/>\treturn $a;\n<br/>}"
+- id: 2768
+  author: Carstein
+  author_url: ''
+  date: '2005-11-29 23:39:25 +0100'
+  date_gmt: '2005-11-29 23:39:25 +0100'
+  content: Rżnięte z java dodajmy :P
+- id: 2769
+  author: Patrys
+  author_url: ''
+  date: '2005-11-29 23:47:05 +0100'
+  date_gmt: '2005-11-29 23:47:05 +0100'
+  content: Bo Java ma najlepszy format do tego. Podobne systemy istnieją dla większości
+    popularnych języków.
+- id: 2770
+  author: Enleth
+  author_url: ''
+  date: '2005-11-29 23:58:42 +0100'
+  date_gmt: '2005-11-29 23:58:42 +0100'
+  content: |-
+    Sama prawda.
+    <br/>Teraz pytanie, kiedy autorzy g... takiego jak np. phpBB to zrozumieją. Na razie tego nie zrobili, co widzę aż nadtwo wyraźnie, przepisując toto. Indeks się już wyświetla.
+- id: 2771
+  author: wb
+  author_url: ''
+  date: '2005-11-30 00:01:45 +0100'
+  date_gmt: '2005-11-30 00:01:45 +0100'
+  content: |-
+    Jak to ładnie ktoś ujął: ,,Pisz kod tak, jakby osoba, która go po Tobie przejmie była uzbrojonym psychopatą znającym Twój adres.&#039;&#039;
+    <br/>Świat byłby lepszy, gdyby powyższa rada wisiała nad biurkiem każdego programisty.
+- id: 2772
+  author: misia
+  author_url: ''
+  date: '2005-11-30 02:36:31 +0100'
+  date_gmt: '2005-11-30 02:36:31 +0100'
+  content: |-
+    łasica:
+    <br/>
+    <br/>Pewnie podobnie jak w eclipse: ctrl-shift-f
+- id: 2773
+  author: misia
+  author_url: ''
+  date: '2005-11-30 02:43:49 +0100'
+  date_gmt: '2005-11-30 02:43:49 +0100'
+  content: 'Bo w ilu firmach stosuje sie regularne i planowe audyty kodu, w ktorych
+    kazda linijka zatwierdzana jest osobno? Utrudnienie: Motoroli Krakow nie liczymy
+    ;)'
+- id: 2774
+  author: misia
+  author_url: ''
+  date: '2005-11-30 02:48:03 +0100'
+  date_gmt: '2005-11-30 02:48:03 +0100'
+  content: |-
+    + bonusik (przepraszam, ze tak na raty znowu, ale tlen mi sie konczy):
+    <br/>
+    <br/>http://www.extremeprogramming.org/rules/simple.html
+    <br/>http://www.extremeprogramming.org/rules/collective.html
+    <br/>http://www.extremeprogramming.org/rules/refactor.html
+- id: 2775
+  author: Jan Prosiak Tucznikowski
+  author_url: ''
+  date: '2005-11-30 08:31:36 +0100'
+  date_gmt: '2005-11-30 08:31:36 +0100'
+  content: ale my tu gadu gadu, a tam Firefoksa 1.5 wypuścili ;)
+- id: 2776
+  author: eustachy
+  author_url: ''
+  date: '2005-11-30 09:33:38 +0100'
+  date_gmt: '2005-11-30 09:33:38 +0100'
+  content: |-
+    Zabawne. Cały post poświęcony jedynie składni, podczas gdy tak naprawdę to jest najmniej istotna rzecz: większość tego rodzaju smaczków i tak wykryje edytor.
+    <br/>
+    <br/>
+- id: 2777
+  author: Riddle (Uniwerek)
+  author_url: ''
+  date: '2005-11-30 11:39:32 +0100'
+  date_gmt: '2005-11-30 11:39:32 +0100'
+  content: Chciałem takie coś napisać odnośnie CSSa i jeszcze chyba napiszę. ;) Więc
+    jak coś to nie czepiać się, że kopiuję.
+- id: 2778
+  author: Patrys
+  author_url: ''
+  date: '2005-11-30 12:27:16 +0100'
+  date_gmt: '2005-11-30 12:27:16 +0100'
+  content: |-
+    eustachy:
+    <br/>
+    <br/>Ja uważam, że składnia jest jednym z najważniejszych elementów kodu. Kiedy otwieram cudzy projekt albo projekt, w którym nie zmieniałem nic od roku, to nie interesuje mnie, jak zaimplementowano algorytmy przeszukiwania stosów. Interesuje mnie jak najszybsze znalezienie właściwego miejsca w kodzie i łatwe poprawienie tego, co mam do poprawienia. Nie chcę przy okazji czytać całego pliku w poszukiwaniu miejsca, gdzie zaszyte zostało zapytanie SQL i potem próba określenia, gdzie umieścić ugly workaround na jeszcze brzydszy hack, który przed poprawkami działał bez zarzutu ze względu na swoje wąziutkie założenia.
+- id: 2779
+  author: eustachy
+  author_url: ''
+  date: '2005-11-30 14:35:45 +0100'
+  date_gmt: '2005-11-30 14:35:45 +0100'
+  content: |-
+    Mówisz w poprzednim komentarzu o dwóch kompletnie różnych rzeczach.
+    <br/>
+    <br/>Składnia, jako wygląd kodu, istotnie jest istotna, ale, jak powiedziałem, nie ma najmniejszych problemów z automatycznym jej czyszczeniem od lat, zatem przesadą jest poświęcanie jej całej notki, z której implicite wynika, że &quot;zasadami tworzenia&quot; są konwencje nawiasów stawiania klamrowych.
+    <br/>
+    <br/>Dobrą rozwijalność (reusability) oprogramowania zapewnia się za pomocą dobrej, niekoniecznie klasowej, abstrakcji, wzorców projektowych i na przykład odpowiednich warstwy abstrakcji.
+    <br/>
+    <br/>Nawet najpiękniej poformatowany kod będzie trudny do dalszego rozwoju, gdy spapra się robotę warstwę wyżej.
+- id: 2780
+  author: omg
+  author_url: ''
+  date: '2005-11-30 15:54:55 +0100'
+  date_gmt: '2005-11-30 15:54:55 +0100'
+  content: |-
+    Niecierpliwe czekam na Biblię Patrysa, of kors z wywalonym w pytę zdjęciem na okładce i mentorskimi wywodami insajd.
+    <br/>
+    <br/>W gruncie rzeczy to jednak słaby ten twój nieustający lans :S
+- id: 2781
+  author: Patrys
+  author_url: ''
+  date: '2005-11-30 19:37:31 +0100'
+  date_gmt: '2005-11-30 19:37:31 +0100'
+  content: |-
+    omg:
+    <br/>
+    <br/>Pamiętaj, że jesteś na blogu, a nie na portalu informacyjnym.
+- id: 2782
+  author: Tomash
+  author_url: ''
+  date: '2005-11-30 21:56:31 +0100'
+  date_gmt: '2005-11-30 21:56:31 +0100'
+  content: A mi się lans podoba. Nie jest to kolejny blog anonimowego (znanego tylko
+    z ksywy) nudziarza, a notka ozdobiona zakazaną mordą na śmiesznym zdjęciu o wiele
+    lepiej zapada w pamięć :).
+- id: 2783
+  author: pemz
+  author_url: ''
+  date: '2005-12-01 03:28:26 +0100'
+  date_gmt: '2005-12-01 03:28:26 +0100'
+  content: Jedyne i słuszne. Żeby jeszcze były stosowane, uhh.
+- id: 2784
+  author: nbw
+  author_url: ''
+  date: '2005-12-01 20:27:30 +0100'
+  date_gmt: '2005-12-01 20:27:30 +0100'
+  content: |-
+    O, nasza baza znów działa.
+    <br/>
+    <br/>Dopiero co &quot;wczora z wieczora&quot; miałem dyskusję, którą można skrócić do &quot;rób szybciej, nie dbaj o kod, bo nikt na to nie patrzy - ważne by było&quot;.
+    <br/>
+    <br/>Chwilę po rozmowie zadzwonił klient i przysłał poprawki..
+- id: 2785
+  author: aga
+  author_url: ''
+  date: '2005-12-05 13:17:42 +0100'
+  date_gmt: '2005-12-05 13:17:42 +0100'
+  content: |-
+    A ja mam was gdzieś.Ignoranci.
+    <br/>Znajdę milsze blogi
+    <br/>
+- id: 2786
+  author: Patrys
+  author_url: ''
+  date: '2005-12-06 02:03:02 +0100'
+  date_gmt: '2005-12-06 02:03:02 +0100'
+  content: Hm?
+---
+<p>Przynoszę wam tedy jedno i najważniejsze przykazanie:</p>
+
+<p class="strip"><img src="http://patrys.room-303.com/images/photos/photo-moses.jpg" alt="Patrys jako Mroczny Mojżesz" /></p>
+
+<p>Dbaj o kod, nigdy nie wiesz, kiedy będziesz musiał do niego wrócić. Praca programisty polega na rozwijaniu oprogramowania, a nie na jego ciągłym przepisywaniu od zera.</p>
+
+<p>Pisząc program, stosuję ścisłe zasady jego tworzenia. Są miejsca, gdzie czytelniej wyglądają instrukcje warunkowe, są miejsca, gdzie czytelniejsze są przełączniki wyboru. Niektóre zasady są niezmienne. Nie uznaję więcej niż jednego pustego wiersza z rzędu. Nie uznaję operatorów, które nie są poprzedzone spacją i po których spacja nie występuje. Po przecinku wymagam spacji. Klamra otwierająca blok zawsze jest wyrównana do lewej względem wyrażenia warunkowego, do którego jest przypisana. Klamra zamykająca znajduje się na tym samym poziomie wcięcia. Ściśle formatuję nawet zapytania <abbr title="Structured Query Language">SQL</abbr>:</p>
+
+<blockquote><pre>$query =
+"
+	SELECT foo.a, foo.b, baz.c
+	FROM foobar AS foo
+	INNER JOIN bazorg AS baz
+	USING (d)
+	WHERE foo.a &gt; 3
+	AND baz.c = 'a'
+";</pre></blockquote>
+
+<p>Nie twierdzę, że moje zasady są jedynie słuszne. Są spójne i gwarantują mi, że kod jest czytelny do tego stopnia, że mogę szukać interesujących mnie miejsc, przelatując wzrokiem po kodzie podczas ciągłego przewijania. Ma to kolosalne znaczenie przy systemie <abbr title="Content Management System">CMS</abbr>, gdzie poszczególne moduły liczy się w tysiącach linii.</p>
+
+<p>Niestety, mojego kolegi żadną siłą nie daje się zmusić do dbania o kod. Nie mówię o ścisłym przestrzeganiu <em>moich</em> reguł. Chodzi o utrzymanie <em>jakiegokolwiek</em> standardu. Nic nie szkodzi - jako, że regularnie robię przegląd kodu, każdą okazję wykorzystuję do jego czyszczenia. Łamię długie linie, dodaję spacje po przecinkach i dookoła operatorów, zamieniam indentację ze spacji na tabulatory i usuwam białe znaki z końców wierszy.</p>
+
+<p>Przyświeca mi zasada wyznawana też przez jednostki <abbr title="Special Weapons And Tactics">S.W.A.T.</abbr> - <q>clean as you go.</q></p>
+
+<p>Usuwam też brzydkie hacki, które dobrze działają. Wolę przepisać je w poprawny sposób i móc szybko dojść, co dany kawałek kodu robi. Próba zrozumienia czegoś, co przypomina relikty obcej cywilizacji - zwłaszcza, kiedy klient wisi na telefonie i dopytuje o termin zamknięcia poprawek - z pewnością nie należy do przyjemnych.</p>
+
+<p>Ktoś pewnie nazwie to stratą czasu, ale dla mnie to jedyna metoda wspólnej pracy nad większą bazą kodu. Jeśli programista sam nie szanuje swojego kodu, to znaczy, że lekceważąco traktuje swoją pracę. Jeśli ktoś nie lubi swojej pracy, to po co ją wykonywać? Oczywiście, są projekty, które się dziedziczy po script kiddies i tam często zdarza się pisać kod wiele pozostawiający do życzenia, byle wpasował się w otoczenie i nie sugerował, że nad projektem pracował ktoś rozsądny, ale to historia na inną okazję.</p>

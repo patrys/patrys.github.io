@@ -1,0 +1,117 @@
+---
+layout: post
+status: publish
+published: true
+title: BrowseHappy na trzecim miejscu w Google
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 116
+date: 2005-06-28 19:54:21.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1502
+  author: Puck
+  author_url: ''
+  date: '2005-06-28 20:10:03 +0200'
+  date_gmt: '2005-06-28 20:10:03 +0200'
+  content: "Tak przy okazji, zastanawia mnie jak to jest, jeśli na jednej witrynie
+    google zaindeksował np. 100 stron. Na każdej z nich jest link do example.kowalski.com.
+    Niech jedna każda strona ma PR1, linkuje w dziesięć miejsc i ma zmęczenie 0,5.
+    sumując wychodzi 1/10 * 0,5 = 0,05. No ale co z pozostałymi 99 stronami? \n<br/>Jeśli
+    tak, to wystarczy założyć dwie strony, wygenerować na nich 1000 raz lorem ipsum
+    i linkować się wzajemnie... \n<br/>\n<br/>BTW, tak, linki mają znaczenie w google.
+    ;-) Stąd wziął się comment-spam m.in. \n<br/>"
+- id: 1503
+  author: Patrys
+  author_url: ''
+  date: '2005-06-28 20:33:32 +0200'
+  date_gmt: '2005-06-28 20:33:32 +0200'
+  content: Poprawiłem tekst, bo sugerował, że strony 100 razy zwiększają PR innych,
+    pracuję na notebooku i czasem niechcący wytnę sobie kawałek tekstu za pomocą touchpada
+    i kciuka.
+- id: 1504
+  author: Bellois
+  author_url: ''
+  date: '2005-06-28 23:03:18 +0200'
+  date_gmt: '2005-06-28 23:03:18 +0200'
+  content: "Duze znaczenie ma takze wystepowanie slow kluczowych w najwazniejszych
+    miejscach witryny - tytule strony i naglowkach &lt;h1&gt;, &lt;h2&gt;, etc. \n<br/>\n<br/>Jesliby
+    wprowadzic na wielu stronach link do browsehappy w postaci naglowka &lt;h1&gt;
+    to latwiej byloby wskaczyc na drugie, albo i pierwsze miejsce. \n<br/>\n<br/>Warti
+    tez wspomniec, ze strony, ktore same maja wysoki PageRank mocniej podnosza PR
+    innych stron. "
+- id: 1505
+  author: Patrys
+  author_url: ''
+  date: '2005-06-29 00:49:34 +0200'
+  date_gmt: '2005-06-29 00:49:34 +0200'
+  content: |-
+    Ja nie pisałem o pozycjonowaniu w ogóle tylko o tym, dlaczego BrowseHappy jest wysoko.
+    <br/>
+    <br/>Na drugie nie wskoczymy dlatego, że sajt przed BrowseHappy ma też content pod tym kątem robiony i podobny PageRank.
+    <br/>
+    <br/>Musielibyśmy mieć podobną liczbę linków, co Microsoft Polska.
+    <br/>
+    <br/>To że strony z wysokim PageRank podnoszą inne wynika jasno ze wzoru wyżej.
+- id: 1506
+  author: zdzichuBG
+  author_url: ''
+  date: '2005-06-29 11:14:58 +0200'
+  date_gmt: '2005-06-29 11:14:58 +0200'
+  content: Niedawno Google złożyło wniosek o opatentowanie Pagerank i w tym wniosku
+    bardzo ładnie opisało wszystkie mechanizmy. Liczy się np. wiek stron (młodsze
+    niż rok nie mają znaczenia w ogóle). Na Slashdocie był link.
+---
+<p>Już po 24 godzinach od <a href="http://patrys.jogger.pl/comment.php?eid=127618&amp;startid=200506">rozpoczęcia akcji</a>, strona promująca alternatywne przeglądarki pojawiła się na trzecim miejscu w najpopularniejszej wyszukiwarce - Google. Kilka osób zadało mi pytanie, jak to możliwe, skoro sama strona nie zawiera w żadnym miejscu frazy konkursowej - <q>MsnBetter ThanGoogle</q>.</p>
+
+<p>Jako, że wiele osób zarzuca mi niekompetencję, czy też skrajną głupotę, zaznaczam z góry, że przytoczone poniżej informacje mogą być dawno nieaktualne bądź nieprawdziwe - w takim przypadku proszę o poprawienie mnie, jako że nie śledzę forów tematycznych, zajmujących się pozycjonowaniem.</p>
+
+<h3>Wyniki wyszukiwania</h3>
+
+<p>Google przy wyszukiwaniu stron bierze pod uwagę kilka czynników:</p>
+
+<ol>
+<li><abbr title="Uniform Resource Identifier">URI</abbr> strony (obecność słów kluczowych z wyszukiwanej frazy)</li>
+<li>Tytuł dokumentu</li>
+<li>Zawartość dokumentu (obecność słów, ich wzajemny układ, odległość, gęstość występowania i stosunek ich ilości do objętości samego tekstu)</li>
+<li>Odnośniki do dokumentu (obecność słów kluczowych)</li>
+<li>Współczynnik PageRank strony</li>
+</ol>
+
+<p>Nie są brane pod uwagę elementy <code>&lt;meta/&gt;</code> nagłówka dokumentu ani komentarze oraz elementy o zawartości typu <code>CDATA</code> (kod JavaScript, Visual Basic, arkusze stylów).</p>
+
+<p>O ile BrowseHappy nie zawiera poszukiwanej frazy w żadnym z trzech pierwszych elementów listy, o tyle ma bardzo wysoki PageRank, o którym niżej. Dzięki temu jest w stanie przeskoczyć wyniki o dużym nasyceniu treści poszukiwaną frazą. Podobnie wypozycjonowane zostały strony Microsoft Polska i sama wyszukiwarka Google.</p>
+
+<h3>PageRank</h3>
+
+<p>PageRank jest iteracyjnym algorytmem obliczania ważności dokumentu. Nazwa pochodzi od nazwiska jednego z założycieli Google, który jest posiadaczem patentu na sam algorytm.</p>
+
+<p>Jego idea polega na śledzeniu działań typowego użytkownika - budowany jest skierowany graf połączeń i wybierany jest jeden nieterminalny węzeł (taki, który posiada ścieżkę wyjściową). Wszystkim węzłom nadawane są równe wartości PageRank, obierany jest też współczynnik <q>znudzenia</q> internauty (liczba rzeczywista z zakresu 0-1, nie jest mi znana dokładna wartość tego parametru, z tego co pamiętam, oscylowała ona w przedziale 0,6-0,9).</p>
+
+<p>Następnie robot wyruszając z danego wierzchołka przechodzi do każdego z jego sąsiadów, zwiększając ich współczynnik PageRank o PageRank bieżącego węzła podzielony przez całkowitą liczbę linków wychodzących z danego węzła i pomnożony przez współczynnik znudzenia (istnieje prawdopodobieństwo, że internauta nie będzie dość cieprpliwy, aby dalej podążać za kolejnymi odnośnikami). Innymi słowy, bieżący węzeł rozdaje po równo swój PageRank pomiędzy dokumenty, do których się odnosi, propagując tym samym własną popularność.</p>
+
+<p>Czynność ta jest powtarzana rekurencyjnie dla wszystkich zlinkowanych sąsiadów, aż wyczerpane zostaną wszystkie połączenia w grafie.</p>
+
+<p>Po przejściu przez cały graf, wartości PageRank wszystkich wierzchołków mnożone są przez (1 - współczynnik znudzenia).</p>
+
+<p>Całość nie jest liczona od razu, używane są przybliżenia iteracyjne, gdzie wartości modyfikowane są stopniowo za pomocą algorytmów przybliżeniowych - liczba stron w internecie nie pozwoliłaby na zbudowanie rzeczywistego grafu wszystkich połączeń. Dane analizowane są więc w postaci przybliżonej i po ich uszczegółowieniu przeprowadzany jest kolejny krok iteracji.</p>
+
+<p>Po przeprowadzieniu około stu kroków iteracyjnych, generowany jest nowy indeks popularności serwisów i rozpoczyna się faza jego wdrażania. Tutaj pojawiają się problemy z różnymi wynikami Google zwracanymi dla różnych użytkowników.</p>
+
+<h3>Tańczący z Google'ami</h3>
+
+<p>Kiedyś nazywało się to <q>Google dance</q> i było zjawiskiem regularnie obserwowanym raz w miesiącu, kiedy to indeksy były rozsyłane do kolejnych serwerów obsługujących wyszukiwanie (Google jest obsługiwane przez kilka-kilkanaście klastrów serwerowych i w zależności od szczęścia, dostawcy internetu i pogody w Zairze, możemy trafić na dowolny z nich).</p>
+
+<p>Od kilku lat Google uaktualnia indeksy nieregularnie, od kilku do kilkunastu razy w miesiącu, co powoduje, że ciężko wykryć moment podmiany. Aby ułatwić to webmasterom, wprowadzone zostały dwa dodatkowe adresy - www2.google.com oraz www3.google.com, które zawsze wykorzystują najnowsze zestawienia. Jest to jedyne autorytatywne źródło aktualnych wyników podczas operacji podmiany.</p>
+
+<p>Dlatego właśnie wczoraj użytkownicy magistrali innych niż <abbr title="Telekompromitacja Polska">TP</abbr> otrzymywali inne wyniki niż klienci monopolisty, którego serwery <abbr title="Domain Name Server">DNS</abbr> w cache miały akurat adres IP świeżo zaktualizowanego serwera.</p>
+
+<h3>Na zakończenie</h3>
+
+<p>Pozycjonowaniem nie miałem czasu zajmować się już dłuższy czas, stąd powyższe informacje mogą zawierać zupełnie nieaktualne dane, możliwe też, że źle pamiętam sam mechanizm punktowania serwisów.</p>
+
+<p><strong>Update:</strong> przepraszam za bałagan, ale przy formatowaniu tekstu zginął mi jeden akapit tekstu, już poprawione.</p>

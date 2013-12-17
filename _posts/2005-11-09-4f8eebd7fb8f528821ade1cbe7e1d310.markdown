@@ -1,0 +1,191 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Strip #021: O jabłuszkach'
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 177
+date: 2005-11-09 02:30:02.000000000 +01:00
+categories:
+- comic
+tags: []
+comments:
+- id: 2425
+  author: nobody
+  author_url: ''
+  date: '2005-11-09 04:34:29 +0100'
+  date_gmt: '2005-11-09 04:34:29 +0100'
+  content: a moze pico :D
+- id: 2426
+  author: froger3
+  author_url: ''
+  date: '2005-11-09 07:35:50 +0100'
+  date_gmt: '2005-11-09 07:35:50 +0100'
+  content: shuffel?:P
+- id: 2427
+  author: 片翼の天使
+  author_url: ''
+  date: '2005-11-09 09:40:16 +0100'
+  date_gmt: '2005-11-09 09:40:16 +0100'
+  content: no to cienko poszlo ;)
+- id: 2428
+  author: Krystian
+  author_url: ''
+  date: '2005-11-09 10:42:13 +0100'
+  date_gmt: '2005-11-09 10:42:13 +0100'
+  content: |-
+    Chyba mała pomyłka w ostatnim rysunku... nie powinno być iPoda tylko iBooka.
+    <br/>A może to ona pomyliła iBooka z iPodem, ale to wtedy powinno być, że ten iPod jest taki duży! ;)
+- id: 2429
+  author: Patrys
+  author_url: ''
+  date: '2005-11-09 10:42:56 +0100'
+  date_gmt: '2005-11-09 10:42:56 +0100'
+  content: Nie, z ostatnim rysunkiem jest wszystko w porządku.
+- id: 2430
+  author: Krystian
+  author_url: ''
+  date: '2005-11-09 11:24:02 +0100'
+  date_gmt: '2005-11-09 11:24:02 +0100'
+  content: '? no to widać ja nie do końca zrozumiałem, ale to może dlatego, że nie
+    widziałem ani tego ani tego...'
+- id: 2431
+  author: wanabe
+  author_url: ''
+  date: '2005-11-09 11:38:36 +0100'
+  date_gmt: '2005-11-09 11:38:36 +0100'
+  content: |-
+    W czym tworzysz swoje strip&#039;y? :)
+    <br/>Pozdrawiam.
+- id: 2432
+  author: deadlink
+  author_url: ''
+  date: '2005-11-09 12:23:13 +0100'
+  date_gmt: '2005-11-09 12:23:13 +0100'
+  content: Krystian weź się zastanów, albo poszukaj podobnego dowcipu z podobną puentą.
+    Btw. Nie powinnno być ,,rano powiedziała &quot;o ipoda też masz nano&quot;&#039;&#039;?
+    ;)
+- id: 2433
+  author: Patrys
+  author_url: ''
+  date: '2005-11-09 16:26:05 +0100'
+  date_gmt: '2005-11-09 16:26:05 +0100'
+  content: |-
+    Wanabe:
+    <br/>
+    <br/>GIMP - bierzesz ołówek, ustawiasz na 1px bez rozmywania i rysuejesz.
+- id: 2434
+  author: roiro
+  author_url: ''
+  date: '2005-11-09 19:40:06 +0100'
+  date_gmt: '2005-11-09 19:40:06 +0100'
+  content: Jabłuszka są sexy!
+- id: 2435
+  author: Krystian
+  author_url: ''
+  date: '2005-11-10 08:35:43 +0100'
+  date_gmt: '2005-11-10 08:35:43 +0100'
+  content: |-
+    @deadlink: właśnie się zastanawiałem i dlatego mam problem - w/g mnie
+    <br/>1) nano == coś małego,
+    <br/>2) iBook12&quot; &gt; iPod
+    <br/>3) iBook12&quot; &lt; iBook [np.15&quot;]
+    <br/>dlatego ja ktoś patrzy na iBook12&quot; to albo &quot;masz dużego iPoda&quot;, bo patrz 2, albo &quot;masz małego iBooka&quot;, bo patrz 3.
+    <br/>A tak wogóle problem mało istotny - strip i tka mi się podobał, niezależnie od moich wątpliwości :)
+- id: 2436
+  author: Sytry
+  author_url: ''
+  date: '2005-11-10 10:36:19 +0100'
+  date_gmt: '2005-11-10 10:36:19 +0100'
+  content: |-
+    @Krytsian:
+    <br/>A weź w google wpisz &#039;iPod&#039; i się przkonasz, że twoje rozumienie jest mocno niekompatybilne z tym co określa jako &#039;ipod&#039; reszta świata.
+- id: 2437
+  author: Greybrow
+  author_url: ''
+  date: '2005-11-10 11:52:28 +0100'
+  date_gmt: '2005-11-10 11:52:28 +0100'
+  content: czyżby pokój 303 stracił adres?
+- id: 2438
+  author: Patrys
+  author_url: ''
+  date: '2005-11-10 17:45:23 +0100'
+  date_gmt: '2005-11-10 17:45:23 +0100'
+  content: Jakieś chwilowe problemy z DNS - wczoraj zmieniłem hosting dla domeny i
+    subdomen i część serwerów nazw zwariowała.
+- id: 2439
+  author: Krystian
+  author_url: ''
+  date: '2005-11-10 23:14:10 +0100'
+  date_gmt: '2005-11-10 23:14:10 +0100'
+  content: |-
+    @Sytry:
+    <br/>Sprawdziłem - iPod jest dokładnie tym o czym myślałem - takie małe coś do muzyki (i nie tylko), raczej trudne do pomylenia z iBookiem...
+    <br/>Ale widocznie mimo zaczynającej się siwizny jeszcze mało znam kobiety i najwyraźniej są przedstawicielki płci pięknej, które to potrafią...
+    <br/>Po prostu dla mnie logicznym było, że skoro _12&quot;_ iBook jest mniejszy od najczęściej spotykanych laptopów to ostatnie zdanie powinno dotyczyć tego konkretnego sprzętu, że jest mały...
+    <br/>
+    <br/>BTW - taki komunikat :&quot;Tutaj w graficznych przeglądarkach wyświetla się komiks&quot; w moim FF to efekt tych problemów z DNS? (Wcześniej było OK)
+- id: 2440
+  author: Patrys
+  author_url: ''
+  date: '2005-11-11 02:02:23 +0100'
+  date_gmt: '2005-11-11 02:02:23 +0100'
+  content: |-
+    Krystian:
+    <br/>
+    <br/>Niesłusznie zakładasz, że pierwsza i ostatnia ramka dotyczą tego samego harware.
+    <br/>
+    <br/>Tak, to problem z DNS.
+- id: 2441
+  author: deadlink
+  author_url: ''
+  date: '2005-11-11 14:01:38 +0100'
+  date_gmt: '2005-11-11 14:01:38 +0100'
+  content: Brawo Patrys, ja juz nie wiedziałem, jak to wyjaśnić. Jeśli to tłumaczenie
+    nie zrobi roboty, to dla tego czytelnika nie ma ratunku. :D
+- id: 2442
+  author: Krystian
+  author_url: ''
+  date: '2005-11-11 15:13:48 +0100'
+  date_gmt: '2005-11-11 15:13:48 +0100'
+  content: |-
+    Taaak, wiedziałem że w moim myśleniu był jakiś błąd. Tylko nie wiedziałem gdzie... :)
+    <br/>Nie było to zbyt ważnym problemem, ale lubię wiedzieć. Dzięki za oświecenie.
+- id: 2443
+  author: Tomash
+  author_url: ''
+  date: '2005-11-12 12:02:24 +0100'
+  date_gmt: '2005-11-12 12:02:24 +0100'
+  content: Czyli stripów już nie będzie? :P
+- id: 2444
+  author: Patrys
+  author_url: ''
+  date: '2005-11-12 15:19:19 +0100'
+  date_gmt: '2005-11-12 15:19:19 +0100'
+  content: Będą, jak wróci domena. Burdel jest krutny w DNS, moje są skonfigurowane
+    prawidłowo, ale tepsa zgubiła room-303 całkiem i upiera się w swojej decyzji.
+- id: 2445
+  author: PawelS
+  author_url: ''
+  date: '2005-11-14 21:28:15 +0100'
+  date_gmt: '2005-11-14 21:28:15 +0100'
+  content: 'Patrys: nie tylko tepsa ;), a nie da się podlinkować po adresie IP, albo
+    go poprostu podać ?'
+- id: 2446
+  author: Patrys
+  author_url: ''
+  date: '2005-11-15 19:05:31 +0100'
+  date_gmt: '2005-11-15 19:05:31 +0100'
+  content: |-
+    Adres IP można sobie wyciągnąć pisząc:
+    <br/>
+    <br/>host comic.room-303.com ns1.dreamhost.com
+    <br/>
+    <br/>A z podlinkowaniem pomysł odpada - tam jest po kilkaset wirtualnych hostów przypisanych do każdego serwera.
+---
+<p>Tym razem na zamówienie <a href="http://majqa.jogger.pl/">Majqi</a>.</p>
+
+<p class="strip"><img src="http://comic.room-303.com/strips/021-apples.png" alt="Tutaj w graficznych przeglądarkach wyświetla się komiks" /></p>

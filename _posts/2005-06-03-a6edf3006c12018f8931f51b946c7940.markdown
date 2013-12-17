@@ -1,0 +1,224 @@
+---
+layout: post
+status: publish
+published: true
+title: Znikam z sieci...
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 97
+date: 2005-06-03 09:49:41.000000000 +02:00
+categories:
+- varia
+tags: []
+comments:
+- id: 1202
+  author: bmalkow
+  author_url: ''
+  date: '2005-06-03 09:51:41 +0200'
+  date_gmt: '2005-06-03 09:51:41 +0200'
+  content: |-
+    jogger na czarnej liście?
+    <br/>Przez pornografię czy pedofilów?
+- id: 1203
+  author: Patrys
+  author_url: ''
+  date: '2005-06-03 09:52:40 +0200'
+  date_gmt: '2005-06-03 09:52:40 +0200'
+  content: Na czarnej liście jest wszystko, co pojawiło się w logach proxy i nie jest
+    bezpośrednio związane z pracą. Takie podejście szefa.
+- id: 1204
+  author: bmalkow
+  author_url: ''
+  date: '2005-06-03 09:53:36 +0200'
+  date_gmt: '2005-06-03 09:53:36 +0200'
+  content: Niech zrobi odwrotnie. Zablokuje wszystko i odblokowuje tylko to, o co
+    ktoś poprosi na piśmie.
+- id: 1205
+  author: Jajcus
+  author_url: ''
+  date: '2005-06-03 09:53:58 +0200'
+  date_gmt: '2005-06-03 09:53:58 +0200'
+  content: 'Patrys: a dysku nie mogłeś z tego Asusa przed oddaniem go do serwisu?'
+- id: 1206
+  author: zgoda (jarek)
+  author_url: ''
+  date: '2005-06-03 09:54:33 +0200'
+  date_gmt: '2005-06-03 09:54:33 +0200'
+  content: Chore, ale może sensowne. Przynajmniej się nie rozpraszacie. ;)
+- id: 1207
+  author: Patrys
+  author_url: ''
+  date: '2005-06-03 09:57:34 +0200'
+  date_gmt: '2005-06-03 09:57:34 +0200'
+  content: |-
+    Jajcuś:
+    <br/>
+    <br/>On jest na gwarancji, jeszcze go nie spłaciłem do końca.
+- id: 1208
+  author: Arghil
+  author_url: ''
+  date: '2005-06-03 10:11:10 +0200'
+  date_gmt: '2005-06-03 10:11:10 +0200'
+  content: |-
+    To nie jest chore. Niestety większość userów nie zdaje sobie sprawy z zagrożeń jakie są w necie. Nie mówię oczywiście o banałach (np. obrazkach czy filmach), ale o syfach, które mogą zagrozić działaniu sieci w firmie albo umożliwiają wyciągnięcia informacji ważnych dla firmy na zewnątrz.
+    <br/>
+    <br/>Jak ktoś chce to pewnie i tak znajdzie sposób na obejście zabezpieczeń. W sumie można tunelowanie robić po trochę mniej popularnych rzeczach np. przez DNS;) co może być trudne do wykrycia.
+    <br/>
+    <br/>Pewnie najlepiej zabronić takich działań w umowie z pracownikiem i każde naruszenie skutkować wyrzuceniem albo innymi sankcjami....
+    <br/>
+- id: 1209
+  author: Patrys
+  author_url: ''
+  date: '2005-06-03 10:14:47 +0200'
+  date_gmt: '2005-06-03 10:14:47 +0200'
+  content: |-
+    Arghil:
+    <br/>
+    <br/>Raz, że nie boję się, że jakiś Sasser czy inny Blaster zaatakuje mi Wine pod Linuksem.
+    <br/>
+    <br/>Dwa, że trudno cokolwiek obejść, jeśli wyjście poza sieć lokalną idzie tylko przez proxy Squida, które skonfigurowane jest do sprawdzania, czy połączenie jest faktycznie protokołem HTTP.
+    <br/>
+    <br/>Trzy, że umowa zabrania mi korzystać z komunikatorów.
+    <br/>
+    <br/>Problem w tym, że przez takie blokowanie zdarzały się momenty, kiedy nie miałem dostępu do A List Apart czy do SourceForge, co jest bzdurą. W tej chwili np. nieosiągalne są wszystkie domeny ze słowem &quot;free&quot;, w związku z czym o freedesktop.org mogę zapomnieć.
+- id: 1210
+  author: Jajcus
+  author_url: ''
+  date: '2005-06-03 10:15:22 +0200'
+  date_gmt: '2005-06-03 10:15:22 +0200'
+  content: |-
+    Arghil: u nas po prostu jest większość rzeczy poblokowana, ale nie jest wielkim problemem odblokować _konkretną_ usługę dla pracownika, nawet jeśli ona nie jest bezpośrednio z pracą związana.
+    <br/>Patrys: u mnie w Dellu dysk jest w wyciąganej szufladce, a jeśli firma traktuje klienta poważnie, to IMHO nie powinno być problemu  z pozostawieniem mu dysku (za odpowiednim pokwitowaniem). Nie twierdzę jednak, że taki  Asus (czy raczej ich przedstawiciel) by na to poszedł...
+- id: 1211
+  author: Patrys
+  author_url: ''
+  date: '2005-06-03 10:17:36 +0200'
+  date_gmt: '2005-06-03 10:17:36 +0200'
+  content: |-
+    Jajcuś:
+    <br/>
+    <br/>Poszedłby, poszedł, gdyby nie fakt, że ja jestem detalicznym malutkim człowieczkiem, a nie wielką firmą z milionowymi kontraktami.
+- id: 1212
+  author: Patrys
+  author_url: ''
+  date: '2005-06-03 10:27:07 +0200'
+  date_gmt: '2005-06-03 10:27:07 +0200'
+  content: Tak swoją drogą to i tak nie mam gdzie podłączyć dysku 2,5&quot;.
+- id: 1213
+  author: Bender
+  author_url: ''
+  date: '2005-06-03 11:58:47 +0200'
+  date_gmt: '2005-06-03 11:58:47 +0200'
+  content: |-
+    1. Wine jest słabe, podobno wirusy słabo pod nich chodzą. :D
+    <br/>2. Na jakim stanowisku pracujesz? Ale żeby odciąć ssh na zewnątrz i jabbera to dla mnie przegięcie.
+- id: 1214
+  author: Patrys
+  author_url: ''
+  date: '2005-06-03 12:16:31 +0200'
+  date_gmt: '2005-06-03 12:16:31 +0200'
+  content: Oficjalnie programista, nieoficjalnie drugi administrator / członek Emergency
+    Recovery Team.
+- id: 1215
+  author: Arghil
+  author_url: ''
+  date: '2005-06-03 16:05:30 +0200'
+  date_gmt: '2005-06-03 16:05:30 +0200'
+  content: |-
+    @Bender
+    <br/>&lt;żart&gt;
+    <br/>to nie, przegięciem jest zablokować ssh,jabbera a zostawić MSN i &quot;Zdalny desktop&quot;
+    <br/>:)
+    <br/>&lt;/żart&gt;
+- id: 1216
+  author: mrman
+  author_url: ''
+  date: '2005-06-03 19:50:42 +0200'
+  date_gmt: '2005-06-03 19:50:42 +0200'
+  content: nie rozumiem takiego podejscia, polegajacego na odcieciu &quot;wszystkiego&quot;.
+    Przeciez w firmach IT chyba jest jakas swiadomosc informatyczna (wirusy), a w
+    koncu nie sama praca zyje czlowiek (psychodeliczne blokowanie wszystkiego ze slowem
+    free)
+- id: 1217
+  author: jarv
+  author_url: ''
+  date: '2005-06-03 20:29:03 +0200'
+  date_gmt: '2005-06-03 20:29:03 +0200'
+  content: |-
+    @mrman - tu sie mylisz (w sensie nie sama praca zyje czlowiek) - co prawda my tez tego nie rozumiemy, ale takie mamy warunki pracy... podobych ciekawostek mamy setki dziennie - jak zapewne wielu pracujacych, niekoniecznie zwiazanych z biznesem IT.
+    <br/>mackizm jest jexdnak niezbadana do konca doktryna filozoficzna, wiec nie ma sie co dziwic.
+- id: 1218
+  author: Jezuch
+  author_url: ''
+  date: '2005-06-03 21:42:36 +0200'
+  date_gmt: '2005-06-03 21:42:36 +0200'
+  content: |-
+    Trza było backupy robić, mi backupowanie swoich NajważniejszychRzeczy(TM) na komputer mamy już weszło w nawyk - poza tym jestem zboczeńcem i lubię patrzeć na ten proces ;) [tak samo jak jestem fetyszystą kompresji danych - ale to na marginesie ;)]
+    <br/>
+    <br/>A tak poza tym to niedawno w moim formowym intranecie szef kazał pracownikom powpisywać swoje nr GG. Zaproponowałem, że skoro podobno firma chce się chwalić nowoczesnymi technologiami, to może postawią serwer jabbera. Chyba zadziałało :&gt;
+- id: 1219
+  author: Arghil
+  author_url: ''
+  date: '2005-06-03 22:10:59 +0200'
+  date_gmt: '2005-06-03 22:10:59 +0200'
+  content: "to, że ktoś pracuje w dziale IT to nie znaczy, iż nie może czegoś głupiego
+    nabroić?\n<br/>\n<br/>Im mniej możliwości połączenia świat - intranet tym lepiej.
+    Co prawda jak ktoś będzie chciał zaszkodzić to i tak ma spore możliwości - kwestia
+    determinacji danego osobnika, ale po co mu ułatwiać? ;)\n<br/>\n<br/>Zgadzam się,
+    że nie należy też przesadzać w drugą stronę ;)\n<br/>\n<br/>PS.\n<br/>a dostęp
+    do FDD czy USB też jest poblokowany? "
+- id: 1220
+  author: Patrys
+  author_url: ''
+  date: '2005-06-03 23:25:56 +0200'
+  date_gmt: '2005-06-03 23:25:56 +0200'
+  content: |-
+    To że ktoś ma nieograniczony dostęp do serwerów oznacza, że może wiele więcej napsuć niż ktoś z nieograniczonym dostępem do internetu. Kwestia tylko - po co miałby psuć? Ja pracuję na Linuksie, więc co takiego złego może mi zrobić internet (za NATem w dodatku)?
+    <br/>
+    <br/>BTW: udało mi się odpalić komputer, Averne przygotował mi bootowalną wersję LiveCD z serwerem SSH, zbootowałem z niej notebooka i przez SSH naprawiłem config Gruba. Po reboocie podniósł się system i właśnie via SSH robię kopię danych krytycznych.
+- id: 1221
+  author: jarv
+  author_url: ''
+  date: '2005-06-04 09:59:26 +0200'
+  date_gmt: '2005-06-04 09:59:26 +0200'
+  content: heh ;) no to super. silnik uratowany (nie to, zebym sie nie przejmowal
+    innymi danymi, ale jakos tak na silniku mi baaardzo zalezy ;] )
+- id: 1222
+  author: Arghil
+  author_url: ''
+  date: '2005-06-04 13:07:41 +0200'
+  date_gmt: '2005-06-04 13:07:41 +0200'
+  content: "@Patrys\n<br/>Dobre pytanie dlaczego chcą psuć. Bywają różne powody od
+    banalnych (z niewiedzy) do tego by zatrzeć ślady po wyciągniętych danych, które
+    nie powinny trafić do inny. Lepiej z góry zakładać, że się taki osobnik trafi
+    niż później po fakcie reagować :(\n<br/>Choć jak wspomniałem wcześniej powinno
+    być wszystko stosowane z umiarem... "
+- id: 1223
+  author: Patrys
+  author_url: ''
+  date: '2005-06-06 12:46:23 +0200'
+  date_gmt: '2005-06-06 12:46:23 +0200'
+  content: |-
+    Update:
+    <br/>
+    <br/>Spring Notebook odmówił przyjęcia komputera do serwisu, bo:
+    <br/>
+    <br/>1) w dokumentach, które do niego wydali brakuje karty gwarancyjnej Asusa
+    <br/>
+    <br/>2) numer wpisany do umowy zakupu jest inny niż ten znajdujący się na spodzie obudowy notebooka
+    <br/>
+    <br/>Pociąć się idzie. Myślałem, że stracę komputer na 2 tygodnie, wygląda na to, że naprawa przeciągnie się na miesiące...
+- id: 1224
+  author: Cachotterie
+  author_url: ''
+  date: '2005-06-06 16:58:57 +0200'
+  date_gmt: '2005-06-06 16:58:57 +0200'
+  content: |-
+    To może lepiej kupić klawiaturę USB (najpierw sprawdzając czy to rozwiąże problem - pewnie w jakimś zaprzyjaźnionym sklepie dadzą Ci na 10 minut coby sprawdzić) i odłożyć tę naprawę na &#039;po sesji&#039; ?
+    <br/>Swoją drogą co najmniej podejrzany ten brak dokumentów i różne numery...
+---
+<p>...przynajmniej tymczasowo. Robiłem akurat upgrade kernela wczoraj i, przy okazji, zmieniłem w końcu <a href="http://freshmeat.net/projects/lilo/">Lilo</a> na <a href="http://www.gnu.org/software/grub/">Gruba</a>. Po restarcie maszyny przypomniałem sobie, że Grub pozostał nieskonfigurowany, ale to nie powinien być problem, bo Grub jest interaktywny. Dziarsko zabrałem się za edycję menu, boot dla testu, nie działa, powrót do menu, zapomniałem dopisać <code>initrd</code>, reboot i... i nic. Nie mogę wejść nawet w interaktywny tryb Gruba. Ba, nie mogę wejść do <code>setup</code>u <abbr title="Basic Input/Output System">BIOS</abbr>u. W moim pięknym Asusie padła klawiatura, w związku z czym straciłem stanowisko pracy.</p>
+
+<p>Straciłem również dostęp do kilku projektów, w tym paru BardzoWażnychRzeczy&trade;, od których zależą moje zaliczenia na studiach. Mam nadzieję, że serwis nie przetrzyma mi go 2 tygodnie, bo wtedy będzie już po najważniejszej części sesji. Póki co, nie mam maszyny, więc i na sieci mnie nie będzie, w pracy polityka firewalla odcina mi dostęp do wszystkiego, co nie chodzi przez <abbr title="HyperText Transfer Protocol">HTTP</abbr>, a i tak serwer Joggera jest na czarnej liście.</p>

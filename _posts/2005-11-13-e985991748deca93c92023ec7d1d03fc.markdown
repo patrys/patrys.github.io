@@ -1,0 +1,366 @@
+---
+layout: post
+status: publish
+published: true
+title: Siedemnastka!
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 180
+date: 2005-11-13 23:59:40.000000000 +01:00
+categories:
+- varia
+tags: []
+comments:
+- id: 2463
+  author: chrumoń
+  author_url: ''
+  date: '2005-11-14 00:03:35 +0100'
+  date_gmt: '2005-11-14 00:03:35 +0100'
+  content: ktoś tu za mocno zakurzył ;)
+- id: 2464
+  author: Patrys
+  author_url: ''
+  date: '2005-11-14 00:03:51 +0100'
+  date_gmt: '2005-11-14 00:03:51 +0100'
+  content: Hm?
+- id: 2465
+  author: fastred
+  author_url: ''
+  date: '2005-11-14 00:06:07 +0100'
+  date_gmt: '2005-11-14 00:06:07 +0100'
+  content: |-
+    Wszystkiego naj.
+    <br/>BTW studiujesz i pracujesz w wieku 17 lat? Gratuluję :).
+- id: 2466
+  author: Kangel
+  author_url: ''
+  date: '2005-11-14 00:07:10 +0100'
+  date_gmt: '2005-11-14 00:07:10 +0100'
+  content: |-
+    Hihi... fastred dobrze prawi!
+    <br/>Gratulacje i Najlepsze Rzyć-enia :P
+- id: 2467
+  author: Enleth
+  author_url: ''
+  date: '2005-11-14 00:07:22 +0100'
+  date_gmt: '2005-11-14 00:07:22 +0100'
+  content: Dobrze się domyślam, że to jest 0x17h?
+- id: 2468
+  author: Patrys
+  author_url: ''
+  date: '2005-11-14 00:07:57 +0100'
+  date_gmt: '2005-11-14 00:07:57 +0100'
+  content: |-
+    Enleth:
+    <br/>
+    <br/>Naturalnie.
+- id: 2469
+  author: Kangel
+  author_url: ''
+  date: '2005-11-14 00:08:15 +0100'
+  date_gmt: '2005-11-14 00:08:15 +0100'
+  content: |-
+    lol? xD
+    <br/>Ozzohozzi?
+- id: 2470
+  author: Majqa
+  author_url: ''
+  date: '2005-11-14 00:10:03 +0100'
+  date_gmt: '2005-11-14 00:10:03 +0100'
+  content: tak to bym i 16 miala, hmm ta notacja wiekowa bardziej mi sie podoba ;)
+- id: 2471
+  author: Enleth
+  author_url: ''
+  date: '2005-11-14 00:10:38 +0100'
+  date_gmt: '2005-11-14 00:10:38 +0100'
+  content: O to, że życzymy Patrysowi szczęśliwych 23 urodzin, które zapisał heksami
+    :)
+- id: 2472
+  author: Kangel
+  author_url: ''
+  date: '2005-11-14 00:11:42 +0100'
+  date_gmt: '2005-11-14 00:11:42 +0100'
+  content: |-
+    Aha :P
+    <br/>Ludzie, za dużo wiecie. Nie wprowadzajcie w błąd biednego-i-nic-nie-wiedzącego-12-latka ^_^
+- id: 2473
+  author: Patrys
+  author_url: ''
+  date: '2005-11-14 00:12:16 +0100'
+  date_gmt: '2005-11-14 00:12:16 +0100'
+  content: |-
+    Enleth:
+    <br/>
+    <br/>Psujesz mi zabawę na starość :P
+- id: 2474
+  author: Enleth
+  author_url: ''
+  date: '2005-11-14 00:14:23 +0100'
+  date_gmt: '2005-11-14 00:14:23 +0100'
+  content: Spokojnie, za rok zapomną, powtórzysz numer z osiemnastką :P
+- id: 2475
+  author: kasia:)
+  author_url: ''
+  date: '2005-11-14 00:16:05 +0100'
+  date_gmt: '2005-11-14 00:16:05 +0100'
+  content: |-
+    nie istotne które,
+    <br/>najważniejsze aby były niepowtarzalne jedyne swego rodzaju - wiwat jubilacie
+- id: 2476
+  author: Tomash
+  author_url: ''
+  date: '2005-11-14 00:26:44 +0100'
+  date_gmt: '2005-11-14 00:26:44 +0100'
+  content: Ludzie, Patrys to geek, on w hexie zapisuje! ;D
+- id: 2477
+  author: eyecatching
+  author_url: ''
+  date: '2005-11-14 00:31:05 +0100'
+  date_gmt: '2005-11-14 00:31:05 +0100'
+  content: Piękny wiek :&gt;. Wszystkiego najlepszego mocarzu!
+- id: 2478
+  author: Patrys
+  author_url: ''
+  date: '2005-11-14 00:33:00 +0100'
+  date_gmt: '2005-11-14 00:33:00 +0100'
+  content: |-
+    Piękny? Jeszcze 12 lat i będę musiał umrzeć (zgodnie z moim planem dokonania żywota za użyteczności, to jest w wieku lat 23).
+    <br/>
+    <br/>A tak swoją drogą - wszyscy się spóźniliście, bo jest już dawno po północy :P
+- id: 2479
+  author: Patrys
+  author_url: ''
+  date: '2005-11-14 00:36:59 +0100'
+  date_gmt: '2005-11-14 00:36:59 +0100'
+  content: Tfu, nie 23 tylko 35 :/
+- id: 2480
+  author: eyecatching
+  author_url: ''
+  date: '2005-11-14 00:54:00 +0100'
+  date_gmt: '2005-11-14 00:54:00 +0100'
+  content: |-
+    Proszę, proszę... jaki zadziorny (wybaczam --&gt; wszak dorastasz).
+    <br/>
+    <br/>O umieraniu porozmawiamy za kilka lat :) kiedy już poznasz co to znaczy dojrzała, prawdziwa 23letnia kobieta.
+- id: 2481
+  author: Patrys
+  author_url: ''
+  date: '2005-11-14 00:55:01 +0100'
+  date_gmt: '2005-11-14 00:55:01 +0100'
+  content: A moje rówieśniczki są nieprawdziwymi 23-latkami? :P
+- id: 2482
+  author: s
+  author_url: ''
+  date: '2005-11-14 01:00:22 +0100'
+  date_gmt: '2005-11-14 01:00:22 +0100'
+  content: gdyby nie to, że wiem ile masz lat, to może też bym się na te brednie nabrał.
+    a tak to wiem, że jak na _prawdziwego_ geeka pijaka przystało, wiek wyraziłeś
+    ósemkowo. niech żyje pokolenie dziewięćdziesiąt, pryszcze na dupie i bezkarny
+    seks z nieletnimi! :&gt;
+- id: 2483
+  author: bazyl
+  author_url: ''
+  date: '2005-11-14 01:08:28 +0100'
+  date_gmt: '2005-11-14 01:08:28 +0100'
+  content: |-
+    Zaraz.. a nie powinno być &quot;szesnastkowo&quot; albo &quot;heksagonalnie&quot;? ;] Ale ja głupi jestem.
+    <br/>
+    <br/>BTW: Niech żyje właśnie takie życie :P
+- id: 2484
+  author: Ja-Joanna
+  author_url: ''
+  date: '2005-11-14 01:12:39 +0100'
+  date_gmt: '2005-11-14 01:12:39 +0100'
+  content: A już się zdziwiłam, że taki młody jesteś.... widocznie jeszcze daleko
+    mi do geeka. (może i dobrze...)
+- id: 2485
+  author: maciekkk
+  author_url: ''
+  date: '2005-11-14 07:57:25 +0100'
+  date_gmt: '2005-11-14 07:57:25 +0100'
+  content: tez jestes z 13 listopada :&gt; ??
+- id: 2486
+  author: misiekf
+  author_url: ''
+  date: '2005-11-14 08:19:06 +0100'
+  date_gmt: '2005-11-14 08:19:06 +0100'
+  content: |-
+    z 14-stego... :P
+    <br/>Najlepszego Ziom :P
+- id: 2487
+  author: AnKeL
+  author_url: ''
+  date: '2005-11-14 09:58:24 +0100'
+  date_gmt: '2005-11-14 09:58:24 +0100'
+  content: Wszystkiego najlepszego :) Heh obyś stąd nie uciekał :)
+- id: 2488
+  author: kiesiu
+  author_url: ''
+  date: '2005-11-14 11:32:49 +0100'
+  date_gmt: '2005-11-14 11:32:49 +0100'
+  content: |-
+    Najlepszego!
+    <br/>Nie wiem czego by Ci życzyć, więc najlepiej jak się spełni to czego sam sobie życzysz :)
+- id: 2489
+  author: Bad Kitty
+  author_url: ''
+  date: '2005-11-14 12:03:00 +0100'
+  date_gmt: '2005-11-14 12:03:00 +0100'
+  content: dziad! =]
+- id: 2490
+  author: Patrys
+  author_url: ''
+  date: '2005-11-14 13:04:18 +0100'
+  date_gmt: '2005-11-14 13:04:18 +0100'
+  content: |-
+    maciekkk:
+    <br/>
+    <br/>Tak, z trzynastego :)
+    <br/>
+    <br/>Bad Kitty:
+    <br/>
+    <br/>A ty to wiesz - nie mów hop, bo sama masz 0x0015 lat.
+- id: 2491
+  author: Kangel
+  author_url: ''
+  date: '2005-11-14 13:07:22 +0100'
+  date_gmt: '2005-11-14 13:07:22 +0100'
+  content: |-
+    @Patrys: Trudno, byśmy się nie spóźnili, bo tak właściwie mieliśmy 20 sek na reakcję.
+    <br/>Ja jeszcze raz życzę wszystkiego najlepszego, tym bardziej, że używam jednego ze &quot;sportedowanych&quot; szablonów przez ciebie ;P
+- id: 2492
+  author: Jam Łasica RF
+  author_url: ''
+  date: '2005-11-14 13:13:52 +0100'
+  date_gmt: '2005-11-14 13:13:52 +0100'
+  content: 100000 lat, 100000 lat... :)
+- id: 2493
+  author: Kangel
+  author_url: ''
+  date: '2005-11-14 13:38:25 +0100'
+  date_gmt: '2005-11-14 13:38:25 +0100'
+  content: 'Pytanko: Jak w hexach będzie 13? =]'
+- id: 2494
+  author: bazyl
+  author_url: ''
+  date: '2005-11-14 13:39:36 +0100'
+  date_gmt: '2005-11-14 13:39:36 +0100'
+  content: 'Kangel: 0D'
+- id: 2495
+  author: Kangel
+  author_url: ''
+  date: '2005-11-14 13:41:14 +0100'
+  date_gmt: '2005-11-14 13:41:14 +0100'
+  content: Hmmm... czyli nie da się w jakiś taki sposób, by też móc napisać, ze moje
+    7 urodziny, czy jakoś tak? W sumie jeszcze mam czas do dowiedzenia się - całe
+    2 miesiące, tydzień i 5 godz. 58 min =]
+- id: 2496
+  author: Kangel
+  author_url: ''
+  date: '2005-11-14 13:41:42 +0100'
+  date_gmt: '2005-11-14 13:41:42 +0100'
+  content: 59 min, przepraszam :P
+- id: 2497
+  author: Paladine
+  author_url: ''
+  date: '2005-11-14 13:47:28 +0100'
+  date_gmt: '2005-11-14 13:47:28 +0100'
+  content: He he. Patrys zna realia i wie, że wszyscy lecą na nastki ;-)
+- id: 2498
+  author: mcv
+  author_url: ''
+  date: '2005-11-14 15:59:23 +0100'
+  date_gmt: '2005-11-14 15:59:23 +0100'
+  content: |-
+    Chyba nie heksagonalnie, raczej heksadecymalnie :-)
+    <br/>BTW Myślałem, że mi ego zniknęło... Uff. Na szczęście po przeczytaniu komentarzy pozostało na swoim miejscu :&gt;
+- id: 2499
+  author: Nami
+  author_url: ''
+  date: '2005-11-14 17:30:22 +0100'
+  date_gmt: '2005-11-14 17:30:22 +0100'
+  content: Wszystkiego najlepszego ;)
+- id: 2500
+  author: AnKeL
+  author_url: ''
+  date: '2005-11-14 17:52:27 +0100'
+  date_gmt: '2005-11-14 17:52:27 +0100'
+  content: 0x64 lat! ? :)
+- id: 2501
+  author: YamroZ
+  author_url: ''
+  date: '2005-11-14 21:30:08 +0100'
+  date_gmt: '2005-11-14 21:30:08 +0100'
+  content: Nie kurwa mów że się ogoliłeś.
+- id: 2502
+  author: misiekf
+  author_url: ''
+  date: '2005-11-14 21:31:54 +0100'
+  date_gmt: '2005-11-14 21:31:54 +0100'
+  content: |-
+    Patrys to nie bylo dobre posuniecie z tym ogoleniem.
+    <br/>zima idzie, zomno w twarz, ja sam chyba zapuszczam... :]
+- id: 2503
+  author: Hawk
+  author_url: ''
+  date: '2005-11-14 21:40:17 +0100'
+  date_gmt: '2005-11-14 21:40:17 +0100'
+  content: 'Patrys: coś chyba za krótko brodę hodowałeś. Ja sobie nie wyobrażam siebie
+    po zgoleniu brody (dla zmyłki: mam ją od 1000 lat :)) Co mi przypomina, że czas
+    znów gwałtownie przyspieszył... albo to ja przespałem za dużo lat przy kompie
+    :/'
+- id: 2504
+  author: Bad Kitty
+  author_url: ''
+  date: '2005-11-15 10:02:49 +0100'
+  date_gmt: '2005-11-15 10:02:49 +0100'
+  content: staruch :]
+- id: 2505
+  author: Barwuś
+  author_url: ''
+  date: '2005-11-18 16:13:48 +0100'
+  date_gmt: '2005-11-18 16:13:48 +0100'
+  content: |-
+    Troche spóźnione ale co tam ;) Wszystkiego najlepszego!
+    <br/>
+    <br/>BTW: W jakim biurze pracujesz mając 17 lat?
+- id: 2506
+  author: Patrys
+  author_url: ''
+  date: '2005-11-18 17:23:58 +0100'
+  date_gmt: '2005-11-18 17:23:58 +0100'
+  content: |-
+    Barwuś:
+    <br/>
+    <br/>W takim, gdzie szefowie mają po 1E lat.
+- id: 2507
+  author: Yano
+  author_url: ''
+  date: '2005-11-19 00:21:23 +0100'
+  date_gmt: '2005-11-19 00:21:23 +0100'
+  content: Ja już przy jakiejś okazji mówiłem, że staro się przy Was czuję, nie? ;)
+- id: 2508
+  author: Patrys
+  author_url: ''
+  date: '2005-11-19 00:24:24 +0100'
+  date_gmt: '2005-11-19 00:24:24 +0100'
+  content: Czemu staro?
+- id: 2509
+  author: Yano
+  author_url: ''
+  date: '2005-11-19 00:27:09 +0100'
+  date_gmt: '2005-11-19 00:27:09 +0100'
+  content: A bo mnie już niedługo 0x20 czeka. No może nie tak od razu, ale czai się
+    za rogiem…
+- id: 2510
+  author: Fiherek
+  author_url: ''
+  date: '2005-11-24 22:23:55 +0100'
+  date_gmt: '2005-11-24 22:23:55 +0100'
+  content: No, pora w końcu zacząć golić jajca.
+---
+<p>Dziś od północy świętowaliśmy z ekipą moje urodziny. Jako, że zostało ich tylko kilka zaledwie minut, wypada się pochwalić, że właśnie stuknęło mi 17 lat. Z tej okazji zebrałem masę życzeń i upodliliśmy się z kolegami też nieco. Cóż, pozostaje liczyć, że piwo nadal będzie smakowało tak samo dobrze, rak płuc pozostanie w zdrowiu, a i niewiasty nie będą mniej skore do zabawy. Za rok huczna zabawa - wszak skończę 18 lat i okazja do imprezy zacna. Teraz trzeba jeszcze kupić jakąś flaszkę i pepsi na jutro do pracy, bo i kolegom z biura nie można pozostać dłużnym - swoich okazji pilnują dzielnie, a wino leje się niemal litrami.</p>
+
+<p><strong>Update:</strong> z okazji urodzin, żeby cofnąć nieco czas, dostało się mojej koziej brodzie, która zredukowała się niemal do zera. Trzeba sobie jakoś radzić z latami na karku. ;)</p>

@@ -1,0 +1,52 @@
+---
+layout: post
+status: publish
+published: true
+title: GNOME 2.22
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 433
+wordpress_url: http://room-303.com/blog/2008/03/13/gnome-222/
+date: 2008-03-13 01:19:14.000000000 +01:00
+categories:
+- linux
+- software
+tags: []
+comments:
+- id: 18729
+  author: Livio
+  author_url: http://liviopl.jogger.pl/
+  date: '2008-03-16 16:09:41 +0100'
+  date_gmt: '2008-03-16 15:09:41 +0100'
+  content: "&gt; Dostępny we wszystkich dobrych dystrybucjach\r\n\r\nTrochę przesadziłeś
+    :&gt; .\r\n\r\nPowiem w imieniu Projektu Fedora (myślę, że mi wolno): GNOME 2.22.0
+    wprowadza zbyt wiele zmian, by móc go szybko wpuścić do Fedory 8, stąd też pojawi
+    się dopiero w maju (?)."
+- id: 18737
+  author: saved
+  author_url: http://www.saved.boo.pl
+  date: '2008-03-17 19:58:19 +0100'
+  date_gmt: '2008-03-17 18:58:19 +0100'
+  content: "Dziś zaktualizuję GNOME i zobaczymy co nowego ze sobą wprowadza.\r\n\r\nP.S
+    Ładny pulpit, lubię taką prostotę"
+- id: 18840
+  author: Livio
+  author_url: http://liviopl.jogger.pl/
+  date: '2008-03-24 22:26:32 +0100'
+  date_gmt: '2008-03-24 21:26:32 +0100'
+  content: "Mam do Ciebie pytanie - gdy wyłączasz komputer, a tym samym Gajima, jesteś
+    wylogowywany z Gadu-Gadu?\r\n\r\nU mnie gg.jabber.kernel.pl nie działał jak powinien
+    i gdy miałem wyłączony komunikator, miałem status Dostępny...\r\n\r\nStąd też
+    u mnie rano wiadomości z 3 nad ranem :&gt; ."
+- id: 18935
+  author: Chris Trynkiewicz
+  author_url: http://blog.eldoras.com
+  date: '2008-04-03 10:27:31 +0200'
+  date_gmt: '2008-04-03 09:27:31 +0200'
+  content: Ślicznie wygląda :)
+---
+<p class="strip"><a href="http://www.flickr.com/photos/patrys/2329381845/" title="GNOME 2.22 by patrys, on Flickr"><img src="http://farm4.static.flickr.com/3061/2329381845_422e3a7b71.jpg" width="500" height="313" alt="GNOME 2.22" /></a></p>
+
+<p>Dzisiaj (a właściwie to już wczoraj) oficjalnie został wydany <a href="http://www.gnome.org/">GNOME 2.22</a>. Dostępny we wszystkich dobrych dystrybucjach, więc także w <a href="http://pld-linux.org/">PLD</a>.</p>

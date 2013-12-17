@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: Ten się śmieje, ...
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 14
+date: 2004-05-07 20:16:02.000000000 +02:00
+categories:
+- varia
+- synprezesa
+tags: []
+comments:
+- id: 29
+  author: PeTe
+  author_url: ''
+  date: '2004-05-08 08:53:19 +0200'
+  date_gmt: '2004-05-08 08:53:19 +0200'
+  content: fspółczuję serdecznie... takich ludzi powinno się elimiować ze społeczeństwa!
+---
+Wszyscy w firmie odetchnęli z ulgą po tym, jak SynPrezesa&trade; poinformował nas o swoich odejściu. Jednakże radość ta okazała się przedwczesna, jako że 7. maja roku pańskiego 2004 o godzinie 19:45 zagrzmiał złowieszczy ton dzwonka mojego telefonu komórkowego. To dzwonił mój BezpośredniPrzełożony&trade;, aby z wyrazami bólu i niekrytych kondolencji przekazać mi wiedzę tajemną. Otóż SamPrezes&trade; podjął był nową decyzję. Oddelegował mnie wraz z SynemPrezesa&trade; na dwa tygodnie do pracy nad dużym projektem systemu sprzedaży i obsługi firmy opartego na PHP/MySQL. I runęły niebiosa na moje spracowane skronie, i objawiła mi się wizja niewyspania. A deadline projektu owego był ni dłuższy ni krótszy niż dni czternaście.<br />
+<br />
+BezpośredniPrzełożony&trade; powiedział mi nadto, że oddelegowano mnie zamiast MojegoWspółpracownika&trade;, bo SynPrezesa&trade; zaprotestował i powiedział, że z nim nie układa mu się współpraca. Wydaje mi się, że kolega za bardzo mu przeszkadzał swoimi pytaniami o szczegóły, podczas gdy SynPrezesa&trade; dbał o Public Relations naszej firmy na jednym z wielu kanałów IRC. Po chwili zadzwonił też rzeczony SynPrezesa&trade;, jednak w jego wersji, to SamPrezes&trade; zadecydował o takim, a nie innym przydziale obowiązków.<br />
+<br />
+Najbardziej rozbawiła mnie jednak sprawa, w jakiej do mnie zadzwonił:<br />
+- To ja sobie wezmę sudo na serwerze www, dobra?<br />
+- A po co ci sudo?<br />
+- No, żebym mógł czytać pliki ze skryptami...<br />
+<br />
+Morał: jak wiadomo, skrypty PHP da się pisać tylko z konta roota. Ciekawe tylko, po co ja ten plan zadań z godzinową dokładnością pisałem? :)

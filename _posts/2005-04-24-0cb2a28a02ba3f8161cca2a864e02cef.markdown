@@ -1,0 +1,175 @@
+---
+layout: post
+status: publish
+published: true
+title: PLD Workstation
+author: Patrys
+author_login: admin
+author_email: patrys@pld-linux.org
+author_url: http://room-303.com/blog/
+wordpress_id: 81
+date: 2005-04-24 02:02:22.000000000 +02:00
+categories:
+- linux
+tags: []
+comments:
+- id: 968
+  author: mrman
+  author_url: ''
+  date: '2005-04-24 02:06:01 +0200'
+  date_gmt: '2005-04-24 02:06:01 +0200'
+  content: zastanawiam sie, czy nie byloby sensowne wydanie livecd w wersji nieco
+    wyzszej niz 0.95, z nieco nowszym kernelem? (zapytanie z serii wezmy i zrobcie
+    :)
+- id: 969
+  author: Patrys
+  author_url: ''
+  date: '2005-04-24 02:06:58 +0200'
+  date_gmt: '2005-04-24 02:06:58 +0200'
+  content: Najnowsze LiveCD to 1.0 beta 2.
+- id: 970
+  author: mrman
+  author_url: ''
+  date: '2005-04-24 02:07:22 +0200'
+  date_gmt: '2005-04-24 02:07:22 +0200'
+  content: |-
+    podobnie zreszta jak rescue cd x86 opuszczone juz prawie rok temu ;)
+    <br/>
+    <br/>btw. powodzenia ;)
+- id: 971
+  author: mmazur
+  author_url: ''
+  date: '2005-04-24 02:34:22 +0200'
+  date_gmt: '2005-04-24 02:34:22 +0200'
+  content: |-
+    GNOME?! Ty zdrajco! A ja ci nawet chciałem pomóc!
+    <br/>
+    <br/>(żartuję oczywiście, gdzie by mi się chciało przy tym dłubać :)
+- id: 972
+  author: Piotr Modrzyk
+  author_url: ''
+  date: '2005-04-24 03:06:53 +0200'
+  date_gmt: '2005-04-24 03:06:53 +0200'
+  content: |-
+    GNOME ?!
+    <br/>super : )
+    <br/>
+    <br/>... powodzenia :]
+    <br/>
+    <br/>
+- id: 973
+  author: meak
+  author_url: ''
+  date: '2005-04-24 09:45:21 +0200'
+  date_gmt: '2005-04-24 09:45:21 +0200'
+  content: O, czyżby pojawiała się dla mnie szansa na spróbowanie PLD? ;)
+- id: 974
+  author: Digi
+  author_url: ''
+  date: '2005-04-24 10:12:39 +0200'
+  date_gmt: '2005-04-24 10:12:39 +0200'
+  content: Jestem fanatykiem konsoli... ale na serwerach - tam po prostu nie ma miejsca
+    na graficzne bzdury. Ale na komputerze, na którym się na codzień pracuje miło
+    jest mieć coś ładnego, a nie &quot;tylko&quot; funkcjonalnego :)
+- id: 975
+  author: Cachotterie
+  author_url: ''
+  date: '2005-04-24 11:20:07 +0200'
+  date_gmt: '2005-04-24 11:20:07 +0200'
+  content: |-
+    &lt;sigh&gt;
+    <br/>Ciężkie jest życie kobiety informatyka...
+    <br/>
+    <br/>;) Powodzenia, i oby Ci to szybko poszło ;]
+- id: 976
+  author: tas
+  author_url: ''
+  date: '2005-04-24 12:06:19 +0200'
+  date_gmt: '2005-04-24 12:06:19 +0200'
+  content: |-
+    gratuluję pomysłu, anaconda zdecydowania przyjazna jest i problemów nie sprawia prawie żadnych.
+    <br/>a meak ma rację - może w tym momencie też się na PLD skuszę? Za konsolą w desktopie po prostu nie przepadam! ;]
+- id: 977
+  author: jpc
+  author_url: ''
+  date: '2005-04-24 12:53:29 +0200'
+  date_gmt: '2005-04-24 12:53:29 +0200'
+  content: |-
+    Hmmm... Może bym Ci mógł pomóc, ale pewnie czasu nie znajdę... Gdybyś miał jakąś robótkę, to możesz pingnąć na jabberze. :-)
+    <br/>
+    <br/>PS. &quot;...i *nie* będę zgadywał, co jest potrzebne, żeby KDE zadziałało.&quot;
+    <br/>&quot;...jutro anaconda będzie się natywnie budowała *w/na* czystym PLD.&quot;
+- id: 978
+  author: Tomash
+  author_url: ''
+  date: '2005-04-24 16:03:20 +0200'
+  date_gmt: '2005-04-24 16:03:20 +0200'
+  content: |-
+    Cacho: a już pewnie najcięższe to kobiety, która jest i informatykiem, i Z informatykiem ;)
+    <br/>
+    <br/>Co do samego pomysłu: pogratulować, pogratulować. Linux powinien zmierzać w kierunku user-friendliness jak najbardziej. Tylko czasem smuci fakt, że tak dużo pary deweloperów idzie w tworzenie nowych dystrybucji, a aplikacji pisać nie ma komu.
+- id: 979
+  author: Jezuch
+  author_url: ''
+  date: '2005-04-24 16:04:26 +0200'
+  date_gmt: '2005-04-24 16:04:26 +0200'
+  content: Właśnie, Patrys, Ubuntu to dla Ciebie za mało? ;))
+- id: 980
+  author: Enleth
+  author_url: ''
+  date: '2005-04-25 18:21:04 +0200'
+  date_gmt: '2005-04-25 18:21:04 +0200'
+  content: |-
+    &quot;Najnowsze LiveCD to 1.0 beta 2.&quot;...
+    <br/>Gdzie je można znaleźć? Na livecd.pl jest to 0.95...
+- id: 981
+  author: Enleth
+  author_url: ''
+  date: '2005-04-25 18:23:57 +0200'
+  date_gmt: '2005-04-25 18:23:57 +0200'
+  content: Ajć, wróć, jest - tylko niecnie ukryte w newsach :P Przepraszam za niepotrzebne
+    powidamianie o komentarzu :P
+- id: 982
+  author: bellois
+  author_url: ''
+  date: '2005-04-25 20:33:20 +0200'
+  date_gmt: '2005-04-25 20:33:20 +0200'
+  content: co do witryny livecd.pl - trzeba bylo zalozyc domene &quot;.com&quot;,
+    skoro wolicie pisac po angielsku...
+- id: 983
+  author: Express
+  author_url: ''
+  date: '2005-04-26 09:42:42 +0200'
+  date_gmt: '2005-04-26 09:42:42 +0200'
+  content: Patrys, jak idzie? Bo to w sumie ciekawe będzie. PLD fajne jest, ale znam
+    parę osób, kóre przez nie nie przebrnęły.
+- id: 984
+  author: AvantaR
+  author_url: ''
+  date: '2005-04-26 15:27:23 +0200'
+  date_gmt: '2005-04-26 15:27:23 +0200'
+  content: Hmmm niech jeszcze XFCE4 bedzie ;)
+- id: 985
+  author: Badman
+  author_url: ''
+  date: '2005-04-26 16:18:05 +0200'
+  date_gmt: '2005-04-26 16:18:05 +0200'
+  content: Jak najbardziej popieram. PLD mam od 3 dni, ja spokojnie sobie poradziłem
+    z instalacją. Jednak kolega, który jes newbie i poleciłem mu dziś PLD nie mógł
+    przebrnąć sam przez proces instalacji (ile to ja się do niego nalatałem :) Mimo
+    że jest opis po polsku jednak wielu ludzi nie kuma czegoś innego niż klikanie
+    myszką :)
+---
+<p>Pewnie kilka osób zauważyło podejrzany ruch, generowany przeze mnie w module SPECS naszego CVS. Spieszę z wyjaśnieniami.</p>
+
+<p>Od kilku dni noszę się z zamiarem przygotowania nowej płytki instalacyjnej dla PLD. Mamy wersję pełną, wersję MiniISO, nasze <a href="http://livecd.pl/">LiveCD</a>, <a href="http://rescuecd.pld-linux.org/">płytkę ratunkową x86</a> oraz <a href="http://ppcrcd.pld-linux.org/">płytkę ratunkową PPC</a>, czemu więc nie mieć wersji dedykowanej na desktopy?</p>
+
+<p>Idea więc jest taka: wziąć <a href="http://fedora.redhat.com/projects/anaconda-installer/">Anacondę</a> i zbudować jednolite, spójne środowisko oparte na <a href="http://www.gnomedesktop.org/">Gnome 2.10</a>, będące jednocześnie zwykłą instalacją PLD (nie, nie chcę używać <a href="http://fedora.redhat.com/">Fedory</a>). Kilka osób zacznie mnie pewnie zaraz wyzywać, że sobie zachciałem klikalnego Linuksa zrobić i że lame, a prawdziwy admin to tylko konsola. Pamiętajmy jednak o zwykłych ludziach. Nie, PLD nie jest dla typowego użytkownika, ale są też krewni i znajomi deweloperów, którzy choćby z wygody (jest kogo zapytać o radę) wolą używać PLD. Zresztą, czemu deweloperzy nie mogą mieć wygodnego instalatora? Jeśli zaś chcesz skrytykować Gnome i poradzić mi inne środowisko, nie masz po co pisać. Po pierwsze - po zakończeniu prac udostępnię całość i będziesz mógł sobie zbudować wersję z dowolnym zestawem pakietów. Po drugie - używam Gnome'a i nie będę zgadywał, co jest potrzebne, żeby KDE zadziałało.</p>
+
+<p>Póki co, udało mi się przenieść do PLD większość pakietów wymaganych do kompilacji anacondy. Resztę braków (na potrzeby kompilacji) biorę tymczasowo z Fedory, choć jutro nie powinno to już być potrzebne. Innymi słowy, jutro anaconda będzie się natywnie budowała w czystym PLD.</p>
+
+<p>Kolejnym etapem jest przygotowanie struktury katalogów i niezbędnych plików dla anacondy, coby była w stanie wygenerować obraz płyty. Znalazłem pod tym kątem bardzo dużo miłych HOWTO. Problem jest tylko jeden - wszystkie zaczynają się słowami "weź li dwie szczypty Fedory, a najlepiej przegraj na dysk zawartość wszystkich jej płyt". Chcę zacząć zupełnie od zera i może to być dość bolesne zadanie.</p>
+
+<p>Dalsza robota to głównie tuning listy pakietów, dodawanie skryptów prekonfigurujących, testowanie na <a href="http://www.vmware.com/">VMware</a> i, koniec końców, artwork.</p>
+
+<p>Życzcie mi powodzenia, a ja wracam do dłubania w CVS.</p>
