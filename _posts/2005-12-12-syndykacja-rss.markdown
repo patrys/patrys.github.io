@@ -8,7 +8,6 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 200
-wordpress_url: http://www.room-303.com/blog/?p=200
 date: 2005-12-12 02:06:57.000000000 +01:00
 categories:
 - web

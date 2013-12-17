@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 278
-wordpress_url: http://www.room-303.com/blog/2006/07/24/hate-is-a-special-love/
+alias: /blog/2006/07/24/hate-is-a-special-love/
 date: 2006-07-24 21:24:57.000000000 +02:00
 categories:
 - varia

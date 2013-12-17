@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 305
-wordpress_url: http://www.room-303.com/blog/2006/11/08/zatrudnie-programiste-php5/
+alias: /blog/2006/11/08/zatrudnie-programiste-php5/
 date: 2006-11-08 18:02:53.000000000 +01:00
 categories:
 - praca

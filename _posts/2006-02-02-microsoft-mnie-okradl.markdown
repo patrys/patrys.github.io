@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 224
-wordpress_url: http://www.room-303.com/blog/2006/02/02/microsoft-mnie-okradl/
+alias: /blog/2006/02/02/microsoft-mnie-okradl/
 date: 2006-02-02 02:13:00.000000000 +01:00
 categories:
 - varia

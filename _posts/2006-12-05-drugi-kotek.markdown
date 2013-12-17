@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 312
-wordpress_url: http://www.room-303.com/blog/2006/12/05/drugi-kotek/
+alias: /blog/2006/12/05/drugi-kotek/
 date: 2006-12-05 03:37:53.000000000 +01:00
 categories:
 - varia

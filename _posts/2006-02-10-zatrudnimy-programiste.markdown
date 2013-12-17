@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 230
-wordpress_url: http://www.room-303.com/blog/2006/02/10/zatrudnimy-programiste/
+alias: /blog/2006/02/10/zatrudnimy-programiste/
 date: 2006-02-10 11:08:50.000000000 +01:00
 categories:
 - praca

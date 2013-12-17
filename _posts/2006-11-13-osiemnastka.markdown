@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 308
-wordpress_url: http://www.room-303.com/blog/2006/11/13/osiemnastka/
+alias: /blog/2006/11/13/osiemnastka/
 date: 2006-11-13 12:02:15.000000000 +01:00
 categories:
 - varia

@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 332
-wordpress_url: http://www.room-303.com/blog/2007/01/17/getting-grill-30/
+alias: /blog/2007/01/17/getting-grill-30/
 date: 2007-01-17 01:57:49.000000000 +01:00
 categories:
 - web

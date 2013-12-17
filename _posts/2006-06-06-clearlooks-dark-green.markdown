@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 267
-wordpress_url: http://www.room-303.com/blog/2006/06/06/clearlooks-dark-green/
+alias: /blog/2006/06/06/clearlooks-dark-green/
 date: 2006-06-06 21:20:18.000000000 +02:00
 categories:
 - linux

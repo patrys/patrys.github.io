@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 320
-wordpress_url: http://www.room-303.com/blog/2006/12/26/nowy-trojan-na-gadu-gadu/
+alias: /blog/2006/12/26/nowy-trojan-na-gadu-gadu/
 date: 2006-12-26 19:40:45.000000000 +01:00
 categories:
 - web

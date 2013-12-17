@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 318
-wordpress_url: http://www.room-303.com/blog/2006/12/19/pawel-j-osoba-powszechnie-kojarzona-w-kraju/
+alias: /blog/2006/12/19/pawel-j-osoba-powszechnie-kojarzona-w-kraju/
 date: 2006-12-19 21:46:34.000000000 +01:00
 categories:
 - web

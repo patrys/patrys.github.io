@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 227
-wordpress_url: http://www.room-303.com/blog/2006/02/04/hemingway-blue/
+alias: /blog/2006/02/04/hemingway-blue/
 date: 2006-02-04 20:55:30.000000000 +01:00
 categories:
 - web

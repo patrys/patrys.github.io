@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 220
-wordpress_url: http://www.room-303.com/blog/2006/01/25/webesteem-art-design-15/
+alias: /blog/2006/01/25/webesteem-art-design-15/
 date: 2006-01-25 20:49:41.000000000 +01:00
 categories:
 - web

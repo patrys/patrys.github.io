@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 213
-wordpress_url: http://www.room-303.com/blog/2006/01/15/sliniac-sie-do-ekranu/
+alias: /blog/2006/01/15/sliniac-sie-do-ekranu/
 date: 2006-01-15 22:11:18.000000000 +01:00
 categories:
 - varia

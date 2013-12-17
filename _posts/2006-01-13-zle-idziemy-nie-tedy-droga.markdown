@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 211
-wordpress_url: http://www.room-303.com/blog/2006/01/13/zle-idziemy-nie-tedy-droga/
+alias: /blog/2006/01/13/zle-idziemy-nie-tedy-droga/
 date: 2006-01-13 21:28:40.000000000 +01:00
 categories:
 - web

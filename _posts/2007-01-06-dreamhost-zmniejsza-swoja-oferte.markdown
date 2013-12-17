@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 324
-wordpress_url: http://www.room-303.com/blog/2007/01/06/dreamhost-zmniejsza-swoja-oferte/
+alias: /blog/2007/01/06/dreamhost-zmniejsza-swoja-oferte/
 date: 2007-01-06 20:58:20.000000000 +01:00
 categories:
 - web

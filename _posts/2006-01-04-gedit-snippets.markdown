@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 206
-wordpress_url: http://www.room-303.com/blog/2006/01/04/gedit-snippets/
+alias: /blog/2006/01/04/gedit-snippets/
 date: 2006-01-04 23:16:17.000000000 +01:00
 categories:
 - linux

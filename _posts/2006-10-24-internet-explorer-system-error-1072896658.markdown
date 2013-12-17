@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 300
-wordpress_url: http://www.room-303.com/blog/2006/10/24/internet-explorer-system-error-1072896658/
+alias: /blog/2006/10/24/internet-explorer-system-error-1072896658/
 date: 2006-10-24 12:39:45.000000000 +02:00
 categories:
 - web

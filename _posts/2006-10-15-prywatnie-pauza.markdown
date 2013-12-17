@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 296
-wordpress_url: http://www.room-303.com/blog/2006/10/15/prywatnie-pauza/
+alias: /blog/2006/10/15/prywatnie-pauza/
 date: 2006-10-15 23:09:00.000000000 +02:00
 categories:
 - varia

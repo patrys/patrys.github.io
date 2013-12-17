@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 234
-wordpress_url: http://www.room-303.com/blog/2006/02/18/zanim-napiszesz-kolejna-linijke-javascript/
+alias: /blog/2006/02/18/zanim-napiszesz-kolejna-linijke-javascript/
 date: 2006-02-18 17:19:52.000000000 +01:00
 categories:
 - web

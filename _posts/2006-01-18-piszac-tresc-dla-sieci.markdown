@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 214
-wordpress_url: http://www.room-303.com/blog/2006/01/18/piszac-tresc-dla-sieci/
+alias: /blog/2006/01/18/piszac-tresc-dla-sieci/
 date: 2006-01-18 00:04:03.000000000 +01:00
 categories:
 - web

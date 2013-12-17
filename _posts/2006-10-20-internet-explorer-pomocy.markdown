@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 297
-wordpress_url: http://www.room-303.com/blog/2006/10/20/internet-explorer-pomocy/
+alias: /blog/2006/10/20/internet-explorer-pomocy/
 date: 2006-10-20 14:07:46.000000000 +02:00
 categories:
 - web

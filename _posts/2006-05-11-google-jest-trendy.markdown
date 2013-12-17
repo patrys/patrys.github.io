@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 250
-wordpress_url: http://www.room-303.com/blog/2006/05/11/google-jest-trendy/
+alias: /blog/2006/05/11/google-jest-trendy/
 date: 2006-05-11 10:49:34.000000000 +02:00
 categories:
 - web

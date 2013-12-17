@@ -10,7 +10,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 208
-wordpress_url: http://www.room-303.com/blog/2006/01/05/10przykazan-poprawione/
+alias: /blog/2006/01/05/10przykazan-poprawione/
 date: 2006-01-05 20:17:49.000000000 +01:00
 categories:
 - web

@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 283
-wordpress_url: http://www.room-303.com/blog/2006/08/08/o-tym-jak-tepsa-robila-ludzi-w-balona/
+alias: /blog/2006/08/08/o-tym-jak-tepsa-robila-ludzi-w-balona/
 date: 2006-08-08 22:16:36.000000000 +02:00
 categories:
 - varia

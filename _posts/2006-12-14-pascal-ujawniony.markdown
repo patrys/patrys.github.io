@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 315
-wordpress_url: http://www.room-303.com/blog/2006/12/14/pascal-ujawniony/
+alias: /blog/2006/12/14/pascal-ujawniony/
 date: 2006-12-14 15:30:11.000000000 +01:00
 categories:
 - web

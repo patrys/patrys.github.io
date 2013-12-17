@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 274
-wordpress_url: http://www.room-303.com/blog/2006/07/12/strip-027-extreme-programming/
+alias: /blog/2006/07/12/strip-027-extreme-programming/
 date: 2006-07-12 21:29:37.000000000 +02:00
 categories:
 - comic

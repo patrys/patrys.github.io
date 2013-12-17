@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 232
-wordpress_url: http://www.room-303.com/blog/2006/02/14/google-chat/
+alias: /blog/2006/02/14/google-chat/
 date: 2006-02-14 21:55:12.000000000 +01:00
 categories:
 - varia

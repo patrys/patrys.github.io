@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 216
-wordpress_url: http://www.room-303.com/blog/2006/01/22/poczytaj-mi-mamo-rss/
+alias: /blog/2006/01/22/poczytaj-mi-mamo-rss/
 date: 2006-01-22 18:17:02.000000000 +01:00
 categories:
 - web

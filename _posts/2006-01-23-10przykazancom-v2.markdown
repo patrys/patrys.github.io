@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 217
-wordpress_url: http://www.room-303.com/blog/2006/01/23/10przykazancom-v2/
+alias: /blog/2006/01/23/10przykazancom-v2/
 date: 2006-01-23 00:13:32.000000000 +01:00
 categories:
 - web

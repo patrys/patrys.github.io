@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 325
-wordpress_url: http://www.room-303.com/blog/2007/01/08/drzyjcie-wyznawcy-jabbera/
+alias: /blog/2007/01/08/drzyjcie-wyznawcy-jabbera/
 date: 2007-01-08 18:30:28.000000000 +01:00
 categories:
 - varia

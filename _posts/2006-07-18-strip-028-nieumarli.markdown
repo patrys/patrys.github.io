@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 276
-wordpress_url: http://www.room-303.com/blog/2006/07/18/strip-028-nieumarli/
+alias: /blog/2006/07/18/strip-028-nieumarli/
 date: 2006-07-18 07:05:09.000000000 +02:00
 categories:
 - comic

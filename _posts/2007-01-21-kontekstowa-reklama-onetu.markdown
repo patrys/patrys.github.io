@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 335
-wordpress_url: http://www.room-303.com/blog/2007/01/21/kontekstowa-reklama-onetu/
+alias: /blog/2007/01/21/kontekstowa-reklama-onetu/
 date: 2007-01-21 18:02:40.000000000 +01:00
 categories:
 - web

@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 285
-wordpress_url: http://www.room-303.com/blog/2006/08/11/ms-phishing-explorer/
+alias: /blog/2006/08/11/ms-phishing-explorer/
 date: 2006-08-11 15:29:05.000000000 +02:00
 categories:
 - web

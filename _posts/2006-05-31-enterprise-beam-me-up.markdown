@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 263
-wordpress_url: http://www.room-303.com/blog/2006/05/31/enterprise-beam-me-up/
+alias: /blog/2006/05/31/enterprise-beam-me-up/
 date: 2006-05-31 09:50:58.000000000 +02:00
 categories:
 - web

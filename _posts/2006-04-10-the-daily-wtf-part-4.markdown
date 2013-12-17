@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 242
-wordpress_url: http://www.room-303.com/blog/2006/04/10/the-daily-wtf-part-4/
+alias: /blog/2006/04/10/the-daily-wtf-part-4/
 date: 2006-04-10 15:01:49.000000000 +02:00
 categories:
 - software

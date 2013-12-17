@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 219
-wordpress_url: http://www.room-303.com/blog/2006/01/25/drzyj-textmate/
+alias: /blog/2006/01/25/drzyj-textmate/
 date: 2006-01-25 20:29:50.000000000 +01:00
 categories:
 - linux

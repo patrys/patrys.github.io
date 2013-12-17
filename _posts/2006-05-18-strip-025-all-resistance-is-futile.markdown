@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 255
-wordpress_url: http://www.room-303.com/blog/2006/05/18/strip-025-all-resistance-is-futile/
+alias: /blog/2006/05/18/strip-025-all-resistance-is-futile/
 date: 2006-05-18 19:35:17.000000000 +02:00
 categories:
 - comic

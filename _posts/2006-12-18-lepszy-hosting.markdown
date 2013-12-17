@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 317
-wordpress_url: http://www.room-303.com/blog/2006/12/18/lepszy-hosting/
+alias: /blog/2006/12/18/lepszy-hosting/
 date: 2006-12-18 13:34:14.000000000 +01:00
 categories:
 - web

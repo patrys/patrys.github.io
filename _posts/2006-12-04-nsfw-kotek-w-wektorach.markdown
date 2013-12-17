@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 311
-wordpress_url: http://www.room-303.com/blog/2006/12/04/nsfw-kotek-w-wektorach/
+alias: /blog/2006/12/04/nsfw-kotek-w-wektorach/
 date: 2006-12-04 00:20:51.000000000 +01:00
 categories:
 - varia

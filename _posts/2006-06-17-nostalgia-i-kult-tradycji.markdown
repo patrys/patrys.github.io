@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 268
-wordpress_url: http://www.room-303.com/blog/2006/06/17/nostalgia-i-kult-tradycji/
+alias: /blog/2006/06/17/nostalgia-i-kult-tradycji/
 date: 2006-06-17 14:04:05.000000000 +02:00
 categories:
 - varia

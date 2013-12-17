@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 265
-wordpress_url: http://www.room-303.com/blog/2006/06/01/o-dreamhostcom-raz-jeszcze/
+alias: /blog/2006/06/01/o-dreamhostcom-raz-jeszcze/
 date: 2006-06-01 19:26:42.000000000 +02:00
 categories:
 - web

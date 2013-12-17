@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 316
-wordpress_url: http://www.room-303.com/blog/2006/12/16/made-man/
+alias: /blog/2006/12/16/made-man/
 date: 2006-12-16 20:17:49.000000000 +01:00
 categories:
 - varia

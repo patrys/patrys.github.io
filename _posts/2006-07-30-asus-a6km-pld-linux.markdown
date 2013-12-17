@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 279
-wordpress_url: http://www.room-303.com/blog/2006/07/30/asus-a6km-pld-linux/
+alias: /blog/2006/07/30/asus-a6km-pld-linux/
 date: 2006-07-30 13:06:08.000000000 +02:00
 categories:
 - linux

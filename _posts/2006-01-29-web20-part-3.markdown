@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 223
-wordpress_url: http://www.room-303.com/blog/2006/01/29/web20-part-3/
+alias: /blog/2006/01/29/web20-part-3/
 date: 2006-01-29 18:03:20.000000000 +01:00
 categories:
 - varia

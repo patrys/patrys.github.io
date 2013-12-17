@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 204
-wordpress_url: http://www.room-303.com/blog/2005/12/28/gnickr/
+alias: /blog/2005/12/28/gnickr/
 date: 2005-12-28 00:56:42.000000000 +01:00
 categories:
 - linux

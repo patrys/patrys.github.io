@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 322
-wordpress_url: http://www.room-303.com/blog/2007/01/01/aby-palec-zwinny/
+alias: /blog/2007/01/01/aby-palec-zwinny/
 date: 2007-01-01 21:15:20.000000000 +01:00
 categories:
 - software

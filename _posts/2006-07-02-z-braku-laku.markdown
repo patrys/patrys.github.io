@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 270
-wordpress_url: http://www.room-303.com/blog/2006/07/02/z-braku-laku/
+alias: /blog/2006/07/02/z-braku-laku/
 date: 2006-07-02 16:19:31.000000000 +02:00
 categories:
 - varia

@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 301
-wordpress_url: http://www.room-303.com/blog/2006/10/24/znajdz-swoja-muzyke/
+alias: /blog/2006/10/24/znajdz-swoja-muzyke/
 date: 2006-10-24 20:06:07.000000000 +02:00
 categories:
 - web

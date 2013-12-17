@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 331
-wordpress_url: http://www.room-303.com/blog/2007/01/13/cultural-learnings-of-secunia-for-make-benefit-glorious-blog-of-gorion/
+alias: /blog/2007/01/13/cultural-learnings-of-secunia-for-make-benefit-glorious-blog-of-gorion/
 date: 2007-01-13 18:36:14.000000000 +01:00
 categories:
 - web

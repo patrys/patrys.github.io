@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 310
-wordpress_url: http://www.room-303.com/blog/2006/11/29/i-po-grillu/
+alias: /blog/2006/11/29/i-po-grillu/
 date: 2006-11-29 23:26:21.000000000 +01:00
 categories:
 - web

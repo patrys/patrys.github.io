@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 235
-wordpress_url: http://www.room-303.com/blog/2006/02/19/sledzenie-komentarzy/
+alias: /blog/2006/02/19/sledzenie-komentarzy/
 date: 2006-02-19 23:04:36.000000000 +01:00
 categories:
 - web

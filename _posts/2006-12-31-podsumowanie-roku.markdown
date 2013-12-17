@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 321
-wordpress_url: http://www.room-303.com/blog/2006/12/31/podsumowanie-roku/
+alias: /blog/2006/12/31/podsumowanie-roku/
 date: 2006-12-31 19:26:11.000000000 +01:00
 categories:
 - varia

@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 303
-wordpress_url: http://www.room-303.com/blog/2006/10/27/netart-sztuka-wciskania-kitu-w-sieci/
+alias: /blog/2006/10/27/netart-sztuka-wciskania-kitu-w-sieci/
 date: 2006-10-27 18:35:19.000000000 +02:00
 categories:
 - web

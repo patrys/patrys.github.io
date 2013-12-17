@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 330
-wordpress_url: http://www.room-303.com/blog/2007/01/13/nothing-personal-just-revenge/
+alias: /blog/2007/01/13/nothing-personal-just-revenge/
 date: 2007-01-13 03:11:04.000000000 +01:00
 categories:
 - varia

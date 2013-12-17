@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 226
-wordpress_url: http://www.room-303.com/blog/2006/02/03/gnome-launch-box/
+alias: /blog/2006/02/03/gnome-launch-box/
 date: 2006-02-03 21:29:41.000000000 +01:00
 categories:
 - linux

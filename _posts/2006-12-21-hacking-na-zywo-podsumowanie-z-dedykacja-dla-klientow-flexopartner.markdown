@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 319
-wordpress_url: http://www.room-303.com/blog/2006/12/21/hacking-na-zywo-podsumowanie-z-dedykacja-dla-klientow-flexopartner/
+alias: /blog/2006/12/21/hacking-na-zywo-podsumowanie-z-dedykacja-dla-klientow-flexopartner/
 date: 2006-12-21 15:30:26.000000000 +01:00
 categories:
 - varia

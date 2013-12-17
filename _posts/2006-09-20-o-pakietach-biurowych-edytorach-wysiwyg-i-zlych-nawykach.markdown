@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 292
-wordpress_url: http://www.room-303.com/blog/2006/09/20/o-pakietach-biurowych-edytorach-wysiwyg-i-zlych-nawykach/
+alias: /blog/2006/09/20/o-pakietach-biurowych-edytorach-wysiwyg-i-zlych-nawykach/
 date: 2006-09-20 22:40:49.000000000 +02:00
 categories:
 - web

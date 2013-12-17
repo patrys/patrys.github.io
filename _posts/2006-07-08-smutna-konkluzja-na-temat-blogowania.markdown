@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 273
-wordpress_url: http://www.room-303.com/blog/2006/07/08/smutna-konkluzja-na-temat-blogowania/
+alias: /blog/2006/07/08/smutna-konkluzja-na-temat-blogowania/
 date: 2006-07-08 06:40:48.000000000 +02:00
 categories:
 - varia

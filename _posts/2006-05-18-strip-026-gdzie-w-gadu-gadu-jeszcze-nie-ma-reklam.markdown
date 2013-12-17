@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 256
-wordpress_url: http://www.room-303.com/blog/2006/05/18/strip-026-gdzie-w-gadu-gadu-jeszcze-nie-ma-reklam/
+alias: /blog/2006/05/18/strip-026-gdzie-w-gadu-gadu-jeszcze-nie-ma-reklam/
 date: 2006-05-18 20:50:44.000000000 +02:00
 categories:
 - comic

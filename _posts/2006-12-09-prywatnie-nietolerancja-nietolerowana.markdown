@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 314
-wordpress_url: http://www.room-303.com/blog/2006/12/09/prywatnie-nietolerancja-nietolerowana/
+alias: /blog/2006/12/09/prywatnie-nietolerancja-nietolerowana/
 date: 2006-12-09 17:16:33.000000000 +01:00
 categories:
 - varia

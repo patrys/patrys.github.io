@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 203
-wordpress_url: http://www.room-303.com/blog/delicious/
+alias: /blog/delicious/
 date: 2005-12-26 17:28:44.000000000 +01:00
 categories:
 - varia

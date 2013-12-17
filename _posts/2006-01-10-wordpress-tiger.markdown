@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 210
-wordpress_url: http://www.room-303.com/blog/2006/01/10/wordpress-tiger/
+alias: /blog/2006/01/10/wordpress-tiger/
 date: 2006-01-10 13:06:29.000000000 +01:00
 categories:
 - varia

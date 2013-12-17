@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 307
-wordpress_url: http://www.room-303.com/blog/2006/11/12/bo-do-tanga-trzeba-masy-ludzi/
+alias: /blog/2006/11/12/bo-do-tanga-trzeba-masy-ludzi/
 date: 2006-11-12 22:54:44.000000000 +01:00
 categories:
 - linux

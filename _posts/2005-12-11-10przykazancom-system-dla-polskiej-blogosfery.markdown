@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 199
-wordpress_url: http://www.room-303.com/blog/2005/12/11/10przykazancom-system-dla-polskiej-blogosfery/
+alias: /blog/2005/12/11/10przykazancom-system-dla-polskiej-blogosfery/
 date: 2005-12-11 00:54:51.000000000 +01:00
 categories:
 - web

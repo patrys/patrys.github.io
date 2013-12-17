@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 243
-wordpress_url: http://www.room-303.com/blog/2006/04/13/przyprawy-czyli-jak-pieprzyc-usability-serwisu/
+alias: /blog/2006/04/13/przyprawy-czyli-jak-pieprzyc-usability-serwisu/
 date: 2006-04-13 21:02:04.000000000 +02:00
 categories:
 - web

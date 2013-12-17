@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 306
-wordpress_url: http://www.room-303.com/blog/2006/11/08/adobe-mozilla-i-ecmascript/
+alias: /blog/2006/11/08/adobe-mozilla-i-ecmascript/
 date: 2006-11-08 23:25:25.000000000 +01:00
 categories:
 - web

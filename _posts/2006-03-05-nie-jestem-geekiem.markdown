@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 237
-wordpress_url: http://www.room-303.com/blog/2006/03/05/nie-jestem-geekiem/
+alias: /blog/2006/03/05/nie-jestem-geekiem/
 date: 2006-03-05 20:28:21.000000000 +01:00
 categories:
 - varia

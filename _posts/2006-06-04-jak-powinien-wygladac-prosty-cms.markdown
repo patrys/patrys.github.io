@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 266
-wordpress_url: http://www.room-303.com/blog/2006/06/04/jak-powinien-wygladac-prosty-cms/
+alias: /blog/2006/06/04/jak-powinien-wygladac-prosty-cms/
 date: 2006-06-04 13:10:20.000000000 +02:00
 categories:
 - web

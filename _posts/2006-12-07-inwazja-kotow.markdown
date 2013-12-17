@@ -8,7 +8,7 @@ author_login: admin
 author_email: patrys@pld-linux.org
 author_url: http://room-303.com/blog/
 wordpress_id: 313
-wordpress_url: http://www.room-303.com/blog/2006/12/07/inwazja-kotow/
+alias: /blog/2006/12/07/inwazja-kotow/
 date: 2006-12-07 03:22:34.000000000 +01:00
 categories:
 - varia
