@@ -45,41 +45,48 @@ comments:
     znaczącym stopniu na 500 na drugim końcu serwisu? Jakość tego kodu to problem
     zupełnie prostopadły do opisywanego."
 ---
-<p>Wtem!</p>
+Wtem!
 
-<p>— Leży!</p>
+— Leży!
 
-<p>Produkcja? Ale tutaj?</p>
+Produkcja? Ale tutaj?
 
-<pre>Traceback (most recent call last):
+```
+Traceback (most recent call last):
   File "/var/www/foo/catalogue/views.py", line 252, in get
     product = Product.objects.get(upc=tokens[0])
   File "/usr/lib/python2.6/site-packages/django/db/models/manager.py", line 132, in get
     return self.get_query_set().get(*args, **kwargs)
   File "/usr/lib/python2.6/site-packages/django/db/models/query.py", line 351, in get
     % (self.model._meta.object_name, num, kwargs))
-TypeError: 'DoesNotExist' object is not callable</pre>
+TypeError: 'DoesNotExist' object is not callable
+```
 
-<p>Odśwież. Działa. Ki czort? Odśwież. Leży. Działa — działa — leży — działa. Wynik zdaje się zależeć od procesu, który akurat obsłuży zapytanie.</p>
+Odśwież. Działa. Ki czort? Odśwież. Leży. Działa — działa — leży — działa. Wynik zdaje się zależeć od procesu, który akurat obsłuży zapytanie.
 
-<p>No dobrze, zobaczmy, co…</p>
+No dobrze, zobaczmy, co…
 
-<pre><code class="python">        raise self.model.MultipleObjectsReturned("get() returned more than one %s -- it returned %s! Lookup parameters were %s"
-                % (self.model._meta.object_name, num, kwargs))</code></pre>
 
-<p>Wyjątek. W trakcie rzucania wyjątku. Wbudowanego w klasę modelu.</p>
+```python
+raise self.model.MultipleObjectsReturned("get() returned more than one %s -- it returned %s! Lookup parameters were %s"
+        % (self.model._meta.object_name, num, kwargs))
+```
 
-<p>Wdech, wydech. Drugi <i>worker</i> dostał. Dziwacznie poskręcane fragmenty jego wnętrzności zasypują mi skrzynkę.</p>
+Wyjątek. W trakcie rzucania wyjątku. Wbudowanego w klasę modelu.
 
-<p>Wdech, wydech, <code>grep</code>.</p>
+Wdech, wydech. Drugi _worker_ dostał. Dziwacznie poskręcane fragmenty jego wnętrzności zasypują mi skrzynkę.
 
-<p>Zanim się przedarłem, straciliśmy jeszcze trzech. W sumie połowa zwijała się tam i charczała wewnętrznymi błędami. Wytrzymajcie, jeszcze tylko kilka plików. I jest.</p>
+Wdech, wydech, `grep`.
 
-<pre><code class="python">        try:
-            product = Product.objects.get(upc=product_upc)
-        except Product.DoesNotExist, Product.MultipleObjectsReturned:
-            # …</code></pre>
+Zanim się przedarłem, straciliśmy jeszcze trzech. W sumie połowa zwijała się tam i charczała wewnętrznymi błędami. Wytrzymajcie, jeszcze tylko kilka plików. I jest.
 
-<p>Zasadzka — sztuk trzy w projekcie — ładnie nas urządzili. Jeden koniec kodu powoli kopie dołek pod drugim. Pułapki udało się usunąć, ale tamtym już nikt nie pomoże. Przysłanie na produkcję posiłków zajmie minimum trzy dni. Pozostaje tylko patrzeć, jak jeden po drugim toną w tym dziwacznym morzu bezradności, serwując skomplikowane dokumenty, jednak dławiąc się na najprostszych rzeczach. Zostali sami. Oni i pięć setek szaleństwa.</p>
+```python
+try:
+    product = Product.objects.get(upc=product_upc)
+except Product.DoesNotExist, Product.MultipleObjectsReturned:
+    # …
+```
 
-<p>Kurtyna. Niestosowne słowa cisną mi się na usta, ubliżać chcę składni, albowiem łaknę Pythona trzeciej inkarnacji.</p>
+Zasadzka — sztuk trzy w projekcie — ładnie nas urządzili. Jeden koniec kodu powoli kopie dołek pod drugim. Pułapki udało się usunąć, ale tamtym już nikt nie pomoże. Przysłanie na produkcję posiłków zajmie minimum trzy dni. Pozostaje tylko patrzeć, jak jeden po drugim toną w tym dziwacznym morzu bezradności, serwując skomplikowane dokumenty, jednak dławiąc się na najprostszych rzeczach. Zostali sami. Oni i pięć setek szaleństwa.
+
+Kurtyna. Niestosowne słowa cisną mi się na usta, ubliżać chcę składni, albowiem łaknę Pythona trzeciej inkarnacji.
