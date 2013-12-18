@@ -1,5 +1,18 @@
 {% if site.JB.comments.provider and page.comments != false %}
 	<aside class="comments">
+		{% unless page.comments == empty %}
+			<h2>Archiwalne komentarze</h2>
+			{% for comment in page.comments %}
+				<div class="panel panel-default">
+					<div class="panel-body">
+						<p>{{ comment.author }}</p>
+						<p><span class="label label-default">{{ comment.date | date_to_string }}</span></p>
+						<p>{{ comment.content }}</p>
+					</div>
+				</div>
+			{% endfor %}
+			<hr>
+		{% endunless %}
 		{% case site.JB.comments.provider %}
 		{% when "disqus" %}
 			{% include JB/comments-providers/disqus %}
