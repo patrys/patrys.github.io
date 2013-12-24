@@ -46,9 +46,9 @@ Anitę z zadumy wyrwał telefon. Zawiązała niedbale szlafrok i opuściła łaz
 
 — W biurze Gotfryda.
 
-— Dziękuję. Witam, pani Anito. Dzwonię w sprawie administracyjnej. Niestety, muszę poinformować, że okresowa ocena pani osiągnięć nie wypadła pozytywnie. Jak pani wie, posiadam niezbędne pełnomocnictwa pana Wenna i w związku z tym jestem zmuszona podjąć decyzję wypowiedzenia pani kontraktu, co skutkuje oczywiście natychmiastowym ustaniem pełnionych dotychczas powinności. Czy jest to jasne?
+— Dziękuję. Witam, pani Anito. Dzwonię w sprawie administracyjnej. Niestety, muszę poinformować, że okresowa ocena pani osiągnięć nie wypadła pozytywnie. Jak pani wie, posiadam niezbędne pełnomocnictwa pana Wenna i w związku z tym jestem zmuszona podjąć decyzję rozwiązania pani umowy partnerskiej, co skutkuje oczywiście natychmiastowym ustaniem pełnionych dotychczas powinności. Umowa nie wymaga od pana Wenna formy pisemnej, wobec tego proszę potraktować to jako oficjalne wypowiedzenie. Czy jest to jasne?
 
-— Słucham? Jak to, „wypowiedzenia”, dlaczego on mi tego nie mówi osobiście?
+— Słucham? Jak to, „wypowiedzenie”? Dlaczego on mi tego nie mówi osobiście?
 
 — Pan Wenn jest bardzo zajętym człowiekiem, pani Markowiak. Proszę przyjąć ode mnie najszczersze podziękowania za osiem miesięcy udanej współpracy i jednocześnie wyrazy żalu, że pan Wenn nie jest w stanie dłużej pani utrzymywać. Klucze do apartamentu proszę złożyć w biurze w dogodnym dla siebie czasie. Czy jest coś, w czym mogłabym pomóc?
 
