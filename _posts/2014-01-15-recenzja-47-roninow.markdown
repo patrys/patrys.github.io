@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recenzja: 47 roninów
+title: "Recenzja: 47 roninów"
 date: 2014-01-14 17:01:00.000000000 +01:00
 categories:
 - varia
