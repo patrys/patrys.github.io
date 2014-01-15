@@ -1,6 +1,6 @@
 {% if site.JB.comments.provider and page.comments != false %}
 	<aside class="comments">
-		{% unless page.comments == empty %}
+		{% if page.comments %}
 			<h2>Archiwalne komentarze</h2>
 			{% for comment in page.comments %}
 				<div class="panel panel-default" itemscope itemtype="http://schema.org/Comment">
@@ -12,7 +12,7 @@
 				</div>
 			{% endfor %}
 			<hr>
-		{% endunless %}
+		{% endif %}
 		{% case site.JB.comments.provider %}
 		{% when "disqus" %}
 			{% include JB/comments-providers/disqus %}
