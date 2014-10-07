@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Netia"
+date: 2014-10-07 20:45:00.000000000 +02:00
+categories:
+- varia
+tags: []
+---
+
+W lutym 2013 roku podpisałem byłem umowę z Netią. Jedyną możliwą, bo innych operatorów w miejscu zamieszkania brak. Jedyną możliwą, na 24 miesiące.
+
+We wrześniu 2014 roku przyszło mi przeprowadzić się w inne miejsce Wrocławia. Dwa tygodnie wcześniej powiadomiłem o tym fakcie Netię. Jedna administratorka i jedna konsultantka, na łączną liczbę osób dwie, potwierdziły, że pod nowym adresem usługi dostępne będą, jednak z ograniczeniem do 14,5 megabita z uwagi na miedziane okablowanie. Złożyłem tedy dyspozycję przeniesienia usług i dowiedziałem się, że w ciągu 21 dni skontaktuje się ze mną technik celem umówienia wizyty i przełączenia dokona.
+
+Gddyby tak jednak było, nie miałbym o czym pisać, prawda?
+
+Coś mnie tknęło i oostanowiłem jednak, z czystej ciekawości, zadzwonić i zapytać o postęp prac. Było to w ostatnią sobotę, czyli w nieco ponad dwa tygodnie od złożenia dyspozycji. Zdziwiona konsultantka powiedziała mi, że <em>przecież</em> dział techniczny odrzucił mój wniosek już 20. września. Nie mogą przenieść, bo <em>przecież</em> mój nowy adres nie jest w ogóle objęty obszarem działania firmy. Na argumentację, że dwoje pracowników Netii potwierdziło dostępność usług pani odpowiedziała mi tylko niemym wzruszeniem ramion do słuchawki.
+
+Dowiedziałem się też, że <em>przecież</em> powinienem dostać w tej sprawie e-mail. Nie dostałem? Może w spamie jest. W spamie też nie ma? To pewnie ktoś zapomniał wysłać. Co zatem mi pozostaje? No, mogę się zawsze przeprowadzić ponownie. Mogę też rozwiązać umowę, ale to się będzie wiązało z opłatą wyrównawczą, bo rozwiązanie w żadnym wypadku nie jest spowodowane winą operatora.
+
+Opłata? Ot, bagatela, nieco tylko więcej, niż pozostało mi opłat do końca czasu trwania umowy. Tak, płacąc za usługę, której nie ma, wydam mniej pieniędzy, niż w przypadku rozwiązania umowy.
+
+Bo trzeba wam wiedzieć, że opłata wyrównawcza naliczana jest jako różnica między <em>promocyjną</em> ceną usługi zawartą w załączniku do umowy, a <em>fikcyjną</em> ceną umieszczoną na <em>aktualnej</em> stronie operatora. Fikcyjną, bo nie da się na taką cenę podpisać umowy, w końcu kto by zapłacił trzysta złotych miesięcznie za kulawy ADSL?
+
+Ceny „cennikowe” istnieją tylko i wyłącznie jako sposób na uniemożliwienie klientom odstąpienia od umowy. Do tego regulamin poprzed odniesienie się do swojej strony internetowej pozostawia sobie swobodę dowolnego sterowania tak naliczanymi karami. Masa niezadowolonych klientów postanawia bojkotować Netię? Och, jakże nam przykro, aktualna cena państwa pakietu poza promocją to miliard złotych, będzie trzeba zapłacić maksymalną przewidzianą regulaminem opłatę wyrównawczą.
+
+I tym optymistycznym akcentem kończę, choć, niestety, współpracy z Netią zakończyć nie mogę. Niechby wasze biura stanęły w płomieniach.
